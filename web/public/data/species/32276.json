@@ -6,7 +6,12 @@
   "n_sites": 86,
   "n_countries": 8,
   "n_finds": 638,
-  "image": null,
+  "image": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477796999/original.jpg",
+    "license": "CC BY 4.0",
+    "creator": "Tina Ellegaard Poulsen",
+    "source": "iNaturalist"
+  },
   "oldest_label": "648050 BC",
   "youngest_label": "1873 AD",
   "path": [

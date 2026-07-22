@@ -6,7 +6,12 @@
   "n_sites": 106,
   "n_countries": 18,
   "n_finds": 1528,
-  "image": null,
+  "image": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604810643/original.jpg",
+    "license": "CC BY-NC 4.0",
+    "creator": "Axel Gosseries",
+    "source": "iNaturalist"
+  },
   "oldest_label": "4348 BC",
   "youngest_label": "1840 AD",
   "path": [

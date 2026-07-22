@@ -75,7 +75,12 @@
     "n_sites": 268,
     "n_countries": 13,
     "n_finds": 3724,
-    "image": null,
+    "image": {
+      "url": "https://live.staticflickr.com/65535/53783142254_abddcfeeee_b.jpg",
+      "license": "Copyright by the creator. For license and creator details, see https://nabu-naturgucker-beobachtungen.de/?sprache=en&bild=1605760492.",
+      "creator": null,
+      "source": "GBIF"
+    },
     "oldest_label": "3954550 BC",
     "youngest_label": "2005 AD"
   },
@@ -121,7 +126,12 @@
     "n_sites": 225,
     "n_countries": 11,
     "n_finds": 2486,
-    "image": null,
+    "image": {
+      "url": "https://11.ilstatic.hu/images/2025-06/r1748809183349_7564578081.jpg",
+      "license": "CC BY 4.0",
+      "creator": "Tóth Norbert",
+      "source": "GBIF"
+    },
     "oldest_label": "648050 BC",
     "youngest_label": "2005 AD"
   },
@@ -218,7 +228,12 @@
     "n_sites": 186,
     "n_countries": 24,
     "n_finds": 2132,
-    "image": null,
+    "image": {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612159777/original.jpg",
+      "license": "CC BY-NC 4.0",
+      "creator": "Vy",
+      "source": "iNaturalist"
+    },
     "oldest_label": "3050 BC",
     "youngest_label": "1925 AD"
   },
@@ -349,7 +364,12 @@
     "n_sites": 154,
     "n_countries": 15,
     "n_finds": 1024,
-    "image": null,
+    "image": {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622061038/original.jpg",
+      "license": "CC BY-NC 4.0",
+      "creator": "Michał Górski",
+      "source": "iNaturalist"
+    },
     "oldest_label": "1293800 BC",
     "youngest_label": "2004 AD"
   },
@@ -395,7 +415,12 @@
     "n_sites": 149,
     "n_countries": 12,
     "n_finds": 1404,
-    "image": null,
+    "image": {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605707488/original.jpg",
+      "license": "CC BY 4.0",
+      "creator": "Cameron Wilkins",
+      "source": "iNaturalist"
+    },
     "oldest_label": "215050 BC",
     "youngest_label": "2005 AD"
   },
@@ -458,7 +483,12 @@
     "n_sites": 145,
     "n_countries": 6,
     "n_finds": 1428,
-    "image": null,
+    "image": {
+      "url": "https://11.ilstatic.hu/images/2026-02/r1771943251579_7236023265.jpg",
+      "license": "CC BY 4.0",
+      "creator": "Gulyás Szilvia",
+      "source": "GBIF"
+    },
     "oldest_label": "316550 BC",
     "youngest_label": "2005 AD"
   },
@@ -487,7 +517,12 @@
     "n_sites": 143,
     "n_countries": 18,
     "n_finds": 1172,
-    "image": null,
+    "image": {
+      "url": "https://image.laji.fi/MM.3939142/P5175550.JPG",
+      "license": "CC BY-SA 4.0",
+      "creator": "anne aho",
+      "source": "GBIF"
+    },
     "oldest_label": "504050 BC",
     "youngest_label": "2004 AD"
   },
@@ -550,7 +585,12 @@
     "n_sites": 138,
     "n_countries": 14,
     "n_finds": 1148,
-    "image": null,
+    "image": {
+      "url": "https://www.artsobservasjoner.no/MediaLibrary/2023/5/267db8c8-4f22-4fc8-8694-178dcc049e56_image.jpg",
+      "license": "© All rights reserved",
+      "creator": "Bjarte Aadland",
+      "source": "GBIF"
+    },
     "oldest_label": "1674550 BC",
     "youngest_label": "1925 AD"
   },
@@ -562,7 +602,12 @@
     "n_sites": 138,
     "n_countries": 11,
     "n_finds": 2314,
-    "image": null,
+    "image": {
+      "url": "https://11.ilstatic.hu/images/2024-09/r1727633916529_xl.webp",
+      "license": "CC BY 4.0",
+      "creator": "Klózer Tamás",
+      "source": "GBIF"
+    },
     "oldest_label": "158550 BC",
     "youngest_label": "1925 AD"
   },
@@ -608,7 +653,12 @@
     "n_sites": 133,
     "n_countries": 14,
     "n_finds": 756,
-    "image": null,
+    "image": {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/664873652/original.jpg",
+      "license": "CC BY-NC 4.0",
+      "creator": "Simo Mäklin",
+      "source": "iNaturalist"
+    },
     "oldest_label": "1293800 BC",
     "youngest_label": "975 AD"
   },
@@ -637,7 +687,12 @@
     "n_sites": 127,
     "n_countries": 11,
     "n_finds": 1680,
-    "image": null,
+    "image": {
+      "url": "https://ems.dimu.org/image/019EE9iPC6T5p?dimension=max",
+      "license": "CC BY 4.0",
+      "creator": null,
+      "source": "GBIF"
+    },
     "oldest_label": "3099 BC",
     "youngest_label": "1925 AD"
   },
@@ -666,7 +721,12 @@
     "n_sites": 126,
     "n_countries": 14,
     "n_finds": 752,
-    "image": null,
+    "image": {
+      "url": "https://www.artsobservasjoner.no/MediaLibrary/2025/6/0400e630-51a8-4fa5-a601-9b8e3bd0a082_image.jpg",
+      "license": "© All rights reserved",
+      "creator": "Svein Harald Selliseth",
+      "source": "GBIF"
+    },
     "oldest_label": "1293800 BC",
     "youngest_label": "2004 AD"
   },
@@ -763,7 +823,12 @@
     "n_sites": 119,
     "n_countries": 11,
     "n_finds": 1322,
-    "image": null,
+    "image": {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/618714432/original.jpg",
+      "license": "CC BY 4.0",
+      "creator": "Johannes S.",
+      "source": "iNaturalist"
+    },
     "oldest_label": "41050 BC",
     "youngest_label": "1925 AD"
   },
@@ -843,7 +908,12 @@
     "n_sites": 113,
     "n_countries": 12,
     "n_finds": 558,
-    "image": null,
+    "image": {
+      "url": "https://observation.org/photos/145346382.jpg",
+      "license": "CC BY-NC-ND 4.0",
+      "creator": "P. Losekoot",
+      "source": "GBIF"
+    },
     "oldest_label": "3954550 BC",
     "youngest_label": "2004 AD"
   },
@@ -855,7 +925,12 @@
     "n_sites": 113,
     "n_countries": 12,
     "n_finds": 778,
-    "image": null,
+    "image": {
+      "url": "https://observation.org/photos/82955935.jpg",
+      "license": "CC BY-NC-ND 4.0",
+      "creator": "Ruud van Middelkoop",
+      "source": "GBIF"
+    },
     "oldest_label": "1293800 BC",
     "youngest_label": "1750 AD"
   },
@@ -901,7 +976,12 @@
     "n_sites": 109,
     "n_countries": 11,
     "n_finds": 1190,
-    "image": null,
+    "image": {
+      "url": "https://observation.org/photos/79402579.jpg",
+      "license": "CC BY-NC-ND 4.0",
+      "creator": "Wil Heesters",
+      "source": "GBIF"
+    },
     "oldest_label": "3050 BC",
     "youngest_label": "1710 AD"
   },
@@ -930,7 +1010,12 @@
     "n_sites": 106,
     "n_countries": 18,
     "n_finds": 1528,
-    "image": null,
+    "image": {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604810643/original.jpg",
+      "license": "CC BY-NC 4.0",
+      "creator": "Axel Gosseries",
+      "source": "iNaturalist"
+    },
     "oldest_label": "4348 BC",
     "youngest_label": "1840 AD"
   },
@@ -976,7 +1061,12 @@
     "n_sites": 104,
     "n_countries": 12,
     "n_finds": 1318,
-    "image": null,
+    "image": {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464336252/original.jpg",
+      "license": "CC BY-NC 4.0",
+      "creator": "zmrdk",
+      "source": "iNaturalist"
+    },
     "oldest_label": "3050 BC",
     "youngest_label": "1725 AD"
   },
@@ -1000,7 +1090,12 @@
     "n_sites": 104,
     "n_countries": 13,
     "n_finds": 658,
-    "image": null,
+    "image": {
+      "url": "https://observation.org/photos/110608272.jpg",
+      "license": "CC BY-NC-ND 4.0",
+      "creator": "Luc Knijnsberg",
+      "source": "GBIF"
+    },
     "oldest_label": "1674550 BC",
     "youngest_label": "1986 AD"
   },
@@ -1012,7 +1107,12 @@
     "n_sites": 102,
     "n_countries": 12,
     "n_finds": 642,
-    "image": null,
+    "image": {
+      "url": "https://s3.hpc.ut.ee/plutof-public/large/5edc3bcf-b3f5-402e-8315-03b2bb326ba5.jpg",
+      "license": "CC BY-SA 4.0",
+      "creator": "Uno Roosileht",
+      "source": "PlutoF"
+    },
     "oldest_label": "358550 BC",
     "youngest_label": "1410 AD"
   },
@@ -1041,7 +1141,12 @@
     "n_sites": 99,
     "n_countries": 8,
     "n_finds": 684,
-    "image": null,
+    "image": {
+      "url": "https://live.staticflickr.com/65535/55148514072_8f1ff0e51a_b.jpg",
+      "license": "Copyright by the creator. For license and creator details, see https://nabu-naturgucker-beobachtungen.de/?sprache=en&bild=-1933709802.",
+      "creator": null,
+      "source": "GBIF"
+    },
     "oldest_label": "575550 BC",
     "youngest_label": "2005 AD"
   },
@@ -1053,7 +1158,12 @@
     "n_sites": 99,
     "n_countries": 10,
     "n_finds": 1182,
-    "image": null,
+    "image": {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/567506111/original.jpg",
+      "license": "CC BY-NC 4.0",
+      "creator": "Quentin Brunelle",
+      "source": "iNaturalist"
+    },
     "oldest_label": "215050 BC",
     "youngest_label": "1850 AD"
   },
@@ -1167,7 +1277,12 @@
     "n_sites": 95,
     "n_countries": 13,
     "n_finds": 678,
-    "image": null,
+    "image": {
+      "url": "https://arter.dk/media/e855ab9b-56da-424b-a028-ac9900b7bc44.jpg",
+      "license": "CC BY 4.0",
+      "creator": null,
+      "source": "GBIF"
+    },
     "oldest_label": "1293800 BC",
     "youngest_label": "975 AD"
   },
@@ -1213,7 +1328,12 @@
     "n_sites": 95,
     "n_countries": 13,
     "n_finds": 648,
-    "image": null,
+    "image": {
+      "url": "http://www.boldsystems.org/pics/YBIVV/CBG-A11479-A01+1692365402.jpg",
+      "license": "CC BY-SA 4.0",
+      "creator": null,
+      "source": "GBIF"
+    },
     "oldest_label": "648050 BC",
     "youngest_label": "975 AD"
   },
@@ -1225,7 +1345,12 @@
     "n_sites": 94,
     "n_countries": 10,
     "n_finds": 582,
-    "image": null,
+    "image": {
+      "url": "https://observation.org/photos/156827839.jpg",
+      "license": "CC BY-NC-ND 4.0",
+      "creator": "Siebe Bouman",
+      "source": "GBIF"
+    },
     "oldest_label": "1674550 BC",
     "youngest_label": "2001 AD"
   },
@@ -1271,7 +1396,12 @@
     "n_sites": 89,
     "n_countries": 14,
     "n_finds": 496,
-    "image": null,
+    "image": {
+      "url": "https://b0401prodmediasto.blob.core.windows.net/documents/a4c9ea57-a8db-41bf-90de-71eaae4dd448.jpg",
+      "license": "CC BY 4.0",
+      "creator": "Ikast-Brande Kommune",
+      "source": "GBIF"
+    },
     "oldest_label": "575550 BC",
     "youngest_label": "2001 AD"
   },
@@ -1300,7 +1430,12 @@
     "n_sites": 89,
     "n_countries": 9,
     "n_finds": 650,
-    "image": null,
+    "image": {
+      "url": "https://observation.org/photos/115464694.jpg",
+      "license": "CC BY-NC-ND 4.0",
+      "creator": "Hannes Pohla",
+      "source": "GBIF"
+    },
     "oldest_label": "575550 BC",
     "youngest_label": "1750 AD"
   },
@@ -1414,7 +1549,12 @@
     "n_sites": 87,
     "n_countries": 13,
     "n_finds": 544,
-    "image": null,
+    "image": {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644957377/original.jpg",
+      "license": "CC BY-NC 4.0",
+      "creator": "AWI i Pr.",
+      "source": "iNaturalist"
+    },
     "oldest_label": "575550 BC",
     "youngest_label": "1725 AD"
   },
@@ -1426,7 +1566,12 @@
     "n_sites": 86,
     "n_countries": 8,
     "n_finds": 638,
-    "image": null,
+    "image": {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477796999/original.jpg",
+      "license": "CC BY 4.0",
+      "creator": "Tina Ellegaard Poulsen",
+      "source": "iNaturalist"
+    },
     "oldest_label": "648050 BC",
     "youngest_label": "1873 AD"
   },
@@ -1489,7 +1634,12 @@
     "n_sites": 85,
     "n_countries": 9,
     "n_finds": 612,
-    "image": null,
+    "image": {
+      "url": "https://live.staticflickr.com/65535/53841378674_1c4644ff3e_b.jpg",
+      "license": "Copyright by the creator. For license and creator details, see https://nabu-naturgucker-beobachtungen.de/?sprache=en&bild=-465597966.",
+      "creator": null,
+      "source": "GBIF"
+    },
     "oldest_label": "358550 BC",
     "youngest_label": "2005 AD"
   },
@@ -1501,7 +1651,12 @@
     "n_sites": 84,
     "n_countries": 8,
     "n_finds": 822,
-    "image": null,
+    "image": {
+      "url": "https://www.artsobservasjoner.no/MediaLibrary/2025/7/23366b7a-5c4b-43ac-a27c-464ecce2ad16_image.jpg",
+      "license": "CC BY-NC-SA 4.0",
+      "creator": "Karel Samyn",
+      "source": "GBIF"
+    },
     "oldest_label": "504050 BC",
     "youngest_label": "1995 AD"
   },

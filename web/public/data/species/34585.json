@@ -6,7 +6,12 @@
   "n_sites": 99,
   "n_countries": 8,
   "n_finds": 684,
-  "image": null,
+  "image": {
+    "url": "https://live.staticflickr.com/65535/55148514072_8f1ff0e51a_b.jpg",
+    "license": "Copyright by the creator. For license and creator details, see https://nabu-naturgucker-beobachtungen.de/?sprache=en&bild=-1933709802.",
+    "creator": null,
+    "source": "GBIF"
+  },
   "oldest_label": "575550 BC",
   "youngest_label": "2005 AD",
   "path": [

@@ -6,7 +6,12 @@
   "n_sites": 126,
   "n_countries": 14,
   "n_finds": 752,
-  "image": null,
+  "image": {
+    "url": "https://www.artsobservasjoner.no/MediaLibrary/2025/6/0400e630-51a8-4fa5-a601-9b8e3bd0a082_image.jpg",
+    "license": "© All rights reserved",
+    "creator": "Svein Harald Selliseth",
+    "source": "GBIF"
+  },
   "oldest_label": "1293800 BC",
   "youngest_label": "2004 AD",
   "path": [

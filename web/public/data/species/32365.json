@@ -6,7 +6,12 @@
   "n_sites": 104,
   "n_countries": 13,
   "n_finds": 658,
-  "image": null,
+  "image": {
+    "url": "https://observation.org/photos/110608272.jpg",
+    "license": "CC BY-NC-ND 4.0",
+    "creator": "Luc Knijnsberg",
+    "source": "GBIF"
+  },
   "oldest_label": "1674550 BC",
   "youngest_label": "1986 AD",
   "path": [

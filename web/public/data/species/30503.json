@@ -6,7 +6,12 @@
   "n_sites": 138,
   "n_countries": 11,
   "n_finds": 2314,
-  "image": null,
+  "image": {
+    "url": "https://11.ilstatic.hu/images/2024-09/r1727633916529_xl.webp",
+    "license": "CC BY 4.0",
+    "creator": "Klózer Tamás",
+    "source": "GBIF"
+  },
   "oldest_label": "158550 BC",
   "youngest_label": "1925 AD",
   "path": [

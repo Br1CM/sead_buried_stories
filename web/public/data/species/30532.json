@@ -6,7 +6,12 @@
   "n_sites": 138,
   "n_countries": 14,
   "n_finds": 1148,
-  "image": null,
+  "image": {
+    "url": "https://www.artsobservasjoner.no/MediaLibrary/2023/5/267db8c8-4f22-4fc8-8694-178dcc049e56_image.jpg",
+    "license": "© All rights reserved",
+    "creator": "Bjarte Aadland",
+    "source": "GBIF"
+  },
   "oldest_label": "1674550 BC",
   "youngest_label": "1925 AD",
   "path": [

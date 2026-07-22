@@ -6,7 +6,12 @@
   "n_sites": 99,
   "n_countries": 10,
   "n_finds": 1182,
-  "image": null,
+  "image": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/567506111/original.jpg",
+    "license": "CC BY-NC 4.0",
+    "creator": "Quentin Brunelle",
+    "source": "iNaturalist"
+  },
   "oldest_label": "215050 BC",
   "youngest_label": "1850 AD",
   "path": [

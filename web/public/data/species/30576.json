@@ -6,7 +6,12 @@
   "n_sites": 95,
   "n_countries": 13,
   "n_finds": 648,
-  "image": null,
+  "image": {
+    "url": "http://www.boldsystems.org/pics/YBIVV/CBG-A11479-A01+1692365402.jpg",
+    "license": "CC BY-SA 4.0",
+    "creator": null,
+    "source": "GBIF"
+  },
   "oldest_label": "648050 BC",
   "youngest_label": "975 AD",
   "path": [

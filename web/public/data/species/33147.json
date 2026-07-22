@@ -6,7 +6,12 @@
   "n_sites": 127,
   "n_countries": 11,
   "n_finds": 1680,
-  "image": null,
+  "image": {
+    "url": "https://ems.dimu.org/image/019EE9iPC6T5p?dimension=max",
+    "license": "CC BY 4.0",
+    "creator": null,
+    "source": "GBIF"
+  },
   "oldest_label": "3099 BC",
   "youngest_label": "1925 AD",
   "path": [

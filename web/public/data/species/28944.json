@@ -6,7 +6,12 @@
   "n_sites": 113,
   "n_countries": 12,
   "n_finds": 558,
-  "image": null,
+  "image": {
+    "url": "https://observation.org/photos/145346382.jpg",
+    "license": "CC BY-NC-ND 4.0",
+    "creator": "P. Losekoot",
+    "source": "GBIF"
+  },
   "oldest_label": "3954550 BC",
   "youngest_label": "2004 AD",
   "path": [

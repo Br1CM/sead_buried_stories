@@ -6,7 +6,12 @@
   "n_sites": 84,
   "n_countries": 8,
   "n_finds": 822,
-  "image": null,
+  "image": {
+    "url": "https://www.artsobservasjoner.no/MediaLibrary/2025/7/23366b7a-5c4b-43ac-a27c-464ecce2ad16_image.jpg",
+    "license": "CC BY-NC-SA 4.0",
+    "creator": "Karel Samyn",
+    "source": "GBIF"
+  },
   "oldest_label": "504050 BC",
   "youngest_label": "1995 AD",
   "path": [

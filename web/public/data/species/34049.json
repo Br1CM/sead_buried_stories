@@ -6,7 +6,12 @@
   "n_sites": 149,
   "n_countries": 12,
   "n_finds": 1404,
-  "image": null,
+  "image": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605707488/original.jpg",
+    "license": "CC BY 4.0",
+    "creator": "Cameron Wilkins",
+    "source": "iNaturalist"
+  },
   "oldest_label": "215050 BC",
   "youngest_label": "2005 AD",
   "path": [

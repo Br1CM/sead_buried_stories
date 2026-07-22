@@ -6,7 +6,12 @@
   "n_sites": 225,
   "n_countries": 11,
   "n_finds": 2486,
-  "image": null,
+  "image": {
+    "url": "https://11.ilstatic.hu/images/2025-06/r1748809183349_7564578081.jpg",
+    "license": "CC BY 4.0",
+    "creator": "Tóth Norbert",
+    "source": "GBIF"
+  },
   "oldest_label": "648050 BC",
   "youngest_label": "2005 AD",
   "path": [

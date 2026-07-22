@@ -6,7 +6,12 @@
   "n_sites": 133,
   "n_countries": 14,
   "n_finds": 756,
-  "image": null,
+  "image": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/664873652/original.jpg",
+    "license": "CC BY-NC 4.0",
+    "creator": "Simo Mäklin",
+    "source": "iNaturalist"
+  },
   "oldest_label": "1293800 BC",
   "youngest_label": "975 AD",
   "path": [

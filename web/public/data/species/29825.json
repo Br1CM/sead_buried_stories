@@ -6,7 +6,12 @@
   "n_sites": 89,
   "n_countries": 9,
   "n_finds": 650,
-  "image": null,
+  "image": {
+    "url": "https://observation.org/photos/115464694.jpg",
+    "license": "CC BY-NC-ND 4.0",
+    "creator": "Hannes Pohla",
+    "source": "GBIF"
+  },
   "oldest_label": "575550 BC",
   "youngest_label": "1750 AD",
   "path": [

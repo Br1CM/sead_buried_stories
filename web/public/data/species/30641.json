@@ -6,7 +6,12 @@
   "n_sites": 145,
   "n_countries": 6,
   "n_finds": 1428,
-  "image": null,
+  "image": {
+    "url": "https://11.ilstatic.hu/images/2026-02/r1771943251579_7236023265.jpg",
+    "license": "CC BY 4.0",
+    "creator": "Gulyás Szilvia",
+    "source": "GBIF"
+  },
   "oldest_label": "316550 BC",
   "youngest_label": "2005 AD",
   "path": [

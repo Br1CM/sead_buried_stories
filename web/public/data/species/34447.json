@@ -6,7 +6,12 @@
   "n_sites": 143,
   "n_countries": 18,
   "n_finds": 1172,
-  "image": null,
+  "image": {
+    "url": "https://image.laji.fi/MM.3939142/P5175550.JPG",
+    "license": "CC BY-SA 4.0",
+    "creator": "anne aho",
+    "source": "GBIF"
+  },
   "oldest_label": "504050 BC",
   "youngest_label": "2004 AD",
   "path": [

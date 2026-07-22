@@ -6,7 +6,12 @@
   "n_sites": 89,
   "n_countries": 14,
   "n_finds": 496,
-  "image": null,
+  "image": {
+    "url": "https://b0401prodmediasto.blob.core.windows.net/documents/a4c9ea57-a8db-41bf-90de-71eaae4dd448.jpg",
+    "license": "CC BY 4.0",
+    "creator": "Ikast-Brande Kommune",
+    "source": "GBIF"
+  },
   "oldest_label": "575550 BC",
   "youngest_label": "2001 AD",
   "path": [

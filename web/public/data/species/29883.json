@@ -6,7 +6,12 @@
   "n_sites": 119,
   "n_countries": 11,
   "n_finds": 1322,
-  "image": null,
+  "image": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/618714432/original.jpg",
+    "license": "CC BY 4.0",
+    "creator": "Johannes S.",
+    "source": "iNaturalist"
+  },
   "oldest_label": "41050 BC",
   "youngest_label": "1925 AD",
   "path": [

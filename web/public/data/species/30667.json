@@ -6,7 +6,12 @@
   "n_sites": 102,
   "n_countries": 12,
   "n_finds": 642,
-  "image": null,
+  "image": {
+    "url": "https://s3.hpc.ut.ee/plutof-public/large/5edc3bcf-b3f5-402e-8315-03b2bb326ba5.jpg",
+    "license": "CC BY-SA 4.0",
+    "creator": "Uno Roosileht",
+    "source": "PlutoF"
+  },
   "oldest_label": "358550 BC",
   "youngest_label": "1410 AD",
   "path": [

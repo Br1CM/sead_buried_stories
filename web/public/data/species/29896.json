@@ -6,7 +6,12 @@
   "n_sites": 113,
   "n_countries": 12,
   "n_finds": 778,
-  "image": null,
+  "image": {
+    "url": "https://observation.org/photos/82955935.jpg",
+    "license": "CC BY-NC-ND 4.0",
+    "creator": "Ruud van Middelkoop",
+    "source": "GBIF"
+  },
   "oldest_label": "1293800 BC",
   "youngest_label": "1750 AD",
   "path": [
