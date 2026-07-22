@@ -5,6 +5,13 @@
   "lon": -1.3611112,
   "n_taxa": 335,
   "n_layers": 8,
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Aston_north_along_main_st.jpg",
+    "depicts": "Aston-on-Trent",
+    "license": "CC BY-SA 2.0",
+    "creator": "Chris J Dixon",
+    "source": "Wikimedia Commons"
+  },
   "oldest_label": "8050 BC - 1950 AD",
   "youngest_label": "1440 BC - 1310 BC",
   "layers": [

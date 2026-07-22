@@ -1,7 +1,9 @@
+import Image from "next/image";
 import { notFound } from "next/navigation";
 import { getSiteDetail, getSitesIndex } from "@/lib/data";
 import { SiteDig } from "@/components/SiteDig";
 import { LocatorMap } from "@/components/LocatorMap";
+import { AttributionBadge } from "@/components/AttributionBadge";
 
 export function generateStaticParams() {
   return getSitesIndex().map((s) => ({ siteId: String(s.site_id) }));
@@ -18,6 +20,28 @@ export default async function SiteDetailPage({
 
   return (
     <div className="mx-auto w-full max-w-6xl px-6 py-10">
+      {site.photo && (
+        <div className="mb-6">
+          <div className="relative h-56 w-full overflow-hidden rounded-2xl border border-white/10 sm:h-72">
+            <Image
+              src={site.photo.url}
+              alt={site.photo.depicts}
+              fill
+              unoptimized
+              className="object-cover"
+            />
+            <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/70 to-transparent px-4 pb-2 pt-8 text-xs text-white/70">
+              {site.photo.depicts.toLowerCase() === site.site_name.toLowerCase()
+                ? "The site today"
+                : `The area around ${site.photo.depicts} today — the exact excavation is long since backfilled`}
+            </div>
+          </div>
+          <div className="mt-1">
+            <AttributionBadge image={site.photo} />
+          </div>
+        </div>
+      )}
+
       <div className="mb-8 flex flex-col gap-6 sm:flex-row sm:items-start">
         <div className="h-40 w-full shrink-0 overflow-hidden rounded-2xl border border-white/10 sm:w-64">
           <LocatorMap lat={site.lat} lon={site.lon} label={site.site_name} />

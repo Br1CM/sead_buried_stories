@@ -5,6 +5,13 @@
   "lon": -0.66388965,
   "n_taxa": 291,
   "n_layers": 11,
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Dorney_Lake.jpg",
+    "depicts": "Dorney Lake",
+    "license": "CC BY-SA 2.0",
+    "creator": "dsearls (Doc Searls) profile at Flickr website",
+    "source": "Wikimedia Commons"
+  },
   "oldest_label": "9173 BC - 8760 BC",
   "youngest_label": "253 AD - 529 AD",
   "layers": [

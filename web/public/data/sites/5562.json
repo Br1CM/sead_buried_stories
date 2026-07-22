@@ -5,6 +5,13 @@
   "lon": 20.15814,
   "n_taxa": 312,
   "n_layers": 18,
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Tatranska_Lomnica_station.jpg",
+    "depicts": "Tatranská Lomnica",
+    "license": "CC BY-SA 2.0",
+    "creator": "jason wilson (hive)",
+    "source": "Wikimedia Commons"
+  },
   "oldest_label": "926 AD - 978 AD",
   "youngest_label": "2004 AD - 2017 AD",
   "layers": [

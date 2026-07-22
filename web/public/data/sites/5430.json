@@ -5,6 +5,13 @@
   "lon": -0.01269,
   "n_taxa": 302,
   "n_layers": 20,
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/London_Queen_Elizabeth_Olympic_Park.jpg",
+    "depicts": "Queen Elizabeth Olympic Park",
+    "license": "CC BY-SA 3.0 de",
+    "creator": "Arne Müseler",
+    "source": "Wikimedia Commons"
+  },
   "oldest_label": "9119 BC - 8305 BC",
   "youngest_label": "1500 AD - 1799 AD",
   "layers": [

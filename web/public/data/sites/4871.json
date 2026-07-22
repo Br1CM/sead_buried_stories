@@ -5,6 +5,13 @@
   "lon": -0.53694445,
   "n_taxa": 361,
   "n_layers": 2,
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/RunnymedeMagnacartaisle.jpg",
+    "depicts": "Runnymede",
+    "license": "CC BY 3.0",
+    "creator": "Wyrdlight",
+    "source": "Wikimedia Commons"
+  },
   "oldest_label": "1000 BC - 650 BC",
   "youngest_label": "999 BC - 649 BC",
   "layers": [

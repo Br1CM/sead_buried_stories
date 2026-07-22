@@ -5,6 +5,13 @@
   "lon": -0.5388889,
   "n_taxa": 291,
   "n_layers": 13,
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Brayford_Pool%2C_Lincoln_-_geograph.org.uk_-_6779735.jpg",
+    "depicts": "Brayford Pool",
+    "license": "CC BY-SA 2.0",
+    "creator": "Oliver Mills",
+    "source": "Wikimedia Commons"
+  },
   "oldest_label": "43 AD - 410 AD",
   "youngest_label": "1175 AD - 1199 AD",
   "layers": [

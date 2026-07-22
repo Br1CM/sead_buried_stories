@@ -62,6 +62,10 @@ export interface CeramicsPeriodDetail extends CeramicsPeriodSummary {
   temper: TemperStat[];
 }
 
+export interface SitePhoto extends ImageCredit {
+  depicts: string;
+}
+
 export interface SiteIndexEntry {
   site_id: number;
   site_name: string;
@@ -69,6 +73,7 @@ export interface SiteIndexEntry {
   lon: number;
   n_taxa: number;
   n_layers: number;
+  photo: SitePhoto | null;
   oldest_label: string | null;
   youngest_label: string | null;
 }

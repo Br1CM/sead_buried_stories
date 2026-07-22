@@ -5,6 +5,13 @@
   "lon": -2.53219,
   "n_taxa": 305,
   "n_layers": 2,
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Aerial_view_of_Ribchester.jpg",
+    "depicts": "Ribchester",
+    "license": "Public domain",
+    "creator": "Watcher328",
+    "source": "Wikimedia Commons"
+  },
   "oldest_label": "43 AD - 410 AD",
   "youngest_label": "70 AD - 400 AD",
   "layers": [

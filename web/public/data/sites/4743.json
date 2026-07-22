@@ -5,6 +5,13 @@
   "lon": -1.0804005,
   "n_taxa": 522,
   "n_layers": 2,
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Shops_in_Coppergate_-_geograph.org.uk_-_1155163.jpg",
+    "depicts": "Coppergate",
+    "license": "CC BY-SA 2.0",
+    "creator": "Gordon Hatton",
+    "source": "Wikimedia Commons"
+  },
   "oldest_label": "653 AD - 948 AD",
   "youngest_label": "800 AD - 1100 AD",
   "layers": [

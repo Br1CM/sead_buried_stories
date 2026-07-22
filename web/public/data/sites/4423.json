@@ -5,6 +5,13 @@
   "lon": -0.30277777,
   "n_taxa": 300,
   "n_layers": 5,
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Gransmoor.jpg",
+    "depicts": "Gransmoor",
+    "license": "CC BY-SA 2.0",
+    "creator": "Andy Beecroft",
+    "source": "Wikimedia Commons"
+  },
   "oldest_label": "13657 BC - 11142 BC",
   "youngest_label": "11550 BC - 8050 BC",
   "layers": [

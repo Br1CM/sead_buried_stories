@@ -5,6 +5,13 @@
   "lon": -3.599818,
   "n_taxa": 342,
   "n_layers": 4,
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/St_Bees_south_head_%28Tomlin%29.JPG",
+    "depicts": "St Bees",
+    "license": "CC BY-SA 3.0",
+    "creator": "Doug Sim",
+    "source": "Wikimedia Commons"
+  },
   "oldest_label": "13375 BC - 12184 BC",
   "youngest_label": "11550 BC - 8050 BC",
   "layers": [

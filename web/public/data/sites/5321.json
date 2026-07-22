@@ -5,6 +5,13 @@
   "lon": -0.09035,
   "n_taxa": 316,
   "n_layers": 5,
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Poultry_of_the_world.jpg",
+    "depicts": "Poultry",
+    "license": "Public domain",
+    "creator": "L. Prang & Co.",
+    "source": "Wikimedia Commons"
+  },
   "oldest_label": "43 AD - 410 AD",
   "youngest_label": "1100 AD - 1300 AD",
   "layers": [

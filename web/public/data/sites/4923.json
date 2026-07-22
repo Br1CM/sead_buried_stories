@@ -5,6 +5,13 @@
   "lon": -0.6566667,
   "n_taxa": 295,
   "n_layers": 2,
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/All_Saints_Church_North_Cave_1.jpg",
+    "depicts": "North Cave",
+    "license": "CC BY-SA 2.0",
+    "creator": "JThomas",
+    "source": "Wikimedia Commons"
+  },
   "oldest_label": "43 AD - 410 AD",
   "youngest_label": "100 AD - 300 AD",
   "layers": [

@@ -5,6 +5,13 @@
   "lon": -1.3569444,
   "n_taxa": 305,
   "n_layers": 3,
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Farmoor_StMary_1.jpg",
+    "depicts": "Farmoor",
+    "license": "CC BY-SA 4.0",
+    "creator": "Motacilla",
+    "source": "Wikimedia Commons"
+  },
   "oldest_label": "650 BC - 50 AD",
   "youngest_label": "43 AD - 410 AD",
   "layers": [

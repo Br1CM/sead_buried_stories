@@ -6,6 +6,13 @@
     "lon": -1.0804005,
     "n_taxa": 522,
     "n_layers": 2,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Shops_in_Coppergate_-_geograph.org.uk_-_1155163.jpg",
+      "depicts": "Coppergate",
+      "license": "CC BY-SA 2.0",
+      "creator": "Gordon Hatton",
+      "source": "Wikimedia Commons"
+    },
     "oldest_label": "653 AD - 948 AD",
     "youngest_label": "800 AD - 1100 AD"
   },
@@ -16,6 +23,7 @@
     "lon": -1.729385,
     "n_taxa": 419,
     "n_layers": 6,
+    "photo": null,
     "oldest_label": "650 BC - 50 AD",
     "youngest_label": "400 AD - 1550 AD"
   },
@@ -26,6 +34,13 @@
     "lon": -1.0877305,
     "n_taxa": 384,
     "n_layers": 2,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/York_Minster_%282797690%29.jpg",
+      "depicts": "York",
+      "license": "CC0",
+      "creator": "FEGreene",
+      "source": "Wikimedia Commons"
+    },
     "oldest_label": "43 AD - 410 AD",
     "youngest_label": "100 AD - 400 AD"
   },
@@ -36,6 +51,13 @@
     "lon": -0.53694445,
     "n_taxa": 361,
     "n_layers": 2,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/RunnymedeMagnacartaisle.jpg",
+      "depicts": "Runnymede",
+      "license": "CC BY 3.0",
+      "creator": "Wyrdlight",
+      "source": "Wikimedia Commons"
+    },
     "oldest_label": "1000 BC - 650 BC",
     "youngest_label": "999 BC - 649 BC"
   },
@@ -46,6 +68,7 @@
     "lon": -1.435,
     "n_taxa": 355,
     "n_layers": 4,
+    "photo": null,
     "oldest_label": "650 BC - 50 AD",
     "youngest_label": "43 AD - 410 AD"
   },
@@ -56,6 +79,13 @@
     "lon": -1.0799783,
     "n_taxa": 343,
     "n_layers": 6,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/York_Minster_%282797690%29.jpg",
+      "depicts": "York",
+      "license": "CC0",
+      "creator": "FEGreene",
+      "source": "Wikimedia Commons"
+    },
     "oldest_label": "2499 BC - 599 BC",
     "youngest_label": "550 BC - 600 BC"
   },
@@ -66,6 +96,13 @@
     "lon": -3.599818,
     "n_taxa": 342,
     "n_layers": 4,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/St_Bees_south_head_%28Tomlin%29.JPG",
+      "depicts": "St Bees",
+      "license": "CC BY-SA 3.0",
+      "creator": "Doug Sim",
+      "source": "Wikimedia Commons"
+    },
     "oldest_label": "13375 BC - 12184 BC",
     "youngest_label": "11550 BC - 8050 BC"
   },
@@ -76,6 +113,13 @@
     "lon": -1.3611112,
     "n_taxa": 335,
     "n_layers": 8,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Aston_north_along_main_st.jpg",
+      "depicts": "Aston-on-Trent",
+      "license": "CC BY-SA 2.0",
+      "creator": "Chris J Dixon",
+      "source": "Wikimedia Commons"
+    },
     "oldest_label": "8050 BC - 1950 AD",
     "youngest_label": "1440 BC - 1310 BC"
   },
@@ -86,6 +130,13 @@
     "lon": -0.489229,
     "n_taxa": 318,
     "n_layers": 8,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Terminal_5_at_London_Heathrow_Airport%2C_2008.jpg",
+      "depicts": "Heathrow Terminal 5",
+      "license": "CC BY-SA 2.0",
+      "creator": "Warren Rohner",
+      "source": "Wikimedia Commons"
+    },
     "oldest_label": "2100 BC - 1600 BC",
     "youngest_label": "250 AD - 410 AD"
   },
@@ -96,6 +147,13 @@
     "lon": -0.09035,
     "n_taxa": 316,
     "n_layers": 5,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Poultry_of_the_world.jpg",
+      "depicts": "Poultry",
+      "license": "Public domain",
+      "creator": "L. Prang & Co.",
+      "source": "Wikimedia Commons"
+    },
     "oldest_label": "43 AD - 410 AD",
     "youngest_label": "1100 AD - 1300 AD"
   },
@@ -106,6 +164,13 @@
     "lon": 20.15814,
     "n_taxa": 312,
     "n_layers": 18,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Tatranska_Lomnica_station.jpg",
+      "depicts": "Tatranská Lomnica",
+      "license": "CC BY-SA 2.0",
+      "creator": "jason wilson (hive)",
+      "source": "Wikimedia Commons"
+    },
     "oldest_label": "926 AD - 978 AD",
     "youngest_label": "2004 AD - 2017 AD"
   },
@@ -116,6 +181,7 @@
     "lon": -2.1183333,
     "n_taxa": 309,
     "n_layers": 3,
+    "photo": null,
     "oldest_label": "11550 BC - 8050 BC",
     "youngest_label": "10623 BC - 9455 BC"
   },
@@ -126,6 +192,13 @@
     "lon": -0.53694445,
     "n_taxa": 306,
     "n_layers": 2,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/RunnymedeMagnacartaisle.jpg",
+      "depicts": "Runnymede",
+      "license": "CC BY 3.0",
+      "creator": "Wyrdlight",
+      "source": "Wikimedia Commons"
+    },
     "oldest_label": "3500 BC - 2000 BC",
     "youngest_label": "3499 BC - 1999 BC"
   },
@@ -136,6 +209,13 @@
     "lon": -2.53219,
     "n_taxa": 305,
     "n_layers": 2,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Aerial_view_of_Ribchester.jpg",
+      "depicts": "Ribchester",
+      "license": "Public domain",
+      "creator": "Watcher328",
+      "source": "Wikimedia Commons"
+    },
     "oldest_label": "43 AD - 410 AD",
     "youngest_label": "70 AD - 400 AD"
   },
@@ -146,6 +226,13 @@
     "lon": -1.3569444,
     "n_taxa": 305,
     "n_layers": 3,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Farmoor_StMary_1.jpg",
+      "depicts": "Farmoor",
+      "license": "CC BY-SA 4.0",
+      "creator": "Motacilla",
+      "source": "Wikimedia Commons"
+    },
     "oldest_label": "650 BC - 50 AD",
     "youngest_label": "43 AD - 410 AD"
   },
@@ -156,6 +243,13 @@
     "lon": -0.01269,
     "n_taxa": 302,
     "n_layers": 20,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/London_Queen_Elizabeth_Olympic_Park.jpg",
+      "depicts": "Queen Elizabeth Olympic Park",
+      "license": "CC BY-SA 3.0 de",
+      "creator": "Arne Müseler",
+      "source": "Wikimedia Commons"
+    },
     "oldest_label": "9119 BC - 8305 BC",
     "youngest_label": "1500 AD - 1799 AD"
   },
@@ -166,6 +260,13 @@
     "lon": -0.30277777,
     "n_taxa": 300,
     "n_layers": 5,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Gransmoor.jpg",
+      "depicts": "Gransmoor",
+      "license": "CC BY-SA 2.0",
+      "creator": "Andy Beecroft",
+      "source": "Wikimedia Commons"
+    },
     "oldest_label": "13657 BC - 11142 BC",
     "youngest_label": "11550 BC - 8050 BC"
   },
@@ -176,6 +277,13 @@
     "lon": -0.6566667,
     "n_taxa": 295,
     "n_layers": 2,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/All_Saints_Church_North_Cave_1.jpg",
+      "depicts": "North Cave",
+      "license": "CC BY-SA 2.0",
+      "creator": "JThomas",
+      "source": "Wikimedia Commons"
+    },
     "oldest_label": "43 AD - 410 AD",
     "youngest_label": "100 AD - 300 AD"
   },
@@ -186,6 +294,13 @@
     "lon": -0.66388965,
     "n_taxa": 291,
     "n_layers": 11,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Dorney_Lake.jpg",
+      "depicts": "Dorney Lake",
+      "license": "CC BY-SA 2.0",
+      "creator": "dsearls (Doc Searls) profile at Flickr website",
+      "source": "Wikimedia Commons"
+    },
     "oldest_label": "9173 BC - 8760 BC",
     "youngest_label": "253 AD - 529 AD"
   },
@@ -196,6 +311,13 @@
     "lon": -0.5388889,
     "n_taxa": 291,
     "n_layers": 13,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Brayford_Pool%2C_Lincoln_-_geograph.org.uk_-_6779735.jpg",
+      "depicts": "Brayford Pool",
+      "license": "CC BY-SA 2.0",
+      "creator": "Oliver Mills",
+      "source": "Wikimedia Commons"
+    },
     "oldest_label": "43 AD - 410 AD",
     "youngest_label": "1175 AD - 1199 AD"
   }

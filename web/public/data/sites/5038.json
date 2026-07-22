@@ -5,6 +5,13 @@
   "lon": -0.489229,
   "n_taxa": 318,
   "n_layers": 8,
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Terminal_5_at_London_Heathrow_Airport%2C_2008.jpg",
+    "depicts": "Heathrow Terminal 5",
+    "license": "CC BY-SA 2.0",
+    "creator": "Warren Rohner",
+    "source": "Wikimedia Commons"
+  },
   "oldest_label": "2100 BC - 1600 BC",
   "youngest_label": "250 AD - 410 AD",
   "layers": [

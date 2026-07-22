@@ -12,6 +12,7 @@ from config import WEB_DATA_DIR
 from dating import calendar_label
 from db import get_engine, query
 from gbif_media import load_gbif_keys, load_media_cache, resolve_species_media, save_media_cache
+from place_photos import get_cached_site_photo, load_photo_cache, save_photo_cache
 
 SITE_CANDIDATES_SQL = """
 select psd.site_id, psd.site_name, count(distinct ab.taxon_id) as n_taxa,
@@ -59,6 +60,7 @@ def main():
 
     gbif_keys = load_gbif_keys() if not args.skip_images else {}
     media_cache = load_media_cache()
+    photo_cache = load_photo_cache()
 
     def get_media(taxon_id: int, scientific_name: str) -> dict:
         if args.skip_images:
@@ -107,6 +109,9 @@ def main():
             )
         layers.sort(key=lambda l: l["age_older_bp"], reverse=True)
 
+        site_photo = None if args.skip_images else get_cached_site_photo(row.site_name, photo_cache)
+        save_photo_cache(photo_cache)
+
         entry = {
             "site_id": int(row.site_id),
             "site_name": row.site_name,
@@ -114,6 +119,7 @@ def main():
             "lon": float(meta.longitude_dd),
             "n_taxa": int(row.n_taxa),
             "n_layers": len(layers),
+            "photo": site_photo,
             "oldest_label": layers[0]["label"] if layers else None,
             "youngest_label": layers[-1]["label"] if layers else None,
         }
@@ -122,7 +128,8 @@ def main():
         with open(os.path.join(sites_dir, f"{row.site_id}.json"), "w", encoding="utf-8") as f:
             json.dump({**entry, "layers": layers}, f, ensure_ascii=False, indent=2)
 
-        print(f"  {row.site_name}: {len(layers)} layers, {row.n_taxa} taxa")
+        photo_note = f"photo of {site_photo['depicts']}" if site_photo else "no photo"
+        print(f"  {row.site_name}: {len(layers)} layers, {row.n_taxa} taxa, {photo_note}")
 
     with open(os.path.join(sites_dir, "index.json"), "w", encoding="utf-8") as f:
         json.dump(index, f, ensure_ascii=False, indent=2)

@@ -5,6 +5,13 @@
   "lon": -1.0877305,
   "n_taxa": 384,
   "n_layers": 2,
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/York_Minster_%282797690%29.jpg",
+    "depicts": "York",
+    "license": "CC0",
+    "creator": "FEGreene",
+    "source": "Wikimedia Commons"
+  },
   "oldest_label": "43 AD - 410 AD",
   "youngest_label": "100 AD - 400 AD",
   "layers": [
