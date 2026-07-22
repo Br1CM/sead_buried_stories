@@ -25,7 +25,12 @@
           "scientific_name": "Donacia impressa",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/668551074/original.jpg",
+            "license": "CC BY 4.0",
+            "creator": "Jamie O'Neill",
+            "source": "iNaturalist"
+          },
           "total_abundance": 8
         },
         {
@@ -72,7 +77,12 @@
           "scientific_name": "Bembidion assimile",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/143589077.jpg",
+            "license": "CC BY-NC-ND 4.0",
+            "creator": "Michael van Beveren",
+            "source": "GBIF"
+          },
           "total_abundance": 3
         },
         {
@@ -172,7 +182,12 @@
           "scientific_name": "Megasternum obscurum",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://live.staticflickr.com/65535/53783142254_abddcfeeee_b.jpg",
+            "license": "Copyright by the creator. For license and creator details, see https://nabu-naturgucker-beobachtungen.de/?sprache=en&bild=1605760492.",
+            "creator": null,
+            "source": "GBIF"
+          },
           "total_abundance": 8
         },
         {
@@ -194,7 +209,12 @@
           "scientific_name": "Anacaena globulus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624160149/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "christian_heintzen",
+            "source": "iNaturalist"
+          },
           "total_abundance": 2
         },
         {
@@ -268,7 +288,12 @@
           "scientific_name": "Carpelimus bilineatus",
           "common_name_local": null,
           "common_name_en": "Rove beetle",
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/567506111/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Quentin Brunelle",
+            "source": "iNaturalist"
+          },
           "total_abundance": 1
         },
         {
@@ -309,7 +334,12 @@
           "scientific_name": "Normandia nitens",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://s3.hpc.ut.ee/plutof-public/large/66a1cb6e-4360-4d33-8d75-e2770e6632c8.jpg",
+            "license": "CC BY-SA 4.0",
+            "creator": "Maare Liiv",
+            "source": "PlutoF"
+          },
           "total_abundance": 8
         },
         {
@@ -349,21 +379,36 @@
           "scientific_name": "Limnius volckmari",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477796999/original.jpg",
+            "license": "CC BY 4.0",
+            "creator": "Tina Ellegaard Poulsen",
+            "source": "iNaturalist"
+          },
           "total_abundance": 2
         },
         {
           "scientific_name": "Megasternum obscurum",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://live.staticflickr.com/65535/53783142254_abddcfeeee_b.jpg",
+            "license": "Copyright by the creator. For license and creator details, see https://nabu-naturgucker-beobachtungen.de/?sprache=en&bild=1605760492.",
+            "creator": null,
+            "source": "GBIF"
+          },
           "total_abundance": 2
         },
         {
           "scientific_name": "Macronychus quadrituberculatus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612699395/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Zuzana Kobesova",
+            "source": "iNaturalist"
+          },
           "total_abundance": 2
         },
         {
@@ -390,7 +435,12 @@
           "scientific_name": "Normandia nitens",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://s3.hpc.ut.ee/plutof-public/large/66a1cb6e-4360-4d33-8d75-e2770e6632c8.jpg",
+            "license": "CC BY-SA 4.0",
+            "creator": "Maare Liiv",
+            "source": "PlutoF"
+          },
           "total_abundance": 18
         },
         {
@@ -456,7 +506,12 @@
           "scientific_name": "Orectochilus villosus",
           "common_name_local": null,
           "common_name_en": "Hairy Whirligig",
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/616643240/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Ed Dolphin",
+            "source": "iNaturalist"
+          },
           "total_abundance": 2
         },
         {
@@ -478,7 +533,12 @@
           "scientific_name": "Normandia nitens",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://s3.hpc.ut.ee/plutof-public/large/66a1cb6e-4360-4d33-8d75-e2770e6632c8.jpg",
+            "license": "CC BY-SA 4.0",
+            "creator": "Maare Liiv",
+            "source": "PlutoF"
+          },
           "total_abundance": 28
         },
         {
@@ -492,7 +552,12 @@
           "scientific_name": "Megasternum obscurum",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://live.staticflickr.com/65535/53783142254_abddcfeeee_b.jpg",
+            "license": "Copyright by the creator. For license and creator details, see https://nabu-naturgucker-beobachtungen.de/?sprache=en&bild=1605760492.",
+            "creator": null,
+            "source": "GBIF"
+          },
           "total_abundance": 4
         },
         {
@@ -566,7 +631,12 @@
           "scientific_name": "Normandia nitens",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://s3.hpc.ut.ee/plutof-public/large/66a1cb6e-4360-4d33-8d75-e2770e6632c8.jpg",
+            "license": "CC BY-SA 4.0",
+            "creator": "Maare Liiv",
+            "source": "PlutoF"
+          },
           "total_abundance": 8
         },
         {
@@ -622,7 +692,12 @@
           "scientific_name": "Macronychus quadrituberculatus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612699395/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Zuzana Kobesova",
+            "source": "iNaturalist"
+          },
           "total_abundance": 2
         },
         {
@@ -663,14 +738,24 @@
           "scientific_name": "Normandia nitens",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://s3.hpc.ut.ee/plutof-public/large/66a1cb6e-4360-4d33-8d75-e2770e6632c8.jpg",
+            "license": "CC BY-SA 4.0",
+            "creator": "Maare Liiv",
+            "source": "PlutoF"
+          },
           "total_abundance": 5
         },
         {
           "scientific_name": "Megasternum obscurum",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://live.staticflickr.com/65535/53783142254_abddcfeeee_b.jpg",
+            "license": "Copyright by the creator. For license and creator details, see https://nabu-naturgucker-beobachtungen.de/?sprache=en&bild=1605760492.",
+            "creator": null,
+            "source": "GBIF"
+          },
           "total_abundance": 4
         },
         {
@@ -696,7 +781,12 @@
           "scientific_name": "Phyllotreta atra",
           "common_name_local": null,
           "common_name_en": "Turnip Flea Beetle",
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481445318/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Algis Kvaraciejus",
+            "source": "iNaturalist"
+          },
           "total_abundance": 4
         },
         {
@@ -737,7 +827,12 @@
           "scientific_name": "Donacia impressa",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/668551074/original.jpg",
+            "license": "CC BY 4.0",
+            "creator": "Jamie O'Neill",
+            "source": "iNaturalist"
+          },
           "total_abundance": 4
         },
         {
@@ -777,7 +872,12 @@
           "scientific_name": "Normandia nitens",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://s3.hpc.ut.ee/plutof-public/large/66a1cb6e-4360-4d33-8d75-e2770e6632c8.jpg",
+            "license": "CC BY-SA 4.0",
+            "creator": "Maare Liiv",
+            "source": "PlutoF"
+          },
           "total_abundance": 3
         },
         {
@@ -865,7 +965,12 @@
           "scientific_name": "Normandia nitens",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://s3.hpc.ut.ee/plutof-public/large/66a1cb6e-4360-4d33-8d75-e2770e6632c8.jpg",
+            "license": "CC BY-SA 4.0",
+            "creator": "Maare Liiv",
+            "source": "PlutoF"
+          },
           "total_abundance": 4
         },
         {

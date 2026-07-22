@@ -25,7 +25,12 @@
           "scientific_name": "Normandia nitens",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://s3.hpc.ut.ee/plutof-public/large/66a1cb6e-4360-4d33-8d75-e2770e6632c8.jpg",
+            "license": "CC BY-SA 4.0",
+            "creator": "Maare Liiv",
+            "source": "PlutoF"
+          },
           "total_abundance": 228
         },
         {
@@ -46,7 +51,12 @@
           "scientific_name": "Megasternum obscurum",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://live.staticflickr.com/65535/53783142254_abddcfeeee_b.jpg",
+            "license": "Copyright by the creator. For license and creator details, see https://nabu-naturgucker-beobachtungen.de/?sprache=en&bild=1605760492.",
+            "creator": null,
+            "source": "GBIF"
+          },
           "total_abundance": 112
         },
         {
@@ -113,7 +123,12 @@
           "scientific_name": "Normandia nitens",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://s3.hpc.ut.ee/plutof-public/large/66a1cb6e-4360-4d33-8d75-e2770e6632c8.jpg",
+            "license": "CC BY-SA 4.0",
+            "creator": "Maare Liiv",
+            "source": "PlutoF"
+          },
           "total_abundance": 228
         },
         {
@@ -134,7 +149,12 @@
           "scientific_name": "Megasternum obscurum",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://live.staticflickr.com/65535/53783142254_abddcfeeee_b.jpg",
+            "license": "Copyright by the creator. For license and creator details, see https://nabu-naturgucker-beobachtungen.de/?sprache=en&bild=1605760492.",
+            "creator": null,
+            "source": "GBIF"
+          },
           "total_abundance": 112
         },
         {

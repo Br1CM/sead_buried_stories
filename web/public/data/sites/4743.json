@@ -75,7 +75,12 @@
           "scientific_name": "Amara plebeja",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/143902078.jpg",
+            "license": "CC BY-NC-ND 4.0",
+            "creator": "Siebe Bouman",
+            "source": "GBIF"
+          },
           "total_abundance": 1
         },
         {
@@ -185,7 +190,12 @@
           "scientific_name": "Acritus nigricornis",
           "common_name_local": null,
           "common_name_en": "Hister beetle",
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/79402579.jpg",
+            "license": "CC BY-NC-ND 4.0",
+            "creator": "Wil Heesters",
+            "source": "GBIF"
+          },
           "total_abundance": 2
         },
         {
@@ -199,7 +209,12 @@
           "scientific_name": "Acrulia inflata",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://www.artsobservasjoner.no/MediaLibrary/2026/2/519879f8-4c92-4c2c-bdbb-7ff1fec8460d_image.jpg",
+            "license": "© All rights reserved",
+            "creator": "Morten  Angard Mjelde",
+            "source": "GBIF"
+          },
           "total_abundance": 2
         }
       ]

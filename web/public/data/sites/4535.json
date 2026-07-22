@@ -18,7 +18,12 @@
           "scientific_name": "Helophorus brevipalpis (grp)",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://live.staticflickr.com/65535/55128472397_317390bf4c_b.jpg",
+            "license": "Copyright by the creator. For license and creator details, see https://nabu-naturgucker-beobachtungen.de/?sprache=en&bild=1614878878.",
+            "creator": null,
+            "source": "GBIF"
+          },
           "total_abundance": 459
         },
         {
@@ -65,7 +70,12 @@
           "scientific_name": "Chaetocnema concinna",
           "common_name_local": null,
           "common_name_en": "Beet Flea Beetle",
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605707488/original.jpg",
+            "license": "CC BY 4.0",
+            "creator": "Cameron Wilkins",
+            "source": "iNaturalist"
+          },
           "total_abundance": 148
         },
         {
@@ -113,7 +123,12 @@
           "scientific_name": "Helophorus brevipalpis (grp)",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://live.staticflickr.com/65535/55128472397_317390bf4c_b.jpg",
+            "license": "Copyright by the creator. For license and creator details, see https://nabu-naturgucker-beobachtungen.de/?sprache=en&bild=1614878878.",
+            "creator": null,
+            "source": "GBIF"
+          },
           "total_abundance": 228
         },
         {
@@ -139,7 +154,12 @@
           "scientific_name": "Chaetocnema concinna",
           "common_name_local": null,
           "common_name_en": "Beet Flea Beetle",
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605707488/original.jpg",
+            "license": "CC BY 4.0",
+            "creator": "Cameron Wilkins",
+            "source": "iNaturalist"
+          },
           "total_abundance": 115
         },
         {
@@ -194,7 +214,12 @@
           "scientific_name": "Helophorus brevipalpis (grp)",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://live.staticflickr.com/65535/55128472397_317390bf4c_b.jpg",
+            "license": "Copyright by the creator. For license and creator details, see https://nabu-naturgucker-beobachtungen.de/?sprache=en&bild=1614878878.",
+            "creator": null,
+            "source": "GBIF"
+          },
           "total_abundance": 231
         },
         {
@@ -287,7 +312,12 @@
           "scientific_name": "Ithytrichia lamellaris/clavata",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/144762030.jpg",
+            "license": "CC BY-NC-ND 4.0",
+            "creator": "YorickK",
+            "source": "GBIF"
+          },
           "total_abundance": 24
         },
         {
@@ -327,14 +357,24 @@
           "scientific_name": "Limnebius papposus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://arter.dk/media/262be6f1-553a-4ac2-beb2-b17e011f5835.jpg",
+            "license": "CC BY 4.0",
+            "creator": null,
+            "source": "GBIF"
+          },
           "total_abundance": 6
         },
         {
           "scientific_name": "Helophorus brevipalpis (grp)",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://live.staticflickr.com/65535/55128472397_317390bf4c_b.jpg",
+            "license": "Copyright by the creator. For license and creator details, see https://nabu-naturgucker-beobachtungen.de/?sprache=en&bild=1614878878.",
+            "creator": null,
+            "source": "GBIF"
+          },
           "total_abundance": 6
         },
         {
@@ -353,7 +393,12 @@
           "scientific_name": "Chaetocnema concinna",
           "common_name_local": null,
           "common_name_en": "Beet Flea Beetle",
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605707488/original.jpg",
+            "license": "CC BY 4.0",
+            "creator": "Cameron Wilkins",
+            "source": "iNaturalist"
+          },
           "total_abundance": 4
         },
         {

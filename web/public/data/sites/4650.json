@@ -25,14 +25,24 @@
           "scientific_name": "Cercyon tristis",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/82955935.jpg",
+            "license": "CC BY-NC-ND 4.0",
+            "creator": "Ruud van Middelkoop",
+            "source": "GBIF"
+          },
           "total_abundance": 66
         },
         {
           "scientific_name": "Gymnetron beccabungae",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://s3.hpc.ut.ee/plutof-public/large/03010c3a-0096-488d-96a6-4b3222399fe5.jpg",
+            "license": "CC BY-SA 4.0",
+            "creator": "Uno Roosileht",
+            "source": "PlutoF"
+          },
           "total_abundance": 14
         },
         {
@@ -82,7 +92,12 @@
           "scientific_name": "Donacia simplex",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/663420036/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "A. Davis",
+            "source": "iNaturalist"
+          },
           "total_abundance": 7
         },
         {
@@ -111,7 +126,12 @@
           "scientific_name": "Donacia aquatica",
           "common_name_local": null,
           "common_name_en": "Zircon Reed Beetle",
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/625687563/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "bjornl25",
+            "source": "iNaturalist"
+          },
           "total_abundance": 6
         },
         {
@@ -125,28 +145,48 @@
           "scientific_name": "Donacia obscura",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://www.artsobservasjoner.no/MediaLibrary/2026/5/6424e8f4-24d9-4732-9be9-56a9e2503501_image.jpg",
+            "license": "© All rights reserved",
+            "creator": "Ole Eivind Fjeldstad",
+            "source": "GBIF"
+          },
           "total_abundance": 5
         },
         {
           "scientific_name": "Tropiphorus obtusus",
           "common_name_local": null,
           "common_name_en": "Weevil",
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523949910/original.jpg",
+            "license": "CC BY 4.0",
+            "creator": "Daniel K",
+            "source": "iNaturalist"
+          },
           "total_abundance": 5
         },
         {
           "scientific_name": "Tachinus elongatus",
           "common_name_local": null,
           "common_name_en": "Staph beetle",
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541040781/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "R. Hoffman",
+            "source": "iNaturalist"
+          },
           "total_abundance": 4
         },
         {
           "scientific_name": "Hydroporus erythrocephalus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/145046622.jpg",
+            "license": "CC BY-NC-ND 4.0",
+            "creator": "Jornt de Vries",
+            "source": "GBIF"
+          },
           "total_abundance": 4
         },
         {
@@ -179,7 +219,12 @@
           "scientific_name": "Otiorhynchus nodosus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://image.laji.fi/MM.3939142/P5175550.JPG",
+            "license": "CC BY-SA 4.0",
+            "creator": "anne aho",
+            "source": "GBIF"
+          },
           "total_abundance": 3
         }
       ]
@@ -194,7 +239,12 @@
           "scientific_name": "Phytobius leucogaster",
           "common_name_local": null,
           "common_name_en": "European Water Milfoil Weevil",
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/518778335/original.jpg",
+            "license": "CC BY 4.0",
+            "creator": "Вячеслав Юсупов",
+            "source": "iNaturalist"
+          },
           "total_abundance": 19
         },
         {
@@ -248,7 +298,12 @@
           "scientific_name": "Cercyon tristis",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/82955935.jpg",
+            "license": "CC BY-NC-ND 4.0",
+            "creator": "Ruud van Middelkoop",
+            "source": "GBIF"
+          },
           "total_abundance": 3
         },
         {
@@ -277,14 +332,24 @@
           "scientific_name": "Eucnecosum brachypterum",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://www.artsobservasjoner.no/MediaLibrary/2023/5/267db8c8-4f22-4fc8-8694-178dcc049e56_image.jpg",
+            "license": "© All rights reserved",
+            "creator": "Bjarte Aadland",
+            "source": "GBIF"
+          },
           "total_abundance": 192
         },
         {
           "scientific_name": "Olophrum fuscum",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622061038/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Michał Górski",
+            "source": "iNaturalist"
+          },
           "total_abundance": 105
         },
         {
@@ -312,7 +377,12 @@
           "scientific_name": "Cercyon tristis",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/82955935.jpg",
+            "license": "CC BY-NC-ND 4.0",
+            "creator": "Ruud van Middelkoop",
+            "source": "GBIF"
+          },
           "total_abundance": 63
         },
         {
@@ -338,7 +408,12 @@
           "scientific_name": "Agabus arcticus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/692643040/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Sebastian Puzoń",
+            "source": "iNaturalist"
+          },
           "total_abundance": 34
         },
         {

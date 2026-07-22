@@ -18,7 +18,12 @@
           "scientific_name": "Hydroporus tristis",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485573901/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Scott Gilmore",
+            "source": "iNaturalist"
+          },
           "total_abundance": 34
         },
         {
@@ -37,7 +42,12 @@
           "scientific_name": "Rhynchaenus fagi",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/2626741.jpg",
+            "license": "CC BY-NC-ND 4.0",
+            "creator": "Thijs de Graaf",
+            "source": "GBIF"
+          },
           "total_abundance": 20
         },
         {
@@ -58,7 +68,12 @@
           "scientific_name": "Eusphalerum alpinum",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172201653/original.jpeg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Gábor Keresztes",
+            "source": "iNaturalist"
+          },
           "total_abundance": 12
         },
         {
@@ -72,7 +87,12 @@
           "scientific_name": "Arpedium quadrum",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615249275/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "fabiobuono",
+            "source": "iNaturalist"
+          },
           "total_abundance": 10
         },
         {
@@ -101,14 +121,24 @@
           "scientific_name": "Hydroporus tristis",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485573901/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Scott Gilmore",
+            "source": "iNaturalist"
+          },
           "total_abundance": 35
         },
         {
           "scientific_name": "Rhynchaenus fagi",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/2626741.jpg",
+            "license": "CC BY-NC-ND 4.0",
+            "creator": "Thijs de Graaf",
+            "source": "GBIF"
+          },
           "total_abundance": 27
         },
         {
@@ -141,7 +171,12 @@
           "scientific_name": "Eusphalerum alpinum",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172201653/original.jpeg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Gábor Keresztes",
+            "source": "iNaturalist"
+          },
           "total_abundance": 8
         },
         {
@@ -155,7 +190,12 @@
           "scientific_name": "Otiorhynchus scaber",
           "common_name_local": null,
           "common_name_en": "Weevil",
-          "image": null,
+          "image": {
+            "url": "https://live.staticflickr.com/65535/54569350600_5fc70af0c8_b.jpg",
+            "license": "Copyright by the creator. For license and creator details, see https://nabu-naturgucker-beobachtungen.de/?sprache=en&bild=1083958719.",
+            "creator": null,
+            "source": "GBIF"
+          },
           "total_abundance": 7
         },
         {
@@ -169,7 +209,12 @@
           "scientific_name": "Pityophthorus pityographus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178708487/original.jpeg",
+            "license": "CC BY-NC 4.0",
+            "creator": "André Apel",
+            "source": "iNaturalist"
+          },
           "total_abundance": 6
         }
       ]
@@ -184,21 +229,36 @@
           "scientific_name": "Rhynchaenus fagi",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/2626741.jpg",
+            "license": "CC BY-NC-ND 4.0",
+            "creator": "Thijs de Graaf",
+            "source": "GBIF"
+          },
           "total_abundance": 8
         },
         {
           "scientific_name": "Arpedium quadrum",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615249275/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "fabiobuono",
+            "source": "iNaturalist"
+          },
           "total_abundance": 7
         },
         {
           "scientific_name": "Hydroporus tristis",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485573901/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Scott Gilmore",
+            "source": "iNaturalist"
+          },
           "total_abundance": 7
         },
         {
@@ -212,7 +272,12 @@
           "scientific_name": "Anacaena lutescens",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/111696012.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Jochem Kühnen",
+            "source": "GBIF"
+          },
           "total_abundance": 5
         },
         {
@@ -245,7 +310,12 @@
           "scientific_name": "Micropeplus tesserula",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://data.nhm.ac.uk/media/14cc9dd5-2ff7-4029-8daa-98b00f84ce25",
+            "license": "CC BY 4.0",
+            "creator": "The Trustees of the Natural History Museum, London",
+            "source": "GBIF"
+          },
           "total_abundance": 3
         },
         {
@@ -272,7 +342,12 @@
           "scientific_name": "Arpedium quadrum",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615249275/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "fabiobuono",
+            "source": "iNaturalist"
+          },
           "total_abundance": 13
         },
         {
@@ -286,7 +361,12 @@
           "scientific_name": "Helophorus flavipes",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://data.nhm.ac.uk/media/83df38f1-a4c6-4ebd-b397-3527234a894c",
+            "license": "CC BY 4.0",
+            "creator": "The Trustees of the Natural History Museum, London",
+            "source": "GBIF"
+          },
           "total_abundance": 9
         },
         {
@@ -300,7 +380,12 @@
           "scientific_name": "Hydroporus tristis",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485573901/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Scott Gilmore",
+            "source": "iNaturalist"
+          },
           "total_abundance": 6
         },
         {
@@ -319,7 +404,12 @@
           "scientific_name": "Anacaena lutescens",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/111696012.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Jochem Kühnen",
+            "source": "GBIF"
+          },
           "total_abundance": 5
         },
         {
@@ -333,7 +423,12 @@
           "scientific_name": "Agabus affinis",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://www.artsobservasjoner.no/MediaLibrary/2025/4/2509b390-0c9d-4b1e-bffb-350681063f45_image.jpg",
+            "license": "CC BY-SA 4.0",
+            "creator": "Magne Flåten",
+            "source": "GBIF"
+          },
           "total_abundance": 4
         },
         {
@@ -367,7 +462,12 @@
           "scientific_name": "Arpedium quadrum",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615249275/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "fabiobuono",
+            "source": "iNaturalist"
+          },
           "total_abundance": 16
         },
         {
@@ -393,7 +493,12 @@
           "scientific_name": "Anacaena lutescens",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/111696012.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Jochem Kühnen",
+            "source": "GBIF"
+          },
           "total_abundance": 7
         },
         {
@@ -407,14 +512,24 @@
           "scientific_name": "Eusphalerum anale",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "http://www.boldsystems.org/pics/GBCOU/GBOL06800+1407189028.jpg",
+            "license": "CC BY-NC-SA 4.0",
+            "creator": null,
+            "source": "GBIF"
+          },
           "total_abundance": 6
         },
         {
           "scientific_name": "Pityophthorus pityographus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178708487/original.jpeg",
+            "license": "CC BY-NC 4.0",
+            "creator": "André Apel",
+            "source": "iNaturalist"
+          },
           "total_abundance": 4
         },
         {
@@ -453,7 +568,12 @@
           "scientific_name": "Arpedium quadrum",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615249275/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "fabiobuono",
+            "source": "iNaturalist"
+          },
           "total_abundance": 22
         },
         {
@@ -493,7 +613,12 @@
           "scientific_name": "Anacaena lutescens",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/111696012.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Jochem Kühnen",
+            "source": "GBIF"
+          },
           "total_abundance": 6
         },
         {
@@ -507,14 +632,24 @@
           "scientific_name": "Agabus affinis",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://www.artsobservasjoner.no/MediaLibrary/2025/4/2509b390-0c9d-4b1e-bffb-350681063f45_image.jpg",
+            "license": "CC BY-SA 4.0",
+            "creator": "Magne Flåten",
+            "source": "GBIF"
+          },
           "total_abundance": 5
         },
         {
           "scientific_name": "Hydroporus erythrocephalus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/145046622.jpg",
+            "license": "CC BY-NC-ND 4.0",
+            "creator": "Jornt de Vries",
+            "source": "GBIF"
+          },
           "total_abundance": 5
         },
         {
@@ -560,7 +695,12 @@
           "scientific_name": "Pityophthorus pityographus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178708487/original.jpeg",
+            "license": "CC BY-NC 4.0",
+            "creator": "André Apel",
+            "source": "iNaturalist"
+          },
           "total_abundance": 9
         },
         {
@@ -574,21 +714,36 @@
           "scientific_name": "Arpedium quadrum",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615249275/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "fabiobuono",
+            "source": "iNaturalist"
+          },
           "total_abundance": 7
         },
         {
           "scientific_name": "Eusphalerum sorbi",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://www.artsobservasjoner.no/MediaLibrary/2026/5/dc02ab86-d605-4c61-8e57-d6d5335666e3_image.jpg",
+            "license": "CC BY 4.0",
+            "creator": "Arild Omberg",
+            "source": "GBIF"
+          },
           "total_abundance": 6
         },
         {
           "scientific_name": "Eusphalerum luteum",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://www.artsobservasjoner.no/MediaLibrary/2026/6/0e63cd94-66ec-4f94-a439-3a6693c6777d_image.jpg",
+            "license": "CC BY 4.0",
+            "creator": "Halvard Hatlen",
+            "source": "GBIF"
+          },
           "total_abundance": 5
         },
         {
@@ -602,7 +757,12 @@
           "scientific_name": "Anacaena lutescens",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/111696012.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Jochem Kühnen",
+            "source": "GBIF"
+          },
           "total_abundance": 5
         },
         {
@@ -660,7 +820,12 @@
           "scientific_name": "Rhynchaenus fagi",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/2626741.jpg",
+            "license": "CC BY-NC-ND 4.0",
+            "creator": "Thijs de Graaf",
+            "source": "GBIF"
+          },
           "total_abundance": 7
         },
         {
@@ -700,14 +865,24 @@
           "scientific_name": "Eusphalerum luteum",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://www.artsobservasjoner.no/MediaLibrary/2026/6/0e63cd94-66ec-4f94-a439-3a6693c6777d_image.jpg",
+            "license": "CC BY 4.0",
+            "creator": "Halvard Hatlen",
+            "source": "GBIF"
+          },
           "total_abundance": 5
         },
         {
           "scientific_name": "Hydroporus erythrocephalus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/145046622.jpg",
+            "license": "CC BY-NC-ND 4.0",
+            "creator": "Jornt de Vries",
+            "source": "GBIF"
+          },
           "total_abundance": 5
         }
       ]
@@ -729,7 +904,12 @@
           "scientific_name": "Hydroporus tristis",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485573901/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Scott Gilmore",
+            "source": "iNaturalist"
+          },
           "total_abundance": 15
         },
         {
@@ -748,7 +928,12 @@
           "scientific_name": "Enochrus quadripunctatus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/667868036/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "S. P",
+            "source": "iNaturalist"
+          },
           "total_abundance": 6
         },
         {
@@ -875,7 +1060,12 @@
           "scientific_name": "Anacaena lutescens",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/111696012.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Jochem Kühnen",
+            "source": "GBIF"
+          },
           "total_abundance": 4
         },
         {
@@ -889,7 +1079,12 @@
           "scientific_name": "Arpedium quadrum",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615249275/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "fabiobuono",
+            "source": "iNaturalist"
+          },
           "total_abundance": 4
         },
         {
@@ -908,7 +1103,12 @@
           "scientific_name": "Hydroporus erythrocephalus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/145046622.jpg",
+            "license": "CC BY-NC-ND 4.0",
+            "creator": "Jornt de Vries",
+            "source": "GBIF"
+          },
           "total_abundance": 4
         }
       ]
@@ -954,7 +1154,12 @@
           "scientific_name": "Enochrus quadripunctatus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/667868036/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "S. P",
+            "source": "iNaturalist"
+          },
           "total_abundance": 5
         },
         {
@@ -980,14 +1185,24 @@
           "scientific_name": "Arpedium quadrum",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615249275/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "fabiobuono",
+            "source": "iNaturalist"
+          },
           "total_abundance": 4
         },
         {
           "scientific_name": "Hydroporus tristis",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485573901/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Scott Gilmore",
+            "source": "iNaturalist"
+          },
           "total_abundance": 3
         },
         {
@@ -1035,7 +1250,12 @@
           "scientific_name": "Hydroporus tristis",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485573901/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Scott Gilmore",
+            "source": "iNaturalist"
+          },
           "total_abundance": 4
         },
         {
@@ -1049,7 +1269,12 @@
           "scientific_name": "Enochrus quadripunctatus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/667868036/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "S. P",
+            "source": "iNaturalist"
+          },
           "total_abundance": 3
         },
         {
@@ -1068,7 +1293,12 @@
           "scientific_name": "Phyllobius arborator",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646794798/original.jpg",
+            "license": "CC BY 4.0",
+            "creator": "Martin Scheidleder",
+            "source": "iNaturalist"
+          },
           "total_abundance": 3
         },
         {
@@ -1126,7 +1356,12 @@
           "scientific_name": "Hydroporus erythrocephalus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/145046622.jpg",
+            "license": "CC BY-NC-ND 4.0",
+            "creator": "Jornt de Vries",
+            "source": "GBIF"
+          },
           "total_abundance": 7
         },
         {
@@ -1140,28 +1375,48 @@
           "scientific_name": "Enochrus quadripunctatus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/667868036/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "S. P",
+            "source": "iNaturalist"
+          },
           "total_abundance": 5
         },
         {
           "scientific_name": "Donacia obscura",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://www.artsobservasjoner.no/MediaLibrary/2026/5/6424e8f4-24d9-4732-9be9-56a9e2503501_image.jpg",
+            "license": "© All rights reserved",
+            "creator": "Ole Eivind Fjeldstad",
+            "source": "GBIF"
+          },
           "total_abundance": 5
         },
         {
           "scientific_name": "Anacaena lutescens",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/111696012.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Jochem Kühnen",
+            "source": "GBIF"
+          },
           "total_abundance": 4
         },
         {
           "scientific_name": "Hydroporus tristis",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485573901/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Scott Gilmore",
+            "source": "iNaturalist"
+          },
           "total_abundance": 4
         },
         {
@@ -1175,7 +1430,12 @@
           "scientific_name": "Molops piceus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/144459861.jpg",
+            "license": "CC BY-NC-ND 4.0",
+            "creator": "Heike",
+            "source": "GBIF"
+          },
           "total_abundance": 3
         },
         {
@@ -1209,7 +1469,12 @@
           "scientific_name": "Hydroporus tristis",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485573901/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Scott Gilmore",
+            "source": "iNaturalist"
+          },
           "total_abundance": 6
         },
         {
@@ -1228,14 +1493,24 @@
           "scientific_name": "Enochrus quadripunctatus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/667868036/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "S. P",
+            "source": "iNaturalist"
+          },
           "total_abundance": 4
         },
         {
           "scientific_name": "Donacia obscura",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://www.artsobservasjoner.no/MediaLibrary/2026/5/6424e8f4-24d9-4732-9be9-56a9e2503501_image.jpg",
+            "license": "© All rights reserved",
+            "creator": "Ole Eivind Fjeldstad",
+            "source": "GBIF"
+          },
           "total_abundance": 4
         },
         {
@@ -1256,7 +1531,12 @@
           "scientific_name": "Aphodius abdominalis",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://live.staticflickr.com/65535/52984217920_bedda78d78_b.jpg",
+            "license": "Copyright by the creator. For license and creator details, see https://nabu-naturgucker-beobachtungen.de/?sprache=en&bild=1428454010.",
+            "creator": null,
+            "source": "GBIF"
+          },
           "total_abundance": 3
         },
         {
@@ -1297,7 +1577,12 @@
           "scientific_name": "Anacaena lutescens",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/111696012.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Jochem Kühnen",
+            "source": "GBIF"
+          },
           "total_abundance": 3
         },
         {
@@ -1311,14 +1596,24 @@
           "scientific_name": "Olophrum consimile",
           "common_name_local": null,
           "common_name_en": "Staph beetle",
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/641449343/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Vladimir Bryukhov",
+            "source": "iNaturalist"
+          },
           "total_abundance": 3
         },
         {
           "scientific_name": "Enochrus quadripunctatus/fuscipennis",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/667868036/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "S. P",
+            "source": "iNaturalist"
+          },
           "total_abundance": 3
         },
         {
@@ -1349,21 +1644,36 @@
           "scientific_name": "Enochrus quadripunctatus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/667868036/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "S. P",
+            "source": "iNaturalist"
+          },
           "total_abundance": 2
         },
         {
           "scientific_name": "Molops piceus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/144459861.jpg",
+            "license": "CC BY-NC-ND 4.0",
+            "creator": "Heike",
+            "source": "GBIF"
+          },
           "total_abundance": 2
         },
         {
           "scientific_name": "Agabus affinis",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://www.artsobservasjoner.no/MediaLibrary/2025/4/2509b390-0c9d-4b1e-bffb-350681063f45_image.jpg",
+            "license": "CC BY-SA 4.0",
+            "creator": "Magne Flåten",
+            "source": "GBIF"
+          },
           "total_abundance": 2
         }
       ]
@@ -1392,7 +1702,12 @@
           "scientific_name": "Anacaena lutescens",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/111696012.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Jochem Kühnen",
+            "source": "GBIF"
+          },
           "total_abundance": 3
         },
         {
@@ -1423,7 +1738,12 @@
           "scientific_name": "Hydroporus umbrosus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/137727030.jpg",
+            "license": "CC BY-NC-ND 4.0",
+            "creator": "Frank Spikmans",
+            "source": "GBIF"
+          },
           "total_abundance": 2
         },
         {
@@ -1442,14 +1762,24 @@
           "scientific_name": "Aphodius pedellus",
           "common_name_local": null,
           "common_name_en": "Common dung beetle",
-          "image": null,
+          "image": {
+            "url": "https://arter.dk/media/5829943c-ddf1-4cbb-b439-6f4bd9362848.jpg",
+            "license": "CC BY 4.0",
+            "creator": null,
+            "source": "GBIF"
+          },
           "total_abundance": 1
         },
         {
           "scientific_name": "Arpedium quadrum",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615249275/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "fabiobuono",
+            "source": "iNaturalist"
+          },
           "total_abundance": 1
         },
         {
@@ -1528,14 +1858,24 @@
           "scientific_name": "Tachyporus tranversalis",
           "common_name_local": null,
           "common_name_en": "Staph beetle",
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/627600769/original.jpg",
+            "license": "CC BY 4.0",
+            "creator": "Cameron Wilkins",
+            "source": "iNaturalist"
+          },
           "total_abundance": 2
         },
         {
           "scientific_name": "Hydroporus umbrosus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/137727030.jpg",
+            "license": "CC BY-NC-ND 4.0",
+            "creator": "Frank Spikmans",
+            "source": "GBIF"
+          },
           "total_abundance": 2
         },
         {
@@ -1595,7 +1935,12 @@
           "scientific_name": "Pityophthorus pityographus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178708487/original.jpeg",
+            "license": "CC BY-NC 4.0",
+            "creator": "André Apel",
+            "source": "iNaturalist"
+          },
           "total_abundance": 8
         },
         {
@@ -1609,7 +1954,12 @@
           "scientific_name": "Olophrum consimile",
           "common_name_local": null,
           "common_name_en": "Staph beetle",
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/641449343/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Vladimir Bryukhov",
+            "source": "iNaturalist"
+          },
           "total_abundance": 4
         },
         {
@@ -1623,7 +1973,12 @@
           "scientific_name": "Anacaena lutescens",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/111696012.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Jochem Kühnen",
+            "source": "GBIF"
+          },
           "total_abundance": 3
         },
         {

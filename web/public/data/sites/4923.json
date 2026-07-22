@@ -25,7 +25,12 @@
           "scientific_name": "Acritus nigricornis",
           "common_name_local": null,
           "common_name_en": "Hister beetle",
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/79402579.jpg",
+            "license": "CC BY-NC-ND 4.0",
+            "creator": "Wil Heesters",
+            "source": "GBIF"
+          },
           "total_abundance": 1
         },
         {
@@ -70,7 +75,12 @@
           "scientific_name": "Agallia brachyptera",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615007304/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Vladimir Bryukhov",
+            "source": "iNaturalist"
+          },
           "total_abundance": 1
         },
         {
@@ -118,7 +128,12 @@
           "scientific_name": "Acritus nigricornis",
           "common_name_local": null,
           "common_name_en": "Hister beetle",
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/79402579.jpg",
+            "license": "CC BY-NC-ND 4.0",
+            "creator": "Wil Heesters",
+            "source": "GBIF"
+          },
           "total_abundance": 2
         },
         {
@@ -163,7 +178,12 @@
           "scientific_name": "Agallia brachyptera",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615007304/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Vladimir Bryukhov",
+            "source": "iNaturalist"
+          },
           "total_abundance": 2
         },
         {

@@ -18,7 +18,12 @@
           "scientific_name": "Oryzaephilus surinamensis",
           "common_name_local": null,
           "common_name_en": "Merchant Grain Beetle",
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604810643/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Axel Gosseries",
+            "source": "iNaturalist"
+          },
           "total_abundance": 13
         },
         {
@@ -73,14 +78,24 @@
           "scientific_name": "Sitophilus granarius",
           "common_name_local": null,
           "common_name_en": "Grain Weevil",
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612159777/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Vy",
+            "source": "iNaturalist"
+          },
           "total_abundance": 11
         },
         {
           "scientific_name": "Tipnus unicolor",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://ems.dimu.org/image/019EE9iPC6T5p?dimension=max",
+            "license": "CC BY 4.0",
+            "creator": null,
+            "source": "GBIF"
+          },
           "total_abundance": 11
         },
         {
@@ -154,7 +169,12 @@
           "scientific_name": "Tipnus unicolor",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://ems.dimu.org/image/019EE9iPC6T5p?dimension=max",
+            "license": "CC BY 4.0",
+            "creator": null,
+            "source": "GBIF"
+          },
           "total_abundance": 8
         },
         {
@@ -173,7 +193,12 @@
           "scientific_name": "Oryzaephilus surinamensis",
           "common_name_local": null,
           "common_name_en": "Merchant Grain Beetle",
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604810643/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Axel Gosseries",
+            "source": "iNaturalist"
+          },
           "total_abundance": 8
         },
         {
@@ -214,7 +239,12 @@
           "scientific_name": "Acritus nigricornis",
           "common_name_local": null,
           "common_name_en": "Hister beetle",
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/79402579.jpg",
+            "license": "CC BY-NC-ND 4.0",
+            "creator": "Wil Heesters",
+            "source": "GBIF"
+          },
           "total_abundance": 2
         },
         {
@@ -247,7 +277,12 @@
           "scientific_name": "Aglenus brunneus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464336252/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "zmrdk",
+            "source": "iNaturalist"
+          },
           "total_abundance": 2
         },
         {
@@ -292,7 +327,12 @@
           "scientific_name": "Anotylus nitidulus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://11.ilstatic.hu/images/2025-06/r1748809183349_7564578081.jpg",
+            "license": "CC BY 4.0",
+            "creator": "Tóth Norbert",
+            "source": "GBIF"
+          },
           "total_abundance": 2
         }
       ]
@@ -340,7 +380,12 @@
           "scientific_name": "Oryzaephilus surinamensis",
           "common_name_local": null,
           "common_name_en": "Merchant Grain Beetle",
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604810643/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Axel Gosseries",
+            "source": "iNaturalist"
+          },
           "total_abundance": 10
         },
         {
@@ -378,14 +423,24 @@
           "scientific_name": "Xylodromus concinnus",
           "common_name_local": null,
           "common_name_en": "Rove beetle",
-          "image": null,
+          "image": {
+            "url": "https://11.ilstatic.hu/images/2024-09/r1727633916529_xl.webp",
+            "license": "CC BY 4.0",
+            "creator": "Klózer Tamás",
+            "source": "GBIF"
+          },
           "total_abundance": 10
         },
         {
           "scientific_name": "Sitophilus granarius",
           "common_name_local": null,
           "common_name_en": "Grain Weevil",
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612159777/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Vy",
+            "source": "iNaturalist"
+          },
           "total_abundance": 10
         }
       ]
@@ -407,7 +462,12 @@
           "scientific_name": "Anotylus nitidulus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://11.ilstatic.hu/images/2025-06/r1748809183349_7564578081.jpg",
+            "license": "CC BY 4.0",
+            "creator": "Tóth Norbert",
+            "source": "GBIF"
+          },
           "total_abundance": 3
         },
         {
@@ -538,21 +598,36 @@
           "scientific_name": "Aglenus brunneus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464336252/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "zmrdk",
+            "source": "iNaturalist"
+          },
           "total_abundance": 3
         },
         {
           "scientific_name": "Anotylus nitidulus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://11.ilstatic.hu/images/2025-06/r1748809183349_7564578081.jpg",
+            "license": "CC BY 4.0",
+            "creator": "Tóth Norbert",
+            "source": "GBIF"
+          },
           "total_abundance": 3
         },
         {
           "scientific_name": "Anotylus sculpturatus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://11.ilstatic.hu/images/2026-02/r1771943251579_7236023265.jpg",
+            "license": "CC BY 4.0",
+            "creator": "Gulyás Szilvia",
+            "source": "GBIF"
+          },
           "total_abundance": 3
         },
         {
@@ -581,7 +656,12 @@
           "scientific_name": "Acritus nigricornis",
           "common_name_local": null,
           "common_name_en": "Hister beetle",
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/79402579.jpg",
+            "license": "CC BY-NC-ND 4.0",
+            "creator": "Wil Heesters",
+            "source": "GBIF"
+          },
           "total_abundance": 4
         },
         {
@@ -595,7 +675,12 @@
           "scientific_name": "Aglenus brunneus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464336252/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "zmrdk",
+            "source": "iNaturalist"
+          },
           "total_abundance": 4
         },
         {
@@ -647,7 +732,12 @@
           "scientific_name": "Anotylus nitidulus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://11.ilstatic.hu/images/2025-06/r1748809183349_7564578081.jpg",
+            "license": "CC BY 4.0",
+            "creator": "Tóth Norbert",
+            "source": "GBIF"
+          },
           "total_abundance": 4
         },
         {
@@ -688,7 +778,12 @@
           "scientific_name": "Anotylus sculpturatus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://11.ilstatic.hu/images/2026-02/r1771943251579_7236023265.jpg",
+            "license": "CC BY 4.0",
+            "creator": "Gulyás Szilvia",
+            "source": "GBIF"
+          },
           "total_abundance": 2
         },
         {
@@ -709,7 +804,12 @@
           "scientific_name": "Bruchus rufimanus",
           "common_name_local": null,
           "common_name_en": "Bean Beetle",
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624835109/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Rytis Skominas",
+            "source": "iNaturalist"
+          },
           "total_abundance": 2
         },
         {
@@ -752,7 +852,12 @@
           "scientific_name": "Acritus nigricornis",
           "common_name_local": null,
           "common_name_en": "Hister beetle",
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/79402579.jpg",
+            "license": "CC BY-NC-ND 4.0",
+            "creator": "Wil Heesters",
+            "source": "GBIF"
+          },
           "total_abundance": 1
         },
         {
@@ -766,7 +871,12 @@
           "scientific_name": "Aglenus brunneus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464336252/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "zmrdk",
+            "source": "iNaturalist"
+          },
           "total_abundance": 1
         },
         {
@@ -804,14 +914,24 @@
           "scientific_name": "Anotylus sculpturatus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://11.ilstatic.hu/images/2026-02/r1771943251579_7236023265.jpg",
+            "license": "CC BY 4.0",
+            "creator": "Gulyás Szilvia",
+            "source": "GBIF"
+          },
           "total_abundance": 1
         },
         {
           "scientific_name": "Anotylus nitidulus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://11.ilstatic.hu/images/2025-06/r1748809183349_7564578081.jpg",
+            "license": "CC BY 4.0",
+            "creator": "Tóth Norbert",
+            "source": "GBIF"
+          },
           "total_abundance": 1
         },
         {
@@ -859,7 +979,12 @@
           "scientific_name": "Anotylus nitidulus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://11.ilstatic.hu/images/2025-06/r1748809183349_7564578081.jpg",
+            "license": "CC BY 4.0",
+            "creator": "Tóth Norbert",
+            "source": "GBIF"
+          },
           "total_abundance": 2
         },
         {
@@ -885,7 +1010,12 @@
           "scientific_name": "Latridius minutus (grp)",
           "common_name_local": null,
           "common_name_en": "Small minute scavenger beetle",
-          "image": null,
+          "image": {
+            "url": "https://live.staticflickr.com/65535/54447440542_a51aee6239_b.jpg",
+            "license": "Copyright by the creator. For license and creator details, see https://nabu-naturgucker-beobachtungen.de/?sprache=en&bild=-463503315.",
+            "creator": null,
+            "source": "GBIF"
+          },
           "total_abundance": 2
         },
         {
@@ -931,7 +1061,12 @@
           "scientific_name": "Anotylus nitidulus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://11.ilstatic.hu/images/2025-06/r1748809183349_7564578081.jpg",
+            "license": "CC BY 4.0",
+            "creator": "Tóth Norbert",
+            "source": "GBIF"
+          },
           "total_abundance": 2
         },
         {
@@ -1048,7 +1183,12 @@
           "scientific_name": "Anotylus nitidulus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://11.ilstatic.hu/images/2025-06/r1748809183349_7564578081.jpg",
+            "license": "CC BY 4.0",
+            "creator": "Tóth Norbert",
+            "source": "GBIF"
+          },
           "total_abundance": 2
         },
         {
@@ -1079,7 +1219,12 @@
           "scientific_name": "Atomaria nigripennis",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://s3.hpc.ut.ee/plutof-public/large/671ca9df-33fe-4365-b405-5f88159b6ac7.jpg",
+            "license": "CC BY-SA 4.0",
+            "creator": "Uno Roosileht",
+            "source": "PlutoF"
+          },
           "total_abundance": 2
         },
         {
@@ -1115,7 +1260,12 @@
           "scientific_name": "Acritus nigricornis",
           "common_name_local": null,
           "common_name_en": "Hister beetle",
-          "image": null,
+          "image": {
+            "url": "https://observation.org/photos/79402579.jpg",
+            "license": "CC BY-NC-ND 4.0",
+            "creator": "Wil Heesters",
+            "source": "GBIF"
+          },
           "total_abundance": 2
         },
         {

@@ -144,14 +144,24 @@
           "scientific_name": "Eucnecosum brachypterum",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://www.artsobservasjoner.no/MediaLibrary/2023/5/267db8c8-4f22-4fc8-8694-178dcc049e56_image.jpg",
+            "license": "© All rights reserved",
+            "creator": "Bjarte Aadland",
+            "source": "GBIF"
+          },
           "total_abundance": 118
         },
         {
           "scientific_name": "Olophrum fuscum",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622061038/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Michał Górski",
+            "source": "iNaturalist"
+          },
           "total_abundance": 94
         },
         {
@@ -218,14 +228,24 @@
           "scientific_name": "Olophrum fuscum",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622061038/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Michał Górski",
+            "source": "iNaturalist"
+          },
           "total_abundance": 34
         },
         {
           "scientific_name": "Eucnecosum brachypterum",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://www.artsobservasjoner.no/MediaLibrary/2023/5/267db8c8-4f22-4fc8-8694-178dcc049e56_image.jpg",
+            "license": "© All rights reserved",
+            "creator": "Bjarte Aadland",
+            "source": "GBIF"
+          },
           "total_abundance": 27
         },
         {

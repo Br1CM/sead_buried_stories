@@ -18,7 +18,12 @@
           "scientific_name": "Sitophilus granarius",
           "common_name_local": null,
           "common_name_en": "Grain Weevil",
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612159777/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Vy",
+            "source": "iNaturalist"
+          },
           "total_abundance": 373
         },
         {
@@ -37,7 +42,12 @@
           "scientific_name": "Latridius minutus (grp)",
           "common_name_local": null,
           "common_name_en": "Small minute scavenger beetle",
-          "image": null,
+          "image": {
+            "url": "https://live.staticflickr.com/65535/54447440542_a51aee6239_b.jpg",
+            "license": "Copyright by the creator. For license and creator details, see https://nabu-naturgucker-beobachtungen.de/?sprache=en&bild=-463503315.",
+            "creator": null,
+            "source": "GBIF"
+          },
           "total_abundance": 301
         },
         {
@@ -56,7 +66,12 @@
           "scientific_name": "Oryzaephilus surinamensis",
           "common_name_local": null,
           "common_name_en": "Merchant Grain Beetle",
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604810643/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Axel Gosseries",
+            "source": "iNaturalist"
+          },
           "total_abundance": 239
         },
         {
@@ -128,21 +143,36 @@
           "scientific_name": "Oryzaephilus surinamensis",
           "common_name_local": null,
           "common_name_en": "Merchant Grain Beetle",
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604810643/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Axel Gosseries",
+            "source": "iNaturalist"
+          },
           "total_abundance": 228
         },
         {
           "scientific_name": "Sitophilus granarius",
           "common_name_local": null,
           "common_name_en": "Grain Weevil",
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612159777/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Vy",
+            "source": "iNaturalist"
+          },
           "total_abundance": 164
         },
         {
           "scientific_name": "Latridius minutus (grp)",
           "common_name_local": null,
           "common_name_en": "Small minute scavenger beetle",
-          "image": null,
+          "image": {
+            "url": "https://live.staticflickr.com/65535/54447440542_a51aee6239_b.jpg",
+            "license": "Copyright by the creator. For license and creator details, see https://nabu-naturgucker-beobachtungen.de/?sprache=en&bild=-463503315.",
+            "creator": null,
+            "source": "GBIF"
+          },
           "total_abundance": 132
         },
         {
@@ -221,14 +251,24 @@
           "scientific_name": "Latridius minutus (grp)",
           "common_name_local": null,
           "common_name_en": "Small minute scavenger beetle",
-          "image": null,
+          "image": {
+            "url": "https://live.staticflickr.com/65535/54447440542_a51aee6239_b.jpg",
+            "license": "Copyright by the creator. For license and creator details, see https://nabu-naturgucker-beobachtungen.de/?sprache=en&bild=-463503315.",
+            "creator": null,
+            "source": "GBIF"
+          },
           "total_abundance": 171
         },
         {
           "scientific_name": "Oryzaephilus surinamensis",
           "common_name_local": null,
           "common_name_en": "Merchant Grain Beetle",
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604810643/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Axel Gosseries",
+            "source": "iNaturalist"
+          },
           "total_abundance": 99
         },
         {
@@ -247,7 +287,12 @@
           "scientific_name": "Sitophilus granarius",
           "common_name_local": null,
           "common_name_en": "Grain Weevil",
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612159777/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "Vy",
+            "source": "iNaturalist"
+          },
           "total_abundance": 73
         },
         {
@@ -307,7 +352,12 @@
           "scientific_name": "Thoracochaeta zosterae",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://www.artsobservasjoner.no/MediaLibrary/2026/6/8b2ce26c-88b0-4fcc-a586-cc468ef6815a_image.jpg",
+            "license": "© All rights reserved",
+            "creator": "Bjarte Aadland",
+            "source": "GBIF"
+          },
           "total_abundance": 1564
         },
         {
@@ -333,7 +383,12 @@
           "scientific_name": "Latridius minutus (grp)",
           "common_name_local": null,
           "common_name_en": "Small minute scavenger beetle",
-          "image": null,
+          "image": {
+            "url": "https://live.staticflickr.com/65535/54447440542_a51aee6239_b.jpg",
+            "license": "Copyright by the creator. For license and creator details, see https://nabu-naturgucker-beobachtungen.de/?sprache=en&bild=-463503315.",
+            "creator": null,
+            "source": "GBIF"
+          },
           "total_abundance": 207
         },
         {
@@ -400,7 +455,12 @@
           "scientific_name": "Thoracochaeta zosterae",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://www.artsobservasjoner.no/MediaLibrary/2026/6/8b2ce26c-88b0-4fcc-a586-cc468ef6815a_image.jpg",
+            "license": "© All rights reserved",
+            "creator": "Bjarte Aadland",
+            "source": "GBIF"
+          },
           "total_abundance": 1120
         },
         {
@@ -421,7 +481,12 @@
           "scientific_name": "Tipnus unicolor",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://ems.dimu.org/image/019EE9iPC6T5p?dimension=max",
+            "license": "CC BY 4.0",
+            "creator": null,
+            "source": "GBIF"
+          },
           "total_abundance": 96
         },
         {
@@ -440,7 +505,12 @@
           "scientific_name": "Latridius minutus (grp)",
           "common_name_local": null,
           "common_name_en": "Small minute scavenger beetle",
-          "image": null,
+          "image": {
+            "url": "https://live.staticflickr.com/65535/54447440542_a51aee6239_b.jpg",
+            "license": "Copyright by the creator. For license and creator details, see https://nabu-naturgucker-beobachtungen.de/?sprache=en&bild=-463503315.",
+            "creator": null,
+            "source": "GBIF"
+          },
           "total_abundance": 90
         },
         {
@@ -459,7 +529,12 @@
           "scientific_name": "Aglenus brunneus",
           "common_name_local": null,
           "common_name_en": null,
-          "image": null,
+          "image": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464336252/original.jpg",
+            "license": "CC BY-NC 4.0",
+            "creator": "zmrdk",
+            "source": "iNaturalist"
+          },
           "total_abundance": 62
         },
         {
