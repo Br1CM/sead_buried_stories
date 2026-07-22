@@ -1,0 +1,224 @@
+{
+  "slug": "early-neolithic-s-scandinavia",
+  "name": "Early neolithic S Scandinavia",
+  "label_range": "4000 BC - 3300 BC",
+  "avg_older_bp": 5950.0,
+  "avg_younger_bp": 5250.0,
+  "n_samples": 359,
+  "n_sites": 23,
+  "sites": [
+    {
+      "site_id": 3427,
+      "site_name": "Vallby",
+      "lat": 59.3613691005,
+      "lon": 15.0865799962,
+      "n_samples": 4
+    },
+    {
+      "site_id": 3439,
+      "site_name": "Tygapil",
+      "lat": 55.3991926004,
+      "lon": 14.0940762635,
+      "n_samples": 36
+    },
+    {
+      "site_id": 3474,
+      "site_name": "Smällan",
+      "lat": 59.1566599447,
+      "lon": 17.8264367691,
+      "n_samples": 9
+    },
+    {
+      "site_id": 3481,
+      "site_name": "Skumparberget",
+      "lat": 59.3765721103,
+      "lon": 15.3849637001,
+      "n_samples": 9
+    },
+    {
+      "site_id": 3486,
+      "site_name": "Siretorp",
+      "lat": 56.0228937093,
+      "lon": 14.6077538519,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3489,
+      "site_name": "Saxtorp (SU 8)",
+      "lat": 55.8478896616,
+      "lon": 12.9644832433,
+      "n_samples": 27
+    },
+    {
+      "site_id": 3526,
+      "site_name": "Oxsätra, Anneberg",
+      "lat": 59.9975636047,
+      "lon": 17.3615351055,
+      "n_samples": 30
+    },
+    {
+      "site_id": 3561,
+      "site_name": "Malmö 32",
+      "lat": 55.5926550673,
+      "lon": 13.124444939,
+      "n_samples": 8
+    },
+    {
+      "site_id": 3562,
+      "site_name": "Malmahed",
+      "lat": 59.1352959095,
+      "lon": 16.7303463557,
+      "n_samples": 33
+    },
+    {
+      "site_id": 3569,
+      "site_name": "Löderup 21",
+      "lat": 55.4070184609,
+      "lon": 14.188642964,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3572,
+      "site_name": "Löddesborg",
+      "lat": 55.7327738858,
+      "lon": 12.9760863039,
+      "n_samples": 16
+    },
+    {
+      "site_id": 3655,
+      "site_name": "Karlsfält",
+      "lat": 55.4847331698,
+      "lon": 13.9070741296,
+      "n_samples": 6
+    },
+    {
+      "site_id": 3661,
+      "site_name": "Järrestad SU2",
+      "lat": 55.5348436416,
+      "lon": 14.2804949899,
+      "n_samples": 24
+    },
+    {
+      "site_id": 3662,
+      "site_name": "Järrestad SU1",
+      "lat": 55.5353450009,
+      "lon": 14.2756056403,
+      "n_samples": 9
+    },
+    {
+      "site_id": 3689,
+      "site_name": "Hjulberga 2",
+      "lat": 59.336867764,
+      "lon": 15.1143608104,
+      "n_samples": 20
+    },
+    {
+      "site_id": 3690,
+      "site_name": "Hjulberga 1",
+      "lat": 59.3407215532,
+      "lon": 15.1128794848,
+      "n_samples": 16
+    },
+    {
+      "site_id": 3725,
+      "site_name": "Glädjen",
+      "lat": 60.2005055974,
+      "lon": 17.4968905667,
+      "n_samples": 15
+    },
+    {
+      "site_id": 3741,
+      "site_name": "Eklundshov",
+      "lat": 59.1885552299,
+      "lon": 17.9032000709,
+      "n_samples": 9
+    },
+    {
+      "site_id": 3751,
+      "site_name": "Dalskarlstorp",
+      "lat": 59.8333381886,
+      "lon": 16.502886243,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3753,
+      "site_name": "Dagstorp (SU 21)",
+      "lat": 55.8188822611,
+      "lon": 13.064329747,
+      "n_samples": 15
+    },
+    {
+      "site_id": 3766,
+      "site_name": "Båtsberg",
+      "lat": 57.1456028163,
+      "lon": 12.3493576875,
+      "n_samples": 4
+    },
+    {
+      "site_id": 3809,
+      "site_name": "Amhult",
+      "lat": 57.7142363439,
+      "lon": 11.7782901544,
+      "n_samples": 30
+    },
+    {
+      "site_id": 3811,
+      "site_name": "Almhov subarea 1",
+      "lat": 55.560345197,
+      "lon": 12.9450954079,
+      "n_samples": 30
+    }
+  ],
+  "temper": [
+    {
+      "material": "Granite",
+      "pct_present": 87.2,
+      "n_observed": 359
+    },
+    {
+      "material": "Organic material",
+      "pct_present": 11.1,
+      "n_observed": 359
+    },
+    {
+      "material": "Naturally tempered clay",
+      "pct_present": 7.5,
+      "n_observed": 359
+    },
+    {
+      "material": "Crushed rock",
+      "pct_present": 6.1,
+      "n_observed": 359
+    },
+    {
+      "material": "Chamotte (crushed pottery)",
+      "pct_present": 3.1,
+      "n_observed": 359
+    },
+    {
+      "material": "Sand",
+      "pct_present": 1.7,
+      "n_observed": 359
+    },
+    {
+      "material": "Bone",
+      "pct_present": 0.8,
+      "n_observed": 359
+    },
+    {
+      "material": "Other additive",
+      "pct_present": 0.0,
+      "n_observed": 359
+    },
+    {
+      "material": "Asbestos",
+      "pct_present": 0.0,
+      "n_observed": 359
+    },
+    {
+      "material": "Shell/carbonate",
+      "pct_present": 0.0,
+      "n_observed": 359
+    }
+  ]
+}

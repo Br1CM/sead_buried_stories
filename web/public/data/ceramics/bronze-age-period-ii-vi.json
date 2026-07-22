@@ -1,0 +1,217 @@
+{
+  "slug": "bronze-age-period-ii-vi",
+  "name": "Bronze Age Period II - VI",
+  "label_range": "1500 BC - 500 BC",
+  "avg_older_bp": 3450.0,
+  "avg_younger_bp": 2450.0,
+  "n_samples": 604,
+  "n_sites": 22,
+  "sites": [
+    {
+      "site_id": 3407,
+      "site_name": "Årups norre vång",
+      "lat": 56.0605211402,
+      "lon": 14.4660348079,
+      "n_samples": 6
+    },
+    {
+      "site_id": 3408,
+      "site_name": "Årup (Skräbeån)",
+      "lat": 56.0627308134,
+      "lon": 14.4742592081,
+      "n_samples": 9
+    },
+    {
+      "site_id": 3447,
+      "site_name": "Tjärnan",
+      "lat": 60.312555,
+      "lon": 20.161787,
+      "n_samples": 9
+    },
+    {
+      "site_id": 3457,
+      "site_name": "Syllöda",
+      "lat": 60.28475,
+      "lon": 20.1246,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3467,
+      "site_name": "Solheim",
+      "lat": 55.154298,
+      "lon": 14.754174,
+      "n_samples": 6
+    },
+    {
+      "site_id": 3470,
+      "site_name": "Sockengränsen",
+      "lat": 56.0588566108,
+      "lon": 14.4531948768,
+      "n_samples": 21
+    },
+    {
+      "site_id": 3479,
+      "site_name": "Skälby",
+      "lat": 59.6588633511,
+      "lon": 17.1071191049,
+      "n_samples": 2
+    },
+    {
+      "site_id": 3517,
+      "site_name": "Pryssgården",
+      "lat": 58.6053722728,
+      "lon": 16.1289079804,
+      "n_samples": 35
+    },
+    {
+      "site_id": 3521,
+      "site_name": "Pileskoven",
+      "lat": 55.171236,
+      "lon": 14.811108,
+      "n_samples": 6
+    },
+    {
+      "site_id": 3528,
+      "site_name": "Otterböte",
+      "lat": 59.930144,
+      "lon": 20.88103,
+      "n_samples": 72
+    },
+    {
+      "site_id": 3571,
+      "site_name": "Löderup",
+      "lat": 55.3942660175,
+      "lon": 14.119624284,
+      "n_samples": 4
+    },
+    {
+      "site_id": 3639,
+      "site_name": "Kråkeslätt",
+      "lat": 56.0607212216,
+      "lon": 14.4583396069,
+      "n_samples": 6
+    },
+    {
+      "site_id": 3640,
+      "site_name": "Kristineberg (Oxie 15:1)",
+      "lat": 55.5363945567,
+      "lon": 13.0849531327,
+      "n_samples": 122
+    },
+    {
+      "site_id": 3669,
+      "site_name": "Ingelstorp: Granhill",
+      "lat": 55.4209398021,
+      "lon": 14.0285645566,
+      "n_samples": 19
+    },
+    {
+      "site_id": 3670,
+      "site_name": "Ingelstorp: Cemetery 4",
+      "lat": 55.4191368397,
+      "lon": 14.0369346669,
+      "n_samples": 22
+    },
+    {
+      "site_id": 3671,
+      "site_name": "Ingelstorp: Cemetery 2",
+      "lat": 55.4310318281,
+      "lon": 14.0423027173,
+      "n_samples": 4
+    },
+    {
+      "site_id": 3673,
+      "site_name": "Ingelstorp 14",
+      "lat": 55.4162743064,
+      "lon": 14.0351718095,
+      "n_samples": 16
+    },
+    {
+      "site_id": 3694,
+      "site_name": "Hellerö",
+      "lat": 57.97224691,
+      "lon": 16.6431397144,
+      "n_samples": 56
+    },
+    {
+      "site_id": 3779,
+      "site_name": "Björnstorp",
+      "lat": 55.8032892219,
+      "lon": 13.0230745659,
+      "n_samples": 2
+    },
+    {
+      "site_id": 3786,
+      "site_name": "Bjäresjö",
+      "lat": 55.4539044278,
+      "lon": 13.7400730712,
+      "n_samples": 30
+    },
+    {
+      "site_id": 3805,
+      "site_name": "Apalle",
+      "lat": 59.594589,
+      "lon": 17.462282,
+      "n_samples": 146
+    },
+    {
+      "site_id": 3815,
+      "site_name": "Lockarp 7B",
+      "lat": 55.5483095632,
+      "lon": 13.0170149303,
+      "n_samples": 8
+    }
+  ],
+  "temper": [
+    {
+      "material": "Granite",
+      "pct_present": 85.9,
+      "n_observed": 601
+    },
+    {
+      "material": "Crushed rock",
+      "pct_present": 8.5,
+      "n_observed": 602
+    },
+    {
+      "material": "Naturally tempered clay",
+      "pct_present": 6.2,
+      "n_observed": 596
+    },
+    {
+      "material": "Sand",
+      "pct_present": 4.7,
+      "n_observed": 602
+    },
+    {
+      "material": "Chamotte (crushed pottery)",
+      "pct_present": 3.3,
+      "n_observed": 602
+    },
+    {
+      "material": "Bone",
+      "pct_present": 1.2,
+      "n_observed": 596
+    },
+    {
+      "material": "Other additive",
+      "pct_present": 0.8,
+      "n_observed": 596
+    },
+    {
+      "material": "Shell/carbonate",
+      "pct_present": 0.3,
+      "n_observed": 590
+    },
+    {
+      "material": "Organic material",
+      "pct_present": 0.3,
+      "n_observed": 596
+    },
+    {
+      "material": "Asbestos",
+      "pct_present": 0.0,
+      "n_observed": 602
+    }
+  ]
+}

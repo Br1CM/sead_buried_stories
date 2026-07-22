@@ -1,0 +1,133 @@
+{
+  "slug": "mesolithic-early-neolithic-scandinavia",
+  "name": "Mesolithic  - Early Neolithic Scandinavia",
+  "label_range": "11000 BC - 3300 BC",
+  "avg_older_bp": 12950.0,
+  "avg_younger_bp": 5250.0,
+  "n_samples": 161,
+  "n_sites": 10,
+  "sites": [
+    {
+      "site_id": 3420,
+      "site_name": "Vik",
+      "lat": 55.6137376283,
+      "lon": 14.2879259394,
+      "n_samples": 9
+    },
+    {
+      "site_id": 3468,
+      "site_name": "Soldattorpet (Limhamn)",
+      "lat": 55.5897104075,
+      "lon": 12.9414976957,
+      "n_samples": 15
+    },
+    {
+      "site_id": 3486,
+      "site_name": "Siretorp",
+      "lat": 56.0228937093,
+      "lon": 14.6077538519,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3508,
+      "site_name": "Ringkloster",
+      "lat": 56.023451,
+      "lon": 10.259709,
+      "n_samples": 44
+    },
+    {
+      "site_id": 3536,
+      "site_name": "Norsminde",
+      "lat": 56.023451,
+      "lon": 10.259709,
+      "n_samples": 24
+    },
+    {
+      "site_id": 3567,
+      "site_name": "Löderup 3",
+      "lat": 55.4117618327,
+      "lon": 14.1870925819,
+      "n_samples": 4
+    },
+    {
+      "site_id": 3572,
+      "site_name": "Löddesborg",
+      "lat": 55.7327738858,
+      "lon": 12.9760863039,
+      "n_samples": 23
+    },
+    {
+      "site_id": 3667,
+      "site_name": "Ivetofta",
+      "lat": 56.0885117271,
+      "lon": 14.4645066099,
+      "n_samples": 12
+    },
+    {
+      "site_id": 3712,
+      "site_name": "Gualöv 24",
+      "lat": 56.0423536211,
+      "lon": 14.4660770572,
+      "n_samples": 4
+    },
+    {
+      "site_id": 3735,
+      "site_name": "Flyndehage",
+      "lat": 56.035607,
+      "lon": 10.199994,
+      "n_samples": 23
+    }
+  ],
+  "temper": [
+    {
+      "material": "Granite",
+      "pct_present": 72.0,
+      "n_observed": 161
+    },
+    {
+      "material": "Chamotte (crushed pottery)",
+      "pct_present": 41.4,
+      "n_observed": 157
+    },
+    {
+      "material": "Organic material",
+      "pct_present": 33.5,
+      "n_observed": 161
+    },
+    {
+      "material": "Naturally tempered clay",
+      "pct_present": 18.6,
+      "n_observed": 161
+    },
+    {
+      "material": "Crushed rock",
+      "pct_present": 5.0,
+      "n_observed": 161
+    },
+    {
+      "material": "Sand",
+      "pct_present": 2.5,
+      "n_observed": 161
+    },
+    {
+      "material": "Other additive",
+      "pct_present": 0.0,
+      "n_observed": 161
+    },
+    {
+      "material": "Asbestos",
+      "pct_present": 0.0,
+      "n_observed": 161
+    },
+    {
+      "material": "Bone",
+      "pct_present": 0.0,
+      "n_observed": 161
+    },
+    {
+      "material": "Shell/carbonate",
+      "pct_present": 0.0,
+      "n_observed": 161
+    }
+  ]
+}

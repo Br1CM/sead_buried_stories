@@ -1,0 +1,294 @@
+{
+  "slug": "roman-iron-age",
+  "name": "Roman Iron Age",
+  "label_range": "1 BC/AD - 400 AD",
+  "avg_older_bp": 1950.0,
+  "avg_younger_bp": 1550.0,
+  "n_samples": 1858,
+  "n_sites": 33,
+  "sites": [
+    {
+      "site_id": 3405,
+      "site_name": "Öggestorp",
+      "lat": 57.7181041092,
+      "lon": 14.3790256531,
+      "n_samples": 39
+    },
+    {
+      "site_id": 3413,
+      "site_name": "Västervång",
+      "lat": 55.393044865,
+      "lon": 13.1498252554,
+      "n_samples": 9
+    },
+    {
+      "site_id": 3429,
+      "site_name": "Valby",
+      "lat": 56.056063,
+      "lon": 12.20104,
+      "n_samples": 15
+    },
+    {
+      "site_id": 3495,
+      "site_name": "Rørarød",
+      "lat": 59.079943,
+      "lon": 9.791274,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3535,
+      "site_name": "Nybölle 4",
+      "lat": 55.203348,
+      "lon": 10.415473,
+      "n_samples": 4
+    },
+    {
+      "site_id": 3548,
+      "site_name": "Møllegårdsmarken",
+      "lat": 55.152699,
+      "lon": 10.737239,
+      "n_samples": 248
+    },
+    {
+      "site_id": 3565,
+      "site_name": "Løkkebjerggård",
+      "lat": 55.153563,
+      "lon": 10.681166,
+      "n_samples": 149
+    },
+    {
+      "site_id": 3571,
+      "site_name": "Löderup",
+      "lat": 55.3942660175,
+      "lon": 14.119624284,
+      "n_samples": 8
+    },
+    {
+      "site_id": 3577,
+      "site_name": "Lundehöj 26",
+      "lat": 55.203348,
+      "lon": 10.415473,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3578,
+      "site_name": "Lundeborg II",
+      "lat": 55.142942,
+      "lon": 10.782283,
+      "n_samples": 120
+    },
+    {
+      "site_id": 3579,
+      "site_name": "Lundeborg I",
+      "lat": 55.142942,
+      "lon": 10.782283,
+      "n_samples": 364
+    },
+    {
+      "site_id": 3596,
+      "site_name": "Lerstang",
+      "lat": 59.076437,
+      "lon": 9.725638,
+      "n_samples": 6
+    },
+    {
+      "site_id": 3606,
+      "site_name": "Kärringsjön",
+      "lat": 56.7265579,
+      "lon": 12.9178706946,
+      "n_samples": 57
+    },
+    {
+      "site_id": 3623,
+      "site_name": "kv. Elektronen",
+      "lat": 57.78773619,
+      "lon": 14.2645885962,
+      "n_samples": 21
+    },
+    {
+      "site_id": 3641,
+      "site_name": "Kristiansand ",
+      "lat": 58.150488,
+      "lon": 7.99654,
+      "n_samples": 12
+    },
+    {
+      "site_id": 3644,
+      "site_name": "Klörup-Aggarp",
+      "lat": 55.4617788533,
+      "lon": 13.1923840822,
+      "n_samples": 45
+    },
+    {
+      "site_id": 3672,
+      "site_name": "Ingelstorp 8",
+      "lat": 55.4302139533,
+      "lon": 14.0468895814,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3685,
+      "site_name": "Hune hall/Arlösa",
+      "lat": 56.7200399504,
+      "lon": 12.9193096558,
+      "n_samples": 12
+    },
+    {
+      "site_id": 3691,
+      "site_name": "Himlingöje",
+      "lat": 55.374941,
+      "lon": 12.211856,
+      "n_samples": 32
+    },
+    {
+      "site_id": 3700,
+      "site_name": "Hasslösa",
+      "lat": 58.4278306536,
+      "lon": 13.2814309958,
+      "n_samples": 30
+    },
+    {
+      "site_id": 3704,
+      "site_name": "Hamre",
+      "lat": 59.5939573995,
+      "lon": 16.6092138172,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3709,
+      "site_name": "Gödåker",
+      "lat": 60.0496770632,
+      "lon": 17.6677705788,
+      "n_samples": 24
+    },
+    {
+      "site_id": 3710,
+      "site_name": "Gudme great hall",
+      "lat": 55.151418,
+      "lon": 10.707618,
+      "n_samples": 12
+    },
+    {
+      "site_id": 3711,
+      "site_name": "Gudme",
+      "lat": 55.151418,
+      "lon": 10.707618,
+      "n_samples": 168
+    },
+    {
+      "site_id": 3716,
+      "site_name": "Gryagervej",
+      "lat": 55.14437,
+      "lon": 10.693859,
+      "n_samples": 35
+    },
+    {
+      "site_id": 3722,
+      "site_name": "Grevie 363",
+      "lat": 56.3632478676,
+      "lon": 12.7990216084,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3743,
+      "site_name": "Eidanger Prestegård",
+      "lat": 59.123382,
+      "lon": 9.692145,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3744,
+      "site_name": "Egelygård",
+      "lat": 55.142034,
+      "lon": 10.70658,
+      "n_samples": 22
+    },
+    {
+      "site_id": 3771,
+      "site_name": "Brudager Settlement",
+      "lat": 55.116525,
+      "lon": 10.674199,
+      "n_samples": 132
+    },
+    {
+      "site_id": 3772,
+      "site_name": "Brudager Cemetery",
+      "lat": 55.116525,
+      "lon": 10.674199,
+      "n_samples": 93
+    },
+    {
+      "site_id": 3774,
+      "site_name": "Brogård",
+      "lat": 56.7269567418,
+      "lon": 12.9418776008,
+      "n_samples": 12
+    },
+    {
+      "site_id": 3775,
+      "site_name": "Bringsvær",
+      "lat": 58.371489,
+      "lon": 8.618923,
+      "n_samples": 4
+    },
+    {
+      "site_id": 3801,
+      "site_name": "Augland",
+      "lat": 58.204026,
+      "lon": 7.925262,
+      "n_samples": 167
+    }
+  ],
+  "temper": [
+    {
+      "material": "Granite",
+      "pct_present": 75.9,
+      "n_observed": 1858
+    },
+    {
+      "material": "Naturally tempered clay",
+      "pct_present": 20.8,
+      "n_observed": 1858
+    },
+    {
+      "material": "Chamotte (crushed pottery)",
+      "pct_present": 10.2,
+      "n_observed": 1858
+    },
+    {
+      "material": "Bone",
+      "pct_present": 2.5,
+      "n_observed": 1858
+    },
+    {
+      "material": "Organic material",
+      "pct_present": 2.2,
+      "n_observed": 1858
+    },
+    {
+      "material": "Crushed rock",
+      "pct_present": 2.1,
+      "n_observed": 1858
+    },
+    {
+      "material": "Other additive",
+      "pct_present": 1.8,
+      "n_observed": 1858
+    },
+    {
+      "material": "Sand",
+      "pct_present": 1.2,
+      "n_observed": 1846
+    },
+    {
+      "material": "Asbestos",
+      "pct_present": 0.4,
+      "n_observed": 1858
+    },
+    {
+      "material": "Shell/carbonate",
+      "pct_present": 0.0,
+      "n_observed": 1858
+    }
+  ]
+}

@@ -1,0 +1,722 @@
+{
+  "site_id": 4971,
+  "site_name": "Aston on Trent",
+  "lat": 52.85278,
+  "lon": -1.3611112,
+  "n_taxa": 335,
+  "n_layers": 8,
+  "oldest_label": "8050 BC - 1950 AD",
+  "youngest_label": "1440 BC - 1310 BC",
+  "layers": [
+    {
+      "age_older_bp": 10000.0,
+      "age_younger_bp": 0.0,
+      "label": "8050 BC - 1950 AD",
+      "n_taxa": 81,
+      "taxa": [
+        {
+          "scientific_name": "Oulimnius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 33
+        },
+        {
+          "scientific_name": "Hydraena britteni/riparia",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 22
+        },
+        {
+          "scientific_name": "Esolus parallelepipedus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/132565_4a.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 7
+        },
+        {
+          "scientific_name": "Nebrioporus depressus/elegans",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Hydronomus alismatis",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Curculionidae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Longitarsus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Limnius volckmari",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Ochthebius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Haliplus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        }
+      ]
+    },
+    {
+      "age_older_bp": 10000.0,
+      "age_younger_bp": 7000.0,
+      "label": "8050 BC - 5050 BC",
+      "n_taxa": 252,
+      "taxa": [
+        {
+          "scientific_name": "Sericostoma personatum",
+          "common_name_local": null,
+          "common_name_en": "Welshman's Button Caddisfly",
+          "image": {
+            "url": "https://images.naturalis.nl/original/134930_10.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 556
+        },
+        {
+          "scientific_name": "Oulimnius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 394
+        },
+        {
+          "scientific_name": "Hydraena britteni/riparia",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 140
+        },
+        {
+          "scientific_name": "Esolus parallelepipedus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/132565_4a.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 111
+        },
+        {
+          "scientific_name": "Brachycentrus subnubilus",
+          "common_name_local": null,
+          "common_name_en": "Grannom Caddisfly",
+          "image": null,
+          "total_abundance": 100
+        },
+        {
+          "scientific_name": "Lepidostoma hirtum",
+          "common_name_local": null,
+          "common_name_en": "Square Caddisfly",
+          "image": null,
+          "total_abundance": 94
+        },
+        {
+          "scientific_name": "Molanna angustata",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/92851_dsc01003irf16viii14bwn_molanna_angustata_dt.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Hans Jonkman",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 81
+        },
+        {
+          "scientific_name": "Hydraena riparia",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/128633_hr.jpg",
+            "license": "CC BY-NC",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 61
+        },
+        {
+          "scientific_name": "Limnius volckmari",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 53
+        },
+        {
+          "scientific_name": "Esolus angustatus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 52
+        }
+      ]
+    },
+    {
+      "age_older_bp": 9434.0,
+      "age_younger_bp": 9095.0,
+      "label": "7484 BC - 7145 BC",
+      "n_taxa": 61,
+      "taxa": [
+        {
+          "scientific_name": "Sericostoma personatum",
+          "common_name_local": null,
+          "common_name_en": "Welshman's Button Caddisfly",
+          "image": {
+            "url": "https://images.naturalis.nl/original/134930_10.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 136
+        },
+        {
+          "scientific_name": "Molanna angustata",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/92851_dsc01003irf16viii14bwn_molanna_angustata_dt.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Hans Jonkman",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 34
+        },
+        {
+          "scientific_name": "Oulimnius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 30
+        },
+        {
+          "scientific_name": "Hydraena britteni/riparia",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 22
+        },
+        {
+          "scientific_name": "Hydropsyche pellucidula",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://zenodo.org/record/4461561/files/figure.png",
+            "license": null,
+            "creator": "Bemmoussat-Dekkak, Soumya;Abdellaoui-Hassaine, Karima;Sartori, Michel;Morse, John C.;Zamora-Muñoz, Carmen",
+            "source": "Zenodo"
+          },
+          "total_abundance": 20
+        },
+        {
+          "scientific_name": "Hydropsyche contubernalis",
+          "common_name_local": null,
+          "common_name_en": "Marbled Sedge",
+          "image": null,
+          "total_abundance": 16
+        },
+        {
+          "scientific_name": "Lepidostoma hirtum",
+          "common_name_local": null,
+          "common_name_en": "Square Caddisfly",
+          "image": null,
+          "total_abundance": 14
+        },
+        {
+          "scientific_name": "Cheumatopsyche lepida",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 14
+        },
+        {
+          "scientific_name": "Lype / Tinodes sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 12
+        },
+        {
+          "scientific_name": "Hydraena riparia",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/128633_hr.jpg",
+            "license": "CC BY-NC",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 10
+        }
+      ]
+    },
+    {
+      "age_older_bp": 3560.0,
+      "age_younger_bp": 0.0,
+      "label": "1610 BC - 1950 AD",
+      "n_taxa": 69,
+      "taxa": [
+        {
+          "scientific_name": "Oulimnius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 60
+        },
+        {
+          "scientific_name": "Hydraena riparia",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/128633_hr.jpg",
+            "license": "CC BY-NC",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 11
+        },
+        {
+          "scientific_name": "Esolus angustatus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 7
+        },
+        {
+          "scientific_name": "Nebrioporus depressus/elegans",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Stenelmis canaliculata",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/100262_dsc08038cb_stenelmis_canaliculata_13-08.jpg",
+            "license": "CC BY",
+            "creator": "Gerard Lommen",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Haliplus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Lype / Tinodes sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Dryops spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Esolus parallelepipedus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/132565_4a.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        }
+      ]
+    },
+    {
+      "age_older_bp": 3550.0,
+      "age_younger_bp": 3210.0,
+      "label": "1600 BC - 1260 BC",
+      "n_taxa": 71,
+      "taxa": [
+        {
+          "scientific_name": "Trichoptera indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 25
+        },
+        {
+          "scientific_name": "Phyllotreta spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 13
+        },
+        {
+          "scientific_name": "Helophorus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 8
+        },
+        {
+          "scientific_name": "Ochthebius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 7
+        },
+        {
+          "scientific_name": "Aphodius sphacelatus/prodromus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://zenodo.org/record/4689706/files/figure.png",
+            "license": null,
+            "creator": "Dupuis, Fabien",
+            "source": "Zenodo"
+          },
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Phyllopertha horticola",
+          "common_name_local": null,
+          "common_name_en": "Bracken Clock",
+          "image": {
+            "url": "https://images.naturalis.nl/original/183115.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Hans Jonkman",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Oulimnius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Limnebius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Megasternum obscurum/immaculatum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        }
+      ]
+    },
+    {
+      "age_older_bp": 3470.0,
+      "age_younger_bp": 3340.0,
+      "label": "1520 BC - 1390 BC",
+      "n_taxa": 59,
+      "taxa": [
+        {
+          "scientific_name": "Formicidae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 10
+        },
+        {
+          "scientific_name": "Apion (s.l.) spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 9
+        },
+        {
+          "scientific_name": "Aphodius sphacelatus/prodromus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://zenodo.org/record/4689706/files/figure.png",
+            "license": null,
+            "creator": "Dupuis, Fabien",
+            "source": "Zenodo"
+          },
+          "total_abundance": 9
+        },
+        {
+          "scientific_name": "Oulimnius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Bembidion spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Megasternum obscurum/immaculatum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Notaris acridulus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/151185_10.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Hydraena spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Phyllopertha horticola",
+          "common_name_local": null,
+          "common_name_en": "Bracken Clock",
+          "image": {
+            "url": "https://images.naturalis.nl/original/183115.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Hans Jonkman",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Limnebius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        }
+      ]
+    },
+    {
+      "age_older_bp": 3390.0,
+      "age_younger_bp": 3210.0,
+      "label": "1440 BC - 1260 BC",
+      "n_taxa": 16,
+      "taxa": [
+        {
+          "scientific_name": "Trichoptera indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Agabus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Agrypnus murina",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/93239_dsc05299irf08v15rab_agrypnus_murina_th.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Hans Jonkman",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Bagous spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Bembidion spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Ceutorhynchus (s.l.) spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Aphodius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Geotrupes (s.l.) spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Helophorus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        }
+      ]
+    },
+    {
+      "age_older_bp": 3390.0,
+      "age_younger_bp": 3260.0,
+      "label": "1440 BC - 1310 BC",
+      "n_taxa": 8,
+      "taxa": [
+        {
+          "scientific_name": "Aphodius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Apion (s.l.) spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Geotrupes (s.l.) spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Hypera spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Margarinotus carbonarius",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/112261_19.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Notaris acridulus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/151185_10.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Phyllobius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Phyllotreta spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        }
+      ]
+    }
+  ]
+}

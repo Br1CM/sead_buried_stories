@@ -1,0 +1,1187 @@
+{
+  "site_id": 4501,
+  "site_name": "Lincoln: Brayford Pool",
+  "lat": 53.231945,
+  "lon": -0.5388889,
+  "n_taxa": 291,
+  "n_layers": 13,
+  "oldest_label": "43 AD - 410 AD",
+  "youngest_label": "1175 AD - 1199 AD",
+  "layers": [
+    {
+      "age_older_bp": 1907.0,
+      "age_younger_bp": 1540.0,
+      "label": "43 AD - 410 AD",
+      "n_taxa": 236,
+      "taxa": [
+        {
+          "scientific_name": "Oryzaephilus surinamensis",
+          "common_name_local": null,
+          "common_name_en": "Merchant Grain Beetle",
+          "image": null,
+          "total_abundance": 13
+        },
+        {
+          "scientific_name": "Cryptolestes ferrugineus",
+          "common_name_local": null,
+          "common_name_en": "Lined flat bark beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/137513_45.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 12
+        },
+        {
+          "scientific_name": "Oxytelus sculptus",
+          "common_name_local": null,
+          "common_name_en": "Rove beetle",
+          "image": {
+            "url": "https://zenodo.org/record/3773938/files/figure.png",
+            "license": null,
+            "creator": "Majka, Christopher;Klimaszewski, Jan",
+            "source": "Zenodo"
+          },
+          "total_abundance": 11
+        },
+        {
+          "scientific_name": "Anobium punctatum",
+          "common_name_local": null,
+          "common_name_en": "Common Furniture-beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/150073_24.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 11
+        },
+        {
+          "scientific_name": "Platystethus arenarius",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://zenodo.org/record/245615/files/figure.png",
+            "license": null,
+            "creator": "Lü, Liang;Zhou, Hong-Zhang",
+            "source": "Zenodo"
+          },
+          "total_abundance": 11
+        },
+        {
+          "scientific_name": "Sitophilus granarius",
+          "common_name_local": null,
+          "common_name_en": "Grain Weevil",
+          "image": null,
+          "total_abundance": 11
+        },
+        {
+          "scientific_name": "Tipnus unicolor",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 11
+        },
+        {
+          "scientific_name": "Ptinus sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 10
+        },
+        {
+          "scientific_name": "Aphodius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 10
+        },
+        {
+          "scientific_name": "Neobisnius sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 10
+        }
+      ]
+    },
+    {
+      "age_older_bp": 1725.0,
+      "age_younger_bp": 1675.0,
+      "label": "225 AD - 275 AD",
+      "n_taxa": 100,
+      "taxa": [
+        {
+          "scientific_name": "Carpelimus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 8
+        },
+        {
+          "scientific_name": "Anobium punctatum",
+          "common_name_local": null,
+          "common_name_en": "Common Furniture-beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/150073_24.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 8
+        },
+        {
+          "scientific_name": "Platystethus arenarius",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://zenodo.org/record/245615/files/figure.png",
+            "license": null,
+            "creator": "Lü, Liang;Zhou, Hong-Zhang",
+            "source": "Zenodo"
+          },
+          "total_abundance": 8
+        },
+        {
+          "scientific_name": "Ptinus sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 8
+        },
+        {
+          "scientific_name": "Tipnus unicolor",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 8
+        },
+        {
+          "scientific_name": "Oxytelus sculptus",
+          "common_name_local": null,
+          "common_name_en": "Rove beetle",
+          "image": {
+            "url": "https://zenodo.org/record/3773938/files/figure.png",
+            "license": null,
+            "creator": "Majka, Christopher;Klimaszewski, Jan",
+            "source": "Zenodo"
+          },
+          "total_abundance": 8
+        },
+        {
+          "scientific_name": "Oryzaephilus surinamensis",
+          "common_name_local": null,
+          "common_name_en": "Merchant Grain Beetle",
+          "image": null,
+          "total_abundance": 8
+        },
+        {
+          "scientific_name": "Cercyon analis",
+          "common_name_local": null,
+          "common_name_en": "Water scavenger beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/178281.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Cyphon sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Curculionidae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        }
+      ]
+    },
+    {
+      "age_older_bp": 1700.0,
+      "age_younger_bp": 1625.0,
+      "label": "250 AD - 325 AD",
+      "n_taxa": 105,
+      "taxa": [
+        {
+          "scientific_name": "Acritus nigricornis",
+          "common_name_local": null,
+          "common_name_en": "Hister beetle",
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Acrotrichis spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Acupalpus sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Agabus bipustulatus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/189721.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Aglenus brunneus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Aleochara sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Anobium punctatum",
+          "common_name_local": null,
+          "common_name_en": "Common Furniture-beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/150073_24.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Anotylus rugosus",
+          "common_name_local": null,
+          "common_name_en": "Rove beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/151604_1.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Anotylus nitidulus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        }
+      ]
+    },
+    {
+      "age_older_bp": 1600.0,
+      "age_younger_bp": 1550.0,
+      "label": "350 AD - 400 AD",
+      "n_taxa": 194,
+      "taxa": [
+        {
+          "scientific_name": "Anobium punctatum",
+          "common_name_local": null,
+          "common_name_en": "Common Furniture-beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/150073_24.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 10
+        },
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 10
+        },
+        {
+          "scientific_name": "Aphodius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 10
+        },
+        {
+          "scientific_name": "Carabidae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 10
+        },
+        {
+          "scientific_name": "Oryzaephilus surinamensis",
+          "common_name_local": null,
+          "common_name_en": "Merchant Grain Beetle",
+          "image": null,
+          "total_abundance": 10
+        },
+        {
+          "scientific_name": "Philonthus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 10
+        },
+        {
+          "scientific_name": "Platystethus arenarius",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://zenodo.org/record/245615/files/figure.png",
+            "license": null,
+            "creator": "Lü, Liang;Zhou, Hong-Zhang",
+            "source": "Zenodo"
+          },
+          "total_abundance": 10
+        },
+        {
+          "scientific_name": "Platystethus nitens",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://zenodo.org/record/245634/files/figure.png",
+            "license": null,
+            "creator": "Lü, Liang;Zhou, Hong-Zhang",
+            "source": "Zenodo"
+          },
+          "total_abundance": 10
+        },
+        {
+          "scientific_name": "Xylodromus concinnus",
+          "common_name_local": null,
+          "common_name_en": "Rove beetle",
+          "image": null,
+          "total_abundance": 10
+        },
+        {
+          "scientific_name": "Sitophilus granarius",
+          "common_name_local": null,
+          "common_name_en": "Grain Weevil",
+          "image": null,
+          "total_abundance": 10
+        }
+      ]
+    },
+    {
+      "age_older_bp": 1550.0,
+      "age_younger_bp": 400.0,
+      "label": "400 AD - 1550 AD",
+      "n_taxa": 73,
+      "taxa": [
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Anotylus nitidulus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Cercyon spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Cercyon analis",
+          "common_name_local": null,
+          "common_name_en": "Water scavenger beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/178281.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Anotylus rugosus",
+          "common_name_local": null,
+          "common_name_en": "Rove beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/151604_1.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Auchenorrhyncha indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Aphodius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Anotylus complanatus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/143869_15.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Carabidae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Platystethus cornutus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://zenodo.org/record/245619/files/figure.png",
+            "license": null,
+            "creator": "Lü, Liang;Zhou, Hong-Zhang",
+            "source": "Zenodo"
+          },
+          "total_abundance": 2
+        }
+      ]
+    },
+    {
+      "age_older_bp": 1540.0,
+      "age_younger_bp": 884.0,
+      "label": "410 AD - 1066 AD",
+      "n_taxa": 156,
+      "taxa": [
+        {
+          "scientific_name": "Anobium punctatum",
+          "common_name_local": null,
+          "common_name_en": "Common Furniture-beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/150073_24.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Aphodius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Curculionidae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Omalium sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Aglenus brunneus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Anotylus nitidulus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Anotylus sculpturatus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Carabidae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Acrotrichis spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        }
+      ]
+    },
+    {
+      "age_older_bp": 1050.0,
+      "age_younger_bp": 951.0,
+      "label": "900 AD - 999 AD",
+      "n_taxa": 121,
+      "taxa": [
+        {
+          "scientific_name": "Acritus nigricornis",
+          "common_name_local": null,
+          "common_name_en": "Hister beetle",
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Acrotrichis spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Aglenus brunneus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Anobium punctatum",
+          "common_name_local": null,
+          "common_name_en": "Common Furniture-beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/150073_24.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Anotylus rugosus",
+          "common_name_local": null,
+          "common_name_en": "Rove beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/151604_1.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Auchenorrhyncha indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Aphodius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Anotylus nitidulus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Carabidae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        }
+      ]
+    },
+    {
+      "age_older_bp": 1000.0,
+      "age_younger_bp": 951.0,
+      "label": "950 AD - 999 AD",
+      "n_taxa": 17,
+      "taxa": [
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Anobium punctatum",
+          "common_name_local": null,
+          "common_name_en": "Common Furniture-beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/150073_24.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Anotylus sculpturatus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Anthicus (s.l.) sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Aphodius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Bruchus rufimanus",
+          "common_name_local": null,
+          "common_name_en": "Bean Beetle",
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Carabus sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Clivina sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Curculionidae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Dyschirius sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        }
+      ]
+    },
+    {
+      "age_older_bp": 975.0,
+      "age_younger_bp": 951.0,
+      "label": "975 AD - 999 AD",
+      "n_taxa": 77,
+      "taxa": [
+        {
+          "scientific_name": "Acritus nigricornis",
+          "common_name_local": null,
+          "common_name_en": "Hister beetle",
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Acrotrichis spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Aglenus brunneus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Anobium punctatum",
+          "common_name_local": null,
+          "common_name_en": "Common Furniture-beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/150073_24.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Anotylus rugosus",
+          "common_name_local": null,
+          "common_name_en": "Rove beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/151604_1.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Anotylus sculpturatus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Anotylus nitidulus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Anotylus complanatus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/143869_15.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Aphodius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        }
+      ]
+    },
+    {
+      "age_older_bp": 850.0,
+      "age_younger_bp": 651.0,
+      "label": "1100 AD - 1299 AD",
+      "n_taxa": 8,
+      "taxa": [
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Alticinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Anotylus nitidulus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Aphodius sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Cercyon analis",
+          "common_name_local": null,
+          "common_name_en": "Water scavenger beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/178281.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Latridius minutus (grp)",
+          "common_name_local": null,
+          "common_name_en": "Small minute scavenger beetle",
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Platystethus cornutus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://zenodo.org/record/245619/files/figure.png",
+            "license": null,
+            "creator": "Lü, Liang;Zhou, Hong-Zhang",
+            "source": "Zenodo"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Staphylininae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        }
+      ]
+    },
+    {
+      "age_older_bp": 800.0,
+      "age_younger_bp": 700.0,
+      "label": "1150 AD - 1250 AD",
+      "n_taxa": 13,
+      "taxa": [
+        {
+          "scientific_name": "Anotylus rugosus",
+          "common_name_local": null,
+          "common_name_en": "Rove beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/151604_1.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Anotylus nitidulus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Anotylus complanatus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/143869_15.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Aphodius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Bruchus sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Cercyon analis",
+          "common_name_local": null,
+          "common_name_en": "Water scavenger beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/178281.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Cercyon spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Corticaria spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Curculionidae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Oxyomus sylvestris",
+          "common_name_local": null,
+          "common_name_en": "Forest small dung beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/189762.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        }
+      ]
+    },
+    {
+      "age_older_bp": 775.0,
+      "age_younger_bp": 700.0,
+      "label": "1175 AD - 1250 AD",
+      "n_taxa": 44,
+      "taxa": [
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Anobium punctatum",
+          "common_name_local": null,
+          "common_name_en": "Common Furniture-beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/150073_24.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Anotylus rugosus",
+          "common_name_local": null,
+          "common_name_en": "Rove beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/151604_1.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Anotylus nitidulus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Anotylus complanatus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/143869_15.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Anotylus tetracarinatus",
+          "common_name_local": null,
+          "common_name_en": "Rove beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/129416_20.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Atomaria nigripennis",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Auchenorrhyncha indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Bruchus/Bruchidius sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Carabidae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        }
+      ]
+    },
+    {
+      "age_older_bp": 775.0,
+      "age_younger_bp": 751.0,
+      "label": "1175 AD - 1199 AD",
+      "n_taxa": 30,
+      "taxa": [
+        {
+          "scientific_name": "Acritus nigricornis",
+          "common_name_local": null,
+          "common_name_en": "Hister beetle",
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Acrotrichis spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Aphodius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Atomaria spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Auchenorrhyncha indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Bagous sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Carabidae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Carabus sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Carpelimus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        }
+      ]
+    }
+  ]
+}

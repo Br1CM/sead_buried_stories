@@ -1,0 +1,354 @@
+{
+  "site_id": 4650,
+  "site_name": "St. Bees",
+  "lat": 54.48716,
+  "lon": -3.599818,
+  "n_taxa": 342,
+  "n_layers": 4,
+  "oldest_label": "13375 BC - 12184 BC",
+  "youngest_label": "11550 BC - 8050 BC",
+  "layers": [
+    {
+      "age_older_bp": 15325.0,
+      "age_younger_bp": 14134.0,
+      "label": "13375 BC - 12184 BC",
+      "n_taxa": 104,
+      "taxa": [
+        {
+          "scientific_name": "Ochthebius sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 142
+        },
+        {
+          "scientific_name": "Cercyon tristis",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 66
+        },
+        {
+          "scientific_name": "Gymnetron beccabungae",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 14
+        },
+        {
+          "scientific_name": "Galeruca tanaceti",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/189887.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 10
+        },
+        {
+          "scientific_name": "Hygrotus inaequalis",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/200790.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 9
+        },
+        {
+          "scientific_name": "Agabus bipustulatus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/189721.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 7
+        },
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 7
+        },
+        {
+          "scientific_name": "Donacia simplex",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 7
+        },
+        {
+          "scientific_name": "Hydraena sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Apion (s.l.) spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        }
+      ]
+    },
+    {
+      "age_older_bp": 13555.0,
+      "age_younger_bp": 13118.0,
+      "label": "11605 BC - 11168 BC",
+      "n_taxa": 72,
+      "taxa": [
+        {
+          "scientific_name": "Donacia aquatica",
+          "common_name_local": null,
+          "common_name_en": "Zircon Reed Beetle",
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Donacia obscura",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Tropiphorus obtusus",
+          "common_name_local": null,
+          "common_name_en": "Weevil",
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Tachinus elongatus",
+          "common_name_local": null,
+          "common_name_en": "Staph beetle",
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Hydroporus erythrocephalus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Apion (s.l.) spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Galeruca tanaceti",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/189887.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Scymnus (s.l.) spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Otiorhynchus nodosus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        }
+      ]
+    },
+    {
+      "age_older_bp": 13544.0,
+      "age_younger_bp": 12741.0,
+      "label": "11594 BC - 10791 BC",
+      "n_taxa": 68,
+      "taxa": [
+        {
+          "scientific_name": "Phytobius leucogaster",
+          "common_name_local": null,
+          "common_name_en": "European Water Milfoil Weevil",
+          "image": null,
+          "total_abundance": 19
+        },
+        {
+          "scientific_name": "Hydroporus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Ochthebius sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Plateumaris sericea",
+          "common_name_local": null,
+          "common_name_en": "jewel reed beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/149958_2018_1_470.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Tjerk Nawijn",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Tachinus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Rhynchaenus (s.l.) sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Cercyon tristis",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Scymnus (s.l.) spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        }
+      ]
+    },
+    {
+      "age_older_bp": 13500.0,
+      "age_younger_bp": 10000.0,
+      "label": "11550 BC - 8050 BC",
+      "n_taxa": 313,
+      "taxa": [
+        {
+          "scientific_name": "Eucnecosum brachypterum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 192
+        },
+        {
+          "scientific_name": "Olophrum fuscum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 105
+        },
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 90
+        },
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 70
+        },
+        {
+          "scientific_name": "Ochthebius sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 67
+        },
+        {
+          "scientific_name": "Cercyon tristis",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 63
+        },
+        {
+          "scientific_name": "Bromius obscurus",
+          "common_name_local": null,
+          "common_name_en": "Western Grape Rootworm",
+          "image": {
+            "url": "https://images.naturalis.nl/original/193336.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 46
+        },
+        {
+          "scientific_name": "Apion (s.l.) spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 38
+        },
+        {
+          "scientific_name": "Agabus arcticus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 34
+        },
+        {
+          "scientific_name": "Hydroporus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 30
+        }
+      ]
+    }
+  ]
+}

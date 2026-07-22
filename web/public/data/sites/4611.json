@@ -1,0 +1,198 @@
+{
+  "site_id": 4611,
+  "site_name": "Runnymede 1",
+  "lat": 51.43611,
+  "lon": -0.53694445,
+  "n_taxa": 306,
+  "n_layers": 2,
+  "oldest_label": "3500 BC - 2000 BC",
+  "youngest_label": "3499 BC - 1999 BC",
+  "layers": [
+    {
+      "age_older_bp": 5450.0,
+      "age_younger_bp": 3950.0,
+      "label": "3500 BC - 2000 BC",
+      "n_taxa": 306,
+      "taxa": [
+        {
+          "scientific_name": "Oulimnius sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 400
+        },
+        {
+          "scientific_name": "Normandia nitens",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 251
+        },
+        {
+          "scientific_name": "Ochthebius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 201
+        },
+        {
+          "scientific_name": "Megasternum obscurum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 93
+        },
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 75
+        },
+        {
+          "scientific_name": "Esolus parallelepipedus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/132565_4a.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 52
+        },
+        {
+          "scientific_name": "Ochthebius minimus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/110659_1.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 50
+        },
+        {
+          "scientific_name": "Hydraena riparia",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/128633_hr.jpg",
+            "license": "CC BY-NC",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 50
+        },
+        {
+          "scientific_name": "Aphodius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 48
+        },
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 47
+        }
+      ]
+    },
+    {
+      "age_older_bp": 5449.0,
+      "age_younger_bp": 3949.0,
+      "label": "3499 BC - 1999 BC",
+      "n_taxa": 306,
+      "taxa": [
+        {
+          "scientific_name": "Oulimnius sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 400
+        },
+        {
+          "scientific_name": "Normandia nitens",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 251
+        },
+        {
+          "scientific_name": "Ochthebius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 201
+        },
+        {
+          "scientific_name": "Megasternum obscurum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 93
+        },
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 75
+        },
+        {
+          "scientific_name": "Esolus parallelepipedus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/132565_4a.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 52
+        },
+        {
+          "scientific_name": "Ochthebius minimus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/110659_1.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 50
+        },
+        {
+          "scientific_name": "Hydraena riparia",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/128633_hr.jpg",
+            "license": "CC BY-NC",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 50
+        },
+        {
+          "scientific_name": "Aphodius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 48
+        },
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 47
+        }
+      ]
+    }
+  ]
+}

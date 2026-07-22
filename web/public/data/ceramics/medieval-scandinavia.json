@@ -1,0 +1,231 @@
+{
+  "slug": "medieval-scandinavia",
+  "name": "Medieval Scandinavia",
+  "label_range": "1050 AD - 1500 AD",
+  "avg_older_bp": 900.0,
+  "avg_younger_bp": 450.0,
+  "n_samples": 625,
+  "n_sites": 24,
+  "sites": [
+    {
+      "site_id": 3419,
+      "site_name": "Vintriediket",
+      "lat": 55.5544711134,
+      "lon": 12.9755594907,
+      "n_samples": 6
+    },
+    {
+      "site_id": 3446,
+      "site_name": "Tofta 19",
+      "lat": 55.8613309856,
+      "lon": 12.9180757959,
+      "n_samples": 15
+    },
+    {
+      "site_id": 3454,
+      "site_name": "Särslöv",
+      "lat": 55.8177808202,
+      "lon": 13.0748875974,
+      "n_samples": 18
+    },
+    {
+      "site_id": 3466,
+      "site_name": "Sommaränge Skog",
+      "lat": 60.0810828871,
+      "lon": 17.5993343957,
+      "n_samples": 9
+    },
+    {
+      "site_id": 3480,
+      "site_name": "Skånes-Fagerhult 125",
+      "lat": 56.3198756727,
+      "lon": 13.4229256424,
+      "n_samples": 9
+    },
+    {
+      "site_id": 3482,
+      "site_name": "Skummeslöv",
+      "lat": 56.4509794793,
+      "lon": 12.9534679856,
+      "n_samples": 12
+    },
+    {
+      "site_id": 3488,
+      "site_name": "Schweitzergränd",
+      "lat": 57.6396964715,
+      "lon": 18.295151108,
+      "n_samples": 6
+    },
+    {
+      "site_id": 3490,
+      "site_name": "Santa Maria",
+      "lat": 57.6417257737,
+      "lon": 18.2983356792,
+      "n_samples": 6
+    },
+    {
+      "site_id": 3499,
+      "site_name": "Råga Hörstad",
+      "lat": 55.8835613054,
+      "lon": 12.9167576982,
+      "n_samples": 24
+    },
+    {
+      "site_id": 3538,
+      "site_name": "Norrsunda 167",
+      "lat": 59.5823823298,
+      "lon": 17.9006114213,
+      "n_samples": 9
+    },
+    {
+      "site_id": 3582,
+      "site_name": "Lockarp",
+      "lat": 55.5418603382,
+      "lon": 13.0446497559,
+      "n_samples": 6
+    },
+    {
+      "site_id": 3609,
+      "site_name": "Kyrkheddinge",
+      "lat": 55.646106645,
+      "lon": 13.2715920476,
+      "n_samples": 21
+    },
+    {
+      "site_id": 3635,
+      "site_name": "kv Apotekaren",
+      "lat": 55.7035727385,
+      "lon": 13.1919791291,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3637,
+      "site_name": "Kungsnäs",
+      "lat": 62.405592897,
+      "lon": 17.2053946237,
+      "n_samples": 16
+    },
+    {
+      "site_id": 3643,
+      "site_name": "Kragelund",
+      "lat": 56.194673,
+      "lon": 9.40946,
+      "n_samples": 12
+    },
+    {
+      "site_id": 3651,
+      "site_name": "Katarina",
+      "lat": 57.6404316318,
+      "lon": 18.2955697837,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3652,
+      "site_name": "Kastelholm",
+      "lat": 60.23289,
+      "lon": 20.081183,
+      "n_samples": 16
+    },
+    {
+      "site_id": 3693,
+      "site_name": "Hellum",
+      "lat": 56.819786,
+      "lon": 9.956033,
+      "n_samples": 12
+    },
+    {
+      "site_id": 3696,
+      "site_name": "Helgeandsholmen",
+      "lat": 59.3280421196,
+      "lon": 18.0693505287,
+      "n_samples": 56
+    },
+    {
+      "site_id": 3717,
+      "site_name": "Grundskatan",
+      "lat": 64.4425490705,
+      "lon": 21.6071325685,
+      "n_samples": 2
+    },
+    {
+      "site_id": 3752,
+      "site_name": "Dalby",
+      "lat": 55.6653476548,
+      "lon": 13.3452641314,
+      "n_samples": 339
+    },
+    {
+      "site_id": 3784,
+      "site_name": "Bjärtrå stronghold",
+      "lat": 63.0055413423,
+      "lon": 17.8368904605,
+      "n_samples": 9
+    },
+    {
+      "site_id": 3787,
+      "site_name": "Bjuröklubb",
+      "lat": 64.453697943,
+      "lon": 21.6040916694,
+      "n_samples": 4
+    },
+    {
+      "site_id": 3797,
+      "site_name": "Barmer",
+      "lat": 56.980412,
+      "lon": 9.539599,
+      "n_samples": 12
+    }
+  ],
+  "temper": [
+    {
+      "material": "Chamotte (crushed pottery)",
+      "pct_present": 62.4,
+      "n_observed": 609
+    },
+    {
+      "material": "Sand",
+      "pct_present": 41.4,
+      "n_observed": 609
+    },
+    {
+      "material": "Naturally tempered clay",
+      "pct_present": 37.6,
+      "n_observed": 609
+    },
+    {
+      "material": "Granite",
+      "pct_present": 8.9,
+      "n_observed": 609
+    },
+    {
+      "material": "Crushed rock",
+      "pct_present": 2.6,
+      "n_observed": 609
+    },
+    {
+      "material": "Organic material",
+      "pct_present": 0.5,
+      "n_observed": 609
+    },
+    {
+      "material": "Other additive",
+      "pct_present": 0.0,
+      "n_observed": 609
+    },
+    {
+      "material": "Asbestos",
+      "pct_present": 0.0,
+      "n_observed": 609
+    },
+    {
+      "material": "Bone",
+      "pct_present": 0.0,
+      "n_observed": 609
+    },
+    {
+      "material": "Shell/carbonate",
+      "pct_present": 0.0,
+      "n_observed": 609
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "slug": "middle-neolithic-s-scandinavia",
+  "name": "Middle neolithic S Scandinavia",
+  "label_range": "3300 BC - 2400 BC",
+  "avg_older_bp": 5250.0,
+  "avg_younger_bp": 4350.0,
+  "n_samples": 1475,
+  "n_sites": 63,
+  "sites": [
+    {
+      "site_id": 3411,
+      "site_name": "Åby",
+      "lat": 58.663456768,
+      "lon": 16.1772440843,
+      "n_samples": 12
+    },
+    {
+      "site_id": 3424,
+      "site_name": "Vanneberga",
+      "lat": 55.9944577384,
+      "lon": 14.3472834655,
+      "n_samples": 21
+    },
+    {
+      "site_id": 3427,
+      "site_name": "Vallby",
+      "lat": 59.3613691005,
+      "lon": 15.0865799962,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3428,
+      "site_name": "Valje",
+      "lat": 56.0640559691,
+      "lon": 14.5528904401,
+      "n_samples": 24
+    },
+    {
+      "site_id": 3438,
+      "site_name": "Täby",
+      "lat": 59.2938779467,
+      "lon": 16.1413410195,
+      "n_samples": 6
+    },
+    {
+      "site_id": 3440,
+      "site_name": "Trollasten",
+      "lat": 55.4654098438,
+      "lon": 13.9498724704,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3444,
+      "site_name": "Torslunda",
+      "lat": 60.3096532057,
+      "lon": 17.4877290289,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3453,
+      "site_name": "Säter",
+      "lat": 58.6400517885,
+      "lon": 16.5984370666,
+      "n_samples": 9
+    },
+    {
+      "site_id": 3458,
+      "site_name": "Svälinge, Tåkern",
+      "lat": 58.3827989492,
+      "lon": 14.8455975309,
+      "n_samples": 25
+    },
+    {
+      "site_id": 3461,
+      "site_name": "Stävie 3:1",
+      "lat": 55.7682158124,
+      "lon": 13.0656621037,
+      "n_samples": 33
+    },
+    {
+      "site_id": 3464,
+      "site_name": "Sotmyra",
+      "lat": 60.0355893976,
+      "lon": 17.4536866826,
+      "n_samples": 9
+    },
+    {
+      "site_id": 3474,
+      "site_name": "Smällan",
+      "lat": 59.1566599447,
+      "lon": 17.8264367691,
+      "n_samples": 24
+    },
+    {
+      "site_id": 3478,
+      "site_name": "Sluppen/Sluppan",
+      "lat": 58.993497,
+      "lon": 9.334855,
+      "n_samples": 4
+    },
+    {
+      "site_id": 3486,
+      "site_name": "Siretorp",
+      "lat": 56.0228937093,
+      "lon": 14.6077538519,
+      "n_samples": 10
+    },
+    {
+      "site_id": 3493,
+      "site_name": "Rössberga Megalithic",
+      "lat": 58.2295448068,
+      "lon": 13.6062499925,
+      "n_samples": 9
+    },
+    {
+      "site_id": 3496,
+      "site_name": "Röetved II",
+      "lat": 56.157921905,
+      "lon": 14.2143290696,
+      "n_samples": 6
+    },
+    {
+      "site_id": 3497,
+      "site_name": "Rødskjær/Halvarp",
+      "lat": 59.083059,
+      "lon": 9.818056,
+      "n_samples": 4
+    },
+    {
+      "site_id": 3506,
+      "site_name": "Rognlien IV/Langangen",
+      "lat": 59.090416,
+      "lon": 9.801385,
+      "n_samples": 4
+    },
+    {
+      "site_id": 3513,
+      "site_name": "Ramshög",
+      "lat": 55.4089171856,
+      "lon": 14.1716094028,
+      "n_samples": 16
+    },
+    {
+      "site_id": 3522,
+      "site_name": "Perkiö",
+      "lat": 61.1712,
+      "lon": 24.5596,
+      "n_samples": 6
+    },
+    {
+      "site_id": 3540,
+      "site_name": "Norra Nöbbelöv",
+      "lat": 55.7375244339,
+      "lon": 13.1442946794,
+      "n_samples": 27
+    },
+    {
+      "site_id": 3556,
+      "site_name": "Masmo",
+      "lat": 59.2443247603,
+      "lon": 17.8848770494,
+      "n_samples": 134
+    },
+    {
+      "site_id": 3567,
+      "site_name": "Löderup 3",
+      "lat": 55.4117618327,
+      "lon": 14.1870925819,
+      "n_samples": 74
+    },
+    {
+      "site_id": 3569,
+      "site_name": "Löderup 21",
+      "lat": 55.4070184609,
+      "lon": 14.188642964,
+      "n_samples": 12
+    },
+    {
+      "site_id": 3571,
+      "site_name": "Löderup",
+      "lat": 55.3942660175,
+      "lon": 14.119624284,
+      "n_samples": 8
+    },
+    {
+      "site_id": 3588,
+      "site_name": "Limensgård",
+      "lat": 55.04804,
+      "lon": 14.910325,
+      "n_samples": 9
+    },
+    {
+      "site_id": 3592,
+      "site_name": "Lilla Beddinge",
+      "lat": 55.3813999067,
+      "lon": 13.4456315785,
+      "n_samples": 6
+    },
+    {
+      "site_id": 3613,
+      "site_name": "Kvedesta",
+      "lat": 59.1426078909,
+      "lon": 17.6288234942,
+      "n_samples": 12
+    },
+    {
+      "site_id": 3620,
+      "site_name": "kv. Havren, Djurängen",
+      "lat": 56.6857290515,
+      "lon": 16.3359655674,
+      "n_samples": 30
+    },
+    {
+      "site_id": 3626,
+      "site_name": "kv. Bronsyxan",
+      "lat": 55.5650588849,
+      "lon": 13.0425139125,
+      "n_samples": 12
+    },
+    {
+      "site_id": 3633,
+      "site_name": "kv Kastanjegården",
+      "lat": 55.5551992037,
+      "lon": 13.0234541473,
+      "n_samples": 4
+    },
+    {
+      "site_id": 3646,
+      "site_name": "Kivisillanmäki",
+      "lat": 60.594295,
+      "lon": 22.084102,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3650,
+      "site_name": "Kerola",
+      "lat": 60.588658,
+      "lon": 22.381483,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3653,
+      "site_name": "Kasin/Ørvik",
+      "lat": 59.589421,
+      "lon": 9.177418,
+      "n_samples": 4
+    },
+    {
+      "site_id": 3655,
+      "site_name": "Karlsfält",
+      "lat": 55.4847331698,
+      "lon": 13.9070741296,
+      "n_samples": 48
+    },
+    {
+      "site_id": 3656,
+      "site_name": "Karleby 57",
+      "lat": 58.1528563033,
+      "lon": 13.6377627944,
+      "n_samples": 18
+    },
+    {
+      "site_id": 3662,
+      "site_name": "Järrestad SU1",
+      "lat": 55.5353450009,
+      "lon": 14.2756056403,
+      "n_samples": 21
+    },
+    {
+      "site_id": 3665,
+      "site_name": "Juurikorpi",
+      "lat": 60.60319,
+      "lon": 26.931386,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3668,
+      "site_name": "Ire",
+      "lat": 57.8345976669,
+      "lon": 18.6031426781,
+      "n_samples": 59
+    },
+    {
+      "site_id": 3672,
+      "site_name": "Ingelstorp 8",
+      "lat": 55.4302139533,
+      "lon": 14.0468895814,
+      "n_samples": 7
+    },
+    {
+      "site_id": 3679,
+      "site_name": "Hyllie 149",
+      "lat": 55.5652013575,
+      "lon": 12.9733263438,
+      "n_samples": 118
+    },
+    {
+      "site_id": 3680,
+      "site_name": "Hyllie 106",
+      "lat": 55.5675574832,
+      "lon": 12.9843075888,
+      "n_samples": 36
+    },
+    {
+      "site_id": 3684,
+      "site_name": "Hunneberget",
+      "lat": 56.0336937531,
+      "lon": 14.263892386,
+      "n_samples": 24
+    },
+    {
+      "site_id": 3687,
+      "site_name": "Hubbo",
+      "lat": 59.6596582175,
+      "lon": 16.614970102,
+      "n_samples": 6
+    },
+    {
+      "site_id": 3707,
+      "site_name": "Gökhem 78",
+      "lat": 58.1523155571,
+      "lon": 13.4341113096,
+      "n_samples": 12
+    },
+    {
+      "site_id": 3708,
+      "site_name": "Gökhem 71",
+      "lat": 58.1592522693,
+      "lon": 13.455612567,
+      "n_samples": 21
+    },
+    {
+      "site_id": 3712,
+      "site_name": "Gualöv 24",
+      "lat": 56.0423536211,
+      "lon": 14.4660770572,
+      "n_samples": 60
+    },
+    {
+      "site_id": 3724,
+      "site_name": "Gläntan",
+      "lat": 59.1970259309,
+      "lon": 17.4262182633,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3737,
+      "site_name": "Fagervik",
+      "lat": 58.6626320354,
+      "lon": 16.4144311908,
+      "n_samples": 45
+    },
+    {
+      "site_id": 3740,
+      "site_name": "Eknäs",
+      "lat": 60.497992,
+      "lon": 25.744041,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3745,
+      "site_name": "Dösjebro (SU 19)",
+      "lat": 55.8203973334,
+      "lon": 13.0402615544,
+      "n_samples": 24
+    },
+    {
+      "site_id": 3753,
+      "site_name": "Dagstorp (SU 21)",
+      "lat": 55.8188822611,
+      "lon": 13.064329747,
+      "n_samples": 93
+    },
+    {
+      "site_id": 3754,
+      "site_name": "Dagstorp (SU 17)",
+      "lat": 55.8231621926,
+      "lon": 13.0378076627,
+      "n_samples": 12
+    },
+    {
+      "site_id": 3764,
+      "site_name": "Carlshögen",
+      "lat": 55.4138031246,
+      "lon": 14.1425526023,
+      "n_samples": 16
+    },
+    {
+      "site_id": 3778,
+      "site_name": "Bollbacken",
+      "lat": 59.6696144591,
+      "lon": 16.7198857467,
+      "n_samples": 117
+    },
+    {
+      "site_id": 3781,
+      "site_name": "Björklinge 67",
+      "lat": 60.0238821868,
+      "lon": 17.5658307313,
+      "n_samples": 15
+    },
+    {
+      "site_id": 3782,
+      "site_name": "Björkekärr",
+      "lat": 56.1078818239,
+      "lon": 15.8110374181,
+      "n_samples": 15
+    },
+    {
+      "site_id": 3794,
+      "site_name": "Beddinge",
+      "lat": 55.3813999067,
+      "lon": 13.4456315785,
+      "n_samples": 8
+    },
+    {
+      "site_id": 3796,
+      "site_name": "Barrsjö",
+      "lat": 59.1642475694,
+      "lon": 16.6705314999,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3810,
+      "site_name": "Alvastra Megalithic",
+      "lat": 58.2955658303,
+      "lon": 14.6483695136,
+      "n_samples": 48
+    },
+    {
+      "site_id": 3813,
+      "site_name": "Albertshög",
+      "lat": 55.4051851535,
+      "lon": 14.126014565,
+      "n_samples": 8
+    },
+    {
+      "site_id": 3814,
+      "site_name": "Alvastra",
+      "lat": 58.2998488401,
+      "lon": 14.6750613418,
+      "n_samples": 60
+    },
+    {
+      "site_id": 3815,
+      "site_name": "Lockarp 7B",
+      "lat": 55.5483095632,
+      "lon": 13.0170149303,
+      "n_samples": 3
+    }
+  ],
+  "temper": [
+    {
+      "material": "Granite",
+      "pct_present": 66.3,
+      "n_observed": 1457
+    },
+    {
+      "material": "Chamotte (crushed pottery)",
+      "pct_present": 13.7,
+      "n_observed": 1475
+    },
+    {
+      "material": "Crushed rock",
+      "pct_present": 13.3,
+      "n_observed": 1475
+    },
+    {
+      "material": "Shell/carbonate",
+      "pct_present": 10.2,
+      "n_observed": 1475
+    },
+    {
+      "material": "Naturally tempered clay",
+      "pct_present": 8.5,
+      "n_observed": 1475
+    },
+    {
+      "material": "Bone",
+      "pct_present": 5.1,
+      "n_observed": 1475
+    },
+    {
+      "material": "Sand",
+      "pct_present": 3.7,
+      "n_observed": 1475
+    },
+    {
+      "material": "Organic material",
+      "pct_present": 1.9,
+      "n_observed": 1475
+    },
+    {
+      "material": "Other additive",
+      "pct_present": 0.5,
+      "n_observed": 1475
+    },
+    {
+      "material": "Asbestos",
+      "pct_present": 0.0,
+      "n_observed": 1475
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+# Secrets
+pipeline/.env
+
+# Python
+pipeline/venv/
+pipeline/__pycache__/
+**/__pycache__/
+*.pyc
+
+# Node / Next.js
+web/node_modules/
+web/.next/
+web/out/
+web/*.tsbuildinfo
+web/next-env.d.ts
+
+# Editor / tooling
+.claude/
+playful-data-plan.md

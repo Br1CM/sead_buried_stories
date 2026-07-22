@@ -1,0 +1,1442 @@
+[
+  {
+    "taxon_id": 30637,
+    "scientific_name": "Anotylus rugosus",
+    "common_name_en": "Rove beetle",
+    "common_name_local": null,
+    "n_sites": 351,
+    "n_finds": 2159,
+    "image": {
+      "url": "https://images.naturalis.nl/original/151604_1.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1674550 BC",
+    "youngest_label": "1940 AD"
+  },
+  {
+    "taxon_id": 29915,
+    "scientific_name": "Hydrobius fuscipes",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 345,
+    "n_finds": 1588,
+    "image": {
+      "url": "https://images.naturalis.nl/original/151901_hydrophilidae_hydrobius_fuscipes_roodpootwaterkever_5-8-2016_zoetermeer.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Louis Westgeest",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1674550 BC",
+    "youngest_label": "1840 AD"
+  },
+  {
+    "taxon_id": 29632,
+    "scientific_name": "Agabus bipustulatus",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 275,
+    "n_finds": 1129,
+    "image": {
+      "url": "https://images.naturalis.nl/original/189721.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1674550 BC",
+    "youngest_label": "1725 AD"
+  },
+  {
+    "taxon_id": 28987,
+    "scientific_name": "Dyschirius globosus",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 269,
+    "n_finds": 1079,
+    "image": {
+      "url": "https://images.naturalis.nl/original/198486.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "648050 BC",
+    "youngest_label": "2001 AD"
+  },
+  {
+    "taxon_id": 29902,
+    "scientific_name": "Megasternum obscurum",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 268,
+    "n_finds": 1862,
+    "image": null,
+    "oldest_label": "3954550 BC",
+    "youngest_label": "2005 AD"
+  },
+  {
+    "taxon_id": 29771,
+    "scientific_name": "Ochthebius minimus",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 248,
+    "n_finds": 1226,
+    "image": {
+      "url": "https://images.naturalis.nl/original/110659_1.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1674550 BC",
+    "youngest_label": "2005 AD"
+  },
+  {
+    "taxon_id": 33104,
+    "scientific_name": "Anobium punctatum",
+    "common_name_en": "Common Furniture-beetle",
+    "common_name_local": null,
+    "n_sites": 233,
+    "n_finds": 1303,
+    "image": {
+      "url": "https://images.naturalis.nl/original/150073_24.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1674550 BC",
+    "youngest_label": "1925 AD"
+  },
+  {
+    "taxon_id": 30644,
+    "scientific_name": "Anotylus nitidulus",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 225,
+    "n_finds": 1243,
+    "image": null,
+    "oldest_label": "648050 BC",
+    "youngest_label": "2005 AD"
+  },
+  {
+    "taxon_id": 29867,
+    "scientific_name": "Coelostoma orbiculare",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 222,
+    "n_finds": 777,
+    "image": {
+      "url": "https://images.naturalis.nl/original/198485.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1674550 BC",
+    "youngest_label": "1650 AD"
+  },
+  {
+    "taxon_id": 30547,
+    "scientific_name": "Lesteva longoelytrata",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 210,
+    "n_finds": 977,
+    "image": {
+      "url": "https://images.naturalis.nl/original/96201_p1110818.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "397050 BC",
+    "youngest_label": "1912 AD"
+  },
+  {
+    "taxon_id": 29253,
+    "scientific_name": "Pterostichus diligens",
+    "common_name_en": "Smooth-chested Blackclock",
+    "common_name_local": null,
+    "n_sites": 195,
+    "n_finds": 739,
+    "image": {
+      "url": "https://images.naturalis.nl/original/115416_f.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1674550 BC",
+    "youngest_label": "2004 AD"
+  },
+  {
+    "taxon_id": 30658,
+    "scientific_name": "Platystethus arenarius",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 192,
+    "n_finds": 1102,
+    "image": {
+      "url": "https://zenodo.org/record/245615/files/figure.png",
+      "license": null,
+      "creator": "Lü, Liang;Zhou, Hong-Zhang",
+      "source": "Zenodo"
+    },
+    "oldest_label": "363050 BC",
+    "youngest_label": "2005 AD"
+  },
+  {
+    "taxon_id": 30538,
+    "scientific_name": "Acidota crenata",
+    "common_name_en": "Crenate Ocellate Rove Beetle",
+    "common_name_local": null,
+    "n_sites": 191,
+    "n_finds": 562,
+    "image": {
+      "url": "https://binary.pensoft.net/fig/889172",
+      "license": null,
+      "creator": "Chen, Xi;Xu, Yong-Qiang;Peng, Zhong",
+      "source": "Zenodo"
+    },
+    "oldest_label": "1293800 BC",
+    "youngest_label": "2004 AD"
+  },
+  {
+    "taxon_id": 34866,
+    "scientific_name": "Sitophilus granarius",
+    "common_name_en": "Grain Weevil",
+    "common_name_local": null,
+    "n_sites": 186,
+    "n_finds": 1066,
+    "image": null,
+    "oldest_label": "3050 BC",
+    "youngest_label": "1925 AD"
+  },
+  {
+    "taxon_id": 34712,
+    "scientific_name": "Notaris acridulus",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 180,
+    "n_finds": 796,
+    "image": {
+      "url": "https://images.naturalis.nl/original/151185_10.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "648050 BC",
+    "youngest_label": "1750 AD"
+  },
+  {
+    "taxon_id": 33577,
+    "scientific_name": "Phyllopertha horticola",
+    "common_name_en": "Bracken Clock",
+    "common_name_local": null,
+    "n_sites": 178,
+    "n_finds": 1069,
+    "image": {
+      "url": "https://images.naturalis.nl/original/183115.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Hans Jonkman",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "4244 BC",
+    "youngest_label": "1750 AD"
+  },
+  {
+    "taxon_id": 29268,
+    "scientific_name": "Pterostichus melanarius",
+    "common_name_en": "Coal-runner",
+    "common_name_local": null,
+    "n_sites": 178,
+    "n_finds": 659,
+    "image": {
+      "url": "https://images.naturalis.nl/original/138325_11.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1293800 BC",
+    "youngest_label": "2005 AD"
+  },
+  {
+    "taxon_id": 28969,
+    "scientific_name": "Loricera pilicornis",
+    "common_name_en": "Hairy-horned Springtail-hunter",
+    "common_name_local": null,
+    "n_sites": 177,
+    "n_finds": 456,
+    "image": {
+      "url": "https://images.naturalis.nl/original/93293_dsc03902irf24iv15elb_loricera_pilicornis_th.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Hans Jonkman",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1674550 BC",
+    "youngest_label": "2005 AD"
+  },
+  {
+    "taxon_id": 29905,
+    "scientific_name": "Cryptopleurum minutum",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 176,
+    "n_finds": 651,
+    "image": {
+      "url": "https://images.naturalis.nl/original/150063_10.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "575550 BC",
+    "youngest_label": "1925 AD"
+  },
+  {
+    "taxon_id": 29899,
+    "scientific_name": "Cercyon analis",
+    "common_name_en": "Water scavenger beetle",
+    "common_name_local": null,
+    "n_sites": 169,
+    "n_finds": 1237,
+    "image": {
+      "url": "https://images.naturalis.nl/original/178281.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "316550 BC",
+    "youngest_label": "1925 AD"
+  },
+  {
+    "taxon_id": 33151,
+    "scientific_name": "Ptinus fur",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 161,
+    "n_finds": 756,
+    "image": {
+      "url": "https://images.naturalis.nl/original/144335_1.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "118550 BC",
+    "youngest_label": "1925 AD"
+  },
+  {
+    "taxon_id": 30522,
+    "scientific_name": "Olophrum fuscum",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 154,
+    "n_finds": 512,
+    "image": null,
+    "oldest_label": "1293800 BC",
+    "youngest_label": "2004 AD"
+  },
+  {
+    "taxon_id": 34687,
+    "scientific_name": "Tanysphyrus lemnae",
+    "common_name_en": "Duckweed Weevil",
+    "common_name_local": null,
+    "n_sites": 152,
+    "n_finds": 719,
+    "image": {
+      "url": "https://images.naturalis.nl/original/136736.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1674550 BC",
+    "youngest_label": "1750 AD"
+  },
+  {
+    "taxon_id": 29252,
+    "scientific_name": "Pterostichus strenuus",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 150,
+    "n_finds": 448,
+    "image": {
+      "url": "https://images.naturalis.nl/original/136710.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1293800 BC",
+    "youngest_label": "2005 AD"
+  },
+  {
+    "taxon_id": 34049,
+    "scientific_name": "Chaetocnema concinna",
+    "common_name_en": "Beet Flea Beetle",
+    "common_name_local": null,
+    "n_sites": 149,
+    "n_finds": 702,
+    "image": null,
+    "oldest_label": "215050 BC",
+    "youngest_label": "2005 AD"
+  },
+  {
+    "taxon_id": 29692,
+    "scientific_name": "Colymbetes fuscus",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 148,
+    "n_finds": 536,
+    "image": {
+      "url": "https://images.naturalis.nl/original/145069_bruine_duiker_3.jpg",
+      "license": "CC BY",
+      "creator": "Martien van den Heuvel",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1674550 BC",
+    "youngest_label": "1650 AD"
+  },
+  {
+    "taxon_id": 30670,
+    "scientific_name": "Platystethus nitens",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 147,
+    "n_finds": 614,
+    "image": {
+      "url": "https://zenodo.org/record/245634/files/figure.png",
+      "license": null,
+      "creator": "Lü, Liang;Zhou, Hong-Zhang",
+      "source": "Zenodo"
+    },
+    "oldest_label": "1674550 BC",
+    "youngest_label": "1750 AD"
+  },
+  {
+    "taxon_id": 29963,
+    "scientific_name": "Chaetarthria seminulum",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 146,
+    "n_finds": 508,
+    "image": {
+      "url": "https://images.naturalis.nl/original/151160_14.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1674550 BC",
+    "youngest_label": "1750 AD"
+  },
+  {
+    "taxon_id": 30641,
+    "scientific_name": "Anotylus sculpturatus",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 145,
+    "n_finds": 714,
+    "image": null,
+    "oldest_label": "316550 BC",
+    "youngest_label": "2005 AD"
+  },
+  {
+    "taxon_id": 30098,
+    "scientific_name": "Phosphuga atrata",
+    "common_name_en": "Black Carrion Beetle",
+    "common_name_local": null,
+    "n_sites": 144,
+    "n_finds": 431,
+    "image": {
+      "url": "https://images.naturalis.nl/original/190067.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1674550 BC",
+    "youngest_label": "1750 AD"
+  },
+  {
+    "taxon_id": 34447,
+    "scientific_name": "Otiorhynchus nodosus",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 143,
+    "n_finds": 586,
+    "image": null,
+    "oldest_label": "504050 BC",
+    "youngest_label": "2004 AD"
+  },
+  {
+    "taxon_id": 29305,
+    "scientific_name": "Calathus melanocephalus",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 143,
+    "n_finds": 528,
+    "image": {
+      "url": "https://images.naturalis.nl/original/143174_calathus_melanocephalus_2.jpg",
+      "license": "CC BY",
+      "creator": "Martien van den Heuvel",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "575550 BC",
+    "youngest_label": "2001 AD"
+  },
+  {
+    "taxon_id": 29263,
+    "scientific_name": "Pterostichus minor",
+    "common_name_en": "Lesser Blackclock",
+    "common_name_local": null,
+    "n_sites": 141,
+    "n_finds": 481,
+    "image": {
+      "url": "https://images.naturalis.nl/original/136708.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1674550 BC",
+    "youngest_label": "2005 AD"
+  },
+  {
+    "taxon_id": 33738,
+    "scientific_name": "Plateumaris sericea",
+    "common_name_en": "jewel reed beetle",
+    "common_name_local": null,
+    "n_sites": 140,
+    "n_finds": 397,
+    "image": {
+      "url": "https://images.naturalis.nl/original/149958_2018_1_470.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Tjerk Nawijn",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1674550 BC",
+    "youngest_label": "1750 AD"
+  },
+  {
+    "taxon_id": 30532,
+    "scientific_name": "Eucnecosum brachypterum",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 138,
+    "n_finds": 574,
+    "image": null,
+    "oldest_label": "1674550 BC",
+    "youngest_label": "1925 AD"
+  },
+  {
+    "taxon_id": 30503,
+    "scientific_name": "Xylodromus concinnus",
+    "common_name_en": "Rove beetle",
+    "common_name_local": null,
+    "n_sites": 138,
+    "n_finds": 1157,
+    "image": null,
+    "oldest_label": "158550 BC",
+    "youngest_label": "1925 AD"
+  },
+  {
+    "taxon_id": 33534,
+    "scientific_name": "Aphodius granarius",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 137,
+    "n_finds": 659,
+    "image": {
+      "url": "https://images.naturalis.nl/original/152989_51.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "215050 BC",
+    "youngest_label": "1895 AD"
+  },
+  {
+    "taxon_id": 30628,
+    "scientific_name": "Oxytelus sculptus",
+    "common_name_en": "Rove beetle",
+    "common_name_local": null,
+    "n_sites": 136,
+    "n_finds": 902,
+    "image": {
+      "url": "https://zenodo.org/record/3773938/files/figure.png",
+      "license": null,
+      "creator": "Majka, Christopher;Klimaszewski, Jan",
+      "source": "Zenodo"
+    },
+    "oldest_label": "8795 BC",
+    "youngest_label": "1925 AD"
+  },
+  {
+    "taxon_id": 34713,
+    "scientific_name": "Notaris aethiops",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 133,
+    "n_finds": 378,
+    "image": null,
+    "oldest_label": "1293800 BC",
+    "youngest_label": "975 AD"
+  },
+  {
+    "taxon_id": 33853,
+    "scientific_name": "Prasocuris phellandrii",
+    "common_name_en": "Leaf beetle",
+    "common_name_local": null,
+    "n_sites": 133,
+    "n_finds": 511,
+    "image": {
+      "url": "https://images.naturalis.nl/original/178319.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1674550 BC",
+    "youngest_label": "1525 AD"
+  },
+  {
+    "taxon_id": 33147,
+    "scientific_name": "Tipnus unicolor",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 127,
+    "n_finds": 840,
+    "image": null,
+    "oldest_label": "3099 BC",
+    "youngest_label": "1925 AD"
+  },
+  {
+    "taxon_id": 29299,
+    "scientific_name": "Calathus fuscipes",
+    "common_name_en": "Dark-footed harp ground beetle",
+    "common_name_local": null,
+    "n_sites": 126,
+    "n_finds": 479,
+    "image": {
+      "url": "https://images.naturalis.nl/original/95948_cf.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "648050 BC",
+    "youngest_label": "1925 AD"
+  },
+  {
+    "taxon_id": 29139,
+    "scientific_name": "Patrobus septentrionis",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 126,
+    "n_finds": 376,
+    "image": null,
+    "oldest_label": "1293800 BC",
+    "youngest_label": "2004 AD"
+  },
+  {
+    "taxon_id": 29826,
+    "scientific_name": "Helophorus grandis",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 125,
+    "n_finds": 446,
+    "image": {
+      "url": "https://images.naturalis.nl/original/200056.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1293800 BC",
+    "youngest_label": "2005 AD"
+  },
+  {
+    "taxon_id": 33468,
+    "scientific_name": "Oxyomus sylvestris",
+    "common_name_en": "Forest small dung beetle",
+    "common_name_local": null,
+    "n_sites": 121,
+    "n_finds": 641,
+    "image": {
+      "url": "https://images.naturalis.nl/original/189762.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "3050 BC",
+    "youngest_label": "1710 AD"
+  },
+  {
+    "taxon_id": 29257,
+    "scientific_name": "Pterostichus nigrita",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 120,
+    "n_finds": 348,
+    "image": {
+      "url": "https://images.naturalis.nl/original/145582_15.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1293800 BC",
+    "youngest_label": "2005 AD"
+  },
+  {
+    "taxon_id": 32085,
+    "scientific_name": "Agrypnus murina",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 119,
+    "n_finds": 490,
+    "image": {
+      "url": "https://images.naturalis.nl/original/93239_dsc05299irf08v15rab_agrypnus_murina_th.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Hans Jonkman",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "648050 BC",
+    "youngest_label": "1330 AD"
+  },
+  {
+    "taxon_id": 28937,
+    "scientific_name": "Nebria brevicollis",
+    "common_name_en": "Common Heart Shield",
+    "common_name_local": null,
+    "n_sites": 119,
+    "n_finds": 439,
+    "image": {
+      "url": "https://images.naturalis.nl/original/210854.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "316550 BC",
+    "youngest_label": "2005 AD"
+  },
+  {
+    "taxon_id": 29883,
+    "scientific_name": "Cercyon haemorrhoidalis",
+    "common_name_en": "Water scavenger beetle",
+    "common_name_local": null,
+    "n_sites": 119,
+    "n_finds": 661,
+    "image": null,
+    "oldest_label": "41050 BC",
+    "youngest_label": "1925 AD"
+  },
+  {
+    "taxon_id": 30915,
+    "scientific_name": "Gyrohypnus fracticornis",
+    "common_name_en": "Broken-horned Rove Beetle",
+    "common_name_local": null,
+    "n_sites": 119,
+    "n_finds": 623,
+    "image": {
+      "url": "https://images.naturalis.nl/original/140808_12.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "45118 BC",
+    "youngest_label": "1850 AD"
+  },
+  {
+    "taxon_id": 29108,
+    "scientific_name": "Bembidion doris",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 118,
+    "n_finds": 324,
+    "image": {
+      "url": "https://images.naturalis.nl/original/136527.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1674550 BC",
+    "youngest_label": "1650 AD"
+  },
+  {
+    "taxon_id": 29756,
+    "scientific_name": "Hydraena testacea",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 118,
+    "n_finds": 537,
+    "image": {
+      "url": "https://images.naturalis.nl/original/137849_1.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "7550 BC",
+    "youngest_label": "1750 AD"
+  },
+  {
+    "taxon_id": 28970,
+    "scientific_name": "Clivina fossor",
+    "common_name_en": "Digger Slope-rumped Beetle",
+    "common_name_local": null,
+    "n_sites": 116,
+    "n_finds": 388,
+    "image": {
+      "url": "https://images.naturalis.nl/original/210636.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1293800 BC",
+    "youngest_label": "2005 AD"
+  },
+  {
+    "taxon_id": 28944,
+    "scientific_name": "Notiophilus aquaticus",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 113,
+    "n_finds": 279,
+    "image": null,
+    "oldest_label": "3954550 BC",
+    "youngest_label": "2004 AD"
+  },
+  {
+    "taxon_id": 29896,
+    "scientific_name": "Cercyon tristis",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 113,
+    "n_finds": 389,
+    "image": null,
+    "oldest_label": "1293800 BC",
+    "youngest_label": "1750 AD"
+  },
+  {
+    "taxon_id": 29117,
+    "scientific_name": "Bembidion guttula",
+    "common_name_en": "Black spotted ground beetle",
+    "common_name_local": null,
+    "n_sites": 112,
+    "n_finds": 442,
+    "image": {
+      "url": "https://images.naturalis.nl/original/136529.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1674550 BC",
+    "youngest_label": "2005 AD"
+  },
+  {
+    "taxon_id": 32932,
+    "scientific_name": "Mycetaea subterranea",
+    "common_name_en": "Hairy Cellar Beetle",
+    "common_name_local": null,
+    "n_sites": 109,
+    "n_finds": 497,
+    "image": {
+      "url": "https://images.naturalis.nl/original/153649_12.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1549 BC",
+    "youngest_label": "1925 AD"
+  },
+  {
+    "taxon_id": 29998,
+    "scientific_name": "Acritus nigricornis",
+    "common_name_en": "Hister beetle",
+    "common_name_local": null,
+    "n_sites": 109,
+    "n_finds": 595,
+    "image": null,
+    "oldest_label": "3050 BC",
+    "youngest_label": "1710 AD"
+  },
+  {
+    "taxon_id": 34890,
+    "scientific_name": "Limnobaris dolorosa",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 108,
+    "n_finds": 348,
+    "image": {
+      "url": "https://images.naturalis.nl/original/137345.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1674550 BC",
+    "youngest_label": "1840 AD"
+  },
+  {
+    "taxon_id": 32571,
+    "scientific_name": "Oryzaephilus surinamensis",
+    "common_name_en": "Merchant Grain Beetle",
+    "common_name_local": null,
+    "n_sites": 106,
+    "n_finds": 764,
+    "image": null,
+    "oldest_label": "4348 BC",
+    "youngest_label": "1840 AD"
+  },
+  {
+    "taxon_id": 31229,
+    "scientific_name": "Tachinus rufipes",
+    "common_name_en": "Rove beetle",
+    "common_name_local": null,
+    "n_sites": 106,
+    "n_finds": 403,
+    "image": {
+      "url": "https://images.naturalis.nl/original/143408_11.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1293800 BC",
+    "youngest_label": "2005 AD"
+  },
+  {
+    "taxon_id": 29339,
+    "scientific_name": "Agonum fuliginosum",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 105,
+    "n_finds": 318,
+    "image": {
+      "url": "https://images.naturalis.nl/original/136493.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1674550 BC",
+    "youngest_label": "2001 AD"
+  },
+  {
+    "taxon_id": 32891,
+    "scientific_name": "Aglenus brunneus",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 104,
+    "n_finds": 659,
+    "image": null,
+    "oldest_label": "3050 BC",
+    "youngest_label": "1725 AD"
+  },
+  {
+    "taxon_id": 30294,
+    "scientific_name": "Corylophus crassidoides",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 104,
+    "n_finds": 395,
+    "image": null,
+    "oldest_label": "1674550 BC",
+    "youngest_label": "1500 AD"
+  },
+  {
+    "taxon_id": 32365,
+    "scientific_name": "Simplocaria semistriata",
+    "common_name_en": "Pill Beetle",
+    "common_name_local": null,
+    "n_sites": 104,
+    "n_finds": 329,
+    "image": null,
+    "oldest_label": "1674550 BC",
+    "youngest_label": "1986 AD"
+  },
+  {
+    "taxon_id": 30667,
+    "scientific_name": "Platystethus nodifrons",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 102,
+    "n_finds": 321,
+    "image": null,
+    "oldest_label": "358550 BC",
+    "youngest_label": "1410 AD"
+  },
+  {
+    "taxon_id": 33079,
+    "scientific_name": "Grynobius planus",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 101,
+    "n_finds": 349,
+    "image": {
+      "url": "https://images.naturalis.nl/original/191085.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1674550 BC",
+    "youngest_label": "1525 AD"
+  },
+  {
+    "taxon_id": 34585,
+    "scientific_name": "Sitona lepidus",
+    "common_name_en": "Clover Root Weevil",
+    "common_name_local": null,
+    "n_sites": 99,
+    "n_finds": 342,
+    "image": null,
+    "oldest_label": "575550 BC",
+    "youngest_label": "2005 AD"
+  },
+  {
+    "taxon_id": 30598,
+    "scientific_name": "Carpelimus bilineatus",
+    "common_name_en": "Rove beetle",
+    "common_name_local": null,
+    "n_sites": 99,
+    "n_finds": 591,
+    "image": null,
+    "oldest_label": "215050 BC",
+    "youngest_label": "1850 AD"
+  },
+  {
+    "taxon_id": 30660,
+    "scientific_name": "Platystethus cornutus",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 98,
+    "n_finds": 385,
+    "image": {
+      "url": "https://zenodo.org/record/245619/files/figure.png",
+      "license": null,
+      "creator": "Lü, Liang;Zhou, Hong-Zhang",
+      "source": "Zenodo"
+    },
+    "oldest_label": "358550 BC",
+    "youngest_label": "1750 AD"
+  },
+  {
+    "taxon_id": 29539,
+    "scientific_name": "Hygrotus inaequalis",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 97,
+    "n_finds": 354,
+    "image": {
+      "url": "https://images.naturalis.nl/original/200790.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "215050 BC",
+    "youngest_label": "1750 AD"
+  },
+  {
+    "taxon_id": 32375,
+    "scientific_name": "Cytilus sericeus",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 97,
+    "n_finds": 255,
+    "image": {
+      "url": "https://images.naturalis.nl/original/200787.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1674550 BC",
+    "youngest_label": "1715 AD"
+  },
+  {
+    "taxon_id": 33837,
+    "scientific_name": "Gastrophysa viridula",
+    "common_name_en": "Green Dock Beetle",
+    "common_name_local": null,
+    "n_sites": 97,
+    "n_finds": 343,
+    "image": {
+      "url": "https://images.naturalis.nl/original/112110_dsc05311irf18v17sbb_rumex_obtusifolius_-_gastrophysa_viridula_th.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Hans Jonkman",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "158550 BC",
+    "youngest_label": "2005 AD"
+  },
+  {
+    "taxon_id": 33502,
+    "scientific_name": "Aphodius contaminatus",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 96,
+    "n_finds": 425,
+    "image": {
+      "url": "https://images.naturalis.nl/original/146497_aphodius_contaminatus_2.jpg",
+      "license": "CC BY",
+      "creator": "Martien van den Heuvel",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "44625 BC",
+    "youngest_label": "1750 AD"
+  },
+  {
+    "taxon_id": 30927,
+    "scientific_name": "Xantholinus linearis",
+    "common_name_en": "Linear Rove Beetle",
+    "common_name_local": null,
+    "n_sites": 96,
+    "n_finds": 414,
+    "image": {
+      "url": "https://images.naturalis.nl/original/144783_32.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "89550 BC",
+    "youngest_label": "2005 AD"
+  },
+  {
+    "taxon_id": 30453,
+    "scientific_name": "Pycnoglypta lurida",
+    "common_name_en": "Staph beetle",
+    "common_name_local": null,
+    "n_sites": 95,
+    "n_finds": 339,
+    "image": null,
+    "oldest_label": "1293800 BC",
+    "youngest_label": "975 AD"
+  },
+  {
+    "taxon_id": 32266,
+    "scientific_name": "Esolus parallelepipedus",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 95,
+    "n_finds": 420,
+    "image": {
+      "url": "https://images.naturalis.nl/original/132565_4a.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "648050 BC",
+    "youngest_label": "1812 AD"
+  },
+  {
+    "taxon_id": 34930,
+    "scientific_name": "Micrelus ericae",
+    "common_name_en": "Small Heather Weevil",
+    "common_name_local": null,
+    "n_sites": 95,
+    "n_finds": 409,
+    "image": {
+      "url": "https://images.naturalis.nl/original/136632.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1293800 BC",
+    "youngest_label": "1500 AD"
+  },
+  {
+    "taxon_id": 30576,
+    "scientific_name": "Boreaphilus henningianus",
+    "common_name_en": "Boreaphilus hennigianus",
+    "common_name_local": null,
+    "n_sites": 95,
+    "n_finds": 324,
+    "image": null,
+    "oldest_label": "648050 BC",
+    "youngest_label": "975 AD"
+  },
+  {
+    "taxon_id": 28998,
+    "scientific_name": "Epaphius secalis",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 94,
+    "n_finds": 291,
+    "image": null,
+    "oldest_label": "1674550 BC",
+    "youngest_label": "2001 AD"
+  },
+  {
+    "taxon_id": 28963,
+    "scientific_name": "Elaphrus cupreus",
+    "common_name_en": "Copper Peacock Beetle",
+    "common_name_local": null,
+    "n_sites": 92,
+    "n_finds": 211,
+    "image": {
+      "url": "https://images.naturalis.nl/original/122705_p1140667.jpg",
+      "license": "CC BY-SA",
+      "creator": "Jur Heijnen",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1674550 BC",
+    "youngest_label": "950 AD"
+  },
+  {
+    "taxon_id": 29746,
+    "scientific_name": "Hydraena riparia",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 91,
+    "n_finds": 388,
+    "image": {
+      "url": "https://images.naturalis.nl/original/128633_hr.jpg",
+      "license": "CC BY-NC",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1674550 BC",
+    "youngest_label": "1750 AD"
+  },
+  {
+    "taxon_id": 29140,
+    "scientific_name": "Patrobus assimilis",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 89,
+    "n_finds": 248,
+    "image": null,
+    "oldest_label": "575550 BC",
+    "youngest_label": "2001 AD"
+  },
+  {
+    "taxon_id": 30651,
+    "scientific_name": "Anotylus tetracarinatus",
+    "common_name_en": "Rove beetle",
+    "common_name_local": null,
+    "n_sites": 89,
+    "n_finds": 482,
+    "image": {
+      "url": "https://images.naturalis.nl/original/129416_20.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "316550 BC",
+    "youngest_label": "2005 AD"
+  },
+  {
+    "taxon_id": 29825,
+    "scientific_name": "Helophorus aquaticus",
+    "common_name_en": "Beetle",
+    "common_name_local": null,
+    "n_sites": 89,
+    "n_finds": 325,
+    "image": null,
+    "oldest_label": "575550 BC",
+    "youngest_label": "1750 AD"
+  },
+  {
+    "taxon_id": 29267,
+    "scientific_name": "Pterostichus niger",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 89,
+    "n_finds": 201,
+    "image": {
+      "url": "https://images.naturalis.nl/original/212188.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Hans Jonkman",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "1674550 BC",
+    "youngest_label": "2001 AD"
+  },
+  {
+    "taxon_id": 33521,
+    "scientific_name": "Aphodius ater",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 88,
+    "n_finds": 245,
+    "image": {
+      "url": "https://images.naturalis.nl/original/144978_scarabaeidae_aphodius_ater_10-5-2015_zoetermeer.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Louis Westgeest",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "45118 BC",
+    "youngest_label": "1750 AD"
+  },
+  {
+    "taxon_id": 29986,
+    "scientific_name": "Onthophilus striatus",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 88,
+    "n_finds": 401,
+    "image": {
+      "url": "https://images.naturalis.nl/original/196952.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "397050 BC",
+    "youngest_label": "1750 AD"
+  },
+  {
+    "taxon_id": 32883,
+    "scientific_name": "Typhaea stercorea",
+    "common_name_en": "Hairy Fungus Beetle",
+    "common_name_local": null,
+    "n_sites": 87,
+    "n_finds": 530,
+    "image": {
+      "url": "https://images.naturalis.nl/original/98765_Typhaea%20stercorea%2029%2012%202013%20SH.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "3050 BC",
+    "youngest_label": "1800 AD"
+  },
+  {
+    "taxon_id": 35008,
+    "scientific_name": "Nedyus quadrimaculatus",
+    "common_name_en": "Small Nettle Weevil",
+    "common_name_local": null,
+    "n_sites": 87,
+    "n_finds": 379,
+    "image": {
+      "url": "https://images.naturalis.nl/original/136639.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "6300 BC",
+    "youngest_label": "2005 AD"
+  },
+  {
+    "taxon_id": 33482,
+    "scientific_name": "Aphodius rufipes",
+    "common_name_en": "night-flying dung beetle",
+    "common_name_local": null,
+    "n_sites": 87,
+    "n_finds": 312,
+    "image": {
+      "url": "https://images.naturalis.nl/original/224973.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "99550 BC",
+    "youngest_label": "1925 AD"
+  },
+  {
+    "taxon_id": 29039,
+    "scientific_name": "Bembidion bipunctatum",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 87,
+    "n_finds": 272,
+    "image": null,
+    "oldest_label": "575550 BC",
+    "youngest_label": "1725 AD"
+  },
+  {
+    "taxon_id": 32276,
+    "scientific_name": "Limnius volckmari",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 86,
+    "n_finds": 319,
+    "image": null,
+    "oldest_label": "648050 BC",
+    "youngest_label": "1873 AD"
+  },
+  {
+    "taxon_id": 30521,
+    "scientific_name": "Olophrum piceum",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 86,
+    "n_finds": 347,
+    "image": {
+      "url": "https://images.naturalis.nl/original/94643_p1060275.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "358550 BC",
+    "youngest_label": "1209 AD"
+  },
+  {
+    "taxon_id": 30479,
+    "scientific_name": "Omalium rivulare",
+    "common_name_en": "Ocillate rove beetle",
+    "common_name_local": null,
+    "n_sites": 86,
+    "n_finds": 407,
+    "image": {
+      "url": "https://zenodo.org/record/17323906/files/figure.png",
+      "license": null,
+      "creator": "Shavrin, Alexey V.",
+      "source": "Zenodo"
+    },
+    "oldest_label": "504050 BC",
+    "youngest_label": "1710 AD"
+  },
+  {
+    "taxon_id": 33740,
+    "scientific_name": "Plateumaris braccata",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 85,
+    "n_finds": 371,
+    "image": {
+      "url": "https://images.naturalis.nl/original/145973_11.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "648050 BC",
+    "youngest_label": "738 AD"
+  },
+  {
+    "taxon_id": 29174,
+    "scientific_name": "Pseudoophonus rufipes",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 85,
+    "n_finds": 306,
+    "image": null,
+    "oldest_label": "358550 BC",
+    "youngest_label": "2005 AD"
+  },
+  {
+    "taxon_id": 34444,
+    "scientific_name": "Otiorhynchus arcticus",
+    "common_name_en": null,
+    "common_name_local": null,
+    "n_sites": 84,
+    "n_finds": 411,
+    "image": null,
+    "oldest_label": "504050 BC",
+    "youngest_label": "1995 AD"
+  },
+  {
+    "taxon_id": 30930,
+    "scientific_name": "Xantholinus longiventris",
+    "common_name_en": "Staph beetle",
+    "common_name_local": null,
+    "n_sites": 83,
+    "n_finds": 323,
+    "image": {
+      "url": "https://images.naturalis.nl/original/141864_22.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "35550 BC",
+    "youngest_label": "2005 AD"
+  },
+  {
+    "taxon_id": 32413,
+    "scientific_name": "Brachypterus urticae",
+    "common_name_en": "Nettle Pollen Beetle",
+    "common_name_local": null,
+    "n_sites": 81,
+    "n_finds": 373,
+    "image": {
+      "url": "https://images.naturalis.nl/original/111133_10.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "oldest_label": "9576 BC",
+    "youngest_label": "1650 AD"
+  }
+]

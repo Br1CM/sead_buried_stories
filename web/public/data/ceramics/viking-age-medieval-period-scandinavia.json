@@ -1,0 +1,126 @@
+{
+  "slug": "viking-age-medieval-period-scandinavia",
+  "name": "Viking Age - Medieval Period Scandinavia",
+  "label_range": "800 AD - 1500 AD",
+  "avg_older_bp": 1150.0,
+  "avg_younger_bp": 450.0,
+  "n_samples": 257,
+  "n_sites": 9,
+  "sites": [
+    {
+      "site_id": 3443,
+      "site_name": "Trelleborg 19",
+      "lat": 55.3769870556,
+      "lon": 13.1464553701,
+      "n_samples": 12
+    },
+    {
+      "site_id": 3527,
+      "site_name": "Oxiegården",
+      "lat": 55.5519036958,
+      "lon": 13.1003383787,
+      "n_samples": 75
+    },
+    {
+      "site_id": 3573,
+      "site_name": "Löddeköpinge",
+      "lat": 55.7597030669,
+      "lon": 13.0181722363,
+      "n_samples": 117
+    },
+    {
+      "site_id": 3631,
+      "site_name": "kv Kråkvinkeln",
+      "lat": 55.3760342637,
+      "lon": 13.1488201091,
+      "n_samples": 6
+    },
+    {
+      "site_id": 3632,
+      "site_name": "kv Katten",
+      "lat": 55.375629596,
+      "lon": 13.1458401693,
+      "n_samples": 18
+    },
+    {
+      "site_id": 3634,
+      "site_name": "kv Gröningen",
+      "lat": 55.3769870556,
+      "lon": 13.1464553701,
+      "n_samples": 12
+    },
+    {
+      "site_id": 3660,
+      "site_name": "Kalmar slottsfjärd",
+      "lat": 56.6592918435,
+      "lon": 16.3562389968,
+      "n_samples": 1
+    },
+    {
+      "site_id": 3734,
+      "site_name": "Fosie",
+      "lat": 55.5602926412,
+      "lon": 13.0283204272,
+      "n_samples": 6
+    },
+    {
+      "site_id": 3790,
+      "site_name": "Birka, Cemetery",
+      "lat": 59.3356206619,
+      "lon": 17.5455298764,
+      "n_samples": 10
+    }
+  ],
+  "temper": [
+    {
+      "material": "Granite",
+      "pct_present": 60.5,
+      "n_observed": 253
+    },
+    {
+      "material": "Naturally tempered clay",
+      "pct_present": 27.7,
+      "n_observed": 249
+    },
+    {
+      "material": "Chamotte (crushed pottery)",
+      "pct_present": 19.8,
+      "n_observed": 253
+    },
+    {
+      "material": "Crushed rock",
+      "pct_present": 2.8,
+      "n_observed": 253
+    },
+    {
+      "material": "Sand",
+      "pct_present": 2.4,
+      "n_observed": 253
+    },
+    {
+      "material": "Shell/carbonate",
+      "pct_present": 1.2,
+      "n_observed": 249
+    },
+    {
+      "material": "Other additive",
+      "pct_present": 0.0,
+      "n_observed": 249
+    },
+    {
+      "material": "Asbestos",
+      "pct_present": 0.0,
+      "n_observed": 257
+    },
+    {
+      "material": "Bone",
+      "pct_present": 0.0,
+      "n_observed": 249
+    },
+    {
+      "material": "Organic material",
+      "pct_present": 0.0,
+      "n_observed": 249
+    }
+  ]
+}

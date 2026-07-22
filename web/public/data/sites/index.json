@@ -1,0 +1,202 @@
+[
+  {
+    "site_id": 4743,
+    "site_name": "York: 16-22 Coppergate",
+    "lat": 53.9579,
+    "lon": -1.0804005,
+    "n_taxa": 522,
+    "n_layers": 2,
+    "oldest_label": "653 AD - 948 AD",
+    "youngest_label": "800 AD - 1100 AD"
+  },
+  {
+    "site_id": 5191,
+    "site_name": "Claydon Pike",
+    "lat": 51.690235,
+    "lon": -1.729385,
+    "n_taxa": 419,
+    "n_layers": 6,
+    "oldest_label": "650 BC - 50 AD",
+    "youngest_label": "400 AD - 1550 AD"
+  },
+  {
+    "site_id": 4745,
+    "site_name": "York: General Accident",
+    "lat": 53.958073,
+    "lon": -1.0877305,
+    "n_taxa": 384,
+    "n_layers": 2,
+    "oldest_label": "43 AD - 410 AD",
+    "youngest_label": "100 AD - 400 AD"
+  },
+  {
+    "site_id": 4871,
+    "site_name": "Runnymede LBA",
+    "lat": 51.43611,
+    "lon": -0.53694445,
+    "n_taxa": 361,
+    "n_layers": 2,
+    "oldest_label": "1000 BC - 650 BC",
+    "youngest_label": "999 BC - 649 BC"
+  },
+  {
+    "site_id": 4535,
+    "site_name": "Mingies Ditch 2",
+    "lat": 51.750557,
+    "lon": -1.435,
+    "n_taxa": 355,
+    "n_layers": 4,
+    "oldest_label": "650 BC - 50 AD",
+    "youngest_label": "43 AD - 410 AD"
+  },
+  {
+    "site_id": 5470,
+    "site_name": "York: St Georges Field",
+    "lat": 53.953953,
+    "lon": -1.0799783,
+    "n_taxa": 343,
+    "n_layers": 6,
+    "oldest_label": "2499 BC - 599 BC",
+    "youngest_label": "550 BC - 600 BC"
+  },
+  {
+    "site_id": 4650,
+    "site_name": "St. Bees",
+    "lat": 54.48716,
+    "lon": -3.599818,
+    "n_taxa": 342,
+    "n_layers": 4,
+    "oldest_label": "13375 BC - 12184 BC",
+    "youngest_label": "11550 BC - 8050 BC"
+  },
+  {
+    "site_id": 4971,
+    "site_name": "Aston on Trent",
+    "lat": 52.85278,
+    "lon": -1.3611112,
+    "n_taxa": 335,
+    "n_layers": 8,
+    "oldest_label": "8050 BC - 1950 AD",
+    "youngest_label": "1440 BC - 1310 BC"
+  },
+  {
+    "site_id": 5038,
+    "site_name": "Perry Oaks (Heathrow Terminal 5)",
+    "lat": 51.472347,
+    "lon": -0.489229,
+    "n_taxa": 318,
+    "n_layers": 8,
+    "oldest_label": "2100 BC - 1600 BC",
+    "youngest_label": "250 AD - 410 AD"
+  },
+  {
+    "site_id": 5321,
+    "site_name": "London: Poultry",
+    "lat": 51.51349,
+    "lon": -0.09035,
+    "n_taxa": 316,
+    "n_layers": 5,
+    "oldest_label": "43 AD - 410 AD",
+    "youngest_label": "1100 AD - 1300 AD"
+  },
+  {
+    "site_id": 5562,
+    "site_name": "Tatranská Lomnica",
+    "lat": 49.09885,
+    "lon": 20.15814,
+    "n_taxa": 312,
+    "n_layers": 18,
+    "oldest_label": "926 AD - 978 AD",
+    "youngest_label": "2004 AD - 2017 AD"
+  },
+  {
+    "site_id": 4607,
+    "site_name": "Rodbaston Hall",
+    "lat": 52.709167,
+    "lon": -2.1183333,
+    "n_taxa": 309,
+    "n_layers": 3,
+    "oldest_label": "11550 BC - 8050 BC",
+    "youngest_label": "10623 BC - 9455 BC"
+  },
+  {
+    "site_id": 4611,
+    "site_name": "Runnymede 1",
+    "lat": 51.43611,
+    "lon": -0.53694445,
+    "n_taxa": 306,
+    "n_layers": 2,
+    "oldest_label": "3500 BC - 2000 BC",
+    "youngest_label": "3499 BC - 1999 BC"
+  },
+  {
+    "site_id": 4771,
+    "site_name": "Ribchester",
+    "lat": 53.81089,
+    "lon": -2.53219,
+    "n_taxa": 305,
+    "n_layers": 2,
+    "oldest_label": "43 AD - 410 AD",
+    "youngest_label": "70 AD - 400 AD"
+  },
+  {
+    "site_id": 4395,
+    "site_name": "Farmoor: IA/Rom.",
+    "lat": 51.741943,
+    "lon": -1.3569444,
+    "n_taxa": 305,
+    "n_layers": 3,
+    "oldest_label": "650 BC - 50 AD",
+    "youngest_label": "43 AD - 410 AD"
+  },
+  {
+    "site_id": 5430,
+    "site_name": "London: Queen Elizabeth Olympic Park",
+    "lat": 51.54615,
+    "lon": -0.01269,
+    "n_taxa": 302,
+    "n_layers": 20,
+    "oldest_label": "9119 BC - 8305 BC",
+    "youngest_label": "1500 AD - 1799 AD"
+  },
+  {
+    "site_id": 4423,
+    "site_name": "Gransmoor",
+    "lat": 54.02139,
+    "lon": -0.30277777,
+    "n_taxa": 300,
+    "n_layers": 5,
+    "oldest_label": "13657 BC - 11142 BC",
+    "youngest_label": "11550 BC - 8050 BC"
+  },
+  {
+    "site_id": 4923,
+    "site_name": "North Cave",
+    "lat": 53.781666,
+    "lon": -0.6566667,
+    "n_taxa": 295,
+    "n_layers": 2,
+    "oldest_label": "43 AD - 410 AD",
+    "youngest_label": "100 AD - 300 AD"
+  },
+  {
+    "site_id": 5463,
+    "site_name": "Dorney: Eton Rowing Lake",
+    "lat": 51.49346,
+    "lon": -0.66388965,
+    "n_taxa": 291,
+    "n_layers": 11,
+    "oldest_label": "9173 BC - 8760 BC",
+    "youngest_label": "253 AD - 529 AD"
+  },
+  {
+    "site_id": 4501,
+    "site_name": "Lincoln: Brayford Pool",
+    "lat": 53.231945,
+    "lon": -0.5388889,
+    "n_taxa": 291,
+    "n_layers": 13,
+    "oldest_label": "43 AD - 410 AD",
+    "youngest_label": "1175 AD - 1199 AD"
+  }
+]

@@ -1,0 +1,105 @@
+{
+  "slug": "vendel-period-scandinavia",
+  "name": "Vendel period Scandinavia",
+  "label_range": "550 AD - 800 AD",
+  "avg_older_bp": 1400.0,
+  "avg_younger_bp": 1150.0,
+  "n_samples": 136,
+  "n_sites": 6,
+  "sites": [
+    {
+      "site_id": 3432,
+      "site_name": "Uppåkra",
+      "lat": 55.6644396201,
+      "lon": 13.1681066727,
+      "n_samples": 42
+    },
+    {
+      "site_id": 3683,
+      "site_name": "Husby",
+      "lat": 59.306730261,
+      "lon": 15.3765346176,
+      "n_samples": 24
+    },
+    {
+      "site_id": 3695,
+      "site_name": "Helgö",
+      "lat": 59.275121525,
+      "lon": 17.7048666706,
+      "n_samples": 27
+    },
+    {
+      "site_id": 3753,
+      "site_name": "Dagstorp (SU 21)",
+      "lat": 55.8188822611,
+      "lon": 13.064329747,
+      "n_samples": 27
+    },
+    {
+      "site_id": 3765,
+      "site_name": "Bäckby",
+      "lat": 59.6105213849,
+      "lon": 16.4747040526,
+      "n_samples": 12
+    },
+    {
+      "site_id": 3791,
+      "site_name": "Binga",
+      "lat": 56.6371978921,
+      "lon": 16.2134803482,
+      "n_samples": 4
+    }
+  ],
+  "temper": [
+    {
+      "material": "Naturally tempered clay",
+      "pct_present": 60.3,
+      "n_observed": 136
+    },
+    {
+      "material": "Granite",
+      "pct_present": 6.6,
+      "n_observed": 136
+    },
+    {
+      "material": "Sand",
+      "pct_present": 6.6,
+      "n_observed": 136
+    },
+    {
+      "material": "Other additive",
+      "pct_present": 2.2,
+      "n_observed": 136
+    },
+    {
+      "material": "Chamotte (crushed pottery)",
+      "pct_present": 2.2,
+      "n_observed": 136
+    },
+    {
+      "material": "Asbestos",
+      "pct_present": 0.0,
+      "n_observed": 136
+    },
+    {
+      "material": "Bone",
+      "pct_present": 0.0,
+      "n_observed": 136
+    },
+    {
+      "material": "Shell/carbonate",
+      "pct_present": 0.0,
+      "n_observed": 136
+    },
+    {
+      "material": "Organic material",
+      "pct_present": 0.0,
+      "n_observed": 136
+    },
+    {
+      "material": "Crushed rock",
+      "pct_present": 0.0,
+      "n_observed": 136
+    }
+  ]
+}

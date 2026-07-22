@@ -1,0 +1,188 @@
+{
+  "site_id": 4871,
+  "site_name": "Runnymede LBA",
+  "lat": 51.43611,
+  "lon": -0.53694445,
+  "n_taxa": 361,
+  "n_layers": 2,
+  "oldest_label": "1000 BC - 650 BC",
+  "youngest_label": "999 BC - 649 BC",
+  "layers": [
+    {
+      "age_older_bp": 2950.0,
+      "age_younger_bp": 2600.0,
+      "label": "1000 BC - 650 BC",
+      "n_taxa": 361,
+      "taxa": [
+        {
+          "scientific_name": "Oulimnius sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 304
+        },
+        {
+          "scientific_name": "Normandia nitens",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 228
+        },
+        {
+          "scientific_name": "Longitarsus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 174
+        },
+        {
+          "scientific_name": "Aphodius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 116
+        },
+        {
+          "scientific_name": "Megasternum obscurum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 112
+        },
+        {
+          "scientific_name": "Ochthebius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 112
+        },
+        {
+          "scientific_name": "Esolus parallelepipedus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/132565_4a.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 104
+        },
+        {
+          "scientific_name": "Apion (s.l.) spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 100
+        },
+        {
+          "scientific_name": "Helophorus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 96
+        },
+        {
+          "scientific_name": "Aphodius granarius",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/152989_51.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 92
+        }
+      ]
+    },
+    {
+      "age_older_bp": 2949.0,
+      "age_younger_bp": 2599.0,
+      "label": "999 BC - 649 BC",
+      "n_taxa": 361,
+      "taxa": [
+        {
+          "scientific_name": "Oulimnius sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 304
+        },
+        {
+          "scientific_name": "Normandia nitens",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 228
+        },
+        {
+          "scientific_name": "Longitarsus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 174
+        },
+        {
+          "scientific_name": "Aphodius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 116
+        },
+        {
+          "scientific_name": "Megasternum obscurum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 112
+        },
+        {
+          "scientific_name": "Ochthebius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 112
+        },
+        {
+          "scientific_name": "Esolus parallelepipedus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/132565_4a.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 104
+        },
+        {
+          "scientific_name": "Apion (s.l.) spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 100
+        },
+        {
+          "scientific_name": "Helophorus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 96
+        },
+        {
+          "scientific_name": "Aphodius granarius",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/152989_51.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 92
+        }
+      ]
+    }
+  ]
+}

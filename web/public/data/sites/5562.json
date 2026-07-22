@@ -1,0 +1,1651 @@
+{
+  "site_id": 5562,
+  "site_name": "Tatranská Lomnica",
+  "lat": 49.09885,
+  "lon": 20.15814,
+  "n_taxa": 312,
+  "n_layers": 18,
+  "oldest_label": "926 AD - 978 AD",
+  "youngest_label": "2004 AD - 2017 AD",
+  "layers": [
+    {
+      "age_older_bp": 1024.0,
+      "age_younger_bp": 972.0,
+      "label": "926 AD - 978 AD",
+      "n_taxa": 84,
+      "taxa": [
+        {
+          "scientific_name": "Hydroporus tristis",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 34
+        },
+        {
+          "scientific_name": "Polygraphus poligraphus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/146828_6.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 25
+        },
+        {
+          "scientific_name": "Rhynchaenus fagi",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 20
+        },
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 17
+        },
+        {
+          "scientific_name": "Athetini indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 14
+        },
+        {
+          "scientific_name": "Eusphalerum alpinum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 12
+        },
+        {
+          "scientific_name": "Philonthus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 11
+        },
+        {
+          "scientific_name": "Arpedium quadrum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 10
+        },
+        {
+          "scientific_name": "Trechus amplicollis",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 9
+        },
+        {
+          "scientific_name": "Cyphon spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 7
+        }
+      ]
+    },
+    {
+      "age_older_bp": 972.0,
+      "age_younger_bp": 920.0,
+      "label": "978 AD - 1030 AD",
+      "n_taxa": 89,
+      "taxa": [
+        {
+          "scientific_name": "Hydroporus tristis",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 35
+        },
+        {
+          "scientific_name": "Rhynchaenus fagi",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 27
+        },
+        {
+          "scientific_name": "Polygraphus poligraphus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/146828_6.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 21
+        },
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 16
+        },
+        {
+          "scientific_name": "Philonthus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 9
+        },
+        {
+          "scientific_name": "Eusphalerum alpinum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 8
+        },
+        {
+          "scientific_name": "Homalotini indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 7
+        },
+        {
+          "scientific_name": "Otiorhynchus scaber",
+          "common_name_local": null,
+          "common_name_en": "Weevil",
+          "image": null,
+          "total_abundance": 7
+        },
+        {
+          "scientific_name": "Oxypodini indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 7
+        },
+        {
+          "scientific_name": "Pityophthorus pityographus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        }
+      ]
+    },
+    {
+      "age_older_bp": 920.0,
+      "age_younger_bp": 867.0,
+      "label": "1030 AD - 1083 AD",
+      "n_taxa": 74,
+      "taxa": [
+        {
+          "scientific_name": "Rhynchaenus fagi",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 8
+        },
+        {
+          "scientific_name": "Arpedium quadrum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 7
+        },
+        {
+          "scientific_name": "Hydroporus tristis",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 7
+        },
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Anacaena lutescens",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Philonthus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Aphthona sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Hydroporus palustris",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/200789.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Micropeplus tesserula",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Anotylus rugosus",
+          "common_name_local": null,
+          "common_name_en": "Rove beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/151604_1.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 3
+        }
+      ]
+    },
+    {
+      "age_older_bp": 867.0,
+      "age_younger_bp": 814.0,
+      "label": "1083 AD - 1136 AD",
+      "n_taxa": 71,
+      "taxa": [
+        {
+          "scientific_name": "Arpedium quadrum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 13
+        },
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 13
+        },
+        {
+          "scientific_name": "Helophorus flavipes",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 9
+        },
+        {
+          "scientific_name": "Athetini indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Hydroporus tristis",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Gabrius breviventer",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/145566_18.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Anacaena lutescens",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Cyphon spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Agabus affinis",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Olophrum piceum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/94643_p1060275.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 3
+        }
+      ]
+    },
+    {
+      "age_older_bp": 788.0,
+      "age_younger_bp": 689.0,
+      "label": "1162 AD - 1261 AD",
+      "n_taxa": 85,
+      "taxa": [
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 31
+        },
+        {
+          "scientific_name": "Arpedium quadrum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 16
+        },
+        {
+          "scientific_name": "Cyphon spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 9
+        },
+        {
+          "scientific_name": "Pityogenes chalcographus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/150062_30.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 8
+        },
+        {
+          "scientific_name": "Anacaena lutescens",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 7
+        },
+        {
+          "scientific_name": "Athetini indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 7
+        },
+        {
+          "scientific_name": "Eusphalerum anale",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Pityophthorus pityographus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Gabrius breviventer",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/145566_18.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Agonum gracile",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/136494.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 4
+        }
+      ]
+    },
+    {
+      "age_older_bp": 679.0,
+      "age_younger_bp": 562.0,
+      "label": "1271 AD - 1388 AD",
+      "n_taxa": 109,
+      "taxa": [
+        {
+          "scientific_name": "Arpedium quadrum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 22
+        },
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 21
+        },
+        {
+          "scientific_name": "Pityogenes chalcographus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/150062_30.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 13
+        },
+        {
+          "scientific_name": "Cyphon spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 10
+        },
+        {
+          "scientific_name": "Athetini indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Anacaena lutescens",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Bolitochara sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Agabus affinis",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Hydroporus erythrocephalus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Gabrius breviventer",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/145566_18.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 5
+        }
+      ]
+    },
+    {
+      "age_older_bp": 562.0,
+      "age_younger_bp": 446.0,
+      "label": "1388 AD - 1504 AD",
+      "n_taxa": 75,
+      "taxa": [
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 20
+        },
+        {
+          "scientific_name": "Pityogenes chalcographus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/150062_30.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 12
+        },
+        {
+          "scientific_name": "Pityophthorus pityographus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 9
+        },
+        {
+          "scientific_name": "Cyphon spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 8
+        },
+        {
+          "scientific_name": "Arpedium quadrum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 7
+        },
+        {
+          "scientific_name": "Eusphalerum sorbi",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Eusphalerum luteum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Athetini indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Anacaena lutescens",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Anotylus tetracarinatus",
+          "common_name_local": null,
+          "common_name_en": "Rove beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/129416_20.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 5
+        }
+      ]
+    },
+    {
+      "age_older_bp": 475.0,
+      "age_younger_bp": 310.0,
+      "label": "1475 AD - 1640 AD",
+      "n_taxa": 110,
+      "taxa": [
+        {
+          "scientific_name": "Pityogenes chalcographus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/150062_30.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 13
+        },
+        {
+          "scientific_name": "Anotylus tetracarinatus",
+          "common_name_local": null,
+          "common_name_en": "Rove beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/129416_20.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 9
+        },
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 7
+        },
+        {
+          "scientific_name": "Rhynchaenus fagi",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 7
+        },
+        {
+          "scientific_name": "Gabrius breviventer",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/145566_18.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 7
+        },
+        {
+          "scientific_name": "Cyphon spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 7
+        },
+        {
+          "scientific_name": "Athetini indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Hydraena sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Eusphalerum luteum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Hydroporus erythrocephalus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        }
+      ]
+    },
+    {
+      "age_older_bp": 416.0,
+      "age_younger_bp": 0.0,
+      "label": "1534 AD - 1950 AD",
+      "n_taxa": 80,
+      "taxa": [
+        {
+          "scientific_name": "Cyphon spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 23
+        },
+        {
+          "scientific_name": "Hydroporus tristis",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 15
+        },
+        {
+          "scientific_name": "Anotylus tetracarinatus",
+          "common_name_local": null,
+          "common_name_en": "Rove beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/129416_20.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 8
+        },
+        {
+          "scientific_name": "Enochrus quadripunctatus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Coelostoma orbiculare",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/198485.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Limnobaris t-album",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/131261_25.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Gabrius breviventer",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/145566_18.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Athetini indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Carpelimus corticinus",
+          "common_name_local": null,
+          "common_name_en": "Rove beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/141866_24.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 4
+        }
+      ]
+    },
+    {
+      "age_older_bp": 357.0,
+      "age_younger_bp": 312.0,
+      "label": "1593 AD - 1638 AD",
+      "n_taxa": 86,
+      "taxa": [
+        {
+          "scientific_name": "Cyphon spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 9
+        },
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 8
+        },
+        {
+          "scientific_name": "Pityogenes chalcographus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/150062_30.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 8
+        },
+        {
+          "scientific_name": "Gabrius breviventer",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/145566_18.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 7
+        },
+        {
+          "scientific_name": "Anotylus tetracarinatus",
+          "common_name_local": null,
+          "common_name_en": "Rove beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/129416_20.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 7
+        },
+        {
+          "scientific_name": "Anacaena lutescens",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Athetini indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Arpedium quadrum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Platystethus arenarius",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://zenodo.org/record/245615/files/figure.png",
+            "license": null,
+            "creator": "Lü, Liang;Zhou, Hong-Zhang",
+            "source": "Zenodo"
+          },
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Hydroporus erythrocephalus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        }
+      ]
+    },
+    {
+      "age_older_bp": 312.0,
+      "age_younger_bp": 257.0,
+      "label": "1638 AD - 1693 AD",
+      "n_taxa": 71,
+      "taxa": [
+        {
+          "scientific_name": "Anotylus tetracarinatus",
+          "common_name_local": null,
+          "common_name_en": "Rove beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/129416_20.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 9
+        },
+        {
+          "scientific_name": "Cyphon spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 7
+        },
+        {
+          "scientific_name": "Pityogenes chalcographus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/150062_30.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Enochrus quadripunctatus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Platystethus arenarius",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://zenodo.org/record/245615/files/figure.png",
+            "license": null,
+            "creator": "Lü, Liang;Zhou, Hong-Zhang",
+            "source": "Zenodo"
+          },
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Arpedium quadrum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Hydroporus tristis",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Phyllotreta vittula",
+          "common_name_local": null,
+          "common_name_en": "Barley Flea Beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/144912_14.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Philonthus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        }
+      ]
+    },
+    {
+      "age_older_bp": 257.0,
+      "age_younger_bp": 213.0,
+      "label": "1693 AD - 1737 AD",
+      "n_taxa": 73,
+      "taxa": [
+        {
+          "scientific_name": "Cyphon spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 11
+        },
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 7
+        },
+        {
+          "scientific_name": "Hydroporus tristis",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Athetini indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Enochrus quadripunctatus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Anotylus tetracarinatus",
+          "common_name_local": null,
+          "common_name_en": "Rove beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/129416_20.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Phyllobius arborator",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Gabrius breviventer",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/145566_18.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Anotylus rugosus",
+          "common_name_local": null,
+          "common_name_en": "Rove beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/151604_1.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Pityogenes chalcographus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/150062_30.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 3
+        }
+      ]
+    },
+    {
+      "age_older_bp": 109.0,
+      "age_younger_bp": 51.0,
+      "label": "1841 AD - 1899 AD",
+      "n_taxa": 66,
+      "taxa": [
+        {
+          "scientific_name": "Cyphon spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 26
+        },
+        {
+          "scientific_name": "Hydroporus erythrocephalus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 7
+        },
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Enochrus quadripunctatus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Donacia obscura",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Anacaena lutescens",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Hydroporus tristis",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Oxypodini indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Molops piceus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Gabrius breviventer",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/145566_18.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 3
+        }
+      ]
+    },
+    {
+      "age_older_bp": 109.0,
+      "age_younger_bp": 54.0,
+      "label": "1841 AD - 1896 AD",
+      "n_taxa": 64,
+      "taxa": [
+        {
+          "scientific_name": "Cyphon spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 17
+        },
+        {
+          "scientific_name": "Hydroporus tristis",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Anotylus tetracarinatus",
+          "common_name_local": null,
+          "common_name_en": "Rove beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/129416_20.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Enochrus quadripunctatus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Donacia obscura",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Aphthona sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Aphodius abdominalis",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Philonthus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Platystethus arenarius",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://zenodo.org/record/245615/files/figure.png",
+            "license": null,
+            "creator": "Lü, Liang;Zhou, Hong-Zhang",
+            "source": "Zenodo"
+          },
+          "total_abundance": 3
+        }
+      ]
+    },
+    {
+      "age_older_bp": 51.0,
+      "age_younger_bp": 4.0,
+      "label": "1899 AD - 1946 AD",
+      "n_taxa": 51,
+      "taxa": [
+        {
+          "scientific_name": "Cyphon spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 11
+        },
+        {
+          "scientific_name": "Anacaena lutescens",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Athetini indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Olophrum consimile",
+          "common_name_local": null,
+          "common_name_en": "Staph beetle",
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Enochrus quadripunctatus/fuscipennis",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Coelostoma orbiculare",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/198485.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Agonum gracile",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/136494.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Enochrus quadripunctatus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Molops piceus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Agabus affinis",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        }
+      ]
+    },
+    {
+      "age_older_bp": 4.0,
+      "age_younger_bp": -19.0,
+      "label": "1946 AD - 1969 AD",
+      "n_taxa": 45,
+      "taxa": [
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Athetini indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Anacaena lutescens",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Platystethus arenarius",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://zenodo.org/record/245615/files/figure.png",
+            "license": null,
+            "creator": "Lü, Liang;Zhou, Hong-Zhang",
+            "source": "Zenodo"
+          },
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Anotylus tetracarinatus",
+          "common_name_local": null,
+          "common_name_en": "Rove beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/129416_20.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Hydroporus umbrosus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Enochrus fuscipennis",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://zenodo.org/record/1064564/files/figure.png",
+            "license": null,
+            "creator": "Lamelas-López, Lucas;Raposeiro, Pedro Miguel;Borges, Paulo A. V.;Florencio, Margarita",
+            "source": "Zenodo"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Aphodius pedellus",
+          "common_name_local": null,
+          "common_name_en": "Common dung beetle",
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Arpedium quadrum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Anotylus rugosus",
+          "common_name_local": null,
+          "common_name_en": "Rove beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/151604_1.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 1
+        }
+      ]
+    },
+    {
+      "age_older_bp": -19.0,
+      "age_younger_bp": -54.0,
+      "label": "1969 AD - 2004 AD",
+      "n_taxa": 46,
+      "taxa": [
+        {
+          "scientific_name": "Athetini indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Gymnusa sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Pityogenes chalcographus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/150062_30.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Trechus amplicollis",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Limnobaris t-album",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/131261_25.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Tachyporus tranversalis",
+          "common_name_local": null,
+          "common_name_en": "Staph beetle",
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Hydroporus umbrosus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Philonthus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Anotylus tetracarinatus",
+          "common_name_local": null,
+          "common_name_en": "Rove beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/129416_20.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        }
+      ]
+    },
+    {
+      "age_older_bp": -54.0,
+      "age_younger_bp": -67.0,
+      "label": "2004 AD - 2017 AD",
+      "n_taxa": 43,
+      "taxa": [
+        {
+          "scientific_name": "Athetini indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 13
+        },
+        {
+          "scientific_name": "Pityogenes chalcographus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/150062_30.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 13
+        },
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 9
+        },
+        {
+          "scientific_name": "Pityophthorus pityographus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 8
+        },
+        {
+          "scientific_name": "Cryphalus sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Olophrum consimile",
+          "common_name_local": null,
+          "common_name_en": "Staph beetle",
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Cyphon spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Anacaena lutescens",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Ips typographus",
+          "common_name_local": null,
+          "common_name_en": "Engraver Beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/110201_25.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Bolitochara sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        }
+      ]
+    }
+  ]
+}

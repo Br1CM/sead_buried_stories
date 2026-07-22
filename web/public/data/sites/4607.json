@@ -1,0 +1,291 @@
+{
+  "site_id": 4607,
+  "site_name": "Rodbaston Hall",
+  "lat": 52.709167,
+  "lon": -2.1183333,
+  "n_taxa": 309,
+  "n_layers": 3,
+  "oldest_label": "11550 BC - 8050 BC",
+  "youngest_label": "10623 BC - 9455 BC",
+  "layers": [
+    {
+      "age_older_bp": 13500.0,
+      "age_younger_bp": 10000.0,
+      "label": "11550 BC - 8050 BC",
+      "n_taxa": 204,
+      "taxa": [
+        {
+          "scientific_name": "Scirtidae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1305
+        },
+        {
+          "scientific_name": "Chaetarthria seminulum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/151160_14.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 329
+        },
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 248
+        },
+        {
+          "scientific_name": "Hydroporus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 191
+        },
+        {
+          "scientific_name": "Coelostoma orbiculare",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/198485.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 152
+        },
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 114
+        },
+        {
+          "scientific_name": "Corticariinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 93
+        },
+        {
+          "scientific_name": "Bagous spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 87
+        },
+        {
+          "scientific_name": "Hydraena riparia",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/128633_hr.jpg",
+            "license": "CC BY-NC",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 85
+        },
+        {
+          "scientific_name": "Bryaxis spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 81
+        }
+      ]
+    },
+    {
+      "age_older_bp": 12802.0,
+      "age_younger_bp": 12161.0,
+      "label": "10852 BC - 10211 BC",
+      "n_taxa": 183,
+      "taxa": [
+        {
+          "scientific_name": "Scirtidae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 305
+        },
+        {
+          "scientific_name": "Ochthebius minimus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/110659_1.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 232
+        },
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 214
+        },
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 119
+        },
+        {
+          "scientific_name": "Eucnecosum brachypterum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 118
+        },
+        {
+          "scientific_name": "Olophrum fuscum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 94
+        },
+        {
+          "scientific_name": "Pelenomus canaliculatus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://zenodo.org/record/216807/files/figure.png",
+            "license": null,
+            "creator": "Yang, Lujing;Huang, Junhao;Zhang, Runzhi;Wu, Hong",
+            "source": "Zenodo"
+          },
+          "total_abundance": 69
+        },
+        {
+          "scientific_name": "Plateumaris sericea",
+          "common_name_local": null,
+          "common_name_en": "jewel reed beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/149958_2018_1_470.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Tjerk Nawijn",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 63
+        },
+        {
+          "scientific_name": "Cercyon spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 55
+        },
+        {
+          "scientific_name": "Gabrius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 47
+        }
+      ]
+    },
+    {
+      "age_older_bp": 12573.0,
+      "age_younger_bp": 11405.0,
+      "label": "10623 BC - 9455 BC",
+      "n_taxa": 91,
+      "taxa": [
+        {
+          "scientific_name": "Scirtidae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 78
+        },
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 36
+        },
+        {
+          "scientific_name": "Olophrum fuscum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 34
+        },
+        {
+          "scientific_name": "Eucnecosum brachypterum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 27
+        },
+        {
+          "scientific_name": "Philonthus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 15
+        },
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 13
+        },
+        {
+          "scientific_name": "Ochthebius minimus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/110659_1.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 13
+        },
+        {
+          "scientific_name": "Enochrus sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 12
+        },
+        {
+          "scientific_name": "Pelenomus canaliculatus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://zenodo.org/record/216807/files/figure.png",
+            "license": null,
+            "creator": "Yang, Lujing;Huang, Junhao;Zhang, Runzhi;Wu, Hong",
+            "source": "Zenodo"
+          },
+          "total_abundance": 12
+        },
+        {
+          "scientific_name": "Coelostoma orbiculare",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/198485.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 9
+        }
+      ]
+    }
+  ]
+}

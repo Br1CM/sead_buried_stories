@@ -1,0 +1,182 @@
+{
+  "slug": "pre-roman-iron-age",
+  "name": "Pre Roman Iron Age",
+  "label_range": "500 BC - 1 BC/AD",
+  "avg_older_bp": 2450.0,
+  "avg_younger_bp": 1950.0,
+  "n_samples": 152,
+  "n_sites": 17,
+  "sites": [
+    {
+      "site_id": 3416,
+      "site_name": "Vojmsjöns utlopp",
+      "lat": 64.8647793587,
+      "lon": 16.7336253556,
+      "n_samples": 2
+    },
+    {
+      "site_id": 3417,
+      "site_name": "Vojmsjön",
+      "lat": 64.8768240125,
+      "lon": 16.7313612395,
+      "n_samples": 2
+    },
+    {
+      "site_id": 3426,
+      "site_name": "Vallviksvallen",
+      "lat": 64.7002525283,
+      "lon": 16.3891562684,
+      "n_samples": 1
+    },
+    {
+      "site_id": 3433,
+      "site_name": "Ullisjaur",
+      "lat": 65.5385000571,
+      "lon": 16.1164565045,
+      "n_samples": 2
+    },
+    {
+      "site_id": 3446,
+      "site_name": "Tofta 19",
+      "lat": 55.8613309856,
+      "lon": 12.9180757959,
+      "n_samples": 30
+    },
+    {
+      "site_id": 3450,
+      "site_name": "Söderåkra (Eket)",
+      "lat": 56.4592866705,
+      "lon": 16.0782357655,
+      "n_samples": 12
+    },
+    {
+      "site_id": 3455,
+      "site_name": "Säbyholm",
+      "lat": 55.9063531786,
+      "lon": 12.8303871012,
+      "n_samples": 21
+    },
+    {
+      "site_id": 3462,
+      "site_name": "Ställverksboplatsen",
+      "lat": 63.4390824281,
+      "lon": 16.887205619,
+      "n_samples": 2
+    },
+    {
+      "site_id": 3471,
+      "site_name": "Snöstorp 106",
+      "lat": 56.6390765233,
+      "lon": 12.9308154089,
+      "n_samples": 8
+    },
+    {
+      "site_id": 3498,
+      "site_name": "Råinget",
+      "lat": 63.46731987,
+      "lon": 16.8554086665,
+      "n_samples": 2
+    },
+    {
+      "site_id": 3516,
+      "site_name": "Prästgården",
+      "lat": 60.0288075655,
+      "lon": 17.5466800928,
+      "n_samples": 12
+    },
+    {
+      "site_id": 3591,
+      "site_name": "Lilla Tvären",
+      "lat": 55.4317889627,
+      "lon": 13.7827217761,
+      "n_samples": 18
+    },
+    {
+      "site_id": 3599,
+      "site_name": "Lappvallen",
+      "lat": 64.6946607846,
+      "lon": 16.3930220382,
+      "n_samples": 1
+    },
+    {
+      "site_id": 3610,
+      "site_name": "Kyrkebo",
+      "lat": 58.4700491904,
+      "lon": 13.4782148146,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3729,
+      "site_name": "Fågelsjö",
+      "lat": 61.7915130563,
+      "lon": 14.6180877928,
+      "n_samples": 4
+    },
+    {
+      "site_id": 3732,
+      "site_name": "Fredriksberg 13D",
+      "lat": 55.5601589807,
+      "lon": 13.0764550071,
+      "n_samples": 28
+    },
+    {
+      "site_id": 3781,
+      "site_name": "Björklinge 67",
+      "lat": 60.0238821868,
+      "lon": 17.5658307313,
+      "n_samples": 4
+    }
+  ],
+  "temper": [
+    {
+      "material": "Granite",
+      "pct_present": 52.1,
+      "n_observed": 144
+    },
+    {
+      "material": "Naturally tempered clay",
+      "pct_present": 36.8,
+      "n_observed": 144
+    },
+    {
+      "material": "Asbestos",
+      "pct_present": 11.1,
+      "n_observed": 144
+    },
+    {
+      "material": "Crushed rock",
+      "pct_present": 7.6,
+      "n_observed": 144
+    },
+    {
+      "material": "Chamotte (crushed pottery)",
+      "pct_present": 4.9,
+      "n_observed": 144
+    },
+    {
+      "material": "Sand",
+      "pct_present": 4.8,
+      "n_observed": 147
+    },
+    {
+      "material": "Other additive",
+      "pct_present": 2.8,
+      "n_observed": 144
+    },
+    {
+      "material": "Bone",
+      "pct_present": 2.1,
+      "n_observed": 144
+    },
+    {
+      "material": "Organic material",
+      "pct_present": 2.1,
+      "n_observed": 144
+    },
+    {
+      "material": "Shell/carbonate",
+      "pct_present": 0.0,
+      "n_observed": 144
+    }
+  ]
+}

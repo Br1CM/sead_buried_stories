@@ -1,0 +1,146 @@
+[
+  {
+    "slug": "mesolithic-early-neolithic-scandinavia",
+    "name": "Mesolithic  - Early Neolithic Scandinavia",
+    "label_range": "11000 BC - 3300 BC",
+    "avg_older_bp": 12950.0,
+    "avg_younger_bp": 5250.0,
+    "n_samples": 161,
+    "n_sites": 10
+  },
+  {
+    "slug": "early-neolithic-s-scandinavia",
+    "name": "Early neolithic S Scandinavia",
+    "label_range": "4000 BC - 3300 BC",
+    "avg_older_bp": 5950.0,
+    "avg_younger_bp": 5250.0,
+    "n_samples": 359,
+    "n_sites": 23
+  },
+  {
+    "slug": "early-neolithic-middle-neolithic-s-scandinavia",
+    "name": "Early Neolithic - Middle Neolithic S Scandinavia",
+    "label_range": "4000 BC - 2400 BC",
+    "avg_older_bp": 5950.0,
+    "avg_younger_bp": 4350.0,
+    "n_samples": 217,
+    "n_sites": 10
+  },
+  {
+    "slug": "middle-neolithic-s-scandinavia",
+    "name": "Middle neolithic S Scandinavia",
+    "label_range": "3300 BC - 2400 BC",
+    "avg_older_bp": 5250.0,
+    "avg_younger_bp": 4350.0,
+    "n_samples": 1475,
+    "n_sites": 63
+  },
+  {
+    "slug": "bronze-age-period-ii-vi",
+    "name": "Bronze Age Period II - VI",
+    "label_range": "1500 BC - 500 BC",
+    "avg_older_bp": 3450.0,
+    "avg_younger_bp": 2450.0,
+    "n_samples": 604,
+    "n_sites": 22
+  },
+  {
+    "slug": "bronze-age-period-iv-vi",
+    "name": "Bronze Age Period IV - VI",
+    "label_range": "1100 BC - 500 BC",
+    "avg_older_bp": 3050.0,
+    "avg_younger_bp": 2450.0,
+    "n_samples": 212,
+    "n_sites": 14
+  },
+  {
+    "slug": "pre-roman-iron-age",
+    "name": "Pre Roman Iron Age",
+    "label_range": "500 BC - 1 BC/AD",
+    "avg_older_bp": 2450.0,
+    "avg_younger_bp": 1950.0,
+    "n_samples": 152,
+    "n_sites": 17
+  },
+  {
+    "slug": "roman-iron-age",
+    "name": "Roman Iron Age",
+    "label_range": "1 BC/AD - 400 AD",
+    "avg_older_bp": 1950.0,
+    "avg_younger_bp": 1550.0,
+    "n_samples": 1858,
+    "n_sites": 33
+  },
+  {
+    "slug": "roman-iron-age-migration-period",
+    "name": "Roman Iron Age - Migration Period",
+    "label_range": "1 BC/AD - 550 AD",
+    "avg_older_bp": 1950.0,
+    "avg_younger_bp": 1400.0,
+    "n_samples": 135,
+    "n_sites": 5
+  },
+  {
+    "slug": "migration-period-scandinavia",
+    "name": "Migration period Scandinavia",
+    "label_range": "400 AD - 550 AD",
+    "avg_older_bp": 1550.0,
+    "avg_younger_bp": 1400.0,
+    "n_samples": 154,
+    "n_sites": 6
+  },
+  {
+    "slug": "vendel-period-scandinavia",
+    "name": "Vendel period Scandinavia",
+    "label_range": "550 AD - 800 AD",
+    "avg_older_bp": 1400.0,
+    "avg_younger_bp": 1150.0,
+    "n_samples": 136,
+    "n_sites": 6
+  },
+  {
+    "slug": "viking-age-germany",
+    "name": "Viking Age Germany",
+    "label_range": "800 AD - 1080 AD",
+    "avg_older_bp": 1150.0,
+    "avg_younger_bp": 870.0,
+    "n_samples": 482,
+    "n_sites": 3
+  },
+  {
+    "slug": "viking",
+    "name": "Viking",
+    "label_range": "800 AD - 1100 AD",
+    "avg_older_bp": 1150.0,
+    "avg_younger_bp": 850.0,
+    "n_samples": 589,
+    "n_sites": 48
+  },
+  {
+    "slug": "viking-age-medieval-period-scandinavia",
+    "name": "Viking Age - Medieval Period Scandinavia",
+    "label_range": "800 AD - 1500 AD",
+    "avg_older_bp": 1150.0,
+    "avg_younger_bp": 450.0,
+    "n_samples": 257,
+    "n_sites": 9
+  },
+  {
+    "slug": "medieval-scandinavia",
+    "name": "Medieval Scandinavia",
+    "label_range": "1050 AD - 1500 AD",
+    "avg_older_bp": 900.0,
+    "avg_younger_bp": 450.0,
+    "n_samples": 625,
+    "n_sites": 24
+  },
+  {
+    "slug": "post-reformation",
+    "name": "Post Reformation",
+    "label_range": "1500 AD - unknown",
+    "avg_older_bp": 450.0,
+    "avg_younger_bp": null,
+    "n_samples": 141,
+    "n_sites": 1
+  }
+]

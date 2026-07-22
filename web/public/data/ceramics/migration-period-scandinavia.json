@@ -1,0 +1,105 @@
+{
+  "slug": "migration-period-scandinavia",
+  "name": "Migration period Scandinavia",
+  "label_range": "400 AD - 550 AD",
+  "avg_older_bp": 1550.0,
+  "avg_younger_bp": 1400.0,
+  "n_samples": 154,
+  "n_sites": 6,
+  "sites": [
+    {
+      "site_id": 3492,
+      "site_name": "Rössvik",
+      "lat": 62.553289,
+      "lon": 6.020956,
+      "n_samples": 4
+    },
+    {
+      "site_id": 3675,
+      "site_name": "Högom",
+      "lat": 62.4011949944,
+      "lon": 17.2584923185,
+      "n_samples": 42
+    },
+    {
+      "site_id": 3695,
+      "site_name": "Helgö",
+      "lat": 59.275121525,
+      "lon": 17.7048666706,
+      "n_samples": 42
+    },
+    {
+      "site_id": 3704,
+      "site_name": "Hamre",
+      "lat": 59.5939573995,
+      "lon": 16.6092138172,
+      "n_samples": 36
+    },
+    {
+      "site_id": 3750,
+      "site_name": "Danmarksby",
+      "lat": 59.8265858232,
+      "lon": 17.7422661074,
+      "n_samples": 24
+    },
+    {
+      "site_id": 3793,
+      "site_name": "Bengtstorp",
+      "lat": 59.2478788839,
+      "lon": 15.0683218771,
+      "n_samples": 6
+    }
+  ],
+  "temper": [
+    {
+      "material": "Granite",
+      "pct_present": 39.6,
+      "n_observed": 154
+    },
+    {
+      "material": "Chamotte (crushed pottery)",
+      "pct_present": 33.8,
+      "n_observed": 154
+    },
+    {
+      "material": "Other additive",
+      "pct_present": 27.3,
+      "n_observed": 154
+    },
+    {
+      "material": "Naturally tempered clay",
+      "pct_present": 25.3,
+      "n_observed": 154
+    },
+    {
+      "material": "Organic material",
+      "pct_present": 14.3,
+      "n_observed": 154
+    },
+    {
+      "material": "Asbestos",
+      "pct_present": 5.2,
+      "n_observed": 154
+    },
+    {
+      "material": "Crushed rock",
+      "pct_present": 2.6,
+      "n_observed": 154
+    },
+    {
+      "material": "Sand",
+      "pct_present": 1.9,
+      "n_observed": 154
+    },
+    {
+      "material": "Bone",
+      "pct_present": 0.0,
+      "n_observed": 154
+    },
+    {
+      "material": "Shell/carbonate",
+      "pct_present": 0.0,
+      "n_observed": 154
+    }
+  ]
+}

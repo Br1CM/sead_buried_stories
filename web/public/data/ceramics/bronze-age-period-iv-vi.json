@@ -1,0 +1,161 @@
+{
+  "slug": "bronze-age-period-iv-vi",
+  "name": "Bronze Age Period IV - VI",
+  "label_range": "1100 BC - 500 BC",
+  "avg_older_bp": 3050.0,
+  "avg_younger_bp": 2450.0,
+  "n_samples": 212,
+  "n_sites": 14,
+  "sites": [
+    {
+      "site_id": 3418,
+      "site_name": "Vistad",
+      "lat": 58.3166922306,
+      "lon": 14.9618853709,
+      "n_samples": 27
+    },
+    {
+      "site_id": 3459,
+      "site_name": "Svågertorp 8B-C",
+      "lat": 55.5468493119,
+      "lon": 12.9941183078,
+      "n_samples": 12
+    },
+    {
+      "site_id": 3502,
+      "site_name": "Rya",
+      "lat": 55.9794233169,
+      "lon": 12.7825512609,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3509,
+      "site_name": "Ringeby",
+      "lat": 58.631513014,
+      "lon": 16.1568613192,
+      "n_samples": 24
+    },
+    {
+      "site_id": 3543,
+      "site_name": "Nibble",
+      "lat": 59.6483203386,
+      "lon": 16.9979235775,
+      "n_samples": 12
+    },
+    {
+      "site_id": 3571,
+      "site_name": "Löderup",
+      "lat": 55.3942660175,
+      "lon": 14.119624284,
+      "n_samples": 10
+    },
+    {
+      "site_id": 3575,
+      "site_name": "Lundåkra",
+      "lat": 55.7821241478,
+      "lon": 12.936672096,
+      "n_samples": 18
+    },
+    {
+      "site_id": 3587,
+      "site_name": "Lindab området",
+      "lat": 56.3829210993,
+      "lon": 12.7874546022,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3605,
+      "site_name": "Kättsta",
+      "lat": 59.96193244,
+      "lon": 17.6484353865,
+      "n_samples": 6
+    },
+    {
+      "site_id": 3648,
+      "site_name": "Killebäckstorp",
+      "lat": 56.3845898779,
+      "lon": 12.7498551494,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3678,
+      "site_name": "Håga",
+      "lat": 59.8373397267,
+      "lon": 17.5824619728,
+      "n_samples": 15
+    },
+    {
+      "site_id": 3721,
+      "site_name": "Grevie 365",
+      "lat": 56.3699296725,
+      "lon": 12.8068788244,
+      "n_samples": 42
+    },
+    {
+      "site_id": 3731,
+      "site_name": "Fredriksberg 13E",
+      "lat": 55.5666972007,
+      "lon": 13.0882208523,
+      "n_samples": 28
+    },
+    {
+      "site_id": 3747,
+      "site_name": "Dragby",
+      "lat": 59.9796541212,
+      "lon": 17.5797046104,
+      "n_samples": 9
+    }
+  ],
+  "temper": [
+    {
+      "material": "Granite",
+      "pct_present": 58.5,
+      "n_observed": 212
+    },
+    {
+      "material": "Naturally tempered clay",
+      "pct_present": 27.4,
+      "n_observed": 212
+    },
+    {
+      "material": "Sand",
+      "pct_present": 12.7,
+      "n_observed": 212
+    },
+    {
+      "material": "Chamotte (crushed pottery)",
+      "pct_present": 11.3,
+      "n_observed": 212
+    },
+    {
+      "material": "Crushed rock",
+      "pct_present": 5.7,
+      "n_observed": 212
+    },
+    {
+      "material": "Organic material",
+      "pct_present": 2.8,
+      "n_observed": 212
+    },
+    {
+      "material": "Other additive",
+      "pct_present": 0.0,
+      "n_observed": 212
+    },
+    {
+      "material": "Asbestos",
+      "pct_present": 0.0,
+      "n_observed": 212
+    },
+    {
+      "material": "Bone",
+      "pct_present": 0.0,
+      "n_observed": 212
+    },
+    {
+      "material": "Shell/carbonate",
+      "pct_present": 0.0,
+      "n_observed": 212
+    }
+  ]
+}

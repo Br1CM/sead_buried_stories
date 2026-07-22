@@ -1,0 +1,369 @@
+{
+  "site_id": 4535,
+  "site_name": "Mingies Ditch 2",
+  "lat": 51.750557,
+  "lon": -1.435,
+  "n_taxa": 355,
+  "n_layers": 4,
+  "oldest_label": "650 BC - 50 AD",
+  "youngest_label": "43 AD - 410 AD",
+  "layers": [
+    {
+      "age_older_bp": 2600.0,
+      "age_younger_bp": 1900.0,
+      "label": "650 BC - 50 AD",
+      "n_taxa": 336,
+      "taxa": [
+        {
+          "scientific_name": "Helophorus brevipalpis (grp)",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 459
+        },
+        {
+          "scientific_name": "Ochthebius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 297
+        },
+        {
+          "scientific_name": "Hydraena testacea",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/137849_1.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 282
+        },
+        {
+          "scientific_name": "Hymenoptera indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 269
+        },
+        {
+          "scientific_name": "Aphodius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 173
+        },
+        {
+          "scientific_name": "Diptera indet. (adult)",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 155
+        },
+        {
+          "scientific_name": "Chaetocnema concinna",
+          "common_name_local": null,
+          "common_name_en": "Beet Flea Beetle",
+          "image": null,
+          "total_abundance": 148
+        },
+        {
+          "scientific_name": "Diptera indet. (puparia)",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 105
+        },
+        {
+          "scientific_name": "Apion (s.l.) spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 101
+        },
+        {
+          "scientific_name": "Lasius niger (grp)",
+          "common_name_local": null,
+          "common_name_en": "Small Black Ant",
+          "image": {
+            "url": "https://images.naturalis.nl/original/126574_lasius_niger_3.jpg",
+            "license": "CC BY-NC",
+            "creator": "Santiago Siutti",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 97
+        }
+      ]
+    },
+    {
+      "age_older_bp": 2599.0,
+      "age_younger_bp": 1900.0,
+      "label": "649 BC - 50 AD",
+      "n_taxa": 302,
+      "taxa": [
+        {
+          "scientific_name": "Ochthebius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 233
+        },
+        {
+          "scientific_name": "Helophorus brevipalpis (grp)",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 228
+        },
+        {
+          "scientific_name": "Hydraena testacea",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/137849_1.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 180
+        },
+        {
+          "scientific_name": "Hymenoptera indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 170
+        },
+        {
+          "scientific_name": "Chaetocnema concinna",
+          "common_name_local": null,
+          "common_name_en": "Beet Flea Beetle",
+          "image": null,
+          "total_abundance": 115
+        },
+        {
+          "scientific_name": "Aphodius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 114
+        },
+        {
+          "scientific_name": "Apion (s.l.) spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 83
+        },
+        {
+          "scientific_name": "Aphidoidea indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 74
+        },
+        {
+          "scientific_name": "Phyllopertha horticola",
+          "common_name_local": null,
+          "common_name_en": "Bracken Clock",
+          "image": {
+            "url": "https://images.naturalis.nl/original/183115.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Hans Jonkman",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 71
+        },
+        {
+          "scientific_name": "Diptera indet. (adult)",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 69
+        }
+      ]
+    },
+    {
+      "age_older_bp": 2347.0,
+      "age_younger_bp": 1951.0,
+      "label": "397 BC - 1 BC",
+      "n_taxa": 211,
+      "taxa": [
+        {
+          "scientific_name": "Helophorus brevipalpis (grp)",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 231
+        },
+        {
+          "scientific_name": "Hydraena testacea",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/137849_1.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 102
+        },
+        {
+          "scientific_name": "Hymenoptera indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 99
+        },
+        {
+          "scientific_name": "Diptera indet. (adult)",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 86
+        },
+        {
+          "scientific_name": "Ochthebius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 64
+        },
+        {
+          "scientific_name": "Aphodius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 59
+        },
+        {
+          "scientific_name": "Lasius fuliginosus",
+          "common_name_local": null,
+          "common_name_en": "Jet Ant",
+          "image": {
+            "url": "https://images.naturalis.nl/original/111042_dsc02166irf11iv17sbb_lasius_fuliginosus.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Hans Jonkman",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 52
+        },
+        {
+          "scientific_name": "Diptera indet. (puparia)",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 46
+        },
+        {
+          "scientific_name": "Bibionidae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 46
+        },
+        {
+          "scientific_name": "Lasius niger (grp)",
+          "common_name_local": null,
+          "common_name_en": "Small Black Ant",
+          "image": {
+            "url": "https://images.naturalis.nl/original/126574_lasius_niger_3.jpg",
+            "license": "CC BY-NC",
+            "creator": "Santiago Siutti",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 39
+        }
+      ]
+    },
+    {
+      "age_older_bp": 1907.0,
+      "age_younger_bp": 1540.0,
+      "label": "43 AD - 410 AD",
+      "n_taxa": 60,
+      "taxa": [
+        {
+          "scientific_name": "Ithytrichia lamellaris/clavata",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 24
+        },
+        {
+          "scientific_name": "Dryops sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 12
+        },
+        {
+          "scientific_name": "Diptera indet. (puparia)",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Bagous sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Notaris acridulus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/151185_10.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Limnebius papposus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Helophorus brevipalpis (grp)",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Sphaeridium bipustulatum",
+          "common_name_local": null,
+          "common_name_en": "Water scavenger beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/211001.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Chaetocnema concinna",
+          "common_name_local": null,
+          "common_name_en": "Beet Flea Beetle",
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Diptera indet. (adult)",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        }
+      ]
+    }
+  ]
+}

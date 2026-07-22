@@ -1,0 +1,84 @@
+{
+  "slug": "viking-age-germany",
+  "name": "Viking Age Germany",
+  "label_range": "800 AD - 1080 AD",
+  "avg_older_bp": 1150.0,
+  "avg_younger_bp": 870.0,
+  "n_samples": 482,
+  "n_sites": 3,
+  "sites": [
+    {
+      "site_id": 3442,
+      "site_name": "Trier",
+      "lat": 49.753963,
+      "lon": 6.644011,
+      "n_samples": 2
+    },
+    {
+      "site_id": 3697,
+      "site_name": "Hedeby",
+      "lat": 54.491837,
+      "lon": 9.566546,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3718,
+      "site_name": "Gross Strömkendorf (Reric)",
+      "lat": 53.961634,
+      "lon": 11.484935,
+      "n_samples": 477
+    }
+  ],
+  "temper": [
+    {
+      "material": "Granite",
+      "pct_present": 61.0,
+      "n_observed": 482
+    },
+    {
+      "material": "Chamotte (crushed pottery)",
+      "pct_present": 22.8,
+      "n_observed": 482
+    },
+    {
+      "material": "Naturally tempered clay",
+      "pct_present": 20.7,
+      "n_observed": 482
+    },
+    {
+      "material": "Sand",
+      "pct_present": 14.3,
+      "n_observed": 482
+    },
+    {
+      "material": "Crushed rock",
+      "pct_present": 11.0,
+      "n_observed": 482
+    },
+    {
+      "material": "Shell/carbonate",
+      "pct_present": 5.0,
+      "n_observed": 482
+    },
+    {
+      "material": "Organic material",
+      "pct_present": 0.4,
+      "n_observed": 482
+    },
+    {
+      "material": "Other additive",
+      "pct_present": 0.0,
+      "n_observed": 5
+    },
+    {
+      "material": "Asbestos",
+      "pct_present": 0.0,
+      "n_observed": 482
+    },
+    {
+      "material": "Bone",
+      "pct_present": 0.0,
+      "n_observed": 482
+    }
+  ]
+}

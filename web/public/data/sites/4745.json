@@ -1,0 +1,198 @@
+{
+  "site_id": 4745,
+  "site_name": "York: General Accident",
+  "lat": 53.958073,
+  "lon": -1.0877305,
+  "n_taxa": 384,
+  "n_layers": 2,
+  "oldest_label": "43 AD - 410 AD",
+  "youngest_label": "100 AD - 400 AD",
+  "layers": [
+    {
+      "age_older_bp": 1907.0,
+      "age_younger_bp": 1540.0,
+      "label": "43 AD - 410 AD",
+      "n_taxa": 384,
+      "taxa": [
+        {
+          "scientific_name": "Acalypta sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Acidota crenata",
+          "common_name_local": null,
+          "common_name_en": "Crenate Ocellate Rove Beetle",
+          "image": {
+            "url": "https://binary.pensoft.net/fig/889172",
+            "license": null,
+            "creator": "Chen, Xi;Xu, Yong-Qiang;Peng, Zhong",
+            "source": "Zenodo"
+          },
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Acritus nigricornis",
+          "common_name_local": null,
+          "common_name_en": "Hister beetle",
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Acrotrichis spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Acupalpus meridianus",
+          "common_name_local": null,
+          "common_name_en": "Midday Harp Ground Beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/122603_7.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Acupalpus sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Agabus bipustulatus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/189721.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Agabus sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Agathidium sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Aglenus brunneus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        }
+      ]
+    },
+    {
+      "age_older_bp": 1850.0,
+      "age_younger_bp": 1550.0,
+      "label": "100 AD - 400 AD",
+      "n_taxa": 384,
+      "taxa": [
+        {
+          "scientific_name": "Acalypta sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Acidota crenata",
+          "common_name_local": null,
+          "common_name_en": "Crenate Ocellate Rove Beetle",
+          "image": {
+            "url": "https://binary.pensoft.net/fig/889172",
+            "license": null,
+            "creator": "Chen, Xi;Xu, Yong-Qiang;Peng, Zhong",
+            "source": "Zenodo"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Acritus nigricornis",
+          "common_name_local": null,
+          "common_name_en": "Hister beetle",
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Acrotrichis spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Acupalpus meridianus",
+          "common_name_local": null,
+          "common_name_en": "Midday Harp Ground Beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/122603_7.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Acupalpus sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Agabus bipustulatus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/189721.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Agabus sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Agathidium sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Aglenus brunneus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        }
+      ]
+    }
+  ]
+}

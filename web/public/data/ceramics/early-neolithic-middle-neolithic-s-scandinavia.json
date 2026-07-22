@@ -1,0 +1,133 @@
+{
+  "slug": "early-neolithic-middle-neolithic-s-scandinavia",
+  "name": "Early Neolithic - Middle Neolithic S Scandinavia",
+  "label_range": "4000 BC - 2400 BC",
+  "avg_older_bp": 5950.0,
+  "avg_younger_bp": 4350.0,
+  "n_samples": 217,
+  "n_sites": 10,
+  "sites": [
+    {
+      "site_id": 3422,
+      "site_name": "Veta 45",
+      "lat": 58.3509511955,
+      "lon": 15.2594751972,
+      "n_samples": 9
+    },
+    {
+      "site_id": 3499,
+      "site_name": "Råga Hörstad",
+      "lat": 55.8835613054,
+      "lon": 12.9167576982,
+      "n_samples": 6
+    },
+    {
+      "site_id": 3533,
+      "site_name": "Nöbbelöv",
+      "lat": 55.7375244339,
+      "lon": 13.1442946794,
+      "n_samples": 40
+    },
+    {
+      "site_id": 3567,
+      "site_name": "Löderup 3",
+      "lat": 55.4117618327,
+      "lon": 14.1870925819,
+      "n_samples": 24
+    },
+    {
+      "site_id": 3585,
+      "site_name": "Linköping 188",
+      "lat": 58.39742625,
+      "lon": 15.6360396796,
+      "n_samples": 15
+    },
+    {
+      "site_id": 3661,
+      "site_name": "Järrestad SU2",
+      "lat": 55.5348436416,
+      "lon": 14.2804949899,
+      "n_samples": 6
+    },
+    {
+      "site_id": 3676,
+      "site_name": "Hästholmen",
+      "lat": 59.3751155269,
+      "lon": 11.9281022166,
+      "n_samples": 12
+    },
+    {
+      "site_id": 3684,
+      "site_name": "Hunneberget",
+      "lat": 56.0336937531,
+      "lon": 14.263892386,
+      "n_samples": 90
+    },
+    {
+      "site_id": 3714,
+      "site_name": "Gräne",
+      "lat": 57.4421685362,
+      "lon": 18.3396382261,
+      "n_samples": 6
+    },
+    {
+      "site_id": 3780,
+      "site_name": "Björkön",
+      "lat": 58.784668681,
+      "lon": 12.473268136,
+      "n_samples": 9
+    }
+  ],
+  "temper": [
+    {
+      "material": "Granite",
+      "pct_present": 78.3,
+      "n_observed": 217
+    },
+    {
+      "material": "Crushed rock",
+      "pct_present": 29.5,
+      "n_observed": 217
+    },
+    {
+      "material": "Naturally tempered clay",
+      "pct_present": 16.6,
+      "n_observed": 217
+    },
+    {
+      "material": "Chamotte (crushed pottery)",
+      "pct_present": 1.4,
+      "n_observed": 214
+    },
+    {
+      "material": "Other additive",
+      "pct_present": 0.0,
+      "n_observed": 217
+    },
+    {
+      "material": "Asbestos",
+      "pct_present": 0.0,
+      "n_observed": 217
+    },
+    {
+      "material": "Bone",
+      "pct_present": 0.0,
+      "n_observed": 217
+    },
+    {
+      "material": "Shell/carbonate",
+      "pct_present": 0.0,
+      "n_observed": 217
+    },
+    {
+      "material": "Organic material",
+      "pct_present": 0.0,
+      "n_observed": 217
+    },
+    {
+      "material": "Sand",
+      "pct_present": 0.0,
+      "n_observed": 217
+    }
+  ]
+}

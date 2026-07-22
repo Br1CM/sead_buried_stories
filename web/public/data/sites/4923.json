@@ -1,0 +1,198 @@
+{
+  "site_id": 4923,
+  "site_name": "North Cave",
+  "lat": 53.781666,
+  "lon": -0.6566667,
+  "n_taxa": 295,
+  "n_layers": 2,
+  "oldest_label": "43 AD - 410 AD",
+  "youngest_label": "100 AD - 300 AD",
+  "layers": [
+    {
+      "age_older_bp": 1907.0,
+      "age_younger_bp": 1540.0,
+      "label": "43 AD - 410 AD",
+      "n_taxa": 295,
+      "taxa": [
+        {
+          "scientific_name": "Acalypta sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Acritus nigricornis",
+          "common_name_local": null,
+          "common_name_en": "Hister beetle",
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Acrotrichis spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Adrastus pallens",
+          "common_name_local": null,
+          "common_name_en": "small click beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/153477_22.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Agabus bipustulatus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/189721.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Agabus sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Agallia brachyptera",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Agonum (s.l.) sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Agriotes obscurus",
+          "common_name_local": null,
+          "common_name_en": "Dusky Wireworm",
+          "image": {
+            "url": "https://images.naturalis.nl/original/93227_dsc06391irf13v15rbb_agriotes_obscurus_jc_-_nw.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Hans Jonkman",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Agriotes sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        }
+      ]
+    },
+    {
+      "age_older_bp": 1850.0,
+      "age_younger_bp": 1650.0,
+      "label": "100 AD - 300 AD",
+      "n_taxa": 295,
+      "taxa": [
+        {
+          "scientific_name": "Acalypta sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Acritus nigricornis",
+          "common_name_local": null,
+          "common_name_en": "Hister beetle",
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Acrotrichis spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Adrastus pallens",
+          "common_name_local": null,
+          "common_name_en": "small click beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/153477_22.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Agabus bipustulatus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/189721.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Agabus sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Agallia brachyptera",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Agonum (s.l.) sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Agriotes obscurus",
+          "common_name_local": null,
+          "common_name_en": "Dusky Wireworm",
+          "image": {
+            "url": "https://images.naturalis.nl/original/93227_dsc06391irf13v15rbb_agriotes_obscurus_jc_-_nw.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Hans Jonkman",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Agriotes sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        }
+      ]
+    }
+  ]
+}

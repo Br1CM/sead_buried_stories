@@ -1,0 +1,98 @@
+{
+  "slug": "roman-iron-age-migration-period",
+  "name": "Roman Iron Age - Migration Period",
+  "label_range": "1 BC/AD - 550 AD",
+  "avg_older_bp": 1950.0,
+  "avg_younger_bp": 1400.0,
+  "n_samples": 135,
+  "n_sites": 5,
+  "sites": [
+    {
+      "site_id": 3430,
+      "site_name": "Valboön",
+      "lat": 60.6304902634,
+      "lon": 16.9968297732,
+      "n_samples": 12
+    },
+    {
+      "site_id": 3699,
+      "site_name": "Havor Cemetery",
+      "lat": 57.2156940511,
+      "lon": 18.2994724079,
+      "n_samples": 63
+    },
+    {
+      "site_id": 3702,
+      "site_name": "Harplinge 151",
+      "lat": 56.7137605358,
+      "lon": 12.71284495,
+      "n_samples": 12
+    },
+    {
+      "site_id": 3727,
+      "site_name": "Gene",
+      "lat": 63.2498906237,
+      "lon": 18.7052871436,
+      "n_samples": 33
+    },
+    {
+      "site_id": 3799,
+      "site_name": "Backa",
+      "lat": 59.4032293793,
+      "lon": 12.1372490483,
+      "n_samples": 15
+    }
+  ],
+  "temper": [
+    {
+      "material": "Naturally tempered clay",
+      "pct_present": 40.0,
+      "n_observed": 135
+    },
+    {
+      "material": "Granite",
+      "pct_present": 35.6,
+      "n_observed": 135
+    },
+    {
+      "material": "Crushed rock",
+      "pct_present": 11.9,
+      "n_observed": 135
+    },
+    {
+      "material": "Chamotte (crushed pottery)",
+      "pct_present": 7.4,
+      "n_observed": 135
+    },
+    {
+      "material": "Organic material",
+      "pct_present": 7.4,
+      "n_observed": 135
+    },
+    {
+      "material": "Asbestos",
+      "pct_present": 5.9,
+      "n_observed": 135
+    },
+    {
+      "material": "Other additive",
+      "pct_present": 2.2,
+      "n_observed": 135
+    },
+    {
+      "material": "Sand",
+      "pct_present": 2.2,
+      "n_observed": 135
+    },
+    {
+      "material": "Bone",
+      "pct_present": 0.0,
+      "n_observed": 135
+    },
+    {
+      "material": "Shell/carbonate",
+      "pct_present": 0.0,
+      "n_observed": 135
+    }
+  ]
+}

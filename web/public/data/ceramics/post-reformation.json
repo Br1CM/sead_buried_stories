@@ -1,0 +1,70 @@
+{
+  "slug": "post-reformation",
+  "name": "Post Reformation",
+  "label_range": "1500 AD - unknown",
+  "avg_older_bp": 450.0,
+  "avg_younger_bp": null,
+  "n_samples": 141,
+  "n_sites": 1,
+  "sites": [
+    {
+      "site_id": 3617,
+      "site_name": "Kv. Kleopatra",
+      "lat": 59.6089872248,
+      "lon": 16.5386155114,
+      "n_samples": 141
+    }
+  ],
+  "temper": [
+    {
+      "material": "Organic material",
+      "pct_present": 73.0,
+      "n_observed": 141
+    },
+    {
+      "material": "Naturally tempered clay",
+      "pct_present": 27.0,
+      "n_observed": 141
+    },
+    {
+      "material": "Crushed rock",
+      "pct_present": 8.5,
+      "n_observed": 141
+    },
+    {
+      "material": "Other additive",
+      "pct_present": 0.0,
+      "n_observed": 141
+    },
+    {
+      "material": "Asbestos",
+      "pct_present": 0.0,
+      "n_observed": 141
+    },
+    {
+      "material": "Bone",
+      "pct_present": 0.0,
+      "n_observed": 141
+    },
+    {
+      "material": "Shell/carbonate",
+      "pct_present": 0.0,
+      "n_observed": 141
+    },
+    {
+      "material": "Chamotte (crushed pottery)",
+      "pct_present": 0.0,
+      "n_observed": 141
+    },
+    {
+      "material": "Granite",
+      "pct_present": 0.0,
+      "n_observed": 141
+    },
+    {
+      "material": "Sand",
+      "pct_present": 0.0,
+      "n_observed": 141
+    }
+  ]
+}

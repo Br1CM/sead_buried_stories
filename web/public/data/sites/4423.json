@@ -1,0 +1,447 @@
+{
+  "site_id": 4423,
+  "site_name": "Gransmoor",
+  "lat": 54.02139,
+  "lon": -0.30277777,
+  "n_taxa": 300,
+  "n_layers": 5,
+  "oldest_label": "13657 BC - 11142 BC",
+  "youngest_label": "11550 BC - 8050 BC",
+  "layers": [
+    {
+      "age_older_bp": 15607.0,
+      "age_younger_bp": 13092.0,
+      "label": "13657 BC - 11142 BC",
+      "n_taxa": 25,
+      "taxa": [
+        {
+          "scientific_name": "Scirtidae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 12
+        },
+        {
+          "scientific_name": "Eusphalerum minutum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Hydroporus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Agabus arcticus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Acilius sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Acidota crenata",
+          "common_name_local": null,
+          "common_name_en": "Crenate Ocellate Rove Beetle",
+          "image": {
+            "url": "https://binary.pensoft.net/fig/889172",
+            "license": null,
+            "creator": "Chen, Xi;Xu, Yong-Qiang;Peng, Zhong",
+            "source": "Zenodo"
+          },
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Agabus bipustulatus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/189721.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Altica sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Donacia obscura",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        }
+      ]
+    },
+    {
+      "age_older_bp": 15545.0,
+      "age_younger_bp": 13481.0,
+      "label": "13595 BC - 11531 BC",
+      "n_taxa": 43,
+      "taxa": [
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 10
+        },
+        {
+          "scientific_name": "Bromius obscurus",
+          "common_name_local": null,
+          "common_name_en": "Western Grape Rootworm",
+          "image": {
+            "url": "https://images.naturalis.nl/original/193336.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 8
+        },
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 8
+        },
+        {
+          "scientific_name": "Scirtidae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 8
+        },
+        {
+          "scientific_name": "Donacia obscura",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Laccobius sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Cytilus sericeus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/200787.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Eucnecosum brachypterum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Donacia clavipes",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/150304_insecten_2023_1_673.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Tjerk Nawijn",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Serica brunna",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/189903.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 3
+        }
+      ]
+    },
+    {
+      "age_older_bp": 15238.0,
+      "age_younger_bp": 13439.0,
+      "label": "13288 BC - 11489 BC",
+      "n_taxa": 26,
+      "taxa": [
+        {
+          "scientific_name": "Scirtidae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 16
+        },
+        {
+          "scientific_name": "Eucnecosum brachypterum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 15
+        },
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 7
+        },
+        {
+          "scientific_name": "Stictotarsus multilineatus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Olophrum fuscum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Donacia obscura",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Coelostoma orbiculare",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/198485.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Colymbetes dolabratus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Aphodius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        }
+      ]
+    },
+    {
+      "age_older_bp": 14031.0,
+      "age_younger_bp": 13278.0,
+      "label": "12081 BC - 11328 BC",
+      "n_taxa": 31,
+      "taxa": [
+        {
+          "scientific_name": "Scirtidae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 23
+        },
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 18
+        },
+        {
+          "scientific_name": "Eucnecosum brachypterum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 14
+        },
+        {
+          "scientific_name": "Olophrum fuscum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 11
+        },
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Stictotarsus multilineatus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Donacia obscura",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Pterostichus diligens",
+          "common_name_local": null,
+          "common_name_en": "Smooth-chested Blackclock",
+          "image": {
+            "url": "https://images.naturalis.nl/original/115416_f.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Colymbetes dolabratus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Cercyon tristis",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        }
+      ]
+    },
+    {
+      "age_older_bp": 13500.0,
+      "age_younger_bp": 10000.0,
+      "label": "11550 BC - 8050 BC",
+      "n_taxa": 299,
+      "taxa": [
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 680
+        },
+        {
+          "scientific_name": "Eucnecosum brachypterum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 403
+        },
+        {
+          "scientific_name": "Scirtidae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 382
+        },
+        {
+          "scientific_name": "Simplocaria semistriata",
+          "common_name_local": null,
+          "common_name_en": "Pill Beetle",
+          "image": null,
+          "total_abundance": 173
+        },
+        {
+          "scientific_name": "Olophrum fuscum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 158
+        },
+        {
+          "scientific_name": "Bagous sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 117
+        },
+        {
+          "scientific_name": "Ochthebius minimus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/110659_1.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 116
+        },
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 112
+        },
+        {
+          "scientific_name": "Stictotarsus multilineatus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 100
+        },
+        {
+          "scientific_name": "Olophrum boreale",
+          "common_name_local": null,
+          "common_name_en": "Staph beetle",
+          "image": null,
+          "total_abundance": 82
+        }
+      ]
+    }
+  ]
+}

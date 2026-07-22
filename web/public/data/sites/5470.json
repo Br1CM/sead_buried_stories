@@ -1,0 +1,555 @@
+{
+  "site_id": 5470,
+  "site_name": "York: St Georges Field",
+  "lat": 53.953953,
+  "lon": -1.0799783,
+  "n_taxa": 343,
+  "n_layers": 6,
+  "oldest_label": "2499 BC - 599 BC",
+  "youngest_label": "550 BC - 600 BC",
+  "layers": [
+    {
+      "age_older_bp": 4449.0,
+      "age_younger_bp": 2549.0,
+      "label": "2499 BC - 599 BC",
+      "n_taxa": 238,
+      "taxa": [
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 76
+        },
+        {
+          "scientific_name": "Hydraena britteni/rufipes",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 25
+        },
+        {
+          "scientific_name": "Prasocuris phellandrii",
+          "common_name_local": null,
+          "common_name_en": "Leaf beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/178319.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 14
+        },
+        {
+          "scientific_name": "Ochthebius auriculatus",
+          "common_name_local": null,
+          "common_name_en": "eared moss beetle",
+          "image": null,
+          "total_abundance": 9
+        },
+        {
+          "scientific_name": "Limnebius truncatellus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 9
+        },
+        {
+          "scientific_name": "Cyphon spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 9
+        },
+        {
+          "scientific_name": "Pentatoma rufipes",
+          "common_name_local": null,
+          "common_name_en": "Forest Bug",
+          "image": {
+            "url": "https://images.naturalis.nl/original/93408_dsc09249irf06vi15rab_pentatoma_rufipes_ba.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Hans Jonkman",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 9
+        },
+        {
+          "scientific_name": "Ochthebius minimus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/110659_1.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 8
+        },
+        {
+          "scientific_name": "Cacopsylla melanoneura",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 7
+        },
+        {
+          "scientific_name": "Cacopsylla ulmi/försteri",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 7
+        }
+      ]
+    },
+    {
+      "age_older_bp": 3824.0,
+      "age_younger_bp": 2980.0,
+      "label": "1874 BC - 1030 BC",
+      "n_taxa": 62,
+      "taxa": [
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 8
+        },
+        {
+          "scientific_name": "Dryops spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Oulimnius sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Limnebius truncatellus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Aphidoidea indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Helophorus sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Pterostichus oblongopunctatus",
+          "common_name_local": null,
+          "common_name_en": "Bronzed Blackclock",
+          "image": {
+            "url": "https://images.naturalis.nl/original/196276.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Saldula sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Onchopsis/Macropsis sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Ochthebius sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        }
+      ]
+    },
+    {
+      "age_older_bp": 3635.0,
+      "age_younger_bp": 3275.0,
+      "label": "1685 BC - 1325 BC",
+      "n_taxa": 59,
+      "taxa": [
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 7
+        },
+        {
+          "scientific_name": "Oulimnius sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Esolus parallelepipedus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/132565_4a.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Hydraena britteni/rufipes",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Helophorus sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Cyphon spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Normandia nitens",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Neophilaenus/Philaenus sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Psylla (s.l.) sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Anthobium atrocephalum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://zenodo.org/record/14240228/files/figure.png",
+            "license": null,
+            "creator": "Shavrin, Alexey V.",
+            "source": "Zenodo"
+          },
+          "total_abundance": 1
+        }
+      ]
+    },
+    {
+      "age_older_bp": 3574.0,
+      "age_younger_bp": 3245.0,
+      "label": "1624 BC - 1295 BC",
+      "n_taxa": 105,
+      "taxa": [
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 19
+        },
+        {
+          "scientific_name": "Cyphon spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 10
+        },
+        {
+          "scientific_name": "Hydraena britteni/rufipes",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 10
+        },
+        {
+          "scientific_name": "Pentatoma rufipes",
+          "common_name_local": null,
+          "common_name_en": "Forest Bug",
+          "image": {
+            "url": "https://images.naturalis.nl/original/93408_dsc09249irf06vi15rab_pentatoma_rufipes_ba.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Hans Jonkman",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 9
+        },
+        {
+          "scientific_name": "Ochthebius minimus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/110659_1.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 8
+        },
+        {
+          "scientific_name": "Aphidoidea indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 7
+        },
+        {
+          "scientific_name": "Hydraena testacea",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/137849_1.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Ochthebius auriculatus",
+          "common_name_local": null,
+          "common_name_en": "eared moss beetle",
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Carpelimus bilineatus",
+          "common_name_local": null,
+          "common_name_en": "Rove beetle",
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Lesteva longoelytrata",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/96201_p1110818.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 4
+        }
+      ]
+    },
+    {
+      "age_older_bp": 3015.0,
+      "age_younger_bp": 2751.0,
+      "label": "1065 BC - 801 BC",
+      "n_taxa": 111,
+      "taxa": [
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 37
+        },
+        {
+          "scientific_name": "Hydraena britteni/rufipes",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 19
+        },
+        {
+          "scientific_name": "Ochthebius dilatatus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Helophorus sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Microcara testacea",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/111180_2.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Carpelimus bilineatus",
+          "common_name_local": null,
+          "common_name_en": "Rove beetle",
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Cacopsylla bruneipennis/melanoneura",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Prasocuris phellandrii",
+          "common_name_local": null,
+          "common_name_en": "Leaf beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/178319.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Phyllobius sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Neophilaenus/Philaenus sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        }
+      ]
+    },
+    {
+      "age_older_bp": 2500.0,
+      "age_younger_bp": 2550.0,
+      "label": "550 BC - 600 BC",
+      "n_taxa": 343,
+      "taxa": [
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 147
+        },
+        {
+          "scientific_name": "Hydraena britteni/rufipes",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 58
+        },
+        {
+          "scientific_name": "Cyphon spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 23
+        },
+        {
+          "scientific_name": "Pentatoma rufipes",
+          "common_name_local": null,
+          "common_name_en": "Forest Bug",
+          "image": {
+            "url": "https://images.naturalis.nl/original/93408_dsc09249irf06vi15rab_pentatoma_rufipes_ba.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Hans Jonkman",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 22
+        },
+        {
+          "scientific_name": "Prasocuris phellandrii",
+          "common_name_local": null,
+          "common_name_en": "Leaf beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/178319.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 20
+        },
+        {
+          "scientific_name": "Ochthebius minimus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/110659_1.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 19
+        },
+        {
+          "scientific_name": "Oulimnius sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 17
+        },
+        {
+          "scientific_name": "Aphidoidea indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 16
+        },
+        {
+          "scientific_name": "Helophorus sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 14
+        },
+        {
+          "scientific_name": "Ochthebius auriculatus",
+          "common_name_local": null,
+          "common_name_en": "eared moss beetle",
+          "image": null,
+          "total_abundance": 14
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,756 @@
+{
+  "site_id": 5038,
+  "site_name": "Perry Oaks (Heathrow Terminal 5)",
+  "lat": 51.472347,
+  "lon": -0.489229,
+  "n_taxa": 318,
+  "n_layers": 8,
+  "oldest_label": "2100 BC - 1600 BC",
+  "youngest_label": "250 AD - 410 AD",
+  "layers": [
+    {
+      "age_older_bp": 4050.0,
+      "age_younger_bp": 3550.0,
+      "label": "2100 BC - 1600 BC",
+      "n_taxa": 274,
+      "taxa": [
+        {
+          "scientific_name": "Hymenoptera indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 62
+        },
+        {
+          "scientific_name": "Helophorus (small) spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 43
+        },
+        {
+          "scientific_name": "Aphodius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 38
+        },
+        {
+          "scientific_name": "Hydraena testacea",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/137849_1.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 38
+        },
+        {
+          "scientific_name": "Aphodius granarius",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/152989_51.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 38
+        },
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 36
+        },
+        {
+          "scientific_name": "Ochthebius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 30
+        },
+        {
+          "scientific_name": "Aphodius foetidus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/110190_8.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 22
+        },
+        {
+          "scientific_name": "Megasternum obscurum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 21
+        },
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 20
+        }
+      ]
+    },
+    {
+      "age_older_bp": 4049.0,
+      "age_younger_bp": 2599.0,
+      "label": "2099 BC - 649 BC",
+      "n_taxa": 222,
+      "taxa": [
+        {
+          "scientific_name": "Hymenoptera indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 43
+        },
+        {
+          "scientific_name": "Aphodius granarius",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/152989_51.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 36
+        },
+        {
+          "scientific_name": "Aphodius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 27
+        },
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 24
+        },
+        {
+          "scientific_name": "Ochthebius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 22
+        },
+        {
+          "scientific_name": "Aphodius foetidus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/110190_8.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 22
+        },
+        {
+          "scientific_name": "Anobium punctatum",
+          "common_name_local": null,
+          "common_name_en": "Common Furniture-beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/150073_24.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 19
+        },
+        {
+          "scientific_name": "Amara spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 18
+        },
+        {
+          "scientific_name": "Diptera indet. (adult)",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 17
+        },
+        {
+          "scientific_name": "Aphidoidea indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 15
+        }
+      ]
+    },
+    {
+      "age_older_bp": 4049.0,
+      "age_younger_bp": 3549.0,
+      "label": "2099 BC - 1599 BC",
+      "n_taxa": 141,
+      "taxa": [
+        {
+          "scientific_name": "Helophorus (small) spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 39
+        },
+        {
+          "scientific_name": "Hydraena testacea",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/137849_1.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 27
+        },
+        {
+          "scientific_name": "Hymenoptera indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 19
+        },
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 12
+        },
+        {
+          "scientific_name": "Aphodius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 11
+        },
+        {
+          "scientific_name": "Homoptera indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 10
+        },
+        {
+          "scientific_name": "Ceutorhynchinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 9
+        },
+        {
+          "scientific_name": "Stenus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 8
+        },
+        {
+          "scientific_name": "Ochthebius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 8
+        },
+        {
+          "scientific_name": "Megasternum obscurum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 7
+        }
+      ]
+    },
+    {
+      "age_older_bp": 3550.0,
+      "age_younger_bp": 2600.0,
+      "label": "1600 BC - 650 BC",
+      "n_taxa": 222,
+      "taxa": [
+        {
+          "scientific_name": "Hymenoptera indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 43
+        },
+        {
+          "scientific_name": "Aphodius granarius",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/152989_51.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 36
+        },
+        {
+          "scientific_name": "Aphodius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 27
+        },
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 24
+        },
+        {
+          "scientific_name": "Ochthebius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 22
+        },
+        {
+          "scientific_name": "Aphodius foetidus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/110190_8.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 22
+        },
+        {
+          "scientific_name": "Anobium punctatum",
+          "common_name_local": null,
+          "common_name_en": "Common Furniture-beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/150073_24.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 19
+        },
+        {
+          "scientific_name": "Amara spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 18
+        },
+        {
+          "scientific_name": "Diptera indet. (adult)",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 17
+        },
+        {
+          "scientific_name": "Aphidoidea indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 15
+        }
+      ]
+    },
+    {
+      "age_older_bp": 2599.0,
+      "age_younger_bp": 2199.0,
+      "label": "649 BC - 249 BC",
+      "n_taxa": 95,
+      "taxa": [
+        {
+          "scientific_name": "Longitarsus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 18
+        },
+        {
+          "scientific_name": "Hymenoptera indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 8
+        },
+        {
+          "scientific_name": "Acalles misellus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Lasius fuliginosus",
+          "common_name_local": null,
+          "common_name_en": "Jet Ant",
+          "image": {
+            "url": "https://images.naturalis.nl/original/111042_dsc02166irf11iv17sbb_lasius_fuliginosus.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Hans Jonkman",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Hydraena testacea",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/137849_1.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Apion (s.l.) spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Anobium punctatum",
+          "common_name_local": null,
+          "common_name_en": "Common Furniture-beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/150073_24.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Atomaria spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Phloeophagus lignarius",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Enicmus transversus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/144779_33.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 3
+        }
+      ]
+    },
+    {
+      "age_older_bp": 2450.0,
+      "age_younger_bp": 1550.0,
+      "label": "500 BC - 400 AD",
+      "n_taxa": 95,
+      "taxa": [
+        {
+          "scientific_name": "Longitarsus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 18
+        },
+        {
+          "scientific_name": "Hymenoptera indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 8
+        },
+        {
+          "scientific_name": "Acalles misellus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 5
+        },
+        {
+          "scientific_name": "Lasius fuliginosus",
+          "common_name_local": null,
+          "common_name_en": "Jet Ant",
+          "image": {
+            "url": "https://images.naturalis.nl/original/111042_dsc02166irf11iv17sbb_lasius_fuliginosus.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Hans Jonkman",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Hydraena testacea",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/137849_1.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Apion (s.l.) spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Anobium punctatum",
+          "common_name_local": null,
+          "common_name_en": "Common Furniture-beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/150073_24.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Atomaria spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Phloeophagus lignarius",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 3
+        },
+        {
+          "scientific_name": "Enicmus transversus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/144779_33.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 3
+        }
+      ]
+    },
+    {
+      "age_older_bp": 1907.0,
+      "age_younger_bp": 1540.0,
+      "label": "43 AD - 410 AD",
+      "n_taxa": 118,
+      "taxa": [
+        {
+          "scientific_name": "Brachypterus urticae",
+          "common_name_local": null,
+          "common_name_en": "Nettle Pollen Beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/111133_10.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 62
+        },
+        {
+          "scientific_name": "Ptinus fur",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/144335_1.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 52
+        },
+        {
+          "scientific_name": "Latridius minutus (grp)",
+          "common_name_local": null,
+          "common_name_en": "Small minute scavenger beetle",
+          "image": null,
+          "total_abundance": 38
+        },
+        {
+          "scientific_name": "Corticariinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 36
+        },
+        {
+          "scientific_name": "Atomaria spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 34
+        },
+        {
+          "scientific_name": "Lesteva longoelytrata",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/96201_p1110818.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 32
+        },
+        {
+          "scientific_name": "Anobium punctatum",
+          "common_name_local": null,
+          "common_name_en": "Common Furniture-beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/150073_24.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 30
+        },
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 26
+        },
+        {
+          "scientific_name": "Hymenoptera indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 24
+        },
+        {
+          "scientific_name": "Helophorus (small) spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 18
+        }
+      ]
+    },
+    {
+      "age_older_bp": 1700.0,
+      "age_younger_bp": 1540.0,
+      "label": "250 AD - 410 AD",
+      "n_taxa": 78,
+      "taxa": [
+        {
+          "scientific_name": "Helophorus (small) spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 24
+        },
+        {
+          "scientific_name": "Aphodius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 12
+        },
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 10
+        },
+        {
+          "scientific_name": "Amara spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 8
+        },
+        {
+          "scientific_name": "Aphrodes spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Aphodius granarius",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/152989_51.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Megasternum obscurum",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Ochthebius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Orthoperus sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Oxyomus sylvestris",
+          "common_name_local": null,
+          "common_name_en": "Forest small dung beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/189762.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 6
+        }
+      ]
+    }
+  ]
+}

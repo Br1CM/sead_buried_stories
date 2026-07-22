@@ -1,0 +1,399 @@
+{
+  "slug": "viking",
+  "name": "Viking",
+  "label_range": "800 AD - 1100 AD",
+  "avg_older_bp": 1150.0,
+  "avg_younger_bp": 850.0,
+  "n_samples": 589,
+  "n_sites": 48,
+  "sites": [
+    {
+      "site_id": 3406,
+      "site_name": "Ås-Husby",
+      "lat": 59.5908195477,
+      "lon": 17.9070979103,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3409,
+      "site_name": "Årsta",
+      "lat": 59.0897381433,
+      "lon": 18.1786279464,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3412,
+      "site_name": "Ytterby",
+      "lat": 60.0244244778,
+      "lon": 18.6063665051,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3414,
+      "site_name": "Västerljung Grav",
+      "lat": 58.9209283539,
+      "lon": 17.4490501954,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3421,
+      "site_name": "Vettsta",
+      "lat": 60.1191526511,
+      "lon": 18.1446141934,
+      "n_samples": 2
+    },
+    {
+      "site_id": 3434,
+      "site_name": "Uddvide",
+      "lat": 57.1065632606,
+      "lon": 18.3180837861,
+      "n_samples": 8
+    },
+    {
+      "site_id": 3452,
+      "site_name": "Söderby",
+      "lat": 59.8049127342,
+      "lon": 17.7595491137,
+      "n_samples": 18
+    },
+    {
+      "site_id": 3463,
+      "site_name": "St. Gatan. Kv. Handelsmannen 8-9",
+      "lat": 59.6168653169,
+      "lon": 17.7224306497,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3469,
+      "site_name": "Solberga, Linköping",
+      "lat": 58.4242057283,
+      "lon": 15.8771645851,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3475,
+      "site_name": "Smissarve",
+      "lat": 57.2216104154,
+      "lon": 18.2375546116,
+      "n_samples": 6
+    },
+    {
+      "site_id": 3491,
+      "site_name": "Sanda",
+      "lat": 59.5083499561,
+      "lon": 17.9559991096,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3507,
+      "site_name": "Roes",
+      "lat": 57.1065632606,
+      "lon": 18.3180837861,
+      "n_samples": 19
+    },
+    {
+      "site_id": 3538,
+      "site_name": "Norrsunda 167",
+      "lat": 59.5823823298,
+      "lon": 17.9006114213,
+      "n_samples": 15
+    },
+    {
+      "site_id": 3539,
+      "site_name": "Norrkvie",
+      "lat": 57.1065632606,
+      "lon": 18.3180837861,
+      "n_samples": 4
+    },
+    {
+      "site_id": 3557,
+      "site_name": "Mark",
+      "lat": 59.246559932,
+      "lon": 15.2813768936,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3560,
+      "site_name": "Mangsarve",
+      "lat": 57.5935408406,
+      "lon": 18.5133963927,
+      "n_samples": 2
+    },
+    {
+      "site_id": 3573,
+      "site_name": "Löddeköpinge",
+      "lat": 55.7597030669,
+      "lon": 13.0181722363,
+      "n_samples": 12
+    },
+    {
+      "site_id": 3581,
+      "site_name": "Lockarp 7A",
+      "lat": 55.5474961774,
+      "lon": 13.0123000965,
+      "n_samples": 4
+    },
+    {
+      "site_id": 3593,
+      "site_name": "Liden under Storegården",
+      "lat": 57.9346164533,
+      "lon": 13.498647941,
+      "n_samples": 1
+    },
+    {
+      "site_id": 3612,
+      "site_name": "Kvie",
+      "lat": 57.6141820854,
+      "lon": 18.4609649831,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3614,
+      "site_name": "Kvarnbacken/kv. Cisternen/Galgegärdsbacken",
+      "lat": 58.4415750789,
+      "lon": 14.9140626991,
+      "n_samples": 12
+    },
+    {
+      "site_id": 3615,
+      "site_name": "kv. Trädgårdsmästaren",
+      "lat": 59.6156751672,
+      "lon": 17.7196034236,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3616,
+      "site_name": "kv. Specksrum",
+      "lat": 57.6423694195,
+      "lon": 18.2943374631,
+      "n_samples": 18
+    },
+    {
+      "site_id": 3629,
+      "site_name": "kv Transval",
+      "lat": 55.9129932095,
+      "lon": 14.2711883377,
+      "n_samples": 45
+    },
+    {
+      "site_id": 3630,
+      "site_name": "kv Tankbåten",
+      "lat": 55.4266962053,
+      "lon": 13.792960182,
+      "n_samples": 28
+    },
+    {
+      "site_id": 3636,
+      "site_name": "Kunsta",
+      "lat": 59.401281692,
+      "lon": 17.4989016198,
+      "n_samples": 4
+    },
+    {
+      "site_id": 3642,
+      "site_name": "Kriminalvårdsanstalten",
+      "lat": 58.3997851642,
+      "lon": 15.0912249017,
+      "n_samples": 48
+    },
+    {
+      "site_id": 3645,
+      "site_name": "Kjulaås",
+      "lat": 59.3834313343,
+      "lon": 16.672411331,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3675,
+      "site_name": "Högom",
+      "lat": 62.4011949944,
+      "lon": 17.2584923185,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3681,
+      "site_name": "Hyggby",
+      "lat": 59.4347995045,
+      "lon": 16.5561069216,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3682,
+      "site_name": "Husby, Ingjaldshögen",
+      "lat": 59.4237707482,
+      "lon": 16.933746727,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3699,
+      "site_name": "Havor Cemetery",
+      "lat": 57.2156940511,
+      "lon": 18.2994724079,
+      "n_samples": 4
+    },
+    {
+      "site_id": 3720,
+      "site_name": "Grimeton k:a",
+      "lat": 57.1141181826,
+      "lon": 12.4294954263,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3723,
+      "site_name": "Gotska Sandön",
+      "lat": 58.3435357571,
+      "lon": 19.2135690369,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3726,
+      "site_name": "Glemminge",
+      "lat": 55.4561811108,
+      "lon": 14.0248363532,
+      "n_samples": 4
+    },
+    {
+      "site_id": 3728,
+      "site_name": "Gamla Uppsala",
+      "lat": 59.897239779,
+      "lon": 17.6357879882,
+      "n_samples": 6
+    },
+    {
+      "site_id": 3730,
+      "site_name": "Fristad",
+      "lat": 58.5251751194,
+      "lon": 16.3895916066,
+      "n_samples": 2
+    },
+    {
+      "site_id": 3736,
+      "site_name": "Fjärås 486",
+      "lat": 57.4513558183,
+      "lon": 12.1846511914,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3753,
+      "site_name": "Dagstorp (SU 21)",
+      "lat": 55.8188822611,
+      "lon": 13.064329747,
+      "n_samples": 6
+    },
+    {
+      "site_id": 3768,
+      "site_name": "Bunkeflo 68",
+      "lat": 55.5476445671,
+      "lon": 13.0048418226,
+      "n_samples": 4
+    },
+    {
+      "site_id": 3777,
+      "site_name": "Borgeby",
+      "lat": 55.7505648796,
+      "lon": 13.0378850708,
+      "n_samples": 21
+    },
+    {
+      "site_id": 3785,
+      "site_name": "Bjärred",
+      "lat": 55.7258029158,
+      "lon": 13.0287762699,
+      "n_samples": 15
+    },
+    {
+      "site_id": 3790,
+      "site_name": "Birka, Cemetery",
+      "lat": 59.3356206619,
+      "lon": 17.5455298764,
+      "n_samples": 176
+    },
+    {
+      "site_id": 3792,
+      "site_name": "Berga",
+      "lat": 59.4219309046,
+      "lon": 16.3579273467,
+      "n_samples": 3
+    },
+    {
+      "site_id": 3795,
+      "site_name": "Barshaldershed",
+      "lat": 57.1065632606,
+      "lon": 18.3180837861,
+      "n_samples": 33
+    },
+    {
+      "site_id": 3802,
+      "site_name": "Augerum",
+      "lat": 56.2078447356,
+      "lon": 15.6774392049,
+      "n_samples": 4
+    },
+    {
+      "site_id": 3806,
+      "site_name": "Annexhemmanet",
+      "lat": 57.2277522941,
+      "lon": 18.3716316341,
+      "n_samples": 8
+    },
+    {
+      "site_id": 3810,
+      "site_name": "Alvastra Megalithic",
+      "lat": 58.2955658303,
+      "lon": 14.6483695136,
+      "n_samples": 6
+    }
+  ],
+  "temper": [
+    {
+      "material": "Granite",
+      "pct_present": 55.3,
+      "n_observed": 588
+    },
+    {
+      "material": "Naturally tempered clay",
+      "pct_present": 26.0,
+      "n_observed": 585
+    },
+    {
+      "material": "Crushed rock",
+      "pct_present": 20.9,
+      "n_observed": 588
+    },
+    {
+      "material": "Chamotte (crushed pottery)",
+      "pct_present": 13.3,
+      "n_observed": 588
+    },
+    {
+      "material": "Organic material",
+      "pct_present": 5.0,
+      "n_observed": 585
+    },
+    {
+      "material": "Other additive",
+      "pct_present": 1.7,
+      "n_observed": 585
+    },
+    {
+      "material": "Sand",
+      "pct_present": 1.5,
+      "n_observed": 588
+    },
+    {
+      "material": "Shell/carbonate",
+      "pct_present": 0.7,
+      "n_observed": 585
+    },
+    {
+      "material": "Asbestos",
+      "pct_present": 0.0,
+      "n_observed": 589
+    },
+    {
+      "material": "Bone",
+      "pct_present": 0.0,
+      "n_observed": 585
+    }
+  ]
+}

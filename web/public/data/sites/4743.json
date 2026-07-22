@@ -1,0 +1,208 @@
+{
+  "site_id": 4743,
+  "site_name": "York: 16-22 Coppergate",
+  "lat": 53.9579,
+  "lon": -1.0804005,
+  "n_taxa": 522,
+  "n_layers": 2,
+  "oldest_label": "653 AD - 948 AD",
+  "youngest_label": "800 AD - 1100 AD",
+  "layers": [
+    {
+      "age_older_bp": 1297.0,
+      "age_younger_bp": 1002.0,
+      "label": "653 AD - 948 AD",
+      "n_taxa": 20,
+      "taxa": [
+        {
+          "scientific_name": "Aphodius granarius",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/152989_51.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 7
+        },
+        {
+          "scientific_name": "Latridius pseudominutus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Corticaria sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 6
+        },
+        {
+          "scientific_name": "Aphodius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 4
+        },
+        {
+          "scientific_name": "Carabus nemoralis",
+          "common_name_local": null,
+          "common_name_en": "Bronze Carabid",
+          "image": {
+            "url": "https://images.naturalis.nl/original/236293.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Hans Jonkman",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Amara aenea",
+          "common_name_local": null,
+          "common_name_en": "Common Sun Beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/95690_amara-aenea_9673_sr.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Marijke Kanters",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Amara plebeja",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Aphthona sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Ceutorhynchus sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1
+        },
+        {
+          "scientific_name": "Ceutorhynchus erysimi",
+          "common_name_local": null,
+          "common_name_en": "Weevil",
+          "image": {
+            "url": "https://images.naturalis.nl/original/137155.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 1
+        }
+      ]
+    },
+    {
+      "age_older_bp": 1150.0,
+      "age_younger_bp": 850.0,
+      "label": "800 AD - 1100 AD",
+      "n_taxa": 514,
+      "taxa": [
+        {
+          "scientific_name": "Abax parallelepipedus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/213921.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Acalles sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Acalypta sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Acanthosoma haemorrhoidale",
+          "common_name_local": null,
+          "common_name_en": "Hawthorn Shieldbug",
+          "image": {
+            "url": "https://images.naturalis.nl/original/115965_acanthosoma_haemorrhoidale_c.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Jan van Asselt",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Acidota crenata",
+          "common_name_local": null,
+          "common_name_en": "Crenate Ocellate Rove Beetle",
+          "image": {
+            "url": "https://binary.pensoft.net/fig/889172",
+            "license": null,
+            "creator": "Chen, Xi;Xu, Yong-Qiang;Peng, Zhong",
+            "source": "Zenodo"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Acidota cruentata",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/211727.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Acidota sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Acritus nigricornis",
+          "common_name_local": null,
+          "common_name_en": "Hister beetle",
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Acrotrichis sp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        },
+        {
+          "scientific_name": "Acrulia inflata",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 2
+        }
+      ]
+    }
+  ]
+}

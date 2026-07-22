@@ -1,0 +1,487 @@
+{
+  "site_id": 5321,
+  "site_name": "London: Poultry",
+  "lat": 51.51349,
+  "lon": -0.09035,
+  "n_taxa": 316,
+  "n_layers": 5,
+  "oldest_label": "43 AD - 410 AD",
+  "youngest_label": "1100 AD - 1300 AD",
+  "layers": [
+    {
+      "age_older_bp": 1907.0,
+      "age_younger_bp": 1540.0,
+      "label": "43 AD - 410 AD",
+      "n_taxa": 291,
+      "taxa": [
+        {
+          "scientific_name": "Sitophilus granarius",
+          "common_name_local": null,
+          "common_name_en": "Grain Weevil",
+          "image": null,
+          "total_abundance": 373
+        },
+        {
+          "scientific_name": "Cryptolestes ferrugineus",
+          "common_name_local": null,
+          "common_name_en": "Lined flat bark beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/137513_45.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 341
+        },
+        {
+          "scientific_name": "Latridius minutus (grp)",
+          "common_name_local": null,
+          "common_name_en": "Small minute scavenger beetle",
+          "image": null,
+          "total_abundance": 301
+        },
+        {
+          "scientific_name": "Cercyon analis",
+          "common_name_local": null,
+          "common_name_en": "Water scavenger beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/178281.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 277
+        },
+        {
+          "scientific_name": "Oryzaephilus surinamensis",
+          "common_name_local": null,
+          "common_name_en": "Merchant Grain Beetle",
+          "image": null,
+          "total_abundance": 239
+        },
+        {
+          "scientific_name": "Musca domestica",
+          "common_name_local": null,
+          "common_name_en": "House Fly",
+          "image": {
+            "url": "https://images.naturalis.nl/original/98912_muscidae_musca_domestica_huisvlieg_male_7-8-2015_zoetermeer_2.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Louis Westgeest",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 162
+        },
+        {
+          "scientific_name": "Oxytelus sculptus",
+          "common_name_local": null,
+          "common_name_en": "Rove beetle",
+          "image": {
+            "url": "https://zenodo.org/record/3773938/files/figure.png",
+            "license": null,
+            "creator": "Majka, Christopher;Klimaszewski, Jan",
+            "source": "Zenodo"
+          },
+          "total_abundance": 125
+        },
+        {
+          "scientific_name": "Cercyon spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 119
+        },
+        {
+          "scientific_name": "Cryptophagus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 105
+        },
+        {
+          "scientific_name": "Cercyon atricapillus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 94
+        }
+      ]
+    },
+    {
+      "age_older_bp": 1907.0,
+      "age_younger_bp": 1889.0,
+      "label": "43 AD - 61 AD",
+      "n_taxa": 178,
+      "taxa": [
+        {
+          "scientific_name": "Cryptolestes ferrugineus",
+          "common_name_local": null,
+          "common_name_en": "Lined flat bark beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/137513_45.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 290
+        },
+        {
+          "scientific_name": "Oryzaephilus surinamensis",
+          "common_name_local": null,
+          "common_name_en": "Merchant Grain Beetle",
+          "image": null,
+          "total_abundance": 228
+        },
+        {
+          "scientific_name": "Sitophilus granarius",
+          "common_name_local": null,
+          "common_name_en": "Grain Weevil",
+          "image": null,
+          "total_abundance": 164
+        },
+        {
+          "scientific_name": "Latridius minutus (grp)",
+          "common_name_local": null,
+          "common_name_en": "Small minute scavenger beetle",
+          "image": null,
+          "total_abundance": 132
+        },
+        {
+          "scientific_name": "Cercyon analis",
+          "common_name_local": null,
+          "common_name_en": "Water scavenger beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/178281.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 122
+        },
+        {
+          "scientific_name": "Oxytelus sculptus",
+          "common_name_local": null,
+          "common_name_en": "Rove beetle",
+          "image": {
+            "url": "https://zenodo.org/record/3773938/files/figure.png",
+            "license": null,
+            "creator": "Majka, Christopher;Klimaszewski, Jan",
+            "source": "Zenodo"
+          },
+          "total_abundance": 116
+        },
+        {
+          "scientific_name": "Cryptophagus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 80
+        },
+        {
+          "scientific_name": "Cercyon spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 78
+        },
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 68
+        },
+        {
+          "scientific_name": "Sitona spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 60
+        }
+      ]
+    },
+    {
+      "age_older_bp": 1889.0,
+      "age_younger_bp": 1540.0,
+      "label": "61 AD - 410 AD",
+      "n_taxa": 238,
+      "taxa": [
+        {
+          "scientific_name": "Cercyon analis",
+          "common_name_local": null,
+          "common_name_en": "Water scavenger beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/178281.jpg",
+            "license": "CC BY",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 204
+        },
+        {
+          "scientific_name": "Latridius minutus (grp)",
+          "common_name_local": null,
+          "common_name_en": "Small minute scavenger beetle",
+          "image": null,
+          "total_abundance": 171
+        },
+        {
+          "scientific_name": "Oryzaephilus surinamensis",
+          "common_name_local": null,
+          "common_name_en": "Merchant Grain Beetle",
+          "image": null,
+          "total_abundance": 99
+        },
+        {
+          "scientific_name": "Cryptolestes ferrugineus",
+          "common_name_local": null,
+          "common_name_en": "Lined flat bark beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/137513_45.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 80
+        },
+        {
+          "scientific_name": "Sitophilus granarius",
+          "common_name_local": null,
+          "common_name_en": "Grain Weevil",
+          "image": null,
+          "total_abundance": 73
+        },
+        {
+          "scientific_name": "Cercyon spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 70
+        },
+        {
+          "scientific_name": "Musca domestica",
+          "common_name_local": null,
+          "common_name_en": "House Fly",
+          "image": {
+            "url": "https://images.naturalis.nl/original/98912_muscidae_musca_domestica_huisvlieg_male_7-8-2015_zoetermeer_2.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Louis Westgeest",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 69
+        },
+        {
+          "scientific_name": "Oxytelus sculptus",
+          "common_name_local": null,
+          "common_name_en": "Rove beetle",
+          "image": {
+            "url": "https://zenodo.org/record/3773938/files/figure.png",
+            "license": null,
+            "creator": "Majka, Christopher;Klimaszewski, Jan",
+            "source": "Zenodo"
+          },
+          "total_abundance": 67
+        },
+        {
+          "scientific_name": "Cercyon atricapillus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 64
+        },
+        {
+          "scientific_name": "Cryptophagus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 57
+        }
+      ]
+    },
+    {
+      "age_older_bp": 1550.0,
+      "age_younger_bp": 400.0,
+      "label": "400 AD - 1550 AD",
+      "n_taxa": 140,
+      "taxa": [
+        {
+          "scientific_name": "Thoracochaeta zosterae",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1564
+        },
+        {
+          "scientific_name": "Bruchus pisorum",
+          "common_name_local": null,
+          "common_name_en": "Pea Beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/131067_3.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 368
+        },
+        {
+          "scientific_name": "Sphaeroceridae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 320
+        },
+        {
+          "scientific_name": "Latridius minutus (grp)",
+          "common_name_local": null,
+          "common_name_en": "Small minute scavenger beetle",
+          "image": null,
+          "total_abundance": 207
+        },
+        {
+          "scientific_name": "Quedius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 172
+        },
+        {
+          "scientific_name": "Cyclorrhapha indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 138
+        },
+        {
+          "scientific_name": "Cryptophagus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 131
+        },
+        {
+          "scientific_name": "Atomaria spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 111
+        },
+        {
+          "scientific_name": "Mycetaea subterranea",
+          "common_name_local": null,
+          "common_name_en": "Hairy Cellar Beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/153649_12.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 94
+        },
+        {
+          "scientific_name": "Anobium punctatum",
+          "common_name_local": null,
+          "common_name_en": "Common Furniture-beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/150073_24.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 87
+        }
+      ]
+    },
+    {
+      "age_older_bp": 850.0,
+      "age_younger_bp": 650.0,
+      "label": "1100 AD - 1300 AD",
+      "n_taxa": 19,
+      "taxa": [
+        {
+          "scientific_name": "Thoracochaeta zosterae",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 1120
+        },
+        {
+          "scientific_name": "Quedius spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 184
+        },
+        {
+          "scientific_name": "Cryptophagus spp.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 138
+        },
+        {
+          "scientific_name": "Tipnus unicolor",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 96
+        },
+        {
+          "scientific_name": "Mycetaea subterranea",
+          "common_name_local": null,
+          "common_name_en": "Hairy Cellar Beetle",
+          "image": {
+            "url": "https://images.naturalis.nl/original/153649_12.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 96
+        },
+        {
+          "scientific_name": "Latridius minutus (grp)",
+          "common_name_local": null,
+          "common_name_en": "Small minute scavenger beetle",
+          "image": null,
+          "total_abundance": 90
+        },
+        {
+          "scientific_name": "Omalium rivulare",
+          "common_name_local": null,
+          "common_name_en": "Ocillate rove beetle",
+          "image": {
+            "url": "https://zenodo.org/record/17323906/files/figure.png",
+            "license": null,
+            "creator": "Shavrin, Alexey V.",
+            "source": "Zenodo"
+          },
+          "total_abundance": 72
+        },
+        {
+          "scientific_name": "Aglenus brunneus",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 62
+        },
+        {
+          "scientific_name": "Aleocharinae indet.",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": null,
+          "total_abundance": 60
+        },
+        {
+          "scientific_name": "Ptinus fur",
+          "common_name_local": null,
+          "common_name_en": null,
+          "image": {
+            "url": "https://images.naturalis.nl/original/144335_1.jpg",
+            "license": "CC BY-NC-ND",
+            "creator": "Dick Belgers",
+            "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+          },
+          "total_abundance": 50
+        }
+      ]
+    }
+  ]
+}
