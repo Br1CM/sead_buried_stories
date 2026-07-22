@@ -4,7 +4,8 @@
   "common_name_en": "Leaf beetle",
   "common_name_local": null,
   "n_sites": 133,
-  "n_finds": 511,
+  "n_countries": 9,
+  "n_finds": 1022,
   "image": {
     "url": "https://images.naturalis.nl/original/178319.jpg",
     "license": "CC BY",

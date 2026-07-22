@@ -1,5 +1,6 @@
 import { getSpeciesIndex } from "@/lib/data";
 import { SpeciesPicker } from "@/components/SpeciesPicker";
+import { SpeciesCountryHighlights } from "@/components/SpeciesCountryHighlights";
 
 export const metadata = { title: "Species Path | Buried Stories" };
 
@@ -14,6 +15,9 @@ export default function SpeciesPage() {
         logged. Pick one and follow it across thousands of years, from the oldest site
         where it turned up to the most recent.
       </p>
+
+      <SpeciesCountryHighlights species={species} />
+
       <div className="mt-8">
         <SpeciesPicker species={species} />
       </div>

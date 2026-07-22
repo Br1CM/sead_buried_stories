@@ -8,6 +8,8 @@ import json
 import os
 import time
 
+import pandas as pd
+
 from config import WEB_DATA_DIR
 from dating import calendar_label
 from db import get_engine, query
@@ -31,17 +33,22 @@ with candidate as (
 -- order a path by.
 select c.taxon_id, c.genus_name, c.species, c.common_name_local,
        count(distinct psd.site_id) as n_sites,
+       count(distinct loc.location_name) as n_countries,
        count(*) as n_finds
 from candidate c
 join tbl_abundances ab on ab.taxon_id = c.taxon_id
 join tbl_analysis_entities ae on ae.analysis_entity_id = ab.analysis_entity_id
 join sead_utility.physical_sample_dating psd on psd.physical_sample_id = ae.physical_sample_id
+left join tbl_site_locations sl on sl.site_id = psd.site_id
+left join tbl_locations loc on loc.location_id = sl.location_id and loc.location_type_id = 1
 where psd.latitude_dd is not null
   and psd.age_older is not null and psd.age_younger is not null
 group by c.taxon_id, c.genus_name, c.species, c.common_name_local
 having count(distinct psd.site_id) >= 2
 order by n_sites desc
 """
+
+TOP_COUNTRIES_COUNT = 10
 
 PATH_SQL = """
 select psd.site_id, psd.site_name, psd.latitude_dd, psd.longitude_dd,
@@ -63,8 +70,21 @@ def main():
     args = parser.parse_args()
 
     engine = get_engine()
-    candidates = query(engine, CANDIDATE_SQL).head(args.limit)
-    print(f"Curated {len(candidates)} taxa")
+    all_candidates = query(engine, CANDIDATE_SQL)
+
+    top_by_sites = all_candidates.head(args.limit)
+    top_by_countries = all_candidates.sort_values("n_countries", ascending=False).head(
+        TOP_COUNTRIES_COUNT
+    )
+    candidates = (
+        pd.concat([top_by_sites, top_by_countries])
+        .drop_duplicates(subset="taxon_id")
+        .reset_index(drop=True)
+    )
+    print(
+        f"Curated {len(candidates)} taxa "
+        f"({len(top_by_sites)} most-studied + up to {TOP_COUNTRIES_COUNT} most-widespread by country)"
+    )
 
     gbif_keys = load_gbif_keys() if not args.skip_images else {}
     media_cache = load_media_cache()
@@ -109,6 +129,7 @@ def main():
             "common_name_en": common_name_en,
             "common_name_local": row.common_name_local,
             "n_sites": int(row.n_sites),
+            "n_countries": int(row.n_countries),
             "n_finds": int(row.n_finds),
             "image": media.get("image"),
             "oldest_label": path[0]["label"] if path else None,

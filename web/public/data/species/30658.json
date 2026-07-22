@@ -4,7 +4,8 @@
   "common_name_en": null,
   "common_name_local": null,
   "n_sites": 192,
-  "n_finds": 1102,
+  "n_countries": 13,
+  "n_finds": 2204,
   "image": {
     "url": "https://zenodo.org/record/245615/files/figure.png",
     "license": null,

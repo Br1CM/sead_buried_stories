@@ -65,7 +65,8 @@ export function SpeciesPicker({ species }: { species: SpeciesIndexEntry[] }) {
               </span>
               <span className="italic text-xs text-white/50">{s.scientific_name}</span>
               <span className="mt-1 text-[11px] text-white/40">
-                {s.n_sites} sites · {s.oldest_label} → {s.youngest_label}
+                {s.n_sites} sites in {s.n_countries} countries · {s.oldest_label} →{" "}
+                {s.youngest_label}
               </span>
             </div>
           </Link>

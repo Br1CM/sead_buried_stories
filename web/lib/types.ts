@@ -11,6 +11,7 @@ export interface SpeciesIndexEntry {
   common_name_en: string | null;
   common_name_local: string | null;
   n_sites: number;
+  n_countries: number;
   n_finds: number;
   image: ImageCredit | null;
   oldest_label: string | null;

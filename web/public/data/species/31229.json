@@ -4,7 +4,8 @@
   "common_name_en": "Rove beetle",
   "common_name_local": null,
   "n_sites": 106,
-  "n_finds": 403,
+  "n_countries": 10,
+  "n_finds": 806,
   "image": {
     "url": "https://images.naturalis.nl/original/143408_11.jpg",
     "license": "CC BY-NC-ND",

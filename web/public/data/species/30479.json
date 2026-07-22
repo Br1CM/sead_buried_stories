@@ -4,7 +4,8 @@
   "common_name_en": "Ocillate rove beetle",
   "common_name_local": null,
   "n_sites": 86,
-  "n_finds": 407,
+  "n_countries": 10,
+  "n_finds": 814,
   "image": {
     "url": "https://zenodo.org/record/17323906/files/figure.png",
     "license": null,

@@ -4,7 +4,8 @@
   "common_name_en": "Rove beetle",
   "common_name_local": null,
   "n_sites": 136,
-  "n_finds": 902,
+  "n_countries": 15,
+  "n_finds": 1804,
   "image": {
     "url": "https://zenodo.org/record/3773938/files/figure.png",
     "license": null,

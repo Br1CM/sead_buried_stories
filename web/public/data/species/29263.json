@@ -4,7 +4,8 @@
   "common_name_en": "Lesser Blackclock",
   "common_name_local": null,
   "n_sites": 141,
-  "n_finds": 481,
+  "n_countries": 12,
+  "n_finds": 962,
   "image": {
     "url": "https://images.naturalis.nl/original/136708.jpg",
     "license": "CC BY",

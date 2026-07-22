@@ -5,7 +5,8 @@
     "common_name_en": "Rove beetle",
     "common_name_local": null,
     "n_sites": 351,
-    "n_finds": 2159,
+    "n_countries": 17,
+    "n_finds": 4318,
     "image": {
       "url": "https://images.naturalis.nl/original/151604_1.jpg",
       "license": "CC BY-NC-ND",
@@ -21,7 +22,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 345,
-    "n_finds": 1588,
+    "n_countries": 15,
+    "n_finds": 3176,
     "image": {
       "url": "https://images.naturalis.nl/original/151901_hydrophilidae_hydrobius_fuscipes_roodpootwaterkever_5-8-2016_zoetermeer.jpg",
       "license": "CC BY-NC-ND",
@@ -37,7 +39,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 275,
-    "n_finds": 1129,
+    "n_countries": 14,
+    "n_finds": 2258,
     "image": {
       "url": "https://images.naturalis.nl/original/189721.jpg",
       "license": "CC BY",
@@ -53,7 +56,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 269,
-    "n_finds": 1079,
+    "n_countries": 17,
+    "n_finds": 2158,
     "image": {
       "url": "https://images.naturalis.nl/original/198486.jpg",
       "license": "CC BY",
@@ -69,7 +73,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 268,
-    "n_finds": 1862,
+    "n_countries": 13,
+    "n_finds": 3724,
     "image": null,
     "oldest_label": "3954550 BC",
     "youngest_label": "2005 AD"
@@ -80,7 +85,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 248,
-    "n_finds": 1226,
+    "n_countries": 11,
+    "n_finds": 2452,
     "image": {
       "url": "https://images.naturalis.nl/original/110659_1.jpg",
       "license": "CC BY",
@@ -96,7 +102,8 @@
     "common_name_en": "Common Furniture-beetle",
     "common_name_local": null,
     "n_sites": 233,
-    "n_finds": 1303,
+    "n_countries": 13,
+    "n_finds": 2606,
     "image": {
       "url": "https://images.naturalis.nl/original/150073_24.jpg",
       "license": "CC BY-NC-ND",
@@ -112,7 +119,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 225,
-    "n_finds": 1243,
+    "n_countries": 11,
+    "n_finds": 2486,
     "image": null,
     "oldest_label": "648050 BC",
     "youngest_label": "2005 AD"
@@ -123,7 +131,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 222,
-    "n_finds": 777,
+    "n_countries": 15,
+    "n_finds": 1554,
     "image": {
       "url": "https://images.naturalis.nl/original/198485.jpg",
       "license": "CC BY",
@@ -139,7 +148,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 210,
-    "n_finds": 977,
+    "n_countries": 14,
+    "n_finds": 1954,
     "image": {
       "url": "https://images.naturalis.nl/original/96201_p1110818.jpg",
       "license": "CC BY",
@@ -155,7 +165,8 @@
     "common_name_en": "Smooth-chested Blackclock",
     "common_name_local": null,
     "n_sites": 195,
-    "n_finds": 739,
+    "n_countries": 16,
+    "n_finds": 1478,
     "image": {
       "url": "https://images.naturalis.nl/original/115416_f.jpg",
       "license": "CC BY",
@@ -171,7 +182,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 192,
-    "n_finds": 1102,
+    "n_countries": 13,
+    "n_finds": 2204,
     "image": {
       "url": "https://zenodo.org/record/245615/files/figure.png",
       "license": null,
@@ -187,7 +199,8 @@
     "common_name_en": "Crenate Ocellate Rove Beetle",
     "common_name_local": null,
     "n_sites": 191,
-    "n_finds": 562,
+    "n_countries": 16,
+    "n_finds": 1124,
     "image": {
       "url": "https://binary.pensoft.net/fig/889172",
       "license": null,
@@ -203,7 +216,8 @@
     "common_name_en": "Grain Weevil",
     "common_name_local": null,
     "n_sites": 186,
-    "n_finds": 1066,
+    "n_countries": 24,
+    "n_finds": 2132,
     "image": null,
     "oldest_label": "3050 BC",
     "youngest_label": "1925 AD"
@@ -214,7 +228,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 180,
-    "n_finds": 796,
+    "n_countries": 11,
+    "n_finds": 1592,
     "image": {
       "url": "https://images.naturalis.nl/original/151185_10.jpg",
       "license": "CC BY-NC-ND",
@@ -230,7 +245,8 @@
     "common_name_en": "Bracken Clock",
     "common_name_local": null,
     "n_sites": 178,
-    "n_finds": 1069,
+    "n_countries": 10,
+    "n_finds": 2138,
     "image": {
       "url": "https://images.naturalis.nl/original/183115.jpg",
       "license": "CC BY-NC-ND",
@@ -246,7 +262,8 @@
     "common_name_en": "Coal-runner",
     "common_name_local": null,
     "n_sites": 178,
-    "n_finds": 659,
+    "n_countries": 12,
+    "n_finds": 1318,
     "image": {
       "url": "https://images.naturalis.nl/original/138325_11.jpg",
       "license": "CC BY-NC-ND",
@@ -262,7 +279,8 @@
     "common_name_en": "Hairy-horned Springtail-hunter",
     "common_name_local": null,
     "n_sites": 177,
-    "n_finds": 456,
+    "n_countries": 15,
+    "n_finds": 912,
     "image": {
       "url": "https://images.naturalis.nl/original/93293_dsc03902irf24iv15elb_loricera_pilicornis_th.jpg",
       "license": "CC BY-NC-ND",
@@ -278,7 +296,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 176,
-    "n_finds": 651,
+    "n_countries": 13,
+    "n_finds": 1302,
     "image": {
       "url": "https://images.naturalis.nl/original/150063_10.jpg",
       "license": "CC BY-NC-ND",
@@ -294,7 +313,8 @@
     "common_name_en": "Water scavenger beetle",
     "common_name_local": null,
     "n_sites": 169,
-    "n_finds": 1237,
+    "n_countries": 19,
+    "n_finds": 2474,
     "image": {
       "url": "https://images.naturalis.nl/original/178281.jpg",
       "license": "CC BY",
@@ -310,7 +330,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 161,
-    "n_finds": 756,
+    "n_countries": 16,
+    "n_finds": 1512,
     "image": {
       "url": "https://images.naturalis.nl/original/144335_1.jpg",
       "license": "CC BY-NC-ND",
@@ -326,7 +347,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 154,
-    "n_finds": 512,
+    "n_countries": 15,
+    "n_finds": 1024,
     "image": null,
     "oldest_label": "1293800 BC",
     "youngest_label": "2004 AD"
@@ -337,7 +359,8 @@
     "common_name_en": "Duckweed Weevil",
     "common_name_local": null,
     "n_sites": 152,
-    "n_finds": 719,
+    "n_countries": 9,
+    "n_finds": 1438,
     "image": {
       "url": "https://images.naturalis.nl/original/136736.jpg",
       "license": "CC BY",
@@ -353,7 +376,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 150,
-    "n_finds": 448,
+    "n_countries": 14,
+    "n_finds": 896,
     "image": {
       "url": "https://images.naturalis.nl/original/136710.jpg",
       "license": "CC BY",
@@ -369,7 +393,8 @@
     "common_name_en": "Beet Flea Beetle",
     "common_name_local": null,
     "n_sites": 149,
-    "n_finds": 702,
+    "n_countries": 12,
+    "n_finds": 1404,
     "image": null,
     "oldest_label": "215050 BC",
     "youngest_label": "2005 AD"
@@ -380,7 +405,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 148,
-    "n_finds": 536,
+    "n_countries": 7,
+    "n_finds": 1072,
     "image": {
       "url": "https://images.naturalis.nl/original/145069_bruine_duiker_3.jpg",
       "license": "CC BY",
@@ -396,7 +422,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 147,
-    "n_finds": 614,
+    "n_countries": 7,
+    "n_finds": 1228,
     "image": {
       "url": "https://zenodo.org/record/245634/files/figure.png",
       "license": null,
@@ -412,7 +439,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 146,
-    "n_finds": 508,
+    "n_countries": 11,
+    "n_finds": 1016,
     "image": {
       "url": "https://images.naturalis.nl/original/151160_14.jpg",
       "license": "CC BY-NC-ND",
@@ -428,7 +456,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 145,
-    "n_finds": 714,
+    "n_countries": 6,
+    "n_finds": 1428,
     "image": null,
     "oldest_label": "316550 BC",
     "youngest_label": "2005 AD"
@@ -439,7 +468,8 @@
     "common_name_en": "Black Carrion Beetle",
     "common_name_local": null,
     "n_sites": 144,
-    "n_finds": 431,
+    "n_countries": 11,
+    "n_finds": 862,
     "image": {
       "url": "https://images.naturalis.nl/original/190067.jpg",
       "license": "CC BY",
@@ -455,7 +485,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 143,
-    "n_finds": 586,
+    "n_countries": 18,
+    "n_finds": 1172,
     "image": null,
     "oldest_label": "504050 BC",
     "youngest_label": "2004 AD"
@@ -466,7 +497,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 143,
-    "n_finds": 528,
+    "n_countries": 13,
+    "n_finds": 1056,
     "image": {
       "url": "https://images.naturalis.nl/original/143174_calathus_melanocephalus_2.jpg",
       "license": "CC BY",
@@ -482,7 +514,8 @@
     "common_name_en": "Lesser Blackclock",
     "common_name_local": null,
     "n_sites": 141,
-    "n_finds": 481,
+    "n_countries": 12,
+    "n_finds": 962,
     "image": {
       "url": "https://images.naturalis.nl/original/136708.jpg",
       "license": "CC BY",
@@ -498,7 +531,8 @@
     "common_name_en": "jewel reed beetle",
     "common_name_local": null,
     "n_sites": 140,
-    "n_finds": 397,
+    "n_countries": 11,
+    "n_finds": 794,
     "image": {
       "url": "https://images.naturalis.nl/original/149958_2018_1_470.jpg",
       "license": "CC BY-NC-ND",
@@ -514,7 +548,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 138,
-    "n_finds": 574,
+    "n_countries": 14,
+    "n_finds": 1148,
     "image": null,
     "oldest_label": "1674550 BC",
     "youngest_label": "1925 AD"
@@ -525,7 +560,8 @@
     "common_name_en": "Rove beetle",
     "common_name_local": null,
     "n_sites": 138,
-    "n_finds": 1157,
+    "n_countries": 11,
+    "n_finds": 2314,
     "image": null,
     "oldest_label": "158550 BC",
     "youngest_label": "1925 AD"
@@ -536,7 +572,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 137,
-    "n_finds": 659,
+    "n_countries": 14,
+    "n_finds": 1318,
     "image": {
       "url": "https://images.naturalis.nl/original/152989_51.jpg",
       "license": "CC BY-NC-ND",
@@ -552,7 +589,8 @@
     "common_name_en": "Rove beetle",
     "common_name_local": null,
     "n_sites": 136,
-    "n_finds": 902,
+    "n_countries": 15,
+    "n_finds": 1804,
     "image": {
       "url": "https://zenodo.org/record/3773938/files/figure.png",
       "license": null,
@@ -568,7 +606,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 133,
-    "n_finds": 378,
+    "n_countries": 14,
+    "n_finds": 756,
     "image": null,
     "oldest_label": "1293800 BC",
     "youngest_label": "975 AD"
@@ -579,7 +618,8 @@
     "common_name_en": "Leaf beetle",
     "common_name_local": null,
     "n_sites": 133,
-    "n_finds": 511,
+    "n_countries": 9,
+    "n_finds": 1022,
     "image": {
       "url": "https://images.naturalis.nl/original/178319.jpg",
       "license": "CC BY",
@@ -595,7 +635,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 127,
-    "n_finds": 840,
+    "n_countries": 11,
+    "n_finds": 1680,
     "image": null,
     "oldest_label": "3099 BC",
     "youngest_label": "1925 AD"
@@ -606,7 +647,8 @@
     "common_name_en": "Dark-footed harp ground beetle",
     "common_name_local": null,
     "n_sites": 126,
-    "n_finds": 479,
+    "n_countries": 8,
+    "n_finds": 958,
     "image": {
       "url": "https://images.naturalis.nl/original/95948_cf.jpg",
       "license": "CC BY",
@@ -622,7 +664,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 126,
-    "n_finds": 376,
+    "n_countries": 14,
+    "n_finds": 752,
     "image": null,
     "oldest_label": "1293800 BC",
     "youngest_label": "2004 AD"
@@ -633,7 +676,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 125,
-    "n_finds": 446,
+    "n_countries": 11,
+    "n_finds": 892,
     "image": {
       "url": "https://images.naturalis.nl/original/200056.jpg",
       "license": "CC BY",
@@ -649,7 +693,8 @@
     "common_name_en": "Forest small dung beetle",
     "common_name_local": null,
     "n_sites": 121,
-    "n_finds": 641,
+    "n_countries": 8,
+    "n_finds": 1282,
     "image": {
       "url": "https://images.naturalis.nl/original/189762.jpg",
       "license": "CC BY",
@@ -665,7 +710,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 120,
-    "n_finds": 348,
+    "n_countries": 14,
+    "n_finds": 696,
     "image": {
       "url": "https://images.naturalis.nl/original/145582_15.jpg",
       "license": "CC BY-NC-ND",
@@ -681,7 +727,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 119,
-    "n_finds": 490,
+    "n_countries": 5,
+    "n_finds": 980,
     "image": {
       "url": "https://images.naturalis.nl/original/93239_dsc05299irf08v15rab_agrypnus_murina_th.jpg",
       "license": "CC BY-NC-ND",
@@ -697,7 +744,8 @@
     "common_name_en": "Common Heart Shield",
     "common_name_local": null,
     "n_sites": 119,
-    "n_finds": 439,
+    "n_countries": 10,
+    "n_finds": 878,
     "image": {
       "url": "https://images.naturalis.nl/original/210854.jpg",
       "license": "CC BY",
@@ -713,7 +761,8 @@
     "common_name_en": "Water scavenger beetle",
     "common_name_local": null,
     "n_sites": 119,
-    "n_finds": 661,
+    "n_countries": 11,
+    "n_finds": 1322,
     "image": null,
     "oldest_label": "41050 BC",
     "youngest_label": "1925 AD"
@@ -724,7 +773,8 @@
     "common_name_en": "Broken-horned Rove Beetle",
     "common_name_local": null,
     "n_sites": 119,
-    "n_finds": 623,
+    "n_countries": 13,
+    "n_finds": 1246,
     "image": {
       "url": "https://images.naturalis.nl/original/140808_12.jpg",
       "license": "CC BY-NC-ND",
@@ -740,7 +790,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 118,
-    "n_finds": 324,
+    "n_countries": 13,
+    "n_finds": 648,
     "image": {
       "url": "https://images.naturalis.nl/original/136527.jpg",
       "license": "CC BY",
@@ -756,7 +807,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 118,
-    "n_finds": 537,
+    "n_countries": 6,
+    "n_finds": 1074,
     "image": {
       "url": "https://images.naturalis.nl/original/137849_1.jpg",
       "license": "CC BY-NC-ND",
@@ -772,7 +824,8 @@
     "common_name_en": "Digger Slope-rumped Beetle",
     "common_name_local": null,
     "n_sites": 116,
-    "n_finds": 388,
+    "n_countries": 14,
+    "n_finds": 776,
     "image": {
       "url": "https://images.naturalis.nl/original/210636.jpg",
       "license": "CC BY",
@@ -788,7 +841,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 113,
-    "n_finds": 279,
+    "n_countries": 12,
+    "n_finds": 558,
     "image": null,
     "oldest_label": "3954550 BC",
     "youngest_label": "2004 AD"
@@ -799,7 +853,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 113,
-    "n_finds": 389,
+    "n_countries": 12,
+    "n_finds": 778,
     "image": null,
     "oldest_label": "1293800 BC",
     "youngest_label": "1750 AD"
@@ -810,7 +865,8 @@
     "common_name_en": "Black spotted ground beetle",
     "common_name_local": null,
     "n_sites": 112,
-    "n_finds": 442,
+    "n_countries": 8,
+    "n_finds": 884,
     "image": {
       "url": "https://images.naturalis.nl/original/136529.jpg",
       "license": "CC BY",
@@ -826,7 +882,8 @@
     "common_name_en": "Hairy Cellar Beetle",
     "common_name_local": null,
     "n_sites": 109,
-    "n_finds": 497,
+    "n_countries": 14,
+    "n_finds": 994,
     "image": {
       "url": "https://images.naturalis.nl/original/153649_12.jpg",
       "license": "CC BY-NC-ND",
@@ -842,7 +899,8 @@
     "common_name_en": "Hister beetle",
     "common_name_local": null,
     "n_sites": 109,
-    "n_finds": 595,
+    "n_countries": 11,
+    "n_finds": 1190,
     "image": null,
     "oldest_label": "3050 BC",
     "youngest_label": "1710 AD"
@@ -853,7 +911,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 108,
-    "n_finds": 348,
+    "n_countries": 10,
+    "n_finds": 696,
     "image": {
       "url": "https://images.naturalis.nl/original/137345.jpg",
       "license": "CC BY",
@@ -869,7 +928,8 @@
     "common_name_en": "Merchant Grain Beetle",
     "common_name_local": null,
     "n_sites": 106,
-    "n_finds": 764,
+    "n_countries": 18,
+    "n_finds": 1528,
     "image": null,
     "oldest_label": "4348 BC",
     "youngest_label": "1840 AD"
@@ -880,7 +940,8 @@
     "common_name_en": "Rove beetle",
     "common_name_local": null,
     "n_sites": 106,
-    "n_finds": 403,
+    "n_countries": 10,
+    "n_finds": 806,
     "image": {
       "url": "https://images.naturalis.nl/original/143408_11.jpg",
       "license": "CC BY-NC-ND",
@@ -896,7 +957,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 105,
-    "n_finds": 318,
+    "n_countries": 12,
+    "n_finds": 636,
     "image": {
       "url": "https://images.naturalis.nl/original/136493.jpg",
       "license": "CC BY",
@@ -912,7 +974,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 104,
-    "n_finds": 659,
+    "n_countries": 12,
+    "n_finds": 1318,
     "image": null,
     "oldest_label": "3050 BC",
     "youngest_label": "1725 AD"
@@ -923,7 +986,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 104,
-    "n_finds": 395,
+    "n_countries": 5,
+    "n_finds": 790,
     "image": null,
     "oldest_label": "1674550 BC",
     "youngest_label": "1500 AD"
@@ -934,7 +998,8 @@
     "common_name_en": "Pill Beetle",
     "common_name_local": null,
     "n_sites": 104,
-    "n_finds": 329,
+    "n_countries": 13,
+    "n_finds": 658,
     "image": null,
     "oldest_label": "1674550 BC",
     "youngest_label": "1986 AD"
@@ -945,7 +1010,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 102,
-    "n_finds": 321,
+    "n_countries": 12,
+    "n_finds": 642,
     "image": null,
     "oldest_label": "358550 BC",
     "youngest_label": "1410 AD"
@@ -956,7 +1022,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 101,
-    "n_finds": 349,
+    "n_countries": 6,
+    "n_finds": 698,
     "image": {
       "url": "https://images.naturalis.nl/original/191085.jpg",
       "license": "CC BY",
@@ -972,7 +1039,8 @@
     "common_name_en": "Clover Root Weevil",
     "common_name_local": null,
     "n_sites": 99,
-    "n_finds": 342,
+    "n_countries": 8,
+    "n_finds": 684,
     "image": null,
     "oldest_label": "575550 BC",
     "youngest_label": "2005 AD"
@@ -983,7 +1051,8 @@
     "common_name_en": "Rove beetle",
     "common_name_local": null,
     "n_sites": 99,
-    "n_finds": 591,
+    "n_countries": 10,
+    "n_finds": 1182,
     "image": null,
     "oldest_label": "215050 BC",
     "youngest_label": "1850 AD"
@@ -994,7 +1063,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 98,
-    "n_finds": 385,
+    "n_countries": 8,
+    "n_finds": 770,
     "image": {
       "url": "https://zenodo.org/record/245619/files/figure.png",
       "license": null,
@@ -1010,7 +1080,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 97,
-    "n_finds": 354,
+    "n_countries": 8,
+    "n_finds": 708,
     "image": {
       "url": "https://images.naturalis.nl/original/200790.jpg",
       "license": "CC BY",
@@ -1026,7 +1097,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 97,
-    "n_finds": 255,
+    "n_countries": 14,
+    "n_finds": 510,
     "image": {
       "url": "https://images.naturalis.nl/original/200787.jpg",
       "license": "CC BY",
@@ -1042,7 +1114,8 @@
     "common_name_en": "Green Dock Beetle",
     "common_name_local": null,
     "n_sites": 97,
-    "n_finds": 343,
+    "n_countries": 10,
+    "n_finds": 686,
     "image": {
       "url": "https://images.naturalis.nl/original/112110_dsc05311irf18v17sbb_rumex_obtusifolius_-_gastrophysa_viridula_th.jpg",
       "license": "CC BY-NC-ND",
@@ -1058,7 +1131,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 96,
-    "n_finds": 425,
+    "n_countries": 8,
+    "n_finds": 850,
     "image": {
       "url": "https://images.naturalis.nl/original/146497_aphodius_contaminatus_2.jpg",
       "license": "CC BY",
@@ -1074,7 +1148,8 @@
     "common_name_en": "Linear Rove Beetle",
     "common_name_local": null,
     "n_sites": 96,
-    "n_finds": 414,
+    "n_countries": 5,
+    "n_finds": 828,
     "image": {
       "url": "https://images.naturalis.nl/original/144783_32.jpg",
       "license": "CC BY-NC-ND",
@@ -1090,7 +1165,8 @@
     "common_name_en": "Staph beetle",
     "common_name_local": null,
     "n_sites": 95,
-    "n_finds": 339,
+    "n_countries": 13,
+    "n_finds": 678,
     "image": null,
     "oldest_label": "1293800 BC",
     "youngest_label": "975 AD"
@@ -1101,7 +1177,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 95,
-    "n_finds": 420,
+    "n_countries": 7,
+    "n_finds": 840,
     "image": {
       "url": "https://images.naturalis.nl/original/132565_4a.jpg",
       "license": "CC BY-NC-ND",
@@ -1117,7 +1194,8 @@
     "common_name_en": "Small Heather Weevil",
     "common_name_local": null,
     "n_sites": 95,
-    "n_finds": 409,
+    "n_countries": 11,
+    "n_finds": 818,
     "image": {
       "url": "https://images.naturalis.nl/original/136632.jpg",
       "license": "CC BY",
@@ -1133,7 +1211,8 @@
     "common_name_en": "Boreaphilus hennigianus",
     "common_name_local": null,
     "n_sites": 95,
-    "n_finds": 324,
+    "n_countries": 13,
+    "n_finds": 648,
     "image": null,
     "oldest_label": "648050 BC",
     "youngest_label": "975 AD"
@@ -1144,7 +1223,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 94,
-    "n_finds": 291,
+    "n_countries": 10,
+    "n_finds": 582,
     "image": null,
     "oldest_label": "1674550 BC",
     "youngest_label": "2001 AD"
@@ -1155,7 +1235,8 @@
     "common_name_en": "Copper Peacock Beetle",
     "common_name_local": null,
     "n_sites": 92,
-    "n_finds": 211,
+    "n_countries": 9,
+    "n_finds": 422,
     "image": {
       "url": "https://images.naturalis.nl/original/122705_p1140667.jpg",
       "license": "CC BY-SA",
@@ -1171,7 +1252,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 91,
-    "n_finds": 388,
+    "n_countries": 7,
+    "n_finds": 776,
     "image": {
       "url": "https://images.naturalis.nl/original/128633_hr.jpg",
       "license": "CC BY-NC",
@@ -1187,7 +1269,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 89,
-    "n_finds": 248,
+    "n_countries": 14,
+    "n_finds": 496,
     "image": null,
     "oldest_label": "575550 BC",
     "youngest_label": "2001 AD"
@@ -1198,7 +1281,8 @@
     "common_name_en": "Rove beetle",
     "common_name_local": null,
     "n_sites": 89,
-    "n_finds": 482,
+    "n_countries": 8,
+    "n_finds": 964,
     "image": {
       "url": "https://images.naturalis.nl/original/129416_20.jpg",
       "license": "CC BY-NC-ND",
@@ -1214,7 +1298,8 @@
     "common_name_en": "Beetle",
     "common_name_local": null,
     "n_sites": 89,
-    "n_finds": 325,
+    "n_countries": 9,
+    "n_finds": 650,
     "image": null,
     "oldest_label": "575550 BC",
     "youngest_label": "1750 AD"
@@ -1225,7 +1310,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 89,
-    "n_finds": 201,
+    "n_countries": 12,
+    "n_finds": 402,
     "image": {
       "url": "https://images.naturalis.nl/original/212188.jpg",
       "license": "CC BY-NC-ND",
@@ -1241,7 +1327,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 88,
-    "n_finds": 245,
+    "n_countries": 8,
+    "n_finds": 490,
     "image": {
       "url": "https://images.naturalis.nl/original/144978_scarabaeidae_aphodius_ater_10-5-2015_zoetermeer.jpg",
       "license": "CC BY-NC-ND",
@@ -1257,7 +1344,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 88,
-    "n_finds": 401,
+    "n_countries": 6,
+    "n_finds": 802,
     "image": {
       "url": "https://images.naturalis.nl/original/196952.jpg",
       "license": "CC BY",
@@ -1273,7 +1361,8 @@
     "common_name_en": "Hairy Fungus Beetle",
     "common_name_local": null,
     "n_sites": 87,
-    "n_finds": 530,
+    "n_countries": 11,
+    "n_finds": 1060,
     "image": {
       "url": "https://images.naturalis.nl/original/98765_Typhaea%20stercorea%2029%2012%202013%20SH.jpg",
       "license": "CC BY",
@@ -1289,7 +1378,8 @@
     "common_name_en": "Small Nettle Weevil",
     "common_name_local": null,
     "n_sites": 87,
-    "n_finds": 379,
+    "n_countries": 9,
+    "n_finds": 758,
     "image": {
       "url": "https://images.naturalis.nl/original/136639.jpg",
       "license": "CC BY",
@@ -1305,7 +1395,8 @@
     "common_name_en": "night-flying dung beetle",
     "common_name_local": null,
     "n_sites": 87,
-    "n_finds": 312,
+    "n_countries": 8,
+    "n_finds": 624,
     "image": {
       "url": "https://images.naturalis.nl/original/224973.jpg",
       "license": "CC BY",
@@ -1321,7 +1412,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 87,
-    "n_finds": 272,
+    "n_countries": 13,
+    "n_finds": 544,
     "image": null,
     "oldest_label": "575550 BC",
     "youngest_label": "1725 AD"
@@ -1332,7 +1424,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 86,
-    "n_finds": 319,
+    "n_countries": 8,
+    "n_finds": 638,
     "image": null,
     "oldest_label": "648050 BC",
     "youngest_label": "1873 AD"
@@ -1343,7 +1436,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 86,
-    "n_finds": 347,
+    "n_countries": 9,
+    "n_finds": 694,
     "image": {
       "url": "https://images.naturalis.nl/original/94643_p1060275.jpg",
       "license": "CC BY",
@@ -1359,7 +1453,8 @@
     "common_name_en": "Ocillate rove beetle",
     "common_name_local": null,
     "n_sites": 86,
-    "n_finds": 407,
+    "n_countries": 10,
+    "n_finds": 814,
     "image": {
       "url": "https://zenodo.org/record/17323906/files/figure.png",
       "license": null,
@@ -1375,7 +1470,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 85,
-    "n_finds": 371,
+    "n_countries": 9,
+    "n_finds": 742,
     "image": {
       "url": "https://images.naturalis.nl/original/145973_11.jpg",
       "license": "CC BY-NC-ND",
@@ -1391,7 +1487,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 85,
-    "n_finds": 306,
+    "n_countries": 9,
+    "n_finds": 612,
     "image": null,
     "oldest_label": "358550 BC",
     "youngest_label": "2005 AD"
@@ -1402,7 +1499,8 @@
     "common_name_en": null,
     "common_name_local": null,
     "n_sites": 84,
-    "n_finds": 411,
+    "n_countries": 8,
+    "n_finds": 822,
     "image": null,
     "oldest_label": "504050 BC",
     "youngest_label": "1995 AD"
@@ -1413,7 +1511,8 @@
     "common_name_en": "Staph beetle",
     "common_name_local": null,
     "n_sites": 83,
-    "n_finds": 323,
+    "n_countries": 7,
+    "n_finds": 646,
     "image": {
       "url": "https://images.naturalis.nl/original/141864_22.jpg",
       "license": "CC BY-NC-ND",
@@ -1429,7 +1528,8 @@
     "common_name_en": "Nettle Pollen Beetle",
     "common_name_local": null,
     "n_sites": 81,
-    "n_finds": 373,
+    "n_countries": 8,
+    "n_finds": 746,
     "image": {
       "url": "https://images.naturalis.nl/original/111133_10.jpg",
       "license": "CC BY",

@@ -4,7 +4,8 @@
   "common_name_en": null,
   "common_name_local": null,
   "n_sites": 96,
-  "n_finds": 425,
+  "n_countries": 8,
+  "n_finds": 850,
   "image": {
     "url": "https://images.naturalis.nl/original/146497_aphodius_contaminatus_2.jpg",
     "license": "CC BY",

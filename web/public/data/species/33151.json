@@ -4,7 +4,8 @@
   "common_name_en": null,
   "common_name_local": null,
   "n_sites": 161,
-  "n_finds": 756,
+  "n_countries": 16,
+  "n_finds": 1512,
   "image": {
     "url": "https://images.naturalis.nl/original/144335_1.jpg",
     "license": "CC BY-NC-ND",

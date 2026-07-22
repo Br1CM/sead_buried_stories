@@ -4,7 +4,8 @@
   "common_name_en": "Duckweed Weevil",
   "common_name_local": null,
   "n_sites": 152,
-  "n_finds": 719,
+  "n_countries": 9,
+  "n_finds": 1438,
   "image": {
     "url": "https://images.naturalis.nl/original/136736.jpg",
     "license": "CC BY",

@@ -4,7 +4,8 @@
   "common_name_en": "Coal-runner",
   "common_name_local": null,
   "n_sites": 178,
-  "n_finds": 659,
+  "n_countries": 12,
+  "n_finds": 1318,
   "image": {
     "url": "https://images.naturalis.nl/original/138325_11.jpg",
     "license": "CC BY-NC-ND",

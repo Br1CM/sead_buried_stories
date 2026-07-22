@@ -4,7 +4,8 @@
   "common_name_en": "Common Heart Shield",
   "common_name_local": null,
   "n_sites": 119,
-  "n_finds": 439,
+  "n_countries": 10,
+  "n_finds": 878,
   "image": {
     "url": "https://images.naturalis.nl/original/210854.jpg",
     "license": "CC BY",
