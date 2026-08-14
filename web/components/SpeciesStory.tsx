@@ -10,7 +10,7 @@ export function SpeciesStory({ stops }: { stops: SpeciesPathStop[] }) {
 
   return (
     <div className="flex flex-col gap-4">
-      <div className="h-[420px] w-full overflow-hidden rounded-2xl border border-white/10">
+      <div className="h-[420px] w-full overflow-hidden rounded-2xl border border-ink-10">
         <MapTrace stops={stops} activeIndex={activeIndex} />
       </div>
       <Timeline stops={stops} activeIndex={activeIndex} onChange={setActiveIndex} />

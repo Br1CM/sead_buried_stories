@@ -1,0 +1,247 @@
+{
+  "site_id": 4039,
+  "site_name": "Perstorps kyrka",
+  "lat": 56.1416136158,
+  "lon": 13.3867602912,
+  "n_samples": 22,
+  "n_years": 19,
+  "earliest_label": "1213 AD",
+  "latest_label": "1766 AD",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Perstorps_kyrka.JPG?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Perstorps kyrka",
+    "license": "CC BY-SA 3.0",
+    "creator": "User Fantomen on sv.wikipedia",
+    "source": "Wikimedia Commons"
+  },
+  "years": [
+    {
+      "year": 1213,
+      "label": "1213 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1234,
+      "label": "1234 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1238,
+      "label": "1238 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1242,
+      "label": "1242 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1244,
+      "label": "1244 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1246,
+      "label": "1246 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1247,
+      "label": "1247 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1248,
+      "label": "1248 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1249,
+      "label": "1249 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 3
+    },
+    {
+      "year": 1448,
+      "label": "1448 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1458,
+      "label": "1458 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1478,
+      "label": "1478 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1494,
+      "label": "1494 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1524,
+      "label": "1524 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1530,
+      "label": "1530 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1531,
+      "label": "1531 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1535,
+      "label": "1535 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1538,
+      "label": "1538 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 2
+    },
+    {
+      "year": 1766,
+      "label": "1766 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    }
+  ]
+}

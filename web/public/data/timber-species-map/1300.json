@@ -1,0 +1,628 @@
+{
+  "bucket_start": 1300,
+  "label": "1300 AD - 1350 AD",
+  "n_samples": 77,
+  "composition": {
+    "Tall": 66.2,
+    "Ek": 32.5,
+    "Gran": 1.3
+  },
+  "points": [
+    {
+      "site_id": 4114,
+      "site_name": "Härads kyrka",
+      "lat": 59.3598703443,
+      "lon": 16.9092602778,
+      "species": "Tall",
+      "year": 1317
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1340
+    },
+    {
+      "site_id": 4024,
+      "site_name": "Sankt Lars kyrka",
+      "lat": 58.4113830519,
+      "lon": 15.6252519646,
+      "species": "Ek",
+      "year": 1329
+    },
+    {
+      "site_id": 4061,
+      "site_name": "Mellby kyrka",
+      "lat": 57.5560526033,
+      "lon": 15.1079898518,
+      "species": "Tall",
+      "year": 1344
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1339
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1328
+    },
+    {
+      "site_id": 4112,
+      "site_name": "Härnevi kyrka",
+      "lat": 59.7272333569,
+      "lon": 17.0759149131,
+      "species": "Ek",
+      "year": 1338
+    },
+    {
+      "site_id": 4173,
+      "site_name": "Fivelstad kyrka",
+      "lat": 58.4418912603,
+      "lon": 15.0022096889,
+      "species": "Ek",
+      "year": 1309
+    },
+    {
+      "site_id": 3930,
+      "site_name": "Östra Vrams kyrka",
+      "lat": 55.9310962627,
+      "lon": 14.0229459209,
+      "species": "Ek",
+      "year": 1304
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1336
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1338
+    },
+    {
+      "site_id": 4173,
+      "site_name": "Fivelstad kyrka",
+      "lat": 58.4418912603,
+      "lon": 15.0022096889,
+      "species": "Ek",
+      "year": 1326
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1322
+    },
+    {
+      "site_id": 4193,
+      "site_name": "Burs kyrka",
+      "lat": 57.2456587785,
+      "lon": 18.508769627,
+      "species": "Tall",
+      "year": 1313
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1339
+    },
+    {
+      "site_id": 4061,
+      "site_name": "Mellby kyrka",
+      "lat": 57.5560526033,
+      "lon": 15.1079898518,
+      "species": "Gran",
+      "year": 1341
+    },
+    {
+      "site_id": 4202,
+      "site_name": "Bro kyrka",
+      "lat": 57.6700592876,
+      "lon": 18.4747985406,
+      "species": "Tall",
+      "year": 1302
+    },
+    {
+      "site_id": 4213,
+      "site_name": "Björka kyrka",
+      "lat": 55.656727137,
+      "lon": 13.6350501242,
+      "species": "Ek",
+      "year": 1300
+    },
+    {
+      "site_id": 4061,
+      "site_name": "Mellby kyrka",
+      "lat": 57.5560526033,
+      "lon": 15.1079898518,
+      "species": "Tall",
+      "year": 1341
+    },
+    {
+      "site_id": 4135,
+      "site_name": "Hammarlunda kyrka",
+      "lat": 55.7370635839,
+      "lon": 13.438054968,
+      "species": "Ek",
+      "year": 1329
+    },
+    {
+      "site_id": 3930,
+      "site_name": "Östra Vrams kyrka",
+      "lat": 55.9310962627,
+      "lon": 14.0229459209,
+      "species": "Ek",
+      "year": 1304
+    },
+    {
+      "site_id": 4114,
+      "site_name": "Härads kyrka",
+      "lat": 59.3598703443,
+      "lon": 16.9092602778,
+      "species": "Tall",
+      "year": 1317
+    },
+    {
+      "site_id": 4213,
+      "site_name": "Björka kyrka",
+      "lat": 55.656727137,
+      "lon": 13.6350501242,
+      "species": "Ek",
+      "year": 1306
+    },
+    {
+      "site_id": 4114,
+      "site_name": "Härads kyrka",
+      "lat": 59.3598703443,
+      "lon": 16.9092602778,
+      "species": "Tall",
+      "year": 1317
+    },
+    {
+      "site_id": 4173,
+      "site_name": "Fivelstad kyrka",
+      "lat": 58.4418912603,
+      "lon": 15.0022096889,
+      "species": "Ek",
+      "year": 1325
+    },
+    {
+      "site_id": 4024,
+      "site_name": "Sankt Lars kyrka",
+      "lat": 58.4113830519,
+      "lon": 15.6252519646,
+      "species": "Ek",
+      "year": 1320
+    },
+    {
+      "site_id": 3984,
+      "site_name": "Tidersrums kyrka",
+      "lat": 57.9266234251,
+      "lon": 15.4943461311,
+      "species": "Ek",
+      "year": 1322
+    },
+    {
+      "site_id": 4112,
+      "site_name": "Härnevi kyrka",
+      "lat": 59.7272333569,
+      "lon": 17.0759149131,
+      "species": "Ek",
+      "year": 1347
+    },
+    {
+      "site_id": 4213,
+      "site_name": "Björka kyrka",
+      "lat": 55.656727137,
+      "lon": 13.6350501242,
+      "species": "Ek",
+      "year": 1301
+    },
+    {
+      "site_id": 4061,
+      "site_name": "Mellby kyrka",
+      "lat": 57.5560526033,
+      "lon": 15.1079898518,
+      "species": "Tall",
+      "year": 1338
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1339
+    },
+    {
+      "site_id": 4123,
+      "site_name": "Horns kyrka",
+      "lat": 57.9010708522,
+      "lon": 15.8381807879,
+      "species": "Tall",
+      "year": 1334
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1339
+    },
+    {
+      "site_id": 4164,
+      "site_name": "Furingstads kyrka",
+      "lat": 58.5554415248,
+      "lon": 16.3444366205,
+      "species": "Tall",
+      "year": 1344
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1316
+    },
+    {
+      "site_id": 4193,
+      "site_name": "Burs kyrka",
+      "lat": 57.2456587785,
+      "lon": 18.508769627,
+      "species": "Tall",
+      "year": 1312
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1339
+    },
+    {
+      "site_id": 4202,
+      "site_name": "Bro kyrka",
+      "lat": 57.6700592876,
+      "lon": 18.4747985406,
+      "species": "Tall",
+      "year": 1301
+    },
+    {
+      "site_id": 4164,
+      "site_name": "Furingstads kyrka",
+      "lat": 58.5554415248,
+      "lon": 16.3444366205,
+      "species": "Tall",
+      "year": 1339
+    },
+    {
+      "site_id": 3930,
+      "site_name": "Östra Vrams kyrka",
+      "lat": 55.9310962627,
+      "lon": 14.0229459209,
+      "species": "Ek",
+      "year": 1300
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1340
+    },
+    {
+      "site_id": 4193,
+      "site_name": "Burs kyrka",
+      "lat": 57.2456587785,
+      "lon": 18.508769627,
+      "species": "Tall",
+      "year": 1318
+    },
+    {
+      "site_id": 4112,
+      "site_name": "Härnevi kyrka",
+      "lat": 59.7272333569,
+      "lon": 17.0759149131,
+      "species": "Ek",
+      "year": 1348
+    },
+    {
+      "site_id": 4050,
+      "site_name": "Norra Solberga gamla kyrka",
+      "lat": 57.7216499252,
+      "lon": 14.8437225965,
+      "species": "Tall",
+      "year": 1316
+    },
+    {
+      "site_id": 4061,
+      "site_name": "Mellby kyrka",
+      "lat": 57.5560526033,
+      "lon": 15.1079898518,
+      "species": "Tall",
+      "year": 1307
+    },
+    {
+      "site_id": 4170,
+      "site_name": "Flistads kyrka",
+      "lat": 58.4756256101,
+      "lon": 15.4129405934,
+      "species": "Tall",
+      "year": 1320
+    },
+    {
+      "site_id": 4061,
+      "site_name": "Mellby kyrka",
+      "lat": 57.5560526033,
+      "lon": 15.1079898518,
+      "species": "Tall",
+      "year": 1344
+    },
+    {
+      "site_id": 4112,
+      "site_name": "Härnevi kyrka",
+      "lat": 59.7272333569,
+      "lon": 17.0759149131,
+      "species": "Ek",
+      "year": 1349
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1340
+    },
+    {
+      "site_id": 4193,
+      "site_name": "Burs kyrka",
+      "lat": 57.2456587785,
+      "lon": 18.508769627,
+      "species": "Tall",
+      "year": 1314
+    },
+    {
+      "site_id": 4212,
+      "site_name": "Bonderups kyrka",
+      "lat": 55.6397157063,
+      "lon": 13.3565138671,
+      "species": "Ek",
+      "year": 1349
+    },
+    {
+      "site_id": 4164,
+      "site_name": "Furingstads kyrka",
+      "lat": 58.5554415248,
+      "lon": 16.3444366205,
+      "species": "Tall",
+      "year": 1341
+    },
+    {
+      "site_id": 4202,
+      "site_name": "Bro kyrka",
+      "lat": 57.6700592876,
+      "lon": 18.4747985406,
+      "species": "Tall",
+      "year": 1302
+    },
+    {
+      "site_id": 4213,
+      "site_name": "Björka kyrka",
+      "lat": 55.656727137,
+      "lon": 13.6350501242,
+      "species": "Ek",
+      "year": 1305
+    },
+    {
+      "site_id": 4164,
+      "site_name": "Furingstads kyrka",
+      "lat": 58.5554415248,
+      "lon": 16.3444366205,
+      "species": "Tall",
+      "year": 1343
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1340
+    },
+    {
+      "site_id": 4202,
+      "site_name": "Bro kyrka",
+      "lat": 57.6700592876,
+      "lon": 18.4747985406,
+      "species": "Tall",
+      "year": 1302
+    },
+    {
+      "site_id": 4084,
+      "site_name": "Kärnan",
+      "lat": 56.0482731299,
+      "lon": 12.6975215329,
+      "species": "Ek",
+      "year": 1304
+    },
+    {
+      "site_id": 4191,
+      "site_name": "Cramérska huset",
+      "lat": 57.6413266574,
+      "lon": 18.2957180164,
+      "species": "Tall",
+      "year": 1312
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1335
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1338
+    },
+    {
+      "site_id": 4112,
+      "site_name": "Härnevi kyrka",
+      "lat": 59.7272333569,
+      "lon": 17.0759149131,
+      "species": "Ek",
+      "year": 1346
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1340
+    },
+    {
+      "site_id": 4086,
+      "site_name": "Källa gamla kyrka",
+      "lat": 57.1113483626,
+      "lon": 16.9862830461,
+      "species": "Ek",
+      "year": 1312
+    },
+    {
+      "site_id": 4202,
+      "site_name": "Bro kyrka",
+      "lat": 57.6700592876,
+      "lon": 18.4747985406,
+      "species": "Tall",
+      "year": 1302
+    },
+    {
+      "site_id": 4112,
+      "site_name": "Härnevi kyrka",
+      "lat": 59.7272333569,
+      "lon": 17.0759149131,
+      "species": "Ek",
+      "year": 1341
+    },
+    {
+      "site_id": 4213,
+      "site_name": "Björka kyrka",
+      "lat": 55.656727137,
+      "lon": 13.6350501242,
+      "species": "Ek",
+      "year": 1300
+    },
+    {
+      "site_id": 4202,
+      "site_name": "Bro kyrka",
+      "lat": 57.6700592876,
+      "lon": 18.4747985406,
+      "species": "Tall",
+      "year": 1301
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1340
+    },
+    {
+      "site_id": 4061,
+      "site_name": "Mellby kyrka",
+      "lat": 57.5560526033,
+      "lon": 15.1079898518,
+      "species": "Tall",
+      "year": 1344
+    },
+    {
+      "site_id": 4213,
+      "site_name": "Björka kyrka",
+      "lat": 55.656727137,
+      "lon": 13.6350501242,
+      "species": "Ek",
+      "year": 1306
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1328
+    },
+    {
+      "site_id": 4061,
+      "site_name": "Mellby kyrka",
+      "lat": 57.5560526033,
+      "lon": 15.1079898518,
+      "species": "Tall",
+      "year": 1342
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1340
+    },
+    {
+      "site_id": 4193,
+      "site_name": "Burs kyrka",
+      "lat": 57.2456587785,
+      "lon": 18.508769627,
+      "species": "Tall",
+      "year": 1300
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1341
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1341
+    }
+  ]
+}

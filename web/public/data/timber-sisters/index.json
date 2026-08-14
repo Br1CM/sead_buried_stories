@@ -1,0 +1,589 @@
+[
+  {
+    "provenance": "Uppland",
+    "origin_lat": 59.9,
+    "origin_lon": 17.8,
+    "year_bucket": 1470,
+    "label": "1470 AD",
+    "n_sites": 2,
+    "max_distance_km": 533,
+    "sites": [
+      {
+        "site_id": 4152,
+        "site_name": "Glimmingehus",
+        "lat": 55.5009089705,
+        "lon": 14.2310562858,
+        "felling_year": 1472,
+        "label": "1472 AD",
+        "species_local": "Tall",
+        "species_en": "Pine",
+        "distance_km": 533,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Glimmingehus_-_KMB_-_16000300021192.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+          "depicts": "Glimmingehus",
+          "license": "CC BY 2.5",
+          "creator": "{{{artist}}}",
+          "source": "Wikimedia Commons"
+        }
+      },
+      {
+        "site_id": 4073,
+        "site_name": "Linköpings slott",
+        "lat": 58.4104585174,
+        "lon": 15.6158568043,
+        "felling_year": 1472,
+        "label": "1472 AD",
+        "species_local": "Tall",
+        "species_en": "Pine",
+        "distance_km": 207,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Lkpgslott-e.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+          "depicts": "Linköpings slott",
+          "license": "CC SA 1.0",
+          "creator": "This photo (C) Lars Aronsson",
+          "source": "Wikimedia Commons"
+        }
+      }
+    ]
+  },
+  {
+    "provenance": "Småland",
+    "origin_lat": 57.0,
+    "origin_lon": 14.8,
+    "year_bucket": 1700,
+    "label": "1700 AD",
+    "n_sites": 2,
+    "max_distance_km": 213,
+    "sites": [
+      {
+        "site_id": 4196,
+        "site_name": "Burge",
+        "lat": 57.2758716176,
+        "lon": 18.2978991037,
+        "felling_year": 1701,
+        "label": "1701 AD",
+        "species_local": "Tall",
+        "species_en": "Pine",
+        "distance_km": 213,
+        "photo": null
+      },
+      {
+        "site_id": 3873,
+        "site_name": "Kvarteret Vaxblekaren",
+        "lat": 57.6677943959,
+        "lon": 14.9719557061,
+        "felling_year": 1700,
+        "label": "1700 AD",
+        "species_local": "Tall",
+        "species_en": "Pine",
+        "distance_km": 75,
+        "photo": null
+      }
+    ]
+  },
+  {
+    "provenance": "Småland",
+    "origin_lat": 57.0,
+    "origin_lon": 14.8,
+    "year_bucket": 1795,
+    "label": "1795 AD",
+    "n_sites": 2,
+    "max_distance_km": 176,
+    "sites": [
+      {
+        "site_id": 3834,
+        "site_name": "Tosterup 32:2",
+        "lat": 55.4800716178,
+        "lon": 13.9867459422,
+        "felling_year": 1796,
+        "label": "1796 AD",
+        "species_local": "Tall",
+        "species_en": "Pine",
+        "distance_km": 176,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Czapek60.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+          "depicts": "2",
+          "license": "Public domain",
+          "creator": "Boing boom tschak",
+          "source": "Wikimedia Commons"
+        }
+      },
+      {
+        "site_id": 3861,
+        "site_name": "Qvarnarp",
+        "lat": 57.6472984191,
+        "lon": 14.9847376269,
+        "felling_year": 1797,
+        "label": "1797 AD",
+        "species_local": "Tall",
+        "species_en": "Pine",
+        "distance_km": 73,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Kvarnarp_mansion_Eksj%C3%B6_Sweden.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+          "depicts": "Kvarnarps gård",
+          "license": "CC BY-SA 4.0",
+          "creator": "Sinikka Halme",
+          "source": "Wikimedia Commons"
+        }
+      }
+    ]
+  },
+  {
+    "provenance": "Småland",
+    "origin_lat": 57.0,
+    "origin_lon": 14.8,
+    "year_bucket": 1835,
+    "label": "1835 AD",
+    "n_sites": 2,
+    "max_distance_km": 166,
+    "sites": [
+      {
+        "site_id": 4159,
+        "site_name": "Gamla prästgården",
+        "lat": 55.7923702296,
+        "lon": 13.204679547,
+        "felling_year": 1833,
+        "label": "1833 AD",
+        "species_local": "Tall",
+        "species_en": "Pine",
+        "distance_km": 166,
+        "photo": null
+      },
+      {
+        "site_id": 4176,
+        "site_name": "Farhults kyrka",
+        "lat": 56.2140163145,
+        "lon": 12.7123001788,
+        "felling_year": 1836,
+        "label": "1836 AD",
+        "species_local": "Tall",
+        "species_en": "Pine",
+        "distance_km": 155,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Farhults_kyrka_ext4.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+          "depicts": "Farhults kyrka",
+          "license": "CC BY 3.0",
+          "creator": "Ulkl",
+          "source": "Wikimedia Commons"
+        }
+      }
+    ]
+  },
+  {
+    "provenance": "Småland",
+    "origin_lat": 57.0,
+    "origin_lon": 14.8,
+    "year_bucket": 1645,
+    "label": "1645 AD",
+    "n_sites": 3,
+    "max_distance_km": 81,
+    "sites": [
+      {
+        "site_id": 3863,
+        "site_name": "Näs",
+        "lat": 57.6636863995,
+        "lon": 15.3713909548,
+        "felling_year": 1647,
+        "label": "1647 AD",
+        "species_local": "Tall",
+        "species_en": "Pine",
+        "distance_km": 81,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/The_Neck_Bruny_Island.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+          "depicts": "Näs",
+          "license": "CC BY-SA 2.5",
+          "creator": "JJ Harrison (https://www.jjharrison.com.au/)",
+          "source": "Wikimedia Commons"
+        }
+      },
+      {
+        "site_id": 3873,
+        "site_name": "Kvarteret Vaxblekaren",
+        "lat": 57.6677943959,
+        "lon": 14.9719557061,
+        "felling_year": 1647,
+        "label": "1647 AD",
+        "species_local": "Tall",
+        "species_en": "Pine",
+        "distance_km": 75,
+        "photo": null
+      },
+      {
+        "site_id": 3971,
+        "site_name": "Tångerda gård",
+        "lat": 57.4625230012,
+        "lon": 15.0716759291,
+        "felling_year": 1644,
+        "label": "1644 AD",
+        "species_local": "Ek",
+        "species_en": "Oak",
+        "distance_km": 54,
+        "photo": null
+      }
+    ]
+  },
+  {
+    "provenance": "Skåne",
+    "origin_lat": 55.8,
+    "origin_lon": 13.5,
+    "year_bucket": 1485,
+    "label": "1485 AD",
+    "n_sites": 2,
+    "max_distance_km": 57,
+    "sites": [
+      {
+        "site_id": 4084,
+        "site_name": "Kärnan",
+        "lat": 56.0482731299,
+        "lon": 12.6975215329,
+        "felling_year": 1484,
+        "label": "1484 AD",
+        "species_local": "Ek",
+        "species_en": "Oak",
+        "distance_km": 57,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Helsingborg_k%C3%A4rnan_by_night.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+          "depicts": "Kärnan",
+          "license": "CC BY-SA 4.0",
+          "creator": "File:Helsingborg kärnan Horizontal.jpg: Instdeadangel\nderivative work: Milseburg",
+          "source": "Wikimedia Commons"
+        }
+      },
+      {
+        "site_id": 3834,
+        "site_name": "Tosterup 32:2",
+        "lat": 55.4800716178,
+        "lon": 13.9867459422,
+        "felling_year": 1485,
+        "label": "1485 AD",
+        "species_local": "Ek",
+        "species_en": "Oak",
+        "distance_km": 47,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Czapek60.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+          "depicts": "2",
+          "license": "Public domain",
+          "creator": "Boing boom tschak",
+          "source": "Wikimedia Commons"
+        }
+      }
+    ]
+  },
+  {
+    "provenance": "Skåne",
+    "origin_lat": 55.8,
+    "origin_lon": 13.5,
+    "year_bucket": 1460,
+    "label": "1460 AD",
+    "n_sites": 2,
+    "max_distance_km": 47,
+    "sites": [
+      {
+        "site_id": 3834,
+        "site_name": "Tosterup 32:2",
+        "lat": 55.4800716178,
+        "lon": 13.9867459422,
+        "felling_year": 1458,
+        "label": "1458 AD",
+        "species_local": "Ek",
+        "species_en": "Oak",
+        "distance_km": 47,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Czapek60.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+          "depicts": "2",
+          "license": "Public domain",
+          "creator": "Boing boom tschak",
+          "source": "Wikimedia Commons"
+        }
+      },
+      {
+        "site_id": 4052,
+        "site_name": "Norra Mellby kyrka",
+        "lat": 56.0487252518,
+        "lon": 13.7194676553,
+        "felling_year": 1461,
+        "label": "1461 AD",
+        "species_local": "Ek",
+        "species_en": "Oak",
+        "distance_km": 31,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Norra_Mellby_kyrka_2.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+          "depicts": "Norra Mellby kyrka",
+          "license": "CC0",
+          "creator": "This image was produced by me, David Castor (user:dcastor). The pictures I submit to the Wikipedia Project are released to the public domain. This gives you the right to use them in any way you like, without any kind of notification. This said, I would still appreciate to be mentioned as the originator whenever you think it complies well with your use of the picture. A message to me  about how it has been used would also be welcome. You are obviously not required to respond to these wishes of mine, just in a friendly manner encouraged to. (All my photos are placed in Category:Images by David Castor or a subcategory thereof.)",
+          "source": "Wikimedia Commons"
+        }
+      }
+    ]
+  },
+  {
+    "provenance": "Östergötland",
+    "origin_lat": 58.3,
+    "origin_lon": 15.5,
+    "year_bucket": 1820,
+    "label": "1820 AD",
+    "n_sites": 2,
+    "max_distance_km": 47,
+    "sites": [
+      {
+        "site_id": 4226,
+        "site_name": "Asby kyrka",
+        "lat": 57.9039487107,
+        "lon": 15.2051888625,
+        "felling_year": 1820,
+        "label": "1820 AD",
+        "species_local": "Tall",
+        "species_en": "Pine",
+        "distance_km": 47,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Asbykyrka.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+          "depicts": "Asby kyrka",
+          "license": "CC BY-SA 3.0",
+          "creator": "User:Undertones",
+          "source": "Wikimedia Commons"
+        }
+      },
+      {
+        "site_id": 4007,
+        "site_name": "Slästorp",
+        "lat": 58.1918290817,
+        "lon": 15.1483176423,
+        "felling_year": 1821,
+        "label": "1821 AD",
+        "species_local": "Tall",
+        "species_en": "Pine",
+        "distance_km": 24,
+        "photo": null
+      }
+    ]
+  },
+  {
+    "provenance": "Skåne",
+    "origin_lat": 55.8,
+    "origin_lon": 13.5,
+    "year_bucket": 1220,
+    "label": "1220 AD",
+    "n_sites": 2,
+    "max_distance_km": 31,
+    "sites": [
+      {
+        "site_id": 4052,
+        "site_name": "Norra Mellby kyrka",
+        "lat": 56.0487252518,
+        "lon": 13.7194676553,
+        "felling_year": 1218,
+        "label": "1218 AD",
+        "species_local": "Ek",
+        "species_en": "Oak",
+        "distance_km": 31,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Norra_Mellby_kyrka_2.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+          "depicts": "Norra Mellby kyrka",
+          "license": "CC0",
+          "creator": "This image was produced by me, David Castor (user:dcastor). The pictures I submit to the Wikipedia Project are released to the public domain. This gives you the right to use them in any way you like, without any kind of notification. This said, I would still appreciate to be mentioned as the originator whenever you think it complies well with your use of the picture. A message to me  about how it has been used would also be welcome. You are obviously not required to respond to these wishes of mine, just in a friendly manner encouraged to. (All my photos are placed in Category:Images by David Castor or a subcategory thereof.)",
+          "source": "Wikimedia Commons"
+        }
+      },
+      {
+        "site_id": 4075,
+        "site_name": "Linderöds kyrka",
+        "lat": 55.9376955798,
+        "lon": 13.8238972477,
+        "felling_year": 1218,
+        "label": "1218 AD",
+        "species_local": "Ek",
+        "species_en": "Oak",
+        "distance_km": 25,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Linder%C3%B6ds_kyrka.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+          "depicts": "Linderöds kyrka",
+          "license": "CC BY-SA 1.0",
+          "creator": null,
+          "source": "Wikimedia Commons"
+        }
+      }
+    ]
+  },
+  {
+    "provenance": "Gotland",
+    "origin_lat": 57.4,
+    "origin_lon": 18.5,
+    "year_bucket": 1215,
+    "label": "1215 AD",
+    "n_sites": 3,
+    "max_distance_km": 30,
+    "sites": [
+      {
+        "site_id": 4025,
+        "site_name": "Sankt Clemens kyrkoruin",
+        "lat": 57.6431405566,
+        "lon": 18.2961340134,
+        "felling_year": 1214,
+        "label": "1214 AD",
+        "species_local": "Tall",
+        "species_en": "Pine",
+        "distance_km": 30,
+        "photo": null
+      },
+      {
+        "site_id": 4202,
+        "site_name": "Bro kyrka",
+        "lat": 57.6700592876,
+        "lon": 18.4747985406,
+        "felling_year": 1214,
+        "label": "1214 AD",
+        "species_local": "Tall",
+        "species_en": "Pine",
+        "distance_km": 30,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/East_bridge_karlstad_20061022_002.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+          "depicts": "Bro",
+          "license": "Public domain",
+          "creator": "Jonas Bergsten",
+          "source": "Wikimedia Commons"
+        }
+      },
+      {
+        "site_id": 4151,
+        "site_name": "Gothem kyrka",
+        "lat": 57.5754626247,
+        "lon": 18.7349928797,
+        "felling_year": 1215,
+        "label": "1215 AD",
+        "species_local": "Gran",
+        "species_en": "Spruce",
+        "distance_km": 24,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Gotland_GothemKirche_01.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+          "depicts": "Gothem",
+          "license": "CC BY-SA 3.0",
+          "creator": "Jürgen Howaldt",
+          "source": "Wikimedia Commons"
+        }
+      }
+    ]
+  },
+  {
+    "provenance": "Östergötland",
+    "origin_lat": 58.3,
+    "origin_lon": 15.5,
+    "year_bucket": 1740,
+    "label": "1740 AD",
+    "n_sites": 2,
+    "max_distance_km": 29,
+    "sites": [
+      {
+        "site_id": 4009,
+        "site_name": "Slevringe gård",
+        "lat": 58.2027733697,
+        "lon": 15.9603993335,
+        "felling_year": 1740,
+        "label": "1740 AD",
+        "species_local": "Tall",
+        "species_en": "Pine",
+        "distance_km": 29,
+        "photo": null
+      },
+      {
+        "site_id": 3950,
+        "site_name": "Värna kyrka",
+        "lat": 58.3139760359,
+        "lon": 15.9247175364,
+        "felling_year": 1742,
+        "label": "1742 AD",
+        "species_local": "Tall",
+        "species_en": "Pine",
+        "distance_km": 25,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/V%C3%A4rna_kyrka.JPG?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+          "depicts": "Värna kyrka",
+          "license": "CC BY-SA 3.0",
+          "creator": "Kemitsv",
+          "source": "Wikimedia Commons"
+        }
+      }
+    ]
+  },
+  {
+    "provenance": "Mälardalen/Stockholms skärgård",
+    "origin_lat": 59.3,
+    "origin_lon": 18.5,
+    "year_bucket": 1755,
+    "label": "1755 AD",
+    "n_sites": 2,
+    "max_distance_km": 23,
+    "sites": [
+      {
+        "site_id": 3816,
+        "site_name": "Låga längan",
+        "lat": 59.324024,
+        "lon": 18.097877,
+        "felling_year": 1754,
+        "label": "1754 AD",
+        "species_local": "Tall",
+        "species_en": "Pine",
+        "distance_km": 23,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/L%C3%A5ga_l%C3%A4ngan_november_2011d.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+          "depicts": "Låga längan",
+          "license": "CC BY-SA 3.0",
+          "creator": "Arild Vågen",
+          "source": "Wikimedia Commons"
+        }
+      },
+      {
+        "site_id": 4221,
+        "site_name": "Bellmanhuset",
+        "lat": 59.3242063671,
+        "lon": 18.0977532733,
+        "felling_year": 1754,
+        "label": "1754 AD",
+        "species_local": "Tall",
+        "species_en": "Pine",
+        "distance_km": 23,
+        "photo": null
+      }
+    ]
+  },
+  {
+    "provenance": "Östra Svealand",
+    "origin_lat": 59.3,
+    "origin_lon": 18.0,
+    "year_bucket": 1695,
+    "label": "1695 AD",
+    "n_sites": 2,
+    "max_distance_km": 20,
+    "sites": [
+      {
+        "site_id": 3932,
+        "site_name": "Östra ryds kyrka",
+        "lat": 59.4486841128,
+        "lon": 18.1962528262,
+        "felling_year": 1693,
+        "label": "1693 AD",
+        "species_local": "Tall",
+        "species_en": "Pine",
+        "distance_km": 20,
+        "photo": null
+      },
+      {
+        "site_id": 3922,
+        "site_name": "Wrangelska palatset",
+        "lat": 59.3251154621,
+        "lon": 18.0627386877,
+        "felling_year": 1696,
+        "label": "1696 AD",
+        "species_local": "Tall",
+        "species_en": "Pine",
+        "distance_km": 5,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Wrangelska_palatset_mot_torget.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+          "depicts": "Wrangelska palatset",
+          "license": "CC BY-SA 3.0",
+          "creator": "Alexandru Baboş",
+          "source": "Wikimedia Commons"
+        }
+      }
+    ]
+  }
+]

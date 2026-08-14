@@ -1,0 +1,335 @@
+{
+  "site_id": 4112,
+  "site_name": "Härnevi kyrka",
+  "lat": 59.7272333569,
+  "lon": 17.0759149131,
+  "n_samples": 37,
+  "n_years": 26,
+  "earliest_label": "1338 AD",
+  "latest_label": "1673 AD",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/H%C3%A4rneviKyrka%C3%96ster2201.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Härnevi kyrka",
+    "license": "Public domain",
+    "creator": "Ulkl",
+    "source": "Wikimedia Commons"
+  },
+  "years": [
+    {
+      "year": 1338,
+      "label": "1338 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1341,
+      "label": "1341 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1346,
+      "label": "1346 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1347,
+      "label": "1347 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1348,
+      "label": "1348 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1349,
+      "label": "1349 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1351,
+      "label": "1351 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": true,
+      "n_samples": 2
+    },
+    {
+      "year": 1426,
+      "label": "1426 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1444,
+      "label": "1444 AD",
+      "species_local": [
+        "Gran"
+      ],
+      "species_en": [
+        "Spruce"
+      ],
+      "has_waney": true,
+      "n_samples": 3
+    },
+    {
+      "year": 1447,
+      "label": "1447 AD",
+      "species_local": [
+        "Gran"
+      ],
+      "species_en": [
+        "Spruce"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1448,
+      "label": "1448 AD",
+      "species_local": [
+        "Gran"
+      ],
+      "species_en": [
+        "Spruce"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1449,
+      "label": "1449 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1450,
+      "label": "1450 AD",
+      "species_local": [
+        "Gran"
+      ],
+      "species_en": [
+        "Spruce"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1453,
+      "label": "1453 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1456,
+      "label": "1456 AD",
+      "species_local": [
+        "Gran",
+        "Tall"
+      ],
+      "species_en": [
+        "Spruce",
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 2
+    },
+    {
+      "year": 1457,
+      "label": "1457 AD",
+      "species_local": [
+        "Gran"
+      ],
+      "species_en": [
+        "Spruce"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1458,
+      "label": "1458 AD",
+      "species_local": [
+        "Gran"
+      ],
+      "species_en": [
+        "Spruce"
+      ],
+      "has_waney": false,
+      "n_samples": 2
+    },
+    {
+      "year": 1459,
+      "label": "1459 AD",
+      "species_local": [
+        "Gran"
+      ],
+      "species_en": [
+        "Spruce"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1460,
+      "label": "1460 AD",
+      "species_local": [
+        "Gran"
+      ],
+      "species_en": [
+        "Spruce"
+      ],
+      "has_waney": true,
+      "n_samples": 3
+    },
+    {
+      "year": 1461,
+      "label": "1461 AD",
+      "species_local": [
+        "Gran",
+        "Tall"
+      ],
+      "species_en": [
+        "Spruce",
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 5
+    },
+    {
+      "year": 1468,
+      "label": "1468 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1474,
+      "label": "1474 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1476,
+      "label": "1476 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1480,
+      "label": "1480 AD",
+      "species_local": [
+        "Gran"
+      ],
+      "species_en": [
+        "Spruce"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1609,
+      "label": "1609 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1673,
+      "label": "1673 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    }
+  ]
+}

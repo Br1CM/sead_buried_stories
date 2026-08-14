@@ -19,7 +19,7 @@ import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-WIKIPEDIA_API_URL = "https://en.wikipedia.org/w/api.php"
+WIKIPEDIA_API_URL = "https://{lang}.wikipedia.org/w/api.php"
 COMMONS_API_URL = "https://commons.wikimedia.org/w/api.php"
 
 PHOTO_CACHE_PATH = os.path.join(os.path.dirname(__file__), "_cache_site_photos.json")
@@ -81,13 +81,13 @@ def candidate_titles(site_name: str) -> list[str]:
     return ordered
 
 
-def fetch_wikipedia_original_image(title: str) -> tuple[str, str] | None:
+def fetch_wikipedia_original_image(title: str, lang: str = "en") -> tuple[str, str] | None:
     """Returns (image_url, matched_page_title) for a non-disambiguation page with
     an original image, or None.
     """
     try:
         resp = _session.get(
-            WIKIPEDIA_API_URL,
+            WIKIPEDIA_API_URL.format(lang=lang),
             params={
                 "action": "query",
                 "titles": title,
@@ -117,7 +117,7 @@ def fetch_commons_credit(image_url: str) -> dict:
     """Best-effort license/creator for a Wikimedia-hosted image URL. Falls back to
     a generic Wikipedia credit if the file page can't be resolved.
     """
-    filename = unquote(image_url.rsplit("/", 1)[-1])
+    filename = unquote(image_url.split("?")[0].rsplit("/", 1)[-1])
     try:
         resp = _session.get(
             COMMONS_API_URL,
@@ -145,18 +145,24 @@ def fetch_commons_credit(image_url: str) -> dict:
     }
 
 
-def get_site_photo(site_name: str) -> dict | None:
+def get_site_photo(site_name: str, langs: tuple[str, ...] = ("en",)) -> dict | None:
     """Best-effort real-world photo of the place a SEAD site is in. Returns
     {url, license, creator, source, depicts} where `depicts` is the actual matched
     place name (may be more general than the excavation name itself), or None.
+
+    `langs` controls which Wikipedia language edition(s) to search, tried in order,
+    each exhausted across all candidate titles before moving to the next language --
+    e.g. langs=("sv", "en") for Swedish buildings, since a small parish church is far
+    more likely to have a Swedish Wikipedia article than an English one.
     """
-    for title in candidate_titles(site_name):
-        found = fetch_wikipedia_original_image(title)
-        if not found:
-            continue
-        image_url, matched_title = found
-        credit = fetch_commons_credit(image_url)
-        return {"url": image_url, "depicts": matched_title, **credit}
+    for lang in langs:
+        for title in candidate_titles(site_name):
+            found = fetch_wikipedia_original_image(title, lang=lang)
+            if not found:
+                continue
+            image_url, matched_title = found
+            credit = fetch_commons_credit(image_url)
+            return {"url": image_url, "depicts": matched_title, **credit}
     return None
 
 
@@ -172,12 +178,14 @@ def save_photo_cache(cache: dict) -> None:
         json.dump(cache, f, ensure_ascii=False, indent=2)
 
 
-def get_cached_site_photo(site_name: str, cache: dict) -> dict | None:
+def get_cached_site_photo(
+    site_name: str, cache: dict, langs: tuple[str, ...] = ("en",)
+) -> dict | None:
     """Same as get_site_photo, but memoized in `cache` (keyed by site_name) so
     re-running the export doesn't re-hit Wikipedia/Commons for sites already resolved.
     """
     if site_name in cache:
         return cache[site_name]
-    photo = get_site_photo(site_name)
+    photo = get_site_photo(site_name, langs=langs)
     cache[site_name] = photo
     return photo

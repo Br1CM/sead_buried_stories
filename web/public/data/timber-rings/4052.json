@@ -1,0 +1,643 @@
+{
+  "site_id": 4052,
+  "site_name": "Norra Mellby kyrka",
+  "lat": 56.0487252518,
+  "lon": 13.7194676553,
+  "n_samples": 62,
+  "n_years": 52,
+  "earliest_label": "1053 AD",
+  "latest_label": "1830 AD",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Norra_Mellby_kyrka_2.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Norra Mellby kyrka",
+    "license": "CC0",
+    "creator": "This image was produced by me, David Castor (user:dcastor). The pictures I submit to the Wikipedia Project are released to the public domain. This gives you the right to use them in any way you like, without any kind of notification. This said, I would still appreciate to be mentioned as the originator whenever you think it complies well with your use of the picture. A message to me  about how it has been used would also be welcome. You are obviously not required to respond to these wishes of mine, just in a friendly manner encouraged to. (All my photos are placed in Category:Images by David Castor or a subcategory thereof.)",
+    "source": "Wikimedia Commons"
+  },
+  "years": [
+    {
+      "year": 1053,
+      "label": "1053 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1057,
+      "label": "1057 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1075,
+      "label": "1075 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1079,
+      "label": "1079 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1092,
+      "label": "1092 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 2
+    },
+    {
+      "year": 1098,
+      "label": "1098 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1111,
+      "label": "1111 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1119,
+      "label": "1119 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1120,
+      "label": "1120 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1121,
+      "label": "1121 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 2
+    },
+    {
+      "year": 1122,
+      "label": "1122 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 2
+    },
+    {
+      "year": 1126,
+      "label": "1126 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1127,
+      "label": "1127 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1129,
+      "label": "1129 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 2
+    },
+    {
+      "year": 1130,
+      "label": "1130 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1135,
+      "label": "1135 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1194,
+      "label": "1194 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1218,
+      "label": "1218 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1361,
+      "label": "1361 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1367,
+      "label": "1367 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1372,
+      "label": "1372 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 2
+    },
+    {
+      "year": 1373,
+      "label": "1373 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": true,
+      "n_samples": 2
+    },
+    {
+      "year": 1396,
+      "label": "1396 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1429,
+      "label": "1429 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1459,
+      "label": "1459 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1461,
+      "label": "1461 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1463,
+      "label": "1463 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1468,
+      "label": "1468 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1473,
+      "label": "1473 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1474,
+      "label": "1474 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1476,
+      "label": "1476 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1477,
+      "label": "1477 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1478,
+      "label": "1478 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1480,
+      "label": "1480 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": true,
+      "n_samples": 2
+    },
+    {
+      "year": 1487,
+      "label": "1487 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1488,
+      "label": "1488 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 3
+    },
+    {
+      "year": 1588,
+      "label": "1588 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1591,
+      "label": "1591 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1592,
+      "label": "1592 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1594,
+      "label": "1594 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    },
+    {
+      "year": 1595,
+      "label": "1595 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": true,
+      "n_samples": 2
+    },
+    {
+      "year": 1598,
+      "label": "1598 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1603,
+      "label": "1603 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1666,
+      "label": "1666 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1705,
+      "label": "1705 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1711,
+      "label": "1711 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1770,
+      "label": "1770 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1778,
+      "label": "1778 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1792,
+      "label": "1792 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1797,
+      "label": "1797 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1819,
+      "label": "1819 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    },
+    {
+      "year": 1830,
+      "label": "1830 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    }
+  ]
+}

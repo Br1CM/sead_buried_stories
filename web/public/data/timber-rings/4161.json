@@ -1,0 +1,241 @@
+{
+  "site_id": 4161,
+  "site_name": "Föllingsö säteri",
+  "lat": 57.9792353144,
+  "lon": 15.5982792286,
+  "n_samples": 42,
+  "n_years": 19,
+  "earliest_label": "1630 AD",
+  "latest_label": "1876 AD",
+  "photo": null,
+  "years": [
+    {
+      "year": 1630,
+      "label": "1630 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    },
+    {
+      "year": 1664,
+      "label": "1664 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1666,
+      "label": "1666 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1668,
+      "label": "1668 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1723,
+      "label": "1723 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1725,
+      "label": "1725 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 5
+    },
+    {
+      "year": 1727,
+      "label": "1727 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 6
+    },
+    {
+      "year": 1729,
+      "label": "1729 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    },
+    {
+      "year": 1730,
+      "label": "1730 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1748,
+      "label": "1748 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 3
+    },
+    {
+      "year": 1750,
+      "label": "1750 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 5
+    },
+    {
+      "year": 1753,
+      "label": "1753 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 2
+    },
+    {
+      "year": 1759,
+      "label": "1759 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 4
+    },
+    {
+      "year": 1850,
+      "label": "1850 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 2
+    },
+    {
+      "year": 1851,
+      "label": "1851 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 3
+    },
+    {
+      "year": 1873,
+      "label": "1873 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1874,
+      "label": "1874 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1875,
+      "label": "1875 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 2
+    },
+    {
+      "year": 1876,
+      "label": "1876 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    }
+  ]
+}

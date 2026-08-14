@@ -1,0 +1,2100 @@
+{
+  "bucket_start": 1650,
+  "label": "1650 AD - 1700 AD",
+  "n_samples": 261,
+  "composition": {
+    "Tall": 78.2,
+    "Ek": 21.1,
+    "Gran": 0.8
+  },
+  "points": [
+    {
+      "site_id": 4090,
+      "site_name": "Kummelnäs gård",
+      "lat": 59.351292562,
+      "lon": 18.2676698306,
+      "species": "Tall",
+      "year": 1660
+    },
+    {
+      "site_id": 4224,
+      "site_name": "Baldringe kyrka",
+      "lat": 55.5299390885,
+      "lon": 13.8401822932,
+      "species": "Ek",
+      "year": 1694
+    },
+    {
+      "site_id": 3883,
+      "site_name": "Kvarteret Kommendanten",
+      "lat": 56.028818534,
+      "lon": 14.1550941057,
+      "species": "Ek",
+      "year": 1686
+    },
+    {
+      "site_id": 3983,
+      "site_name": "Tingstäde kyrka",
+      "lat": 57.7363463435,
+      "lon": 18.61508962,
+      "species": "Tall",
+      "year": 1695
+    },
+    {
+      "site_id": 3831,
+      "site_name": "75246 Eksjö",
+      "lat": 57.6939534023,
+      "lon": 14.9827888955,
+      "species": "Ek",
+      "year": 1676
+    },
+    {
+      "site_id": 3822,
+      "site_name": "75710 Jönköping",
+      "lat": 57.5320112095,
+      "lon": 14.4060082223,
+      "species": "Ek",
+      "year": 1666
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1683
+    },
+    {
+      "site_id": 3985,
+      "site_name": "Södra Möckleby kyrka",
+      "lat": 56.3564864357,
+      "lon": 16.421603983,
+      "species": "Tall",
+      "year": 1663
+    },
+    {
+      "site_id": 3883,
+      "site_name": "Kvarteret Kommendanten",
+      "lat": 56.028818534,
+      "lon": 14.1550941057,
+      "species": "Tall",
+      "year": 1691
+    },
+    {
+      "site_id": 4090,
+      "site_name": "Kummelnäs gård",
+      "lat": 59.351292562,
+      "lon": 18.2676698306,
+      "species": "Tall",
+      "year": 1695
+    },
+    {
+      "site_id": 3866,
+      "site_name": "Malmstorp",
+      "lat": 58.6819182804,
+      "lon": 15.5684635643,
+      "species": "Tall",
+      "year": 1684
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1653
+    },
+    {
+      "site_id": 4224,
+      "site_name": "Baldringe kyrka",
+      "lat": 55.5299390885,
+      "lon": 13.8401822932,
+      "species": "Ek",
+      "year": 1694
+    },
+    {
+      "site_id": 3844,
+      "site_name": "Vallsnäs",
+      "lat": 56.941149812,
+      "lon": 13.5397199636,
+      "species": "Tall",
+      "year": 1693
+    },
+    {
+      "site_id": 3920,
+      "site_name": "Stockholms Slott",
+      "lat": 59.3268384536,
+      "lon": 18.0716158312,
+      "species": "Tall",
+      "year": 1696
+    },
+    {
+      "site_id": 4157,
+      "site_name": "Gammelgarn kyrka",
+      "lat": 57.4045836353,
+      "lon": 18.8045670233,
+      "species": "Tall",
+      "year": 1699
+    },
+    {
+      "site_id": 4171,
+      "site_name": "Fleringe kyrka",
+      "lat": 57.8696514934,
+      "lon": 18.8770787951,
+      "species": "Tall",
+      "year": 1684
+    },
+    {
+      "site_id": 4187,
+      "site_name": "Drottningholms slott",
+      "lat": 59.32165393,
+      "lon": 17.8869837339,
+      "species": "Tall",
+      "year": 1663
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1675
+    },
+    {
+      "site_id": 3893,
+      "site_name": "Kvarteret Boktryckaren",
+      "lat": 57.6683956105,
+      "lon": 14.9693066636,
+      "species": "Tall",
+      "year": 1688
+    },
+    {
+      "site_id": 4208,
+      "site_name": "Borgholms stadsmuseum",
+      "lat": 56.8824646065,
+      "lon": 16.6835115227,
+      "species": "Ek",
+      "year": 1666
+    },
+    {
+      "site_id": 3998,
+      "site_name": "Steninge slott",
+      "lat": 59.6020978067,
+      "lon": 17.8044417982,
+      "species": "Tall",
+      "year": 1686
+    },
+    {
+      "site_id": 4171,
+      "site_name": "Fleringe kyrka",
+      "lat": 57.8696514934,
+      "lon": 18.8770787951,
+      "species": "Tall",
+      "year": 1685
+    },
+    {
+      "site_id": 4098,
+      "site_name": "Krapperups borg",
+      "lat": 56.2620769233,
+      "lon": 12.5302627748,
+      "species": "Tall",
+      "year": 1687
+    },
+    {
+      "site_id": 3883,
+      "site_name": "Kvarteret Kommendanten",
+      "lat": 56.028818534,
+      "lon": 14.1550941057,
+      "species": "Ek",
+      "year": 1678
+    },
+    {
+      "site_id": 3967,
+      "site_name": "Vadstena rådhus",
+      "lat": 58.4471680385,
+      "lon": 14.8876316008,
+      "species": "Tall",
+      "year": 1667
+    },
+    {
+      "site_id": 4112,
+      "site_name": "Härnevi kyrka",
+      "lat": 59.7272333569,
+      "lon": 17.0759149131,
+      "species": "Tall",
+      "year": 1673
+    },
+    {
+      "site_id": 3893,
+      "site_name": "Kvarteret Boktryckaren",
+      "lat": 57.6683956105,
+      "lon": 14.9693066636,
+      "species": "Tall",
+      "year": 1688
+    },
+    {
+      "site_id": 4121,
+      "site_name": "Hovdala slott",
+      "lat": 56.1036848292,
+      "lon": 13.7137204295,
+      "species": "Ek",
+      "year": 1679
+    },
+    {
+      "site_id": 3923,
+      "site_name": "Stenbockska palatset",
+      "lat": 59.3251236041,
+      "lon": 18.0627745883,
+      "species": "Tall",
+      "year": 1666
+    },
+    {
+      "site_id": 4075,
+      "site_name": "Linderöds kyrka",
+      "lat": 55.9376955798,
+      "lon": 13.8238972477,
+      "species": "Ek",
+      "year": 1693
+    },
+    {
+      "site_id": 4194,
+      "site_name": "Burmeisterska huset",
+      "lat": 57.6392324458,
+      "lon": 18.2915723418,
+      "species": "Tall",
+      "year": 1651
+    },
+    {
+      "site_id": 4144,
+      "site_name": "Gärdslösa kyrka",
+      "lat": 56.7935501423,
+      "lon": 16.7376193603,
+      "species": "Ek",
+      "year": 1671
+    },
+    {
+      "site_id": 4224,
+      "site_name": "Baldringe kyrka",
+      "lat": 55.5299390885,
+      "lon": 13.8401822932,
+      "species": "Ek",
+      "year": 1694
+    },
+    {
+      "site_id": 4205,
+      "site_name": "Bosebo kyrka",
+      "lat": 57.3061935154,
+      "lon": 13.3510066476,
+      "species": "Gran",
+      "year": 1651
+    },
+    {
+      "site_id": 3844,
+      "site_name": "Vallsnäs",
+      "lat": 56.941149812,
+      "lon": 13.5397199636,
+      "species": "Tall",
+      "year": 1694
+    },
+    {
+      "site_id": 4172,
+      "site_name": "Fjellskäfte säteri",
+      "lat": 59.1191566711,
+      "lon": 16.3647591532,
+      "species": "Tall",
+      "year": 1654
+    },
+    {
+      "site_id": 4051,
+      "site_name": "Norra Rörums kyrka",
+      "lat": 56.0203410643,
+      "lon": 13.5107429543,
+      "species": "Ek",
+      "year": 1683
+    },
+    {
+      "site_id": 3922,
+      "site_name": "Wrangelska palatset",
+      "lat": 59.3251154621,
+      "lon": 18.0627386877,
+      "species": "Tall",
+      "year": 1696
+    },
+    {
+      "site_id": 4191,
+      "site_name": "Cramérska huset",
+      "lat": 57.6413266574,
+      "lon": 18.2957180164,
+      "species": "Tall",
+      "year": 1690
+    },
+    {
+      "site_id": 3893,
+      "site_name": "Kvarteret Boktryckaren",
+      "lat": 57.6683956105,
+      "lon": 14.9693066636,
+      "species": "Tall",
+      "year": 1687
+    },
+    {
+      "site_id": 3932,
+      "site_name": "Östra ryds kyrka",
+      "lat": 59.4486841128,
+      "lon": 18.1962528262,
+      "species": "Tall",
+      "year": 1692
+    },
+    {
+      "site_id": 4034,
+      "site_name": "Rogslösa kyrka",
+      "lat": 58.3828598943,
+      "lon": 14.7435739026,
+      "species": "Tall",
+      "year": 1655
+    },
+    {
+      "site_id": 4044,
+      "site_name": "Näs kyrka",
+      "lat": 57.1101560368,
+      "lon": 18.2624139623,
+      "species": "Tall",
+      "year": 1666
+    },
+    {
+      "site_id": 3983,
+      "site_name": "Tingstäde kyrka",
+      "lat": 57.7363463435,
+      "lon": 18.61508962,
+      "species": "Tall",
+      "year": 1691
+    },
+    {
+      "site_id": 4023,
+      "site_name": "Sankt Peters klosters kyrka",
+      "lat": 55.7042571221,
+      "lon": 13.1859792061,
+      "species": "Ek",
+      "year": 1692
+    },
+    {
+      "site_id": 3888,
+      "site_name": "Kvarteret Färgaren",
+      "lat": 57.6689523502,
+      "lon": 14.9685853665,
+      "species": "Tall",
+      "year": 1690
+    },
+    {
+      "site_id": 3983,
+      "site_name": "Tingstäde kyrka",
+      "lat": 57.7363463435,
+      "lon": 18.61508962,
+      "species": "Tall",
+      "year": 1695
+    },
+    {
+      "site_id": 3827,
+      "site_name": "12709 Stenkumla",
+      "lat": 57.5438649389,
+      "lon": 18.2403310627,
+      "species": "Tall",
+      "year": 1670
+    },
+    {
+      "site_id": 3977,
+      "site_name": "Trehörna säteri",
+      "lat": 58.1525781452,
+      "lon": 14.8366734133,
+      "species": "Tall",
+      "year": 1690
+    },
+    {
+      "site_id": 3967,
+      "site_name": "Vadstena rådhus",
+      "lat": 58.4471680385,
+      "lon": 14.8876316008,
+      "species": "Tall",
+      "year": 1697
+    },
+    {
+      "site_id": 3892,
+      "site_name": "Kvarteret Borgmästaren",
+      "lat": 56.663040622,
+      "lon": 16.3667343936,
+      "species": "Tall",
+      "year": 1687
+    },
+    {
+      "site_id": 4205,
+      "site_name": "Bosebo kyrka",
+      "lat": 57.3061935154,
+      "lon": 13.3510066476,
+      "species": "Tall",
+      "year": 1666
+    },
+    {
+      "site_id": 3892,
+      "site_name": "Kvarteret Borgmästaren",
+      "lat": 56.663040622,
+      "lon": 16.3667343936,
+      "species": "Tall",
+      "year": 1699
+    },
+    {
+      "site_id": 4171,
+      "site_name": "Fleringe kyrka",
+      "lat": 57.8696514934,
+      "lon": 18.8770787951,
+      "species": "Tall",
+      "year": 1660
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Tall",
+      "year": 1663
+    },
+    {
+      "site_id": 3977,
+      "site_name": "Trehörna säteri",
+      "lat": 58.1525781452,
+      "lon": 14.8366734133,
+      "species": "Tall",
+      "year": 1690
+    },
+    {
+      "site_id": 3967,
+      "site_name": "Vadstena rådhus",
+      "lat": 58.4471680385,
+      "lon": 14.8876316008,
+      "species": "Tall",
+      "year": 1694
+    },
+    {
+      "site_id": 4205,
+      "site_name": "Bosebo kyrka",
+      "lat": 57.3061935154,
+      "lon": 13.3510066476,
+      "species": "Tall",
+      "year": 1666
+    },
+    {
+      "site_id": 4080,
+      "site_name": "Lau Kyrka",
+      "lat": 57.2829069812,
+      "lon": 18.6201900158,
+      "species": "Tall",
+      "year": 1677
+    },
+    {
+      "site_id": 3883,
+      "site_name": "Kvarteret Kommendanten",
+      "lat": 56.028818534,
+      "lon": 14.1550941057,
+      "species": "Ek",
+      "year": 1687
+    },
+    {
+      "site_id": 4191,
+      "site_name": "Cramérska huset",
+      "lat": 57.6413266574,
+      "lon": 18.2957180164,
+      "species": "Tall",
+      "year": 1672
+    },
+    {
+      "site_id": 4090,
+      "site_name": "Kummelnäs gård",
+      "lat": 59.351292562,
+      "lon": 18.2676698306,
+      "species": "Tall",
+      "year": 1695
+    },
+    {
+      "site_id": 3884,
+      "site_name": "Kvarteret Kassamannen",
+      "lat": 57.6704795196,
+      "lon": 14.969154026,
+      "species": "Tall",
+      "year": 1668
+    },
+    {
+      "site_id": 3894,
+      "site_name": "Kvarteret Almen",
+      "lat": 57.7822875189,
+      "lon": 14.1719727915,
+      "species": "Tall",
+      "year": 1686
+    },
+    {
+      "site_id": 4157,
+      "site_name": "Gammelgarn kyrka",
+      "lat": 57.4045836353,
+      "lon": 18.8045670233,
+      "species": "Tall",
+      "year": 1699
+    },
+    {
+      "site_id": 4172,
+      "site_name": "Fjellskäfte säteri",
+      "lat": 59.1191566711,
+      "lon": 16.3647591532,
+      "species": "Tall",
+      "year": 1654
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1679
+    },
+    {
+      "site_id": 3831,
+      "site_name": "75246 Eksjö",
+      "lat": 57.6939534023,
+      "lon": 14.9827888955,
+      "species": "Ek",
+      "year": 1694
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Tall",
+      "year": 1684
+    },
+    {
+      "site_id": 3998,
+      "site_name": "Steninge slott",
+      "lat": 59.6020978067,
+      "lon": 17.8044417982,
+      "species": "Tall",
+      "year": 1682
+    },
+    {
+      "site_id": 3983,
+      "site_name": "Tingstäde kyrka",
+      "lat": 57.7363463435,
+      "lon": 18.61508962,
+      "species": "Tall",
+      "year": 1694
+    },
+    {
+      "site_id": 4072,
+      "site_name": "Lojsta kyrka",
+      "lat": 57.3128325904,
+      "lon": 18.3838930155,
+      "species": "Tall",
+      "year": 1666
+    },
+    {
+      "site_id": 3995,
+      "site_name": "Stora Kolfly",
+      "lat": 56.668258298,
+      "lon": 15.7252303996,
+      "species": "Tall",
+      "year": 1695
+    },
+    {
+      "site_id": 4042,
+      "site_name": "Orkesta kyrka",
+      "lat": 59.6047544634,
+      "lon": 18.1101330621,
+      "species": "Tall",
+      "year": 1685
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1676
+    },
+    {
+      "site_id": 3884,
+      "site_name": "Kvarteret Kassamannen",
+      "lat": 57.6704795196,
+      "lon": 14.969154026,
+      "species": "Tall",
+      "year": 1685
+    },
+    {
+      "site_id": 3888,
+      "site_name": "Kvarteret Färgaren",
+      "lat": 57.6689523502,
+      "lon": 14.9685853665,
+      "species": "Tall",
+      "year": 1693
+    },
+    {
+      "site_id": 4172,
+      "site_name": "Fjellskäfte säteri",
+      "lat": 59.1191566711,
+      "lon": 16.3647591532,
+      "species": "Tall",
+      "year": 1654
+    },
+    {
+      "site_id": 4172,
+      "site_name": "Fjellskäfte säteri",
+      "lat": 59.1191566711,
+      "lon": 16.3647591532,
+      "species": "Tall",
+      "year": 1654
+    },
+    {
+      "site_id": 3976,
+      "site_name": "Träne kyrka",
+      "lat": 55.9888691077,
+      "lon": 13.9912243349,
+      "species": "Ek",
+      "year": 1691
+    },
+    {
+      "site_id": 3893,
+      "site_name": "Kvarteret Boktryckaren",
+      "lat": 57.6683956105,
+      "lon": 14.9693066636,
+      "species": "Tall",
+      "year": 1688
+    },
+    {
+      "site_id": 4171,
+      "site_name": "Fleringe kyrka",
+      "lat": 57.8696514934,
+      "lon": 18.8770787951,
+      "species": "Tall",
+      "year": 1684
+    },
+    {
+      "site_id": 3887,
+      "site_name": "Kvarteret Garvaren",
+      "lat": 57.6696892072,
+      "lon": 14.9697749558,
+      "species": "Tall",
+      "year": 1670
+    },
+    {
+      "site_id": 4167,
+      "site_name": "Fornminnesgården",
+      "lat": 57.6690964084,
+      "lon": 14.9699766107,
+      "species": "Tall",
+      "year": 1662
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1694
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1666
+    },
+    {
+      "site_id": 4233,
+      "site_name": "Ada Blocks hus",
+      "lat": 57.6414647577,
+      "lon": 18.2969709754,
+      "species": "Tall",
+      "year": 1652
+    },
+    {
+      "site_id": 3893,
+      "site_name": "Kvarteret Boktryckaren",
+      "lat": 57.6683956105,
+      "lon": 14.9693066636,
+      "species": "Tall",
+      "year": 1688
+    },
+    {
+      "site_id": 3884,
+      "site_name": "Kvarteret Kassamannen",
+      "lat": 57.6704795196,
+      "lon": 14.969154026,
+      "species": "Tall",
+      "year": 1687
+    },
+    {
+      "site_id": 4098,
+      "site_name": "Krapperups borg",
+      "lat": 56.2620769233,
+      "lon": 12.5302627748,
+      "species": "Tall",
+      "year": 1691
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1679
+    },
+    {
+      "site_id": 3983,
+      "site_name": "Tingstäde kyrka",
+      "lat": 57.7363463435,
+      "lon": 18.61508962,
+      "species": "Tall",
+      "year": 1695
+    },
+    {
+      "site_id": 4144,
+      "site_name": "Gärdslösa kyrka",
+      "lat": 56.7935501423,
+      "lon": 16.7376193603,
+      "species": "Ek",
+      "year": 1674
+    },
+    {
+      "site_id": 3844,
+      "site_name": "Vallsnäs",
+      "lat": 56.941149812,
+      "lon": 13.5397199636,
+      "species": "Tall",
+      "year": 1693
+    },
+    {
+      "site_id": 4090,
+      "site_name": "Kummelnäs gård",
+      "lat": 59.351292562,
+      "lon": 18.2676698306,
+      "species": "Tall",
+      "year": 1695
+    },
+    {
+      "site_id": 4090,
+      "site_name": "Kummelnäs gård",
+      "lat": 59.351292562,
+      "lon": 18.2676698306,
+      "species": "Tall",
+      "year": 1695
+    },
+    {
+      "site_id": 4009,
+      "site_name": "Slevringe gård",
+      "lat": 58.2027733697,
+      "lon": 15.9603993335,
+      "species": "Ek",
+      "year": 1699
+    },
+    {
+      "site_id": 3998,
+      "site_name": "Steninge slott",
+      "lat": 59.6020978067,
+      "lon": 17.8044417982,
+      "species": "Tall",
+      "year": 1685
+    },
+    {
+      "site_id": 4001,
+      "site_name": "Sonnorps frälsegård",
+      "lat": 58.5253465014,
+      "lon": 15.0956199379,
+      "species": "Tall",
+      "year": 1693
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Tall",
+      "year": 1678
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1655
+    },
+    {
+      "site_id": 4171,
+      "site_name": "Fleringe kyrka",
+      "lat": 57.8696514934,
+      "lon": 18.8770787951,
+      "species": "Tall",
+      "year": 1684
+    },
+    {
+      "site_id": 3922,
+      "site_name": "Wrangelska palatset",
+      "lat": 59.3251154621,
+      "lon": 18.0627386877,
+      "species": "Tall",
+      "year": 1670
+    },
+    {
+      "site_id": 3932,
+      "site_name": "Östra ryds kyrka",
+      "lat": 59.4486841128,
+      "lon": 18.1962528262,
+      "species": "Tall",
+      "year": 1692
+    },
+    {
+      "site_id": 4171,
+      "site_name": "Fleringe kyrka",
+      "lat": 57.8696514934,
+      "lon": 18.8770787951,
+      "species": "Tall",
+      "year": 1684
+    },
+    {
+      "site_id": 3892,
+      "site_name": "Kvarteret Borgmästaren",
+      "lat": 56.663040622,
+      "lon": 16.3667343936,
+      "species": "Tall",
+      "year": 1699
+    },
+    {
+      "site_id": 3985,
+      "site_name": "Södra Möckleby kyrka",
+      "lat": 56.3564864357,
+      "lon": 16.421603983,
+      "species": "Tall",
+      "year": 1663
+    },
+    {
+      "site_id": 3998,
+      "site_name": "Steninge slott",
+      "lat": 59.6020978067,
+      "lon": 17.8044417982,
+      "species": "Tall",
+      "year": 1686
+    },
+    {
+      "site_id": 4157,
+      "site_name": "Gammelgarn kyrka",
+      "lat": 57.4045836353,
+      "lon": 18.8045670233,
+      "species": "Tall",
+      "year": 1699
+    },
+    {
+      "site_id": 4224,
+      "site_name": "Baldringe kyrka",
+      "lat": 55.5299390885,
+      "lon": 13.8401822932,
+      "species": "Ek",
+      "year": 1679
+    },
+    {
+      "site_id": 3920,
+      "site_name": "Stockholms Slott",
+      "lat": 59.3268384536,
+      "lon": 18.0716158312,
+      "species": "Tall",
+      "year": 1666
+    },
+    {
+      "site_id": 4224,
+      "site_name": "Baldringe kyrka",
+      "lat": 55.5299390885,
+      "lon": 13.8401822932,
+      "species": "Ek",
+      "year": 1680
+    },
+    {
+      "site_id": 3888,
+      "site_name": "Kvarteret Färgaren",
+      "lat": 57.6689523502,
+      "lon": 14.9685853665,
+      "species": "Tall",
+      "year": 1693
+    },
+    {
+      "site_id": 4141,
+      "site_name": "Hakarps kyrka",
+      "lat": 57.796370601,
+      "lon": 14.3113491593,
+      "species": "Tall",
+      "year": 1662
+    },
+    {
+      "site_id": 3827,
+      "site_name": "12709 Stenkumla",
+      "lat": 57.5438649389,
+      "lon": 18.2403310627,
+      "species": "Tall",
+      "year": 1694
+    },
+    {
+      "site_id": 3983,
+      "site_name": "Tingstäde kyrka",
+      "lat": 57.7363463435,
+      "lon": 18.61508962,
+      "species": "Tall",
+      "year": 1688
+    },
+    {
+      "site_id": 4171,
+      "site_name": "Fleringe kyrka",
+      "lat": 57.8696514934,
+      "lon": 18.8770787951,
+      "species": "Tall",
+      "year": 1684
+    },
+    {
+      "site_id": 4224,
+      "site_name": "Baldringe kyrka",
+      "lat": 55.5299390885,
+      "lon": 13.8401822932,
+      "species": "Ek",
+      "year": 1680
+    },
+    {
+      "site_id": 3884,
+      "site_name": "Kvarteret Kassamannen",
+      "lat": 57.6704795196,
+      "lon": 14.969154026,
+      "species": "Tall",
+      "year": 1685
+    },
+    {
+      "site_id": 3923,
+      "site_name": "Stenbockska palatset",
+      "lat": 59.3251236041,
+      "lon": 18.0627745883,
+      "species": "Tall",
+      "year": 1665
+    },
+    {
+      "site_id": 4130,
+      "site_name": "Hejde kyrka",
+      "lat": 57.41279186,
+      "lon": 18.346056546,
+      "species": "Tall",
+      "year": 1680
+    },
+    {
+      "site_id": 4098,
+      "site_name": "Krapperups borg",
+      "lat": 56.2620769233,
+      "lon": 12.5302627748,
+      "species": "Tall",
+      "year": 1680
+    },
+    {
+      "site_id": 4157,
+      "site_name": "Gammelgarn kyrka",
+      "lat": 57.4045836353,
+      "lon": 18.8045670233,
+      "species": "Tall",
+      "year": 1690
+    },
+    {
+      "site_id": 3998,
+      "site_name": "Steninge slott",
+      "lat": 59.6020978067,
+      "lon": 17.8044417982,
+      "species": "Tall",
+      "year": 1686
+    },
+    {
+      "site_id": 4161,
+      "site_name": "Föllingsö säteri",
+      "lat": 57.9792353144,
+      "lon": 15.5982792286,
+      "species": "Tall",
+      "year": 1668
+    },
+    {
+      "site_id": 3883,
+      "site_name": "Kvarteret Kommendanten",
+      "lat": 56.028818534,
+      "lon": 14.1550941057,
+      "species": "Ek",
+      "year": 1686
+    },
+    {
+      "site_id": 4098,
+      "site_name": "Krapperups borg",
+      "lat": 56.2620769233,
+      "lon": 12.5302627748,
+      "species": "Tall",
+      "year": 1688
+    },
+    {
+      "site_id": 4121,
+      "site_name": "Hovdala slott",
+      "lat": 56.1036848292,
+      "lon": 13.7137204295,
+      "species": "Ek",
+      "year": 1679
+    },
+    {
+      "site_id": 3857,
+      "site_name": "Skedshult",
+      "lat": 58.0836600816,
+      "lon": 16.4944629982,
+      "species": "Tall",
+      "year": 1669
+    },
+    {
+      "site_id": 4044,
+      "site_name": "Näs kyrka",
+      "lat": 57.1101560368,
+      "lon": 18.2624139623,
+      "species": "Tall",
+      "year": 1679
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1679
+    },
+    {
+      "site_id": 3932,
+      "site_name": "Östra ryds kyrka",
+      "lat": 59.4486841128,
+      "lon": 18.1962528262,
+      "species": "Tall",
+      "year": 1693
+    },
+    {
+      "site_id": 3966,
+      "site_name": "Vall kyrka",
+      "lat": 57.5207796756,
+      "lon": 18.3450564287,
+      "species": "Tall",
+      "year": 1678
+    },
+    {
+      "site_id": 4121,
+      "site_name": "Hovdala slott",
+      "lat": 56.1036848292,
+      "lon": 13.7137204295,
+      "species": "Ek",
+      "year": 1678
+    },
+    {
+      "site_id": 4191,
+      "site_name": "Cramérska huset",
+      "lat": 57.6413266574,
+      "lon": 18.2957180164,
+      "species": "Tall",
+      "year": 1699
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Tall",
+      "year": 1684
+    },
+    {
+      "site_id": 4224,
+      "site_name": "Baldringe kyrka",
+      "lat": 55.5299390885,
+      "lon": 13.8401822932,
+      "species": "Ek",
+      "year": 1694
+    },
+    {
+      "site_id": 3998,
+      "site_name": "Steninge slott",
+      "lat": 59.6020978067,
+      "lon": 17.8044417982,
+      "species": "Tall",
+      "year": 1683
+    },
+    {
+      "site_id": 4149,
+      "site_name": "Grävsten herrgård",
+      "lat": 58.3515719205,
+      "lon": 15.8922615755,
+      "species": "Tall",
+      "year": 1661
+    },
+    {
+      "site_id": 4090,
+      "site_name": "Kummelnäs gård",
+      "lat": 59.351292562,
+      "lon": 18.2676698306,
+      "species": "Tall",
+      "year": 1694
+    },
+    {
+      "site_id": 3893,
+      "site_name": "Kvarteret Boktryckaren",
+      "lat": 57.6683956105,
+      "lon": 14.9693066636,
+      "species": "Tall",
+      "year": 1657
+    },
+    {
+      "site_id": 4075,
+      "site_name": "Linderöds kyrka",
+      "lat": 55.9376955798,
+      "lon": 13.8238972477,
+      "species": "Ek",
+      "year": 1687
+    },
+    {
+      "site_id": 3883,
+      "site_name": "Kvarteret Kommendanten",
+      "lat": 56.028818534,
+      "lon": 14.1550941057,
+      "species": "Ek",
+      "year": 1668
+    },
+    {
+      "site_id": 4014,
+      "site_name": "Skabersjö slott",
+      "lat": 55.5407035295,
+      "lon": 13.1471592635,
+      "species": "Tall",
+      "year": 1650
+    },
+    {
+      "site_id": 3932,
+      "site_name": "Östra ryds kyrka",
+      "lat": 59.4486841128,
+      "lon": 18.1962528262,
+      "species": "Tall",
+      "year": 1681
+    },
+    {
+      "site_id": 3893,
+      "site_name": "Kvarteret Boktryckaren",
+      "lat": 57.6683956105,
+      "lon": 14.9693066636,
+      "species": "Tall",
+      "year": 1688
+    },
+    {
+      "site_id": 3932,
+      "site_name": "Östra ryds kyrka",
+      "lat": 59.4486841128,
+      "lon": 18.1962528262,
+      "species": "Tall",
+      "year": 1692
+    },
+    {
+      "site_id": 3920,
+      "site_name": "Stockholms Slott",
+      "lat": 59.3268384536,
+      "lon": 18.0716158312,
+      "species": "Tall",
+      "year": 1670
+    },
+    {
+      "site_id": 3960,
+      "site_name": "Viggesbo säteri",
+      "lat": 57.69034414,
+      "lon": 15.5156977131,
+      "species": "Tall",
+      "year": 1691
+    },
+    {
+      "site_id": 4157,
+      "site_name": "Gammelgarn kyrka",
+      "lat": 57.4045836353,
+      "lon": 18.8045670233,
+      "species": "Tall",
+      "year": 1699
+    },
+    {
+      "site_id": 4075,
+      "site_name": "Linderöds kyrka",
+      "lat": 55.9376955798,
+      "lon": 13.8238972477,
+      "species": "Ek",
+      "year": 1687
+    },
+    {
+      "site_id": 4157,
+      "site_name": "Gammelgarn kyrka",
+      "lat": 57.4045836353,
+      "lon": 18.8045670233,
+      "species": "Tall",
+      "year": 1665
+    },
+    {
+      "site_id": 3884,
+      "site_name": "Kvarteret Kassamannen",
+      "lat": 57.6704795196,
+      "lon": 14.969154026,
+      "species": "Tall",
+      "year": 1669
+    },
+    {
+      "site_id": 4098,
+      "site_name": "Krapperups borg",
+      "lat": 56.2620769233,
+      "lon": 12.5302627748,
+      "species": "Tall",
+      "year": 1665
+    },
+    {
+      "site_id": 4222,
+      "site_name": "Bankekinds kyrka",
+      "lat": 58.3760722953,
+      "lon": 15.8200924421,
+      "species": "Tall",
+      "year": 1662
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1670
+    },
+    {
+      "site_id": 3932,
+      "site_name": "Östra ryds kyrka",
+      "lat": 59.4486841128,
+      "lon": 18.1962528262,
+      "species": "Tall",
+      "year": 1691
+    },
+    {
+      "site_id": 3967,
+      "site_name": "Vadstena rådhus",
+      "lat": 58.4471680385,
+      "lon": 14.8876316008,
+      "species": "Tall",
+      "year": 1697
+    },
+    {
+      "site_id": 4224,
+      "site_name": "Baldringe kyrka",
+      "lat": 55.5299390885,
+      "lon": 13.8401822932,
+      "species": "Ek",
+      "year": 1694
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Tall",
+      "year": 1683
+    },
+    {
+      "site_id": 4023,
+      "site_name": "Sankt Peters klosters kyrka",
+      "lat": 55.7042571221,
+      "lon": 13.1859792061,
+      "species": "Ek",
+      "year": 1692
+    },
+    {
+      "site_id": 3853,
+      "site_name": "Stallbacksvägen",
+      "lat": 59.1832425393,
+      "lon": 17.4296699654,
+      "species": "Tall",
+      "year": 1668
+    },
+    {
+      "site_id": 3983,
+      "site_name": "Tingstäde kyrka",
+      "lat": 57.7363463435,
+      "lon": 18.61508962,
+      "species": "Tall",
+      "year": 1685
+    },
+    {
+      "site_id": 3983,
+      "site_name": "Tingstäde kyrka",
+      "lat": 57.7363463435,
+      "lon": 18.61508962,
+      "species": "Tall",
+      "year": 1688
+    },
+    {
+      "site_id": 4098,
+      "site_name": "Krapperups borg",
+      "lat": 56.2620769233,
+      "lon": 12.5302627748,
+      "species": "Tall",
+      "year": 1690
+    },
+    {
+      "site_id": 4113,
+      "site_name": "Härlövs kyrka",
+      "lat": 56.9613678499,
+      "lon": 14.6376292336,
+      "species": "Ek",
+      "year": 1676
+    },
+    {
+      "site_id": 4191,
+      "site_name": "Cramérska huset",
+      "lat": 57.6413266574,
+      "lon": 18.2957180164,
+      "species": "Tall",
+      "year": 1651
+    },
+    {
+      "site_id": 3893,
+      "site_name": "Kvarteret Boktryckaren",
+      "lat": 57.6683956105,
+      "lon": 14.9693066636,
+      "species": "Tall",
+      "year": 1679
+    },
+    {
+      "site_id": 3831,
+      "site_name": "75246 Eksjö",
+      "lat": 57.6939534023,
+      "lon": 14.9827888955,
+      "species": "Ek",
+      "year": 1688
+    },
+    {
+      "site_id": 4044,
+      "site_name": "Näs kyrka",
+      "lat": 57.1101560368,
+      "lon": 18.2624139623,
+      "species": "Tall",
+      "year": 1679
+    },
+    {
+      "site_id": 3977,
+      "site_name": "Trehörna säteri",
+      "lat": 58.1525781452,
+      "lon": 14.8366734133,
+      "species": "Tall",
+      "year": 1690
+    },
+    {
+      "site_id": 4075,
+      "site_name": "Linderöds kyrka",
+      "lat": 55.9376955798,
+      "lon": 13.8238972477,
+      "species": "Ek",
+      "year": 1687
+    },
+    {
+      "site_id": 4224,
+      "site_name": "Baldringe kyrka",
+      "lat": 55.5299390885,
+      "lon": 13.8401822932,
+      "species": "Ek",
+      "year": 1694
+    },
+    {
+      "site_id": 4157,
+      "site_name": "Gammelgarn kyrka",
+      "lat": 57.4045836353,
+      "lon": 18.8045670233,
+      "species": "Tall",
+      "year": 1699
+    },
+    {
+      "site_id": 4098,
+      "site_name": "Krapperups borg",
+      "lat": 56.2620769233,
+      "lon": 12.5302627748,
+      "species": "Tall",
+      "year": 1694
+    },
+    {
+      "site_id": 3920,
+      "site_name": "Stockholms Slott",
+      "lat": 59.3268384536,
+      "lon": 18.0716158312,
+      "species": "Tall",
+      "year": 1668
+    },
+    {
+      "site_id": 4023,
+      "site_name": "Sankt Peters klosters kyrka",
+      "lat": 55.7042571221,
+      "lon": 13.1859792061,
+      "species": "Ek",
+      "year": 1692
+    },
+    {
+      "site_id": 3892,
+      "site_name": "Kvarteret Borgmästaren",
+      "lat": 56.663040622,
+      "lon": 16.3667343936,
+      "species": "Tall",
+      "year": 1699
+    },
+    {
+      "site_id": 4098,
+      "site_name": "Krapperups borg",
+      "lat": 56.2620769233,
+      "lon": 12.5302627748,
+      "species": "Tall",
+      "year": 1697
+    },
+    {
+      "site_id": 4191,
+      "site_name": "Cramérska huset",
+      "lat": 57.6413266574,
+      "lon": 18.2957180164,
+      "species": "Tall",
+      "year": 1674
+    },
+    {
+      "site_id": 3831,
+      "site_name": "75246 Eksjö",
+      "lat": 57.6939534023,
+      "lon": 14.9827888955,
+      "species": "Ek",
+      "year": 1667
+    },
+    {
+      "site_id": 3853,
+      "site_name": "Stallbacksvägen",
+      "lat": 59.1832425393,
+      "lon": 17.4296699654,
+      "species": "Tall",
+      "year": 1667
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Tall",
+      "year": 1684
+    },
+    {
+      "site_id": 4149,
+      "site_name": "Grävsten herrgård",
+      "lat": 58.3515719205,
+      "lon": 15.8922615755,
+      "species": "Tall",
+      "year": 1651
+    },
+    {
+      "site_id": 3932,
+      "site_name": "Östra ryds kyrka",
+      "lat": 59.4486841128,
+      "lon": 18.1962528262,
+      "species": "Tall",
+      "year": 1689
+    },
+    {
+      "site_id": 3857,
+      "site_name": "Skedshult",
+      "lat": 58.0836600816,
+      "lon": 16.4944629982,
+      "species": "Tall",
+      "year": 1692
+    },
+    {
+      "site_id": 4172,
+      "site_name": "Fjellskäfte säteri",
+      "lat": 59.1191566711,
+      "lon": 16.3647591532,
+      "species": "Tall",
+      "year": 1654
+    },
+    {
+      "site_id": 4098,
+      "site_name": "Krapperups borg",
+      "lat": 56.2620769233,
+      "lon": 12.5302627748,
+      "species": "Tall",
+      "year": 1682
+    },
+    {
+      "site_id": 3998,
+      "site_name": "Steninge slott",
+      "lat": 59.6020978067,
+      "lon": 17.8044417982,
+      "species": "Tall",
+      "year": 1686
+    },
+    {
+      "site_id": 4144,
+      "site_name": "Gärdslösa kyrka",
+      "lat": 56.7935501423,
+      "lon": 16.7376193603,
+      "species": "Ek",
+      "year": 1659
+    },
+    {
+      "site_id": 4104,
+      "site_name": "Kapitelhuset",
+      "lat": 57.6417470734,
+      "lon": 18.296141695,
+      "species": "Tall",
+      "year": 1691
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Tall",
+      "year": 1684
+    },
+    {
+      "site_id": 4171,
+      "site_name": "Fleringe kyrka",
+      "lat": 57.8696514934,
+      "lon": 18.8770787951,
+      "species": "Tall",
+      "year": 1681
+    },
+    {
+      "site_id": 4098,
+      "site_name": "Krapperups borg",
+      "lat": 56.2620769233,
+      "lon": 12.5302627748,
+      "species": "Tall",
+      "year": 1685
+    },
+    {
+      "site_id": 4023,
+      "site_name": "Sankt Peters klosters kyrka",
+      "lat": 55.7042571221,
+      "lon": 13.1859792061,
+      "species": "Ek",
+      "year": 1674
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1657
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1694
+    },
+    {
+      "site_id": 3853,
+      "site_name": "Stallbacksvägen",
+      "lat": 59.1832425393,
+      "lon": 17.4296699654,
+      "species": "Tall",
+      "year": 1666
+    },
+    {
+      "site_id": 4005,
+      "site_name": "Smedstorp",
+      "lat": 57.9433759312,
+      "lon": 15.4137172846,
+      "species": "Tall",
+      "year": 1696
+    },
+    {
+      "site_id": 3893,
+      "site_name": "Kvarteret Boktryckaren",
+      "lat": 57.6683956105,
+      "lon": 14.9693066636,
+      "species": "Tall",
+      "year": 1688
+    },
+    {
+      "site_id": 3892,
+      "site_name": "Kvarteret Borgmästaren",
+      "lat": 56.663040622,
+      "lon": 16.3667343936,
+      "species": "Tall",
+      "year": 1658
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1650
+    },
+    {
+      "site_id": 4205,
+      "site_name": "Bosebo kyrka",
+      "lat": 57.3061935154,
+      "lon": 13.3510066476,
+      "species": "Tall",
+      "year": 1650
+    },
+    {
+      "site_id": 4157,
+      "site_name": "Gammelgarn kyrka",
+      "lat": 57.4045836353,
+      "lon": 18.8045670233,
+      "species": "Tall",
+      "year": 1665
+    },
+    {
+      "site_id": 4005,
+      "site_name": "Smedstorp",
+      "lat": 57.9433759312,
+      "lon": 15.4137172846,
+      "species": "Tall",
+      "year": 1696
+    },
+    {
+      "site_id": 4075,
+      "site_name": "Linderöds kyrka",
+      "lat": 55.9376955798,
+      "lon": 13.8238972477,
+      "species": "Ek",
+      "year": 1687
+    },
+    {
+      "site_id": 4075,
+      "site_name": "Linderöds kyrka",
+      "lat": 55.9376955798,
+      "lon": 13.8238972477,
+      "species": "Ek",
+      "year": 1694
+    },
+    {
+      "site_id": 4167,
+      "site_name": "Fornminnesgården",
+      "lat": 57.6690964084,
+      "lon": 14.9699766107,
+      "species": "Tall",
+      "year": 1657
+    },
+    {
+      "site_id": 4051,
+      "site_name": "Norra Rörums kyrka",
+      "lat": 56.0203410643,
+      "lon": 13.5107429543,
+      "species": "Ek",
+      "year": 1682
+    },
+    {
+      "site_id": 3893,
+      "site_name": "Kvarteret Boktryckaren",
+      "lat": 57.6683956105,
+      "lon": 14.9693066636,
+      "species": "Tall",
+      "year": 1688
+    },
+    {
+      "site_id": 4075,
+      "site_name": "Linderöds kyrka",
+      "lat": 55.9376955798,
+      "lon": 13.8238972477,
+      "species": "Ek",
+      "year": 1686
+    },
+    {
+      "site_id": 4051,
+      "site_name": "Norra Rörums kyrka",
+      "lat": 56.0203410643,
+      "lon": 13.5107429543,
+      "species": "Ek",
+      "year": 1675
+    },
+    {
+      "site_id": 4051,
+      "site_name": "Norra Rörums kyrka",
+      "lat": 56.0203410643,
+      "lon": 13.5107429543,
+      "species": "Ek",
+      "year": 1682
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1655
+    },
+    {
+      "site_id": 3886,
+      "site_name": "Kvarteret Guldsmeden",
+      "lat": 57.6675696327,
+      "lon": 14.9710674526,
+      "species": "Tall",
+      "year": 1686
+    },
+    {
+      "site_id": 3831,
+      "site_name": "75246 Eksjö",
+      "lat": 57.6939534023,
+      "lon": 14.9827888955,
+      "species": "Ek",
+      "year": 1686
+    },
+    {
+      "site_id": 4001,
+      "site_name": "Sonnorps frälsegård",
+      "lat": 58.5253465014,
+      "lon": 15.0956199379,
+      "species": "Tall",
+      "year": 1698
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Gran",
+      "year": 1686
+    },
+    {
+      "site_id": 4171,
+      "site_name": "Fleringe kyrka",
+      "lat": 57.8696514934,
+      "lon": 18.8770787951,
+      "species": "Tall",
+      "year": 1685
+    },
+    {
+      "site_id": 4224,
+      "site_name": "Baldringe kyrka",
+      "lat": 55.5299390885,
+      "lon": 13.8401822932,
+      "species": "Ek",
+      "year": 1694
+    },
+    {
+      "site_id": 4005,
+      "site_name": "Smedstorp",
+      "lat": 57.9433759312,
+      "lon": 15.4137172846,
+      "species": "Tall",
+      "year": 1696
+    },
+    {
+      "site_id": 3920,
+      "site_name": "Stockholms Slott",
+      "lat": 59.3268384536,
+      "lon": 18.0716158312,
+      "species": "Tall",
+      "year": 1696
+    },
+    {
+      "site_id": 4072,
+      "site_name": "Lojsta kyrka",
+      "lat": 57.3128325904,
+      "lon": 18.3838930155,
+      "species": "Tall",
+      "year": 1673
+    },
+    {
+      "site_id": 3932,
+      "site_name": "Östra ryds kyrka",
+      "lat": 59.4486841128,
+      "lon": 18.1962528262,
+      "species": "Tall",
+      "year": 1680
+    },
+    {
+      "site_id": 4191,
+      "site_name": "Cramérska huset",
+      "lat": 57.6413266574,
+      "lon": 18.2957180164,
+      "species": "Tall",
+      "year": 1670
+    },
+    {
+      "site_id": 4113,
+      "site_name": "Härlövs kyrka",
+      "lat": 56.9613678499,
+      "lon": 14.6376292336,
+      "species": "Ek",
+      "year": 1667
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Tall",
+      "year": 1684
+    },
+    {
+      "site_id": 3998,
+      "site_name": "Steninge slott",
+      "lat": 59.6020978067,
+      "lon": 17.8044417982,
+      "species": "Tall",
+      "year": 1692
+    },
+    {
+      "site_id": 3888,
+      "site_name": "Kvarteret Färgaren",
+      "lat": 57.6689523502,
+      "lon": 14.9685853665,
+      "species": "Tall",
+      "year": 1693
+    },
+    {
+      "site_id": 3932,
+      "site_name": "Östra ryds kyrka",
+      "lat": 59.4486841128,
+      "lon": 18.1962528262,
+      "species": "Tall",
+      "year": 1690
+    },
+    {
+      "site_id": 4023,
+      "site_name": "Sankt Peters klosters kyrka",
+      "lat": 55.7042571221,
+      "lon": 13.1859792061,
+      "species": "Ek",
+      "year": 1692
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Tall",
+      "year": 1683
+    },
+    {
+      "site_id": 4161,
+      "site_name": "Föllingsö säteri",
+      "lat": 57.9792353144,
+      "lon": 15.5982792286,
+      "species": "Tall",
+      "year": 1666
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1653
+    },
+    {
+      "site_id": 4224,
+      "site_name": "Baldringe kyrka",
+      "lat": 55.5299390885,
+      "lon": 13.8401822932,
+      "species": "Ek",
+      "year": 1694
+    },
+    {
+      "site_id": 4224,
+      "site_name": "Baldringe kyrka",
+      "lat": 55.5299390885,
+      "lon": 13.8401822932,
+      "species": "Ek",
+      "year": 1694
+    },
+    {
+      "site_id": 4172,
+      "site_name": "Fjellskäfte säteri",
+      "lat": 59.1191566711,
+      "lon": 16.3647591532,
+      "species": "Tall",
+      "year": 1654
+    },
+    {
+      "site_id": 3873,
+      "site_name": "Kvarteret Vaxblekaren",
+      "lat": 57.6677943959,
+      "lon": 14.9719557061,
+      "species": "Tall",
+      "year": 1687
+    },
+    {
+      "site_id": 4224,
+      "site_name": "Baldringe kyrka",
+      "lat": 55.5299390885,
+      "lon": 13.8401822932,
+      "species": "Ek",
+      "year": 1694
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1654
+    },
+    {
+      "site_id": 3977,
+      "site_name": "Trehörna säteri",
+      "lat": 58.1525781452,
+      "lon": 14.8366734133,
+      "species": "Tall",
+      "year": 1690
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Tall",
+      "year": 1684
+    },
+    {
+      "site_id": 4157,
+      "site_name": "Gammelgarn kyrka",
+      "lat": 57.4045836353,
+      "lon": 18.8045670233,
+      "species": "Tall",
+      "year": 1699
+    },
+    {
+      "site_id": 3983,
+      "site_name": "Tingstäde kyrka",
+      "lat": 57.7363463435,
+      "lon": 18.61508962,
+      "species": "Tall",
+      "year": 1690
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1673
+    },
+    {
+      "site_id": 4224,
+      "site_name": "Baldringe kyrka",
+      "lat": 55.5299390885,
+      "lon": 13.8401822932,
+      "species": "Ek",
+      "year": 1694
+    },
+    {
+      "site_id": 4171,
+      "site_name": "Fleringe kyrka",
+      "lat": 57.8696514934,
+      "lon": 18.8770787951,
+      "species": "Tall",
+      "year": 1681
+    },
+    {
+      "site_id": 3922,
+      "site_name": "Wrangelska palatset",
+      "lat": 59.3251154621,
+      "lon": 18.0627386877,
+      "species": "Tall",
+      "year": 1675
+    },
+    {
+      "site_id": 4157,
+      "site_name": "Gammelgarn kyrka",
+      "lat": 57.4045836353,
+      "lon": 18.8045670233,
+      "species": "Tall",
+      "year": 1665
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Tall",
+      "year": 1684
+    },
+    {
+      "site_id": 4098,
+      "site_name": "Krapperups borg",
+      "lat": 56.2620769233,
+      "lon": 12.5302627748,
+      "species": "Tall",
+      "year": 1686
+    },
+    {
+      "site_id": 4121,
+      "site_name": "Hovdala slott",
+      "lat": 56.1036848292,
+      "lon": 13.7137204295,
+      "species": "Ek",
+      "year": 1679
+    },
+    {
+      "site_id": 4098,
+      "site_name": "Krapperups borg",
+      "lat": 56.2620769233,
+      "lon": 12.5302627748,
+      "species": "Tall",
+      "year": 1681
+    },
+    {
+      "site_id": 3892,
+      "site_name": "Kvarteret Borgmästaren",
+      "lat": 56.663040622,
+      "lon": 16.3667343936,
+      "species": "Tall",
+      "year": 1695
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1679
+    },
+    {
+      "site_id": 4149,
+      "site_name": "Grävsten herrgård",
+      "lat": 58.3515719205,
+      "lon": 15.8922615755,
+      "species": "Tall",
+      "year": 1683
+    },
+    {
+      "site_id": 4161,
+      "site_name": "Föllingsö säteri",
+      "lat": 57.9792353144,
+      "lon": 15.5982792286,
+      "species": "Tall",
+      "year": 1664
+    },
+    {
+      "site_id": 3932,
+      "site_name": "Östra ryds kyrka",
+      "lat": 59.4486841128,
+      "lon": 18.1962528262,
+      "species": "Tall",
+      "year": 1681
+    },
+    {
+      "site_id": 4224,
+      "site_name": "Baldringe kyrka",
+      "lat": 55.5299390885,
+      "lon": 13.8401822932,
+      "species": "Ek",
+      "year": 1694
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Tall",
+      "year": 1684
+    }
+  ]
+}

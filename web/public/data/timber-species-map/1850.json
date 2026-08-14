@@ -1,0 +1,1852 @@
+{
+  "bucket_start": 1850,
+  "label": "1850 AD - 1900 AD",
+  "n_samples": 230,
+  "composition": {
+    "Tall": 90.4,
+    "Ek": 4.8,
+    "Gran": 4.8
+  },
+  "points": [
+    {
+      "site_id": 4020,
+      "site_name": "Sigfridsgården",
+      "lat": 58.0836600816,
+      "lon": 16.4944629982,
+      "species": "Tall",
+      "year": 1866
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1870
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1852
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1892
+    },
+    {
+      "site_id": 3864,
+      "site_name": "Mellanköpinge",
+      "lat": 55.3830376757,
+      "lon": 13.1958516631,
+      "species": "Tall",
+      "year": 1858
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1872
+    },
+    {
+      "site_id": 3966,
+      "site_name": "Vall kyrka",
+      "lat": 57.5207796756,
+      "lon": 18.3450564287,
+      "species": "Tall",
+      "year": 1851
+    },
+    {
+      "site_id": 4040,
+      "site_name": "Pedersborg",
+      "lat": 59.7461323276,
+      "lon": 18.8157655584,
+      "species": "Tall",
+      "year": 1863
+    },
+    {
+      "site_id": 4018,
+      "site_name": "Sisshammar",
+      "lat": 59.2078632658,
+      "lon": 18.3415861294,
+      "species": "Tall",
+      "year": 1850
+    },
+    {
+      "site_id": 3817,
+      "site_name": "75525 Småland",
+      "lat": 57.0999947302,
+      "lon": 14.8833206377,
+      "species": "Tall",
+      "year": 1880
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1887
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1852
+    },
+    {
+      "site_id": 3982,
+      "site_name": "Toresbo",
+      "lat": 56.687873753,
+      "lon": 15.794011781,
+      "species": "Tall",
+      "year": 1858
+    },
+    {
+      "site_id": 4009,
+      "site_name": "Slevringe gård",
+      "lat": 58.2027733697,
+      "lon": 15.9603993335,
+      "species": "Tall",
+      "year": 1863
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1854
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1854
+    },
+    {
+      "site_id": 4102,
+      "site_name": "Kisa hotell och konferens",
+      "lat": 57.9869621622,
+      "lon": 15.6367139929,
+      "species": "Tall",
+      "year": 1882
+    },
+    {
+      "site_id": 3840,
+      "site_name": "Vippröste",
+      "lat": 58.1240511434,
+      "lon": 15.4352815847,
+      "species": "Tall",
+      "year": 1868
+    },
+    {
+      "site_id": 3913,
+      "site_name": "Friggestad",
+      "lat": 55.9026716839,
+      "lon": 13.9326988282,
+      "species": "Ek",
+      "year": 1854
+    },
+    {
+      "site_id": 3833,
+      "site_name": "12051 Bro",
+      "lat": 57.6698565725,
+      "lon": 18.4661389697,
+      "species": "Tall",
+      "year": 1850
+    },
+    {
+      "site_id": 3892,
+      "site_name": "Kvarteret Borgmästaren",
+      "lat": 56.663040622,
+      "lon": 16.3667343936,
+      "species": "Tall",
+      "year": 1879
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1853
+    },
+    {
+      "site_id": 4176,
+      "site_name": "Farhults kyrka",
+      "lat": 56.2140163145,
+      "lon": 12.7123001788,
+      "species": "Tall",
+      "year": 1870
+    },
+    {
+      "site_id": 4166,
+      "site_name": "Fröjden",
+      "lat": 58.0836551307,
+      "lon": 16.4887472928,
+      "species": "Tall",
+      "year": 1865
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1855
+    },
+    {
+      "site_id": 3991,
+      "site_name": "Strömby",
+      "lat": 56.503487256,
+      "lon": 15.9129286367,
+      "species": "Tall",
+      "year": 1856
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1852
+    },
+    {
+      "site_id": 4020,
+      "site_name": "Sigfridsgården",
+      "lat": 58.0836600816,
+      "lon": 16.4944629982,
+      "species": "Gran",
+      "year": 1850
+    },
+    {
+      "site_id": 4102,
+      "site_name": "Kisa hotell och konferens",
+      "lat": 57.9869621622,
+      "lon": 15.6367139929,
+      "species": "Tall",
+      "year": 1855
+    },
+    {
+      "site_id": 4166,
+      "site_name": "Fröjden",
+      "lat": 58.0836551307,
+      "lon": 16.4887472928,
+      "species": "Tall",
+      "year": 1864
+    },
+    {
+      "site_id": 3949,
+      "site_name": "Väsby kvarn",
+      "lat": 59.5330507391,
+      "lon": 18.067232364,
+      "species": "Tall",
+      "year": 1856
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1854
+    },
+    {
+      "site_id": 4102,
+      "site_name": "Kisa hotell och konferens",
+      "lat": 57.9869621622,
+      "lon": 15.6367139929,
+      "species": "Tall",
+      "year": 1897
+    },
+    {
+      "site_id": 3832,
+      "site_name": "12076 Ekeby",
+      "lat": 57.5943919123,
+      "lon": 18.5254327344,
+      "species": "Tall",
+      "year": 1850
+    },
+    {
+      "site_id": 3901,
+      "site_name": "Ilnestorp",
+      "lat": 55.9122321444,
+      "lon": 13.9472829936,
+      "species": "Ek",
+      "year": 1863
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1851
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1855
+    },
+    {
+      "site_id": 3901,
+      "site_name": "Ilnestorp",
+      "lat": 55.9122321444,
+      "lon": 13.9472829936,
+      "species": "Ek",
+      "year": 1883
+    },
+    {
+      "site_id": 3982,
+      "site_name": "Toresbo",
+      "lat": 56.687873753,
+      "lon": 15.794011781,
+      "species": "Tall",
+      "year": 1858
+    },
+    {
+      "site_id": 3949,
+      "site_name": "Väsby kvarn",
+      "lat": 59.5330507391,
+      "lon": 18.067232364,
+      "species": "Tall",
+      "year": 1864
+    },
+    {
+      "site_id": 3840,
+      "site_name": "Vippröste",
+      "lat": 58.1240511434,
+      "lon": 15.4352815847,
+      "species": "Tall",
+      "year": 1868
+    },
+    {
+      "site_id": 4161,
+      "site_name": "Föllingsö säteri",
+      "lat": 57.9792353144,
+      "lon": 15.5982792286,
+      "species": "Tall",
+      "year": 1851
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1865
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1867
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1853
+    },
+    {
+      "site_id": 4161,
+      "site_name": "Föllingsö säteri",
+      "lat": 57.9792353144,
+      "lon": 15.5982792286,
+      "species": "Tall",
+      "year": 1876
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1872
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1854
+    },
+    {
+      "site_id": 3949,
+      "site_name": "Väsby kvarn",
+      "lat": 59.5330507391,
+      "lon": 18.067232364,
+      "species": "Tall",
+      "year": 1856
+    },
+    {
+      "site_id": 3908,
+      "site_name": "Herrökna gård",
+      "lat": 59.1158613488,
+      "lon": 16.9618752991,
+      "species": "Tall",
+      "year": 1862
+    },
+    {
+      "site_id": 3949,
+      "site_name": "Väsby kvarn",
+      "lat": 59.5330507391,
+      "lon": 18.067232364,
+      "species": "Tall",
+      "year": 1864
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1855
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1872
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1854
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1854
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1874
+    },
+    {
+      "site_id": 3857,
+      "site_name": "Skedshult",
+      "lat": 58.0836600816,
+      "lon": 16.4944629982,
+      "species": "Tall",
+      "year": 1852
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1883
+    },
+    {
+      "site_id": 3949,
+      "site_name": "Väsby kvarn",
+      "lat": 59.5330507391,
+      "lon": 18.067232364,
+      "species": "Tall",
+      "year": 1864
+    },
+    {
+      "site_id": 4178,
+      "site_name": "Etelhems kyrka",
+      "lat": 57.337221976,
+      "lon": 18.4958931378,
+      "species": "Tall",
+      "year": 1879
+    },
+    {
+      "site_id": 4161,
+      "site_name": "Föllingsö säteri",
+      "lat": 57.9792353144,
+      "lon": 15.5982792286,
+      "species": "Tall",
+      "year": 1873
+    },
+    {
+      "site_id": 3913,
+      "site_name": "Friggestad",
+      "lat": 55.9026716839,
+      "lon": 13.9326988282,
+      "species": "Ek",
+      "year": 1855
+    },
+    {
+      "site_id": 4178,
+      "site_name": "Etelhems kyrka",
+      "lat": 57.337221976,
+      "lon": 18.4958931378,
+      "species": "Tall",
+      "year": 1879
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1854
+    },
+    {
+      "site_id": 4166,
+      "site_name": "Fröjden",
+      "lat": 58.0836551307,
+      "lon": 16.4887472928,
+      "species": "Tall",
+      "year": 1853
+    },
+    {
+      "site_id": 4145,
+      "site_name": "Gällstaö Gård",
+      "lat": 59.2824802673,
+      "lon": 17.8451896473,
+      "species": "Tall",
+      "year": 1872
+    },
+    {
+      "site_id": 4054,
+      "site_name": "Noors Herrgård",
+      "lat": 59.8749269109,
+      "lon": 18.8372757059,
+      "species": "Tall",
+      "year": 1857
+    },
+    {
+      "site_id": 3982,
+      "site_name": "Toresbo",
+      "lat": 56.687873753,
+      "lon": 15.794011781,
+      "species": "Tall",
+      "year": 1858
+    },
+    {
+      "site_id": 4161,
+      "site_name": "Föllingsö säteri",
+      "lat": 57.9792353144,
+      "lon": 15.5982792286,
+      "species": "Tall",
+      "year": 1875
+    },
+    {
+      "site_id": 4161,
+      "site_name": "Föllingsö säteri",
+      "lat": 57.9792353144,
+      "lon": 15.5982792286,
+      "species": "Tall",
+      "year": 1851
+    },
+    {
+      "site_id": 4054,
+      "site_name": "Noors Herrgård",
+      "lat": 59.8749269109,
+      "lon": 18.8372757059,
+      "species": "Tall",
+      "year": 1856
+    },
+    {
+      "site_id": 4161,
+      "site_name": "Föllingsö säteri",
+      "lat": 57.9792353144,
+      "lon": 15.5982792286,
+      "species": "Tall",
+      "year": 1874
+    },
+    {
+      "site_id": 4020,
+      "site_name": "Sigfridsgården",
+      "lat": 58.0836600816,
+      "lon": 16.4944629982,
+      "species": "Tall",
+      "year": 1865
+    },
+    {
+      "site_id": 3857,
+      "site_name": "Skedshult",
+      "lat": 58.0836600816,
+      "lon": 16.4944629982,
+      "species": "Gran",
+      "year": 1871
+    },
+    {
+      "site_id": 3828,
+      "site_name": "75549 Nybro",
+      "lat": 56.7376874617,
+      "lon": 15.9333443683,
+      "species": "Tall",
+      "year": 1866
+    },
+    {
+      "site_id": 4178,
+      "site_name": "Etelhems kyrka",
+      "lat": 57.337221976,
+      "lon": 18.4958931378,
+      "species": "Tall",
+      "year": 1879
+    },
+    {
+      "site_id": 4230,
+      "site_name": "Alskogs kyrka",
+      "lat": 57.3315279724,
+      "lon": 18.627353896,
+      "species": "Tall",
+      "year": 1854
+    },
+    {
+      "site_id": 3982,
+      "site_name": "Toresbo",
+      "lat": 56.687873753,
+      "lon": 15.794011781,
+      "species": "Tall",
+      "year": 1858
+    },
+    {
+      "site_id": 4140,
+      "site_name": "Hall kyrka",
+      "lat": 57.8920701027,
+      "lon": 18.715963847,
+      "species": "Tall",
+      "year": 1869
+    },
+    {
+      "site_id": 4178,
+      "site_name": "Etelhems kyrka",
+      "lat": 57.337221976,
+      "lon": 18.4958931378,
+      "species": "Tall",
+      "year": 1879
+    },
+    {
+      "site_id": 3982,
+      "site_name": "Toresbo",
+      "lat": 56.687873753,
+      "lon": 15.794011781,
+      "species": "Tall",
+      "year": 1858
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1850
+    },
+    {
+      "site_id": 3865,
+      "site_name": "Mariannelund",
+      "lat": 57.6154818529,
+      "lon": 15.5721692125,
+      "species": "Tall",
+      "year": 1862
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1851
+    },
+    {
+      "site_id": 4106,
+      "site_name": "Jönköpings regemente",
+      "lat": 57.7658874387,
+      "lon": 14.1974942821,
+      "species": "Tall",
+      "year": 1870
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1872
+    },
+    {
+      "site_id": 4140,
+      "site_name": "Hall kyrka",
+      "lat": 57.8920701027,
+      "lon": 18.715963847,
+      "species": "Tall",
+      "year": 1883
+    },
+    {
+      "site_id": 4079,
+      "site_name": "Lilla Lögla",
+      "lat": 59.6367550656,
+      "lon": 18.734143853,
+      "species": "Gran",
+      "year": 1859
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1853
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1869
+    },
+    {
+      "site_id": 4020,
+      "site_name": "Sigfridsgården",
+      "lat": 58.0836600816,
+      "lon": 16.4944629982,
+      "species": "Tall",
+      "year": 1866
+    },
+    {
+      "site_id": 3901,
+      "site_name": "Ilnestorp",
+      "lat": 55.9122321444,
+      "lon": 13.9472829936,
+      "species": "Ek",
+      "year": 1874
+    },
+    {
+      "site_id": 3833,
+      "site_name": "12051 Bro",
+      "lat": 57.6698565725,
+      "lon": 18.4661389697,
+      "species": "Tall",
+      "year": 1850
+    },
+    {
+      "site_id": 4145,
+      "site_name": "Gällstaö Gård",
+      "lat": 59.2824802673,
+      "lon": 17.8451896473,
+      "species": "Tall",
+      "year": 1883
+    },
+    {
+      "site_id": 3982,
+      "site_name": "Toresbo",
+      "lat": 56.687873753,
+      "lon": 15.794011781,
+      "species": "Tall",
+      "year": 1858
+    },
+    {
+      "site_id": 4020,
+      "site_name": "Sigfridsgården",
+      "lat": 58.0836600816,
+      "lon": 16.4944629982,
+      "species": "Tall",
+      "year": 1866
+    },
+    {
+      "site_id": 3992,
+      "site_name": "Stora Rickby",
+      "lat": 59.6919816711,
+      "lon": 17.8877828299,
+      "species": "Gran",
+      "year": 1879
+    },
+    {
+      "site_id": 3908,
+      "site_name": "Herrökna gård",
+      "lat": 59.1158613488,
+      "lon": 16.9618752991,
+      "species": "Tall",
+      "year": 1864
+    },
+    {
+      "site_id": 4079,
+      "site_name": "Lilla Lögla",
+      "lat": 59.6367550656,
+      "lon": 18.734143853,
+      "species": "Tall",
+      "year": 1870
+    },
+    {
+      "site_id": 3982,
+      "site_name": "Toresbo",
+      "lat": 56.687873753,
+      "lon": 15.794011781,
+      "species": "Tall",
+      "year": 1858
+    },
+    {
+      "site_id": 3817,
+      "site_name": "75525 Småland",
+      "lat": 57.0999947302,
+      "lon": 14.8833206377,
+      "species": "Tall",
+      "year": 1881
+    },
+    {
+      "site_id": 3995,
+      "site_name": "Stora Kolfly",
+      "lat": 56.668258298,
+      "lon": 15.7252303996,
+      "species": "Tall",
+      "year": 1860
+    },
+    {
+      "site_id": 4020,
+      "site_name": "Sigfridsgården",
+      "lat": 58.0836600816,
+      "lon": 16.4944629982,
+      "species": "Tall",
+      "year": 1866
+    },
+    {
+      "site_id": 4007,
+      "site_name": "Slästorp",
+      "lat": 58.1918290817,
+      "lon": 15.1483176423,
+      "species": "Gran",
+      "year": 1863
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1872
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1872
+    },
+    {
+      "site_id": 3840,
+      "site_name": "Vippröste",
+      "lat": 58.1240511434,
+      "lon": 15.4352815847,
+      "species": "Tall",
+      "year": 1868
+    },
+    {
+      "site_id": 4054,
+      "site_name": "Noors Herrgård",
+      "lat": 59.8749269109,
+      "lon": 18.8372757059,
+      "species": "Tall",
+      "year": 1856
+    },
+    {
+      "site_id": 4178,
+      "site_name": "Etelhems kyrka",
+      "lat": 57.337221976,
+      "lon": 18.4958931378,
+      "species": "Tall",
+      "year": 1879
+    },
+    {
+      "site_id": 4161,
+      "site_name": "Föllingsö säteri",
+      "lat": 57.9792353144,
+      "lon": 15.5982792286,
+      "species": "Tall",
+      "year": 1851
+    },
+    {
+      "site_id": 3882,
+      "site_name": "Kvarteret Krögaren",
+      "lat": 56.6634543544,
+      "lon": 16.3683320541,
+      "species": "Tall",
+      "year": 1851
+    },
+    {
+      "site_id": 3907,
+      "site_name": "Hults kulla",
+      "lat": 57.6064706378,
+      "lon": 15.1924987628,
+      "species": "Tall",
+      "year": 1852
+    },
+    {
+      "site_id": 4106,
+      "site_name": "Jönköpings regemente",
+      "lat": 57.7658874387,
+      "lon": 14.1974942821,
+      "species": "Tall",
+      "year": 1874
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1868
+    },
+    {
+      "site_id": 4178,
+      "site_name": "Etelhems kyrka",
+      "lat": 57.337221976,
+      "lon": 18.4958931378,
+      "species": "Tall",
+      "year": 1879
+    },
+    {
+      "site_id": 4102,
+      "site_name": "Kisa hotell och konferens",
+      "lat": 57.9869621622,
+      "lon": 15.6367139929,
+      "species": "Tall",
+      "year": 1882
+    },
+    {
+      "site_id": 3949,
+      "site_name": "Väsby kvarn",
+      "lat": 59.5330507391,
+      "lon": 18.067232364,
+      "species": "Tall",
+      "year": 1864
+    },
+    {
+      "site_id": 4040,
+      "site_name": "Pedersborg",
+      "lat": 59.7461323276,
+      "lon": 18.8157655584,
+      "species": "Tall",
+      "year": 1863
+    },
+    {
+      "site_id": 4178,
+      "site_name": "Etelhems kyrka",
+      "lat": 57.337221976,
+      "lon": 18.4958931378,
+      "species": "Tall",
+      "year": 1879
+    },
+    {
+      "site_id": 4177,
+      "site_name": "Fallebo gård",
+      "lat": 57.2825301121,
+      "lon": 16.4599047102,
+      "species": "Tall",
+      "year": 1889
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1872
+    },
+    {
+      "site_id": 3920,
+      "site_name": "Stockholms Slott",
+      "lat": 59.3268384536,
+      "lon": 18.0716158312,
+      "species": "Tall",
+      "year": 1874
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1867
+    },
+    {
+      "site_id": 4041,
+      "site_name": "Ottenby kungsgård",
+      "lat": 56.2324481195,
+      "lon": 16.4131022179,
+      "species": "Tall",
+      "year": 1869
+    },
+    {
+      "site_id": 3880,
+      "site_name": "Kvarteret Ormen",
+      "lat": 59.3193051014,
+      "lon": 18.070970803,
+      "species": "Gran",
+      "year": 1856
+    },
+    {
+      "site_id": 4230,
+      "site_name": "Alskogs kyrka",
+      "lat": 57.3315279724,
+      "lon": 18.627353896,
+      "species": "Tall",
+      "year": 1854
+    },
+    {
+      "site_id": 3982,
+      "site_name": "Toresbo",
+      "lat": 56.687873753,
+      "lon": 15.794011781,
+      "species": "Tall",
+      "year": 1858
+    },
+    {
+      "site_id": 3995,
+      "site_name": "Stora Kolfly",
+      "lat": 56.668258298,
+      "lon": 15.7252303996,
+      "species": "Tall",
+      "year": 1889
+    },
+    {
+      "site_id": 4020,
+      "site_name": "Sigfridsgården",
+      "lat": 58.0836600816,
+      "lon": 16.4944629982,
+      "species": "Tall",
+      "year": 1866
+    },
+    {
+      "site_id": 4153,
+      "site_name": "Glabro",
+      "lat": 58.0905775745,
+      "lon": 16.5051168223,
+      "species": "Tall",
+      "year": 1854
+    },
+    {
+      "site_id": 3882,
+      "site_name": "Kvarteret Krögaren",
+      "lat": 56.6634543544,
+      "lon": 16.3683320541,
+      "species": "Tall",
+      "year": 1856
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1872
+    },
+    {
+      "site_id": 3982,
+      "site_name": "Toresbo",
+      "lat": 56.687873753,
+      "lon": 15.794011781,
+      "species": "Tall",
+      "year": 1858
+    },
+    {
+      "site_id": 4106,
+      "site_name": "Jönköpings regemente",
+      "lat": 57.7658874387,
+      "lon": 14.1974942821,
+      "species": "Tall",
+      "year": 1896
+    },
+    {
+      "site_id": 4106,
+      "site_name": "Jönköpings regemente",
+      "lat": 57.7658874387,
+      "lon": 14.1974942821,
+      "species": "Tall",
+      "year": 1869
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1868
+    },
+    {
+      "site_id": 4230,
+      "site_name": "Alskogs kyrka",
+      "lat": 57.3315279724,
+      "lon": 18.627353896,
+      "species": "Tall",
+      "year": 1853
+    },
+    {
+      "site_id": 3913,
+      "site_name": "Friggestad",
+      "lat": 55.9026716839,
+      "lon": 13.9326988282,
+      "species": "Ek",
+      "year": 1854
+    },
+    {
+      "site_id": 3840,
+      "site_name": "Vippröste",
+      "lat": 58.1240511434,
+      "lon": 15.4352815847,
+      "species": "Tall",
+      "year": 1867
+    },
+    {
+      "site_id": 4054,
+      "site_name": "Noors Herrgård",
+      "lat": 59.8749269109,
+      "lon": 18.8372757059,
+      "species": "Gran",
+      "year": 1856
+    },
+    {
+      "site_id": 3982,
+      "site_name": "Toresbo",
+      "lat": 56.687873753,
+      "lon": 15.794011781,
+      "species": "Tall",
+      "year": 1858
+    },
+    {
+      "site_id": 3840,
+      "site_name": "Vippröste",
+      "lat": 58.1240511434,
+      "lon": 15.4352815847,
+      "species": "Tall",
+      "year": 1868
+    },
+    {
+      "site_id": 3840,
+      "site_name": "Vippröste",
+      "lat": 58.1240511434,
+      "lon": 15.4352815847,
+      "species": "Tall",
+      "year": 1868
+    },
+    {
+      "site_id": 4079,
+      "site_name": "Lilla Lögla",
+      "lat": 59.6367550656,
+      "lon": 18.734143853,
+      "species": "Gran",
+      "year": 1870
+    },
+    {
+      "site_id": 3840,
+      "site_name": "Vippröste",
+      "lat": 58.1240511434,
+      "lon": 15.4352815847,
+      "species": "Tall",
+      "year": 1867
+    },
+    {
+      "site_id": 3840,
+      "site_name": "Vippröste",
+      "lat": 58.1240511434,
+      "lon": 15.4352815847,
+      "species": "Tall",
+      "year": 1868
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1868
+    },
+    {
+      "site_id": 4079,
+      "site_name": "Lilla Lögla",
+      "lat": 59.6367550656,
+      "lon": 18.734143853,
+      "species": "Tall",
+      "year": 1870
+    },
+    {
+      "site_id": 4161,
+      "site_name": "Föllingsö säteri",
+      "lat": 57.9792353144,
+      "lon": 15.5982792286,
+      "species": "Tall",
+      "year": 1875
+    },
+    {
+      "site_id": 4178,
+      "site_name": "Etelhems kyrka",
+      "lat": 57.337221976,
+      "lon": 18.4958931378,
+      "species": "Tall",
+      "year": 1879
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1892
+    },
+    {
+      "site_id": 3949,
+      "site_name": "Väsby kvarn",
+      "lat": 59.5330507391,
+      "lon": 18.067232364,
+      "species": "Tall",
+      "year": 1864
+    },
+    {
+      "site_id": 3857,
+      "site_name": "Skedshult",
+      "lat": 58.0836600816,
+      "lon": 16.4944629982,
+      "species": "Tall",
+      "year": 1871
+    },
+    {
+      "site_id": 3982,
+      "site_name": "Toresbo",
+      "lat": 56.687873753,
+      "lon": 15.794011781,
+      "species": "Tall",
+      "year": 1858
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Tall",
+      "year": 1864
+    },
+    {
+      "site_id": 3907,
+      "site_name": "Hults kulla",
+      "lat": 57.6064706378,
+      "lon": 15.1924987628,
+      "species": "Tall",
+      "year": 1851
+    },
+    {
+      "site_id": 3995,
+      "site_name": "Stora Kolfly",
+      "lat": 56.668258298,
+      "lon": 15.7252303996,
+      "species": "Tall",
+      "year": 1860
+    },
+    {
+      "site_id": 4230,
+      "site_name": "Alskogs kyrka",
+      "lat": 57.3315279724,
+      "lon": 18.627353896,
+      "species": "Tall",
+      "year": 1854
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1852
+    },
+    {
+      "site_id": 3949,
+      "site_name": "Väsby kvarn",
+      "lat": 59.5330507391,
+      "lon": 18.067232364,
+      "species": "Tall",
+      "year": 1864
+    },
+    {
+      "site_id": 3913,
+      "site_name": "Friggestad",
+      "lat": 55.9026716839,
+      "lon": 13.9326988282,
+      "species": "Ek",
+      "year": 1856
+    },
+    {
+      "site_id": 4145,
+      "site_name": "Gällstaö Gård",
+      "lat": 59.2824802673,
+      "lon": 17.8451896473,
+      "species": "Tall",
+      "year": 1883
+    },
+    {
+      "site_id": 4230,
+      "site_name": "Alskogs kyrka",
+      "lat": 57.3315279724,
+      "lon": 18.627353896,
+      "species": "Tall",
+      "year": 1854
+    },
+    {
+      "site_id": 4176,
+      "site_name": "Farhults kyrka",
+      "lat": 56.2140163145,
+      "lon": 12.7123001788,
+      "species": "Tall",
+      "year": 1866
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1867
+    },
+    {
+      "site_id": 4134,
+      "site_name": "Haneberg säteri",
+      "lat": 59.1863826033,
+      "lon": 16.2865415067,
+      "species": "Tall",
+      "year": 1854
+    },
+    {
+      "site_id": 4100,
+      "site_name": "Kleva gård",
+      "lat": 59.01385283,
+      "lon": 17.0847642233,
+      "species": "Gran",
+      "year": 1866
+    },
+    {
+      "site_id": 4198,
+      "site_name": "Brunsta gård",
+      "lat": 58.780304488,
+      "lon": 16.9499694894,
+      "species": "Tall",
+      "year": 1856
+    },
+    {
+      "site_id": 4100,
+      "site_name": "Kleva gård",
+      "lat": 59.01385283,
+      "lon": 17.0847642233,
+      "species": "Tall",
+      "year": 1891
+    },
+    {
+      "site_id": 4106,
+      "site_name": "Jönköpings regemente",
+      "lat": 57.7658874387,
+      "lon": 14.1974942821,
+      "species": "Tall",
+      "year": 1875
+    },
+    {
+      "site_id": 4177,
+      "site_name": "Fallebo gård",
+      "lat": 57.2825301121,
+      "lon": 16.4599047102,
+      "species": "Tall",
+      "year": 1890
+    },
+    {
+      "site_id": 4040,
+      "site_name": "Pedersborg",
+      "lat": 59.7461323276,
+      "lon": 18.8157655584,
+      "species": "Tall",
+      "year": 1863
+    },
+    {
+      "site_id": 3901,
+      "site_name": "Ilnestorp",
+      "lat": 55.9122321444,
+      "lon": 13.9472829936,
+      "species": "Ek",
+      "year": 1870
+    },
+    {
+      "site_id": 4145,
+      "site_name": "Gällstaö Gård",
+      "lat": 59.2824802673,
+      "lon": 17.8451896473,
+      "species": "Tall",
+      "year": 1883
+    },
+    {
+      "site_id": 3865,
+      "site_name": "Mariannelund",
+      "lat": 57.6154818529,
+      "lon": 15.5721692125,
+      "species": "Tall",
+      "year": 1859
+    },
+    {
+      "site_id": 4093,
+      "site_name": "Kulltorps gård",
+      "lat": 58.0871147666,
+      "lon": 16.4801731603,
+      "species": "Tall",
+      "year": 1878
+    },
+    {
+      "site_id": 3817,
+      "site_name": "75525 Småland",
+      "lat": 57.0999947302,
+      "lon": 14.8833206377,
+      "species": "Tall",
+      "year": 1879
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1872
+    },
+    {
+      "site_id": 4161,
+      "site_name": "Föllingsö säteri",
+      "lat": 57.9792353144,
+      "lon": 15.5982792286,
+      "species": "Tall",
+      "year": 1850
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1853
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1852
+    },
+    {
+      "site_id": 4040,
+      "site_name": "Pedersborg",
+      "lat": 59.7461323276,
+      "lon": 18.8157655584,
+      "species": "Tall",
+      "year": 1863
+    },
+    {
+      "site_id": 4145,
+      "site_name": "Gällstaö Gård",
+      "lat": 59.2824802673,
+      "lon": 17.8451896473,
+      "species": "Tall",
+      "year": 1872
+    },
+    {
+      "site_id": 4178,
+      "site_name": "Etelhems kyrka",
+      "lat": 57.337221976,
+      "lon": 18.4958931378,
+      "species": "Tall",
+      "year": 1879
+    },
+    {
+      "site_id": 4100,
+      "site_name": "Kleva gård",
+      "lat": 59.01385283,
+      "lon": 17.0847642233,
+      "species": "Tall",
+      "year": 1863
+    },
+    {
+      "site_id": 3901,
+      "site_name": "Ilnestorp",
+      "lat": 55.9122321444,
+      "lon": 13.9472829936,
+      "species": "Ek",
+      "year": 1873
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1872
+    },
+    {
+      "site_id": 3992,
+      "site_name": "Stora Rickby",
+      "lat": 59.6919816711,
+      "lon": 17.8877828299,
+      "species": "Tall",
+      "year": 1879
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1852
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1869
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1851
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1851
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1855
+    },
+    {
+      "site_id": 4093,
+      "site_name": "Kulltorps gård",
+      "lat": 58.0871147666,
+      "lon": 16.4801731603,
+      "species": "Tall",
+      "year": 1881
+    },
+    {
+      "site_id": 4178,
+      "site_name": "Etelhems kyrka",
+      "lat": 57.337221976,
+      "lon": 18.4958931378,
+      "species": "Tall",
+      "year": 1879
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1854
+    },
+    {
+      "site_id": 3857,
+      "site_name": "Skedshult",
+      "lat": 58.0836600816,
+      "lon": 16.4944629982,
+      "species": "Tall",
+      "year": 1871
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1872
+    },
+    {
+      "site_id": 3877,
+      "site_name": "Kvarteret Rådhuset",
+      "lat": 57.7584051198,
+      "lon": 16.6368333533,
+      "species": "Gran",
+      "year": 1864
+    },
+    {
+      "site_id": 3982,
+      "site_name": "Toresbo",
+      "lat": 56.687873753,
+      "lon": 15.794011781,
+      "species": "Tall",
+      "year": 1858
+    },
+    {
+      "site_id": 4178,
+      "site_name": "Etelhems kyrka",
+      "lat": 57.337221976,
+      "lon": 18.4958931378,
+      "species": "Tall",
+      "year": 1879
+    },
+    {
+      "site_id": 4178,
+      "site_name": "Etelhems kyrka",
+      "lat": 57.337221976,
+      "lon": 18.4958931378,
+      "species": "Tall",
+      "year": 1879
+    },
+    {
+      "site_id": 4054,
+      "site_name": "Noors Herrgård",
+      "lat": 59.8749269109,
+      "lon": 18.8372757059,
+      "species": "Gran",
+      "year": 1856
+    },
+    {
+      "site_id": 4102,
+      "site_name": "Kisa hotell och konferens",
+      "lat": 57.9869621622,
+      "lon": 15.6367139929,
+      "species": "Tall",
+      "year": 1883
+    },
+    {
+      "site_id": 3840,
+      "site_name": "Vippröste",
+      "lat": 58.1240511434,
+      "lon": 15.4352815847,
+      "species": "Tall",
+      "year": 1868
+    },
+    {
+      "site_id": 4198,
+      "site_name": "Brunsta gård",
+      "lat": 58.780304488,
+      "lon": 16.9499694894,
+      "species": "Tall",
+      "year": 1856
+    },
+    {
+      "site_id": 4054,
+      "site_name": "Noors Herrgård",
+      "lat": 59.8749269109,
+      "lon": 18.8372757059,
+      "species": "Tall",
+      "year": 1857
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1872
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1855
+    },
+    {
+      "site_id": 3982,
+      "site_name": "Toresbo",
+      "lat": 56.687873753,
+      "lon": 15.794011781,
+      "species": "Tall",
+      "year": 1856
+    },
+    {
+      "site_id": 3903,
+      "site_name": "Häljaryd",
+      "lat": 56.9459010335,
+      "lon": 14.9851896895,
+      "species": "Tall",
+      "year": 1865
+    },
+    {
+      "site_id": 4230,
+      "site_name": "Alskogs kyrka",
+      "lat": 57.3315279724,
+      "lon": 18.627353896,
+      "species": "Tall",
+      "year": 1854
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1851
+    },
+    {
+      "site_id": 3913,
+      "site_name": "Friggestad",
+      "lat": 55.9026716839,
+      "lon": 13.9326988282,
+      "species": "Ek",
+      "year": 1859
+    },
+    {
+      "site_id": 4020,
+      "site_name": "Sigfridsgården",
+      "lat": 58.0836600816,
+      "lon": 16.4944629982,
+      "species": "Tall",
+      "year": 1866
+    },
+    {
+      "site_id": 3817,
+      "site_name": "75525 Småland",
+      "lat": 57.0999947302,
+      "lon": 14.8833206377,
+      "species": "Tall",
+      "year": 1882
+    },
+    {
+      "site_id": 3901,
+      "site_name": "Ilnestorp",
+      "lat": 55.9122321444,
+      "lon": 13.9472829936,
+      "species": "Ek",
+      "year": 1858
+    },
+    {
+      "site_id": 3966,
+      "site_name": "Vall kyrka",
+      "lat": 57.5207796756,
+      "lon": 18.3450564287,
+      "species": "Tall",
+      "year": 1852
+    },
+    {
+      "site_id": 3840,
+      "site_name": "Vippröste",
+      "lat": 58.1240511434,
+      "lon": 15.4352815847,
+      "species": "Tall",
+      "year": 1868
+    },
+    {
+      "site_id": 4009,
+      "site_name": "Slevringe gård",
+      "lat": 58.2027733697,
+      "lon": 15.9603993335,
+      "species": "Tall",
+      "year": 1857
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1859
+    },
+    {
+      "site_id": 4020,
+      "site_name": "Sigfridsgården",
+      "lat": 58.0836600816,
+      "lon": 16.4944629982,
+      "species": "Tall",
+      "year": 1866
+    },
+    {
+      "site_id": 3817,
+      "site_name": "75525 Småland",
+      "lat": 57.0999947302,
+      "lon": 14.8833206377,
+      "species": "Tall",
+      "year": 1880
+    },
+    {
+      "site_id": 4100,
+      "site_name": "Kleva gård",
+      "lat": 59.01385283,
+      "lon": 17.0847642233,
+      "species": "Tall",
+      "year": 1867
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1855
+    },
+    {
+      "site_id": 4040,
+      "site_name": "Pedersborg",
+      "lat": 59.7461323276,
+      "lon": 18.8157655584,
+      "species": "Tall",
+      "year": 1863
+    },
+    {
+      "site_id": 4161,
+      "site_name": "Föllingsö säteri",
+      "lat": 57.9792353144,
+      "lon": 15.5982792286,
+      "species": "Tall",
+      "year": 1850
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1851
+    },
+    {
+      "site_id": 4166,
+      "site_name": "Fröjden",
+      "lat": 58.0836551307,
+      "lon": 16.4887472928,
+      "species": "Tall",
+      "year": 1865
+    },
+    {
+      "site_id": 3882,
+      "site_name": "Kvarteret Krögaren",
+      "lat": 56.6634543544,
+      "lon": 16.3683320541,
+      "species": "Tall",
+      "year": 1851
+    }
+  ]
+}

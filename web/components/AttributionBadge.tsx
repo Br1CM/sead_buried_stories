@@ -6,7 +6,7 @@ export function AttributionBadge({ image }: { image: ImageCredit | null }) {
   if (parts.length === 0) return null;
 
   return (
-    <p className="text-[10px] leading-tight text-white/40">
+    <p className="text-[10px] leading-tight text-ink-40">
       Photo: {parts.join(" · ")}
     </p>
   );

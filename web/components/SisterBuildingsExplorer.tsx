@@ -1,0 +1,82 @@
+"use client";
+
+import Image from "next/image";
+import { useState } from "react";
+import { AttributionBadge } from "@/components/AttributionBadge";
+import { SisterBuildingsMap } from "@/components/SisterBuildingsMap";
+import { speciesLabel } from "@/lib/speciesColors";
+import type { SisterCluster } from "@/lib/types";
+
+export function SisterBuildingsExplorer({ clusters }: { clusters: SisterCluster[] }) {
+  const [activeIndex, setActiveIndex] = useState(0);
+  const active = clusters[activeIndex];
+
+  return (
+    <div className="flex flex-col gap-6">
+      <div className="flex gap-2 overflow-x-auto pb-2">
+        {clusters.map((c, i) => (
+          <button
+            key={`${c.provenance}-${c.year_bucket}`}
+            onClick={() => setActiveIndex(i)}
+            className={`shrink-0 rounded-full border px-4 py-2 text-sm transition-colors ${
+              i === activeIndex
+                ? "border-accent bg-accent text-black"
+                : "border-ink-15 bg-ink-3 text-ink-70 hover:border-ink-30"
+            }`}
+          >
+            {c.provenance} &middot; {c.label}
+          </button>
+        ))}
+      </div>
+
+      {active && (
+        <>
+          <div className="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1">
+            <h2 className="text-xl font-medium">
+              Timber from {active.provenance}, around {active.label}
+            </h2>
+            <span className="text-sm text-ink-40">
+              {active.n_sites} buildings &middot; up to {active.max_distance_km} km away
+            </span>
+          </div>
+
+          <div className="h-[420px] w-full overflow-hidden rounded-2xl border border-ink-10">
+            <SisterBuildingsMap cluster={active} />
+          </div>
+
+          <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {active.sites.map((s) => (
+              <div
+                key={s.site_id}
+                className="overflow-hidden rounded-2xl border border-ink-10 bg-ink-3"
+              >
+                <div className="relative aspect-[4/3] w-full bg-ink-5">
+                  {s.photo ? (
+                    <Image src={s.photo.url} alt={s.site_name} fill unoptimized className="object-cover" />
+                  ) : (
+                    <div className="flex h-full w-full items-center justify-center text-ink-20">
+                      No photo
+                    </div>
+                  )}
+                </div>
+                <div className="p-3">
+                  <div className="text-sm font-medium">{s.site_name}</div>
+                  <div className="mt-0.5 text-xs text-ink-50">
+                    {s.label}
+                    {s.species_local && ` · ${speciesLabel(s.species_local)}`}
+                  </div>
+                  <div className="text-xs text-accent-text">{s.distance_km} km from {active.provenance}</div>
+                  {s.photo && (
+                    <div className="mt-1">
+                      <AttributionBadge image={s.photo} />
+                    </div>
+                  )}
+                </div>
+              </div>
+            ))}
+          </div>
+        </>
+      )}
+    </div>
+  );
+}

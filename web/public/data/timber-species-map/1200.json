@@ -1,0 +1,844 @@
+{
+  "bucket_start": 1200,
+  "label": "1200 AD - 1250 AD",
+  "n_samples": 104,
+  "composition": {
+    "Tall": 62.5,
+    "Ek": 36.5,
+    "Gran": 1.0
+  },
+  "points": [
+    {
+      "site_id": 4191,
+      "site_name": "Cramérska huset",
+      "lat": 57.6413266574,
+      "lon": 18.2957180164,
+      "species": "Tall",
+      "year": 1233
+    },
+    {
+      "site_id": 4037,
+      "site_name": "Ravlunda kyrka",
+      "lat": 55.7137487946,
+      "lon": 14.1508450575,
+      "species": "Ek",
+      "year": 1206
+    },
+    {
+      "site_id": 4039,
+      "site_name": "Perstorps kyrka",
+      "lat": 56.1416136158,
+      "lon": 13.3867602912,
+      "species": "Ek",
+      "year": 1248
+    },
+    {
+      "site_id": 4037,
+      "site_name": "Ravlunda kyrka",
+      "lat": 55.7137487946,
+      "lon": 14.1508450575,
+      "species": "Ek",
+      "year": 1210
+    },
+    {
+      "site_id": 4141,
+      "site_name": "Hakarps kyrka",
+      "lat": 57.796370601,
+      "lon": 14.3113491593,
+      "species": "Ek",
+      "year": 1238
+    },
+    {
+      "site_id": 4034,
+      "site_name": "Rogslösa kyrka",
+      "lat": 58.3828598943,
+      "lon": 14.7435739026,
+      "species": "Tall",
+      "year": 1248
+    },
+    {
+      "site_id": 4034,
+      "site_name": "Rogslösa kyrka",
+      "lat": 58.3828598943,
+      "lon": 14.7435739026,
+      "species": "Tall",
+      "year": 1215
+    },
+    {
+      "site_id": 3881,
+      "site_name": "Kvarteret Museet",
+      "lat": 57.6394993709,
+      "lon": 18.2923675582,
+      "species": "Tall",
+      "year": 1206
+    },
+    {
+      "site_id": 4202,
+      "site_name": "Bro kyrka",
+      "lat": 57.6700592876,
+      "lon": 18.4747985406,
+      "species": "Tall",
+      "year": 1214
+    },
+    {
+      "site_id": 4034,
+      "site_name": "Rogslösa kyrka",
+      "lat": 58.3828598943,
+      "lon": 14.7435739026,
+      "species": "Tall",
+      "year": 1210
+    },
+    {
+      "site_id": 3952,
+      "site_name": "Våthults kyrka",
+      "lat": 57.3077526466,
+      "lon": 13.4568705069,
+      "species": "Ek",
+      "year": 1248
+    },
+    {
+      "site_id": 4202,
+      "site_name": "Bro kyrka",
+      "lat": 57.6700592876,
+      "lon": 18.4747985406,
+      "species": "Tall",
+      "year": 1214
+    },
+    {
+      "site_id": 4191,
+      "site_name": "Cramérska huset",
+      "lat": 57.6413266574,
+      "lon": 18.2957180164,
+      "species": "Tall",
+      "year": 1211
+    },
+    {
+      "site_id": 4118,
+      "site_name": "Hults kyrka",
+      "lat": 57.6308200388,
+      "lon": 15.1223284047,
+      "species": "Tall",
+      "year": 1229
+    },
+    {
+      "site_id": 4092,
+      "site_name": "Kumla kyrka",
+      "lat": 58.3301518879,
+      "lon": 14.8820609603,
+      "species": "Tall",
+      "year": 1208
+    },
+    {
+      "site_id": 4039,
+      "site_name": "Perstorps kyrka",
+      "lat": 56.1416136158,
+      "lon": 13.3867602912,
+      "species": "Ek",
+      "year": 1247
+    },
+    {
+      "site_id": 4173,
+      "site_name": "Fivelstad kyrka",
+      "lat": 58.4418912603,
+      "lon": 15.0022096889,
+      "species": "Ek",
+      "year": 1217
+    },
+    {
+      "site_id": 4114,
+      "site_name": "Härads kyrka",
+      "lat": 59.3598703443,
+      "lon": 16.9092602778,
+      "species": "Tall",
+      "year": 1204
+    },
+    {
+      "site_id": 4025,
+      "site_name": "Sankt Clemens kyrkoruin",
+      "lat": 57.6431405566,
+      "lon": 18.2961340134,
+      "species": "Tall",
+      "year": 1214
+    },
+    {
+      "site_id": 4092,
+      "site_name": "Kumla kyrka",
+      "lat": 58.3301518879,
+      "lon": 14.8820609603,
+      "species": "Tall",
+      "year": 1216
+    },
+    {
+      "site_id": 4108,
+      "site_name": "Hörsne kyrka",
+      "lat": 57.5585118971,
+      "lon": 18.5974471903,
+      "species": "Tall",
+      "year": 1246
+    },
+    {
+      "site_id": 4036,
+      "site_name": "Resmo kyrka",
+      "lat": 56.5413620819,
+      "lon": 16.443276332,
+      "species": "Ek",
+      "year": 1201
+    },
+    {
+      "site_id": 4034,
+      "site_name": "Rogslösa kyrka",
+      "lat": 58.3828598943,
+      "lon": 14.7435739026,
+      "species": "Tall",
+      "year": 1248
+    },
+    {
+      "site_id": 4136,
+      "site_name": "Hallstorps kyrka",
+      "lat": 56.4993020289,
+      "lon": 16.1102204665,
+      "species": "Tall",
+      "year": 1207
+    },
+    {
+      "site_id": 3881,
+      "site_name": "Kvarteret Museet",
+      "lat": 57.6394993709,
+      "lon": 18.2923675582,
+      "species": "Tall",
+      "year": 1228
+    },
+    {
+      "site_id": 4191,
+      "site_name": "Cramérska huset",
+      "lat": 57.6413266574,
+      "lon": 18.2957180164,
+      "species": "Tall",
+      "year": 1210
+    },
+    {
+      "site_id": 4092,
+      "site_name": "Kumla kyrka",
+      "lat": 58.3301518879,
+      "lon": 14.8820609603,
+      "species": "Tall",
+      "year": 1202
+    },
+    {
+      "site_id": 4136,
+      "site_name": "Hallstorps kyrka",
+      "lat": 56.4993020289,
+      "lon": 16.1102204665,
+      "species": "Tall",
+      "year": 1209
+    },
+    {
+      "site_id": 4075,
+      "site_name": "Linderöds kyrka",
+      "lat": 55.9376955798,
+      "lon": 13.8238972477,
+      "species": "Ek",
+      "year": 1218
+    },
+    {
+      "site_id": 4151,
+      "site_name": "Gothem kyrka",
+      "lat": 57.5754626247,
+      "lon": 18.7349928797,
+      "species": "Gran",
+      "year": 1215
+    },
+    {
+      "site_id": 4034,
+      "site_name": "Rogslösa kyrka",
+      "lat": 58.3828598943,
+      "lon": 14.7435739026,
+      "species": "Tall",
+      "year": 1212
+    },
+    {
+      "site_id": 4047,
+      "site_name": "Norrlanda kyrka",
+      "lat": 57.5015452994,
+      "lon": 18.6597394102,
+      "species": "Tall",
+      "year": 1200
+    },
+    {
+      "site_id": 4192,
+      "site_name": "Bäl kyrka",
+      "lat": 57.6447900202,
+      "lon": 18.6329661548,
+      "species": "Tall",
+      "year": 1200
+    },
+    {
+      "site_id": 4091,
+      "site_name": "Kumlaby kyrka",
+      "lat": 58.0551699017,
+      "lon": 14.3483650835,
+      "species": "Tall",
+      "year": 1247
+    },
+    {
+      "site_id": 3994,
+      "site_name": "Stora Köpinge kyrka",
+      "lat": 55.470583297,
+      "lon": 13.9474727836,
+      "species": "Ek",
+      "year": 1239
+    },
+    {
+      "site_id": 4203,
+      "site_name": "Bredsätra kyrka",
+      "lat": 56.8448438336,
+      "lon": 16.7938090021,
+      "species": "Ek",
+      "year": 1200
+    },
+    {
+      "site_id": 4216,
+      "site_name": "Bjälbo kyrka",
+      "lat": 58.3720422065,
+      "lon": 15.0054363737,
+      "species": "Tall",
+      "year": 1200
+    },
+    {
+      "site_id": 4202,
+      "site_name": "Bro kyrka",
+      "lat": 57.6700592876,
+      "lon": 18.4747985406,
+      "species": "Tall",
+      "year": 1214
+    },
+    {
+      "site_id": 4039,
+      "site_name": "Perstorps kyrka",
+      "lat": 56.1416136158,
+      "lon": 13.3867602912,
+      "species": "Ek",
+      "year": 1238
+    },
+    {
+      "site_id": 4034,
+      "site_name": "Rogslösa kyrka",
+      "lat": 58.3828598943,
+      "lon": 14.7435739026,
+      "species": "Tall",
+      "year": 1234
+    },
+    {
+      "site_id": 4037,
+      "site_name": "Ravlunda kyrka",
+      "lat": 55.7137487946,
+      "lon": 14.1508450575,
+      "species": "Ek",
+      "year": 1232
+    },
+    {
+      "site_id": 3900,
+      "site_name": "Ingatorp",
+      "lat": 57.6380382075,
+      "lon": 15.4073076125,
+      "species": "Tall",
+      "year": 1201
+    },
+    {
+      "site_id": 4034,
+      "site_name": "Rogslösa kyrka",
+      "lat": 58.3828598943,
+      "lon": 14.7435739026,
+      "species": "Tall",
+      "year": 1208
+    },
+    {
+      "site_id": 4034,
+      "site_name": "Rogslösa kyrka",
+      "lat": 58.3828598943,
+      "lon": 14.7435739026,
+      "species": "Tall",
+      "year": 1241
+    },
+    {
+      "site_id": 4075,
+      "site_name": "Linderöds kyrka",
+      "lat": 55.9376955798,
+      "lon": 13.8238972477,
+      "species": "Ek",
+      "year": 1212
+    },
+    {
+      "site_id": 4061,
+      "site_name": "Mellby kyrka",
+      "lat": 57.5560526033,
+      "lon": 15.1079898518,
+      "species": "Tall",
+      "year": 1245
+    },
+    {
+      "site_id": 4039,
+      "site_name": "Perstorps kyrka",
+      "lat": 56.1416136158,
+      "lon": 13.3867602912,
+      "species": "Ek",
+      "year": 1249
+    },
+    {
+      "site_id": 4114,
+      "site_name": "Härads kyrka",
+      "lat": 59.3598703443,
+      "lon": 16.9092602778,
+      "species": "Tall",
+      "year": 1202
+    },
+    {
+      "site_id": 4037,
+      "site_name": "Ravlunda kyrka",
+      "lat": 55.7137487946,
+      "lon": 14.1508450575,
+      "species": "Ek",
+      "year": 1214
+    },
+    {
+      "site_id": 3881,
+      "site_name": "Kvarteret Museet",
+      "lat": 57.6394993709,
+      "lon": 18.2923675582,
+      "species": "Tall",
+      "year": 1232
+    },
+    {
+      "site_id": 3953,
+      "site_name": "Voxtorps kyrka",
+      "lat": 56.5384067914,
+      "lon": 16.1426361678,
+      "species": "Ek",
+      "year": 1231
+    },
+    {
+      "site_id": 4034,
+      "site_name": "Rogslösa kyrka",
+      "lat": 58.3828598943,
+      "lon": 14.7435739026,
+      "species": "Tall",
+      "year": 1237
+    },
+    {
+      "site_id": 4034,
+      "site_name": "Rogslösa kyrka",
+      "lat": 58.3828598943,
+      "lon": 14.7435739026,
+      "species": "Tall",
+      "year": 1237
+    },
+    {
+      "site_id": 4092,
+      "site_name": "Kumla kyrka",
+      "lat": 58.3301518879,
+      "lon": 14.8820609603,
+      "species": "Tall",
+      "year": 1200
+    },
+    {
+      "site_id": 4114,
+      "site_name": "Härads kyrka",
+      "lat": 59.3598703443,
+      "lon": 16.9092602778,
+      "species": "Ek",
+      "year": 1219
+    },
+    {
+      "site_id": 4039,
+      "site_name": "Perstorps kyrka",
+      "lat": 56.1416136158,
+      "lon": 13.3867602912,
+      "species": "Ek",
+      "year": 1249
+    },
+    {
+      "site_id": 4094,
+      "site_name": "Kullerstads kyrka",
+      "lat": 58.5802606909,
+      "lon": 15.9437001903,
+      "species": "Tall",
+      "year": 1200
+    },
+    {
+      "site_id": 4114,
+      "site_name": "Härads kyrka",
+      "lat": 59.3598703443,
+      "lon": 16.9092602778,
+      "species": "Tall",
+      "year": 1202
+    },
+    {
+      "site_id": 4039,
+      "site_name": "Perstorps kyrka",
+      "lat": 56.1416136158,
+      "lon": 13.3867602912,
+      "species": "Ek",
+      "year": 1234
+    },
+    {
+      "site_id": 3953,
+      "site_name": "Voxtorps kyrka",
+      "lat": 56.5384067914,
+      "lon": 16.1426361678,
+      "species": "Ek",
+      "year": 1221
+    },
+    {
+      "site_id": 4034,
+      "site_name": "Rogslösa kyrka",
+      "lat": 58.3828598943,
+      "lon": 14.7435739026,
+      "species": "Tall",
+      "year": 1211
+    },
+    {
+      "site_id": 4191,
+      "site_name": "Cramérska huset",
+      "lat": 57.6413266574,
+      "lon": 18.2957180164,
+      "species": "Tall",
+      "year": 1235
+    },
+    {
+      "site_id": 4039,
+      "site_name": "Perstorps kyrka",
+      "lat": 56.1416136158,
+      "lon": 13.3867602912,
+      "species": "Ek",
+      "year": 1213
+    },
+    {
+      "site_id": 4039,
+      "site_name": "Perstorps kyrka",
+      "lat": 56.1416136158,
+      "lon": 13.3867602912,
+      "species": "Ek",
+      "year": 1246
+    },
+    {
+      "site_id": 4144,
+      "site_name": "Gärdslösa kyrka",
+      "lat": 56.7935501423,
+      "lon": 16.7376193603,
+      "species": "Ek",
+      "year": 1238
+    },
+    {
+      "site_id": 4205,
+      "site_name": "Bosebo kyrka",
+      "lat": 57.3061935154,
+      "lon": 13.3510066476,
+      "species": "Ek",
+      "year": 1205
+    },
+    {
+      "site_id": 4034,
+      "site_name": "Rogslösa kyrka",
+      "lat": 58.3828598943,
+      "lon": 14.7435739026,
+      "species": "Tall",
+      "year": 1204
+    },
+    {
+      "site_id": 3944,
+      "site_name": "Västerås domkyrka",
+      "lat": 59.6125134217,
+      "lon": 16.5412050217,
+      "species": "Tall",
+      "year": 1247
+    },
+    {
+      "site_id": 4034,
+      "site_name": "Rogslösa kyrka",
+      "lat": 58.3828598943,
+      "lon": 14.7435739026,
+      "species": "Tall",
+      "year": 1233
+    },
+    {
+      "site_id": 3994,
+      "site_name": "Stora Köpinge kyrka",
+      "lat": 55.470583297,
+      "lon": 13.9474727836,
+      "species": "Ek",
+      "year": 1218
+    },
+    {
+      "site_id": 4108,
+      "site_name": "Hörsne kyrka",
+      "lat": 57.5585118971,
+      "lon": 18.5974471903,
+      "species": "Tall",
+      "year": 1240
+    },
+    {
+      "site_id": 4114,
+      "site_name": "Härads kyrka",
+      "lat": 59.3598703443,
+      "lon": 16.9092602778,
+      "species": "Tall",
+      "year": 1215
+    },
+    {
+      "site_id": 4191,
+      "site_name": "Cramérska huset",
+      "lat": 57.6413266574,
+      "lon": 18.2957180164,
+      "species": "Tall",
+      "year": 1214
+    },
+    {
+      "site_id": 4039,
+      "site_name": "Perstorps kyrka",
+      "lat": 56.1416136158,
+      "lon": 13.3867602912,
+      "species": "Ek",
+      "year": 1242
+    },
+    {
+      "site_id": 4034,
+      "site_name": "Rogslösa kyrka",
+      "lat": 58.3828598943,
+      "lon": 14.7435739026,
+      "species": "Tall",
+      "year": 1249
+    },
+    {
+      "site_id": 3900,
+      "site_name": "Ingatorp",
+      "lat": 57.6380382075,
+      "lon": 15.4073076125,
+      "species": "Tall",
+      "year": 1204
+    },
+    {
+      "site_id": 4039,
+      "site_name": "Perstorps kyrka",
+      "lat": 56.1416136158,
+      "lon": 13.3867602912,
+      "species": "Ek",
+      "year": 1249
+    },
+    {
+      "site_id": 4034,
+      "site_name": "Rogslösa kyrka",
+      "lat": 58.3828598943,
+      "lon": 14.7435739026,
+      "species": "Tall",
+      "year": 1215
+    },
+    {
+      "site_id": 4202,
+      "site_name": "Bro kyrka",
+      "lat": 57.6700592876,
+      "lon": 18.4747985406,
+      "species": "Tall",
+      "year": 1214
+    },
+    {
+      "site_id": 4122,
+      "site_name": "Hossmo kyrka",
+      "lat": 56.6371820488,
+      "lon": 16.225186553,
+      "species": "Ek",
+      "year": 1233
+    },
+    {
+      "site_id": 4034,
+      "site_name": "Rogslösa kyrka",
+      "lat": 58.3828598943,
+      "lon": 14.7435739026,
+      "species": "Tall",
+      "year": 1221
+    },
+    {
+      "site_id": 4202,
+      "site_name": "Bro kyrka",
+      "lat": 57.6700592876,
+      "lon": 18.4747985406,
+      "species": "Tall",
+      "year": 1214
+    },
+    {
+      "site_id": 4034,
+      "site_name": "Rogslösa kyrka",
+      "lat": 58.3828598943,
+      "lon": 14.7435739026,
+      "species": "Tall",
+      "year": 1239
+    },
+    {
+      "site_id": 4034,
+      "site_name": "Rogslösa kyrka",
+      "lat": 58.3828598943,
+      "lon": 14.7435739026,
+      "species": "Tall",
+      "year": 1221
+    },
+    {
+      "site_id": 4192,
+      "site_name": "Bäl kyrka",
+      "lat": 57.6447900202,
+      "lon": 18.6329661548,
+      "species": "Tall",
+      "year": 1225
+    },
+    {
+      "site_id": 4061,
+      "site_name": "Mellby kyrka",
+      "lat": 57.5560526033,
+      "lon": 15.1079898518,
+      "species": "Tall",
+      "year": 1214
+    },
+    {
+      "site_id": 4193,
+      "site_name": "Burs kyrka",
+      "lat": 57.2456587785,
+      "lon": 18.508769627,
+      "species": "Tall",
+      "year": 1223
+    },
+    {
+      "site_id": 4191,
+      "site_name": "Cramérska huset",
+      "lat": 57.6413266574,
+      "lon": 18.2957180164,
+      "species": "Tall",
+      "year": 1233
+    },
+    {
+      "site_id": 4094,
+      "site_name": "Kullerstads kyrka",
+      "lat": 58.5802606909,
+      "lon": 15.9437001903,
+      "species": "Tall",
+      "year": 1200
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1218
+    },
+    {
+      "site_id": 4034,
+      "site_name": "Rogslösa kyrka",
+      "lat": 58.3828598943,
+      "lon": 14.7435739026,
+      "species": "Tall",
+      "year": 1227
+    },
+    {
+      "site_id": 4151,
+      "site_name": "Gothem kyrka",
+      "lat": 57.5754626247,
+      "lon": 18.7349928797,
+      "species": "Tall",
+      "year": 1216
+    },
+    {
+      "site_id": 3938,
+      "site_name": "Älvestads kyrka",
+      "lat": 58.4457789678,
+      "lon": 15.2964228007,
+      "species": "Ek",
+      "year": 1201
+    },
+    {
+      "site_id": 3935,
+      "site_name": "Örs kyrka",
+      "lat": 56.9948172027,
+      "lon": 14.6748643969,
+      "species": "Ek",
+      "year": 1227
+    },
+    {
+      "site_id": 4213,
+      "site_name": "Björka kyrka",
+      "lat": 55.656727137,
+      "lon": 13.6350501242,
+      "species": "Ek",
+      "year": 1234
+    },
+    {
+      "site_id": 4061,
+      "site_name": "Mellby kyrka",
+      "lat": 57.5560526033,
+      "lon": 15.1079898518,
+      "species": "Tall",
+      "year": 1240
+    },
+    {
+      "site_id": 3940,
+      "site_name": "Väversunda kyrka",
+      "lat": 58.3465756683,
+      "lon": 14.7105073647,
+      "species": "Ek",
+      "year": 1218
+    },
+    {
+      "site_id": 4037,
+      "site_name": "Ravlunda kyrka",
+      "lat": 55.7137487946,
+      "lon": 14.1508450575,
+      "species": "Ek",
+      "year": 1225
+    },
+    {
+      "site_id": 4039,
+      "site_name": "Perstorps kyrka",
+      "lat": 56.1416136158,
+      "lon": 13.3867602912,
+      "species": "Ek",
+      "year": 1244
+    },
+    {
+      "site_id": 4037,
+      "site_name": "Ravlunda kyrka",
+      "lat": 55.7137487946,
+      "lon": 14.1508450575,
+      "species": "Ek",
+      "year": 1217
+    },
+    {
+      "site_id": 4191,
+      "site_name": "Cramérska huset",
+      "lat": 57.6413266574,
+      "lon": 18.2957180164,
+      "species": "Tall",
+      "year": 1233
+    },
+    {
+      "site_id": 4056,
+      "site_name": "Mörbylånga kyrka",
+      "lat": 56.5196949786,
+      "lon": 16.3980123551,
+      "species": "Ek",
+      "year": 1202
+    },
+    {
+      "site_id": 3900,
+      "site_name": "Ingatorp",
+      "lat": 57.6380382075,
+      "lon": 15.4073076125,
+      "species": "Tall",
+      "year": 1215
+    },
+    {
+      "site_id": 3900,
+      "site_name": "Ingatorp",
+      "lat": 57.6380382075,
+      "lon": 15.4073076125,
+      "species": "Tall",
+      "year": 1219
+    }
+  ]
+}

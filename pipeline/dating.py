@@ -21,3 +21,13 @@ def calendar_label(bp: float | None) -> str:
     if year == 0:
         return "1 BC/AD"
     return f"{year} AD"
+
+
+def ad_label(year: int | float | None) -> str:
+    """For dates that are ALREADY calendar AD years (e.g. dendrochronology felling years),
+    NOT years-BP. Passing a BP value here would silently mislabel it -- use calendar_label
+    for anything sourced from age_older/age_younger elsewhere in this project.
+    """
+    if year is None or year != year:
+        return "unknown"
+    return f"{round(year)} AD"

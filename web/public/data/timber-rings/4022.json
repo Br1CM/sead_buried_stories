@@ -1,0 +1,289 @@
+{
+  "site_id": 4022,
+  "site_name": "Sankta Maria kyrka",
+  "lat": 56.0463746463,
+  "lon": 12.6964463699,
+  "n_samples": 64,
+  "n_years": 23,
+  "earliest_label": "1384 AD",
+  "latest_label": "1501 AD",
+  "photo": null,
+  "years": [
+    {
+      "year": 1384,
+      "label": "1384 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1389,
+      "label": "1389 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 2
+    },
+    {
+      "year": 1391,
+      "label": "1391 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 2
+    },
+    {
+      "year": 1393,
+      "label": "1393 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": true,
+      "n_samples": 10
+    },
+    {
+      "year": 1394,
+      "label": "1394 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 2
+    },
+    {
+      "year": 1395,
+      "label": "1395 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": true,
+      "n_samples": 2
+    },
+    {
+      "year": 1396,
+      "label": "1396 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": true,
+      "n_samples": 11
+    },
+    {
+      "year": 1397,
+      "label": "1397 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1403,
+      "label": "1403 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1405,
+      "label": "1405 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    },
+    {
+      "year": 1407,
+      "label": "1407 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1409,
+      "label": "1409 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": true,
+      "n_samples": 15
+    },
+    {
+      "year": 1410,
+      "label": "1410 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 2
+    },
+    {
+      "year": 1412,
+      "label": "1412 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1458,
+      "label": "1458 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1459,
+      "label": "1459 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1475,
+      "label": "1475 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1487,
+      "label": "1487 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 2
+    },
+    {
+      "year": 1490,
+      "label": "1490 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1493,
+      "label": "1493 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 2
+    },
+    {
+      "year": 1494,
+      "label": "1494 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1496,
+      "label": "1496 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 2
+    },
+    {
+      "year": 1501,
+      "label": "1501 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    }
+  ]
+}

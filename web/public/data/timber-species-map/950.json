@@ -1,0 +1,82 @@
+{
+  "bucket_start": 950,
+  "label": "950 AD - 1000 AD",
+  "n_samples": 9,
+  "composition": {
+    "Ek": 100.0
+  },
+  "points": [
+    {
+      "site_id": 4036,
+      "site_name": "Resmo kyrka",
+      "lat": 56.5413620819,
+      "lon": 16.443276332,
+      "species": "Ek",
+      "year": 972
+    },
+    {
+      "site_id": 4162,
+      "site_name": "Färlövs kyrka",
+      "lat": 56.0741126978,
+      "lon": 14.083255033,
+      "species": "Ek",
+      "year": 985
+    },
+    {
+      "site_id": 4162,
+      "site_name": "Färlövs kyrka",
+      "lat": 56.0741126978,
+      "lon": 14.083255033,
+      "species": "Ek",
+      "year": 999
+    },
+    {
+      "site_id": 4036,
+      "site_name": "Resmo kyrka",
+      "lat": 56.5413620819,
+      "lon": 16.443276332,
+      "species": "Ek",
+      "year": 993
+    },
+    {
+      "site_id": 4034,
+      "site_name": "Rogslösa kyrka",
+      "lat": 58.3828598943,
+      "lon": 14.7435739026,
+      "species": "Ek",
+      "year": 951
+    },
+    {
+      "site_id": 4049,
+      "site_name": "Norra Åsums kyrka",
+      "lat": 55.9895996121,
+      "lon": 14.1514451464,
+      "species": "Ek",
+      "year": 967
+    },
+    {
+      "site_id": 4036,
+      "site_name": "Resmo kyrka",
+      "lat": 56.5413620819,
+      "lon": 16.443276332,
+      "species": "Ek",
+      "year": 999
+    },
+    {
+      "site_id": 4126,
+      "site_name": "Herrestad kyrka",
+      "lat": 58.3899654744,
+      "lon": 14.8114946006,
+      "species": "Ek",
+      "year": 956
+    },
+    {
+      "site_id": 4215,
+      "site_name": "Bjäresjö kyrka",
+      "lat": 55.4623008363,
+      "lon": 13.7500069282,
+      "species": "Ek",
+      "year": 997
+    }
+  ]
+}

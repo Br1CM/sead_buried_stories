@@ -61,7 +61,7 @@ export function MapTrace({ stops, activeIndex }: MapTraceProps) {
           <Layer
             id="path-line"
             type="line"
-            paint={{ "line-color": "#e0a458", "line-width": 3, "line-opacity": 0.8 }}
+            paint={{ "line-color": "#e8863d", "line-width": 3, "line-opacity": 0.8 }}
             layout={{ "line-cap": "round", "line-join": "round" }}
           />
         </Source>
@@ -75,8 +75,8 @@ export function MapTrace({ stops, activeIndex }: MapTraceProps) {
               style={{
                 width: isActive ? 16 : 10,
                 height: isActive ? 16 : 10,
-                background: isActive ? "#e0a458" : "#c97b4a",
-                borderColor: isActive ? "#fff" : "rgba(20,16,12,0.5)",
+                background: isActive ? "#e8863d" : "#c76a35",
+                borderColor: isActive ? "#fff" : "rgba(43,28,17,0.5)",
               }}
               title={`${s.site_name} — ${s.label}`}
             />

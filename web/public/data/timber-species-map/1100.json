@@ -1,0 +1,1043 @@
+{
+  "bucket_start": 1100,
+  "label": "1100 AD - 1150 AD",
+  "n_samples": 129,
+  "composition": {
+    "Ek": 68.2,
+    "Tall": 31.8
+  },
+  "points": [
+    {
+      "site_id": 4126,
+      "site_name": "Herrestad kyrka",
+      "lat": 58.3899654744,
+      "lon": 14.8114946006,
+      "species": "Ek",
+      "year": 1101
+    },
+    {
+      "site_id": 4105,
+      "site_name": "Kaga kyrka",
+      "lat": 58.4532111432,
+      "lon": 15.529385322,
+      "species": "Tall",
+      "year": 1136
+    },
+    {
+      "site_id": 4126,
+      "site_name": "Herrestad kyrka",
+      "lat": 58.3899654744,
+      "lon": 14.8114946006,
+      "species": "Ek",
+      "year": 1102
+    },
+    {
+      "site_id": 3940,
+      "site_name": "Väversunda kyrka",
+      "lat": 58.3465756683,
+      "lon": 14.7105073647,
+      "species": "Ek",
+      "year": 1122
+    },
+    {
+      "site_id": 4156,
+      "site_name": "Garde kyrka",
+      "lat": 57.3171570885,
+      "lon": 18.5823675922,
+      "species": "Tall",
+      "year": 1104
+    },
+    {
+      "site_id": 4034,
+      "site_name": "Rogslösa kyrka",
+      "lat": 58.3828598943,
+      "lon": 14.7435739026,
+      "species": "Ek",
+      "year": 1124
+    },
+    {
+      "site_id": 4091,
+      "site_name": "Kumlaby kyrka",
+      "lat": 58.0551699017,
+      "lon": 14.3483650835,
+      "species": "Tall",
+      "year": 1140
+    },
+    {
+      "site_id": 3975,
+      "site_name": "Tumbo kyrka",
+      "lat": 59.4259717935,
+      "lon": 16.3388589456,
+      "species": "Tall",
+      "year": 1139
+    },
+    {
+      "site_id": 3999,
+      "site_name": "Sproge gamla stavkyrka",
+      "lat": 57.2536558517,
+      "lon": 18.2109779133,
+      "species": "Ek",
+      "year": 1114
+    },
+    {
+      "site_id": 3927,
+      "site_name": "Övraby kyrka",
+      "lat": 55.5033468311,
+      "lon": 13.9526785727,
+      "species": "Ek",
+      "year": 1126
+    },
+    {
+      "site_id": 3999,
+      "site_name": "Sproge gamla stavkyrka",
+      "lat": 57.2536558517,
+      "lon": 18.2109779133,
+      "species": "Ek",
+      "year": 1126
+    },
+    {
+      "site_id": 3940,
+      "site_name": "Väversunda kyrka",
+      "lat": 58.3465756683,
+      "lon": 14.7105073647,
+      "species": "Ek",
+      "year": 1115
+    },
+    {
+      "site_id": 4083,
+      "site_name": "Kävlinge gamla kyrka",
+      "lat": 55.7904585547,
+      "lon": 13.1060322317,
+      "species": "Ek",
+      "year": 1148
+    },
+    {
+      "site_id": 3927,
+      "site_name": "Övraby kyrka",
+      "lat": 55.5033468311,
+      "lon": 13.9526785727,
+      "species": "Ek",
+      "year": 1126
+    },
+    {
+      "site_id": 4049,
+      "site_name": "Norra Åsums kyrka",
+      "lat": 55.9895996121,
+      "lon": 14.1514451464,
+      "species": "Ek",
+      "year": 1121
+    },
+    {
+      "site_id": 4122,
+      "site_name": "Hossmo kyrka",
+      "lat": 56.6371820488,
+      "lon": 16.225186553,
+      "species": "Ek",
+      "year": 1104
+    },
+    {
+      "site_id": 3999,
+      "site_name": "Sproge gamla stavkyrka",
+      "lat": 57.2536558517,
+      "lon": 18.2109779133,
+      "species": "Ek",
+      "year": 1138
+    },
+    {
+      "site_id": 3975,
+      "site_name": "Tumbo kyrka",
+      "lat": 59.4259717935,
+      "lon": 16.3388589456,
+      "species": "Tall",
+      "year": 1131
+    },
+    {
+      "site_id": 4094,
+      "site_name": "Kullerstads kyrka",
+      "lat": 58.5802606909,
+      "lon": 15.9437001903,
+      "species": "Tall",
+      "year": 1120
+    },
+    {
+      "site_id": 4142,
+      "site_name": "Hagebyhöga kyrka",
+      "lat": 58.46746785,
+      "lon": 14.9747329733,
+      "species": "Tall",
+      "year": 1119
+    },
+    {
+      "site_id": 3927,
+      "site_name": "Övraby kyrka",
+      "lat": 55.5033468311,
+      "lon": 13.9526785727,
+      "species": "Ek",
+      "year": 1126
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1135
+    },
+    {
+      "site_id": 3953,
+      "site_name": "Voxtorps kyrka",
+      "lat": 56.5384067914,
+      "lon": 16.1426361678,
+      "species": "Ek",
+      "year": 1120
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1119
+    },
+    {
+      "site_id": 4222,
+      "site_name": "Bankekinds kyrka",
+      "lat": 58.3760722953,
+      "lon": 15.8200924421,
+      "species": "Tall",
+      "year": 1146
+    },
+    {
+      "site_id": 4091,
+      "site_name": "Kumlaby kyrka",
+      "lat": 58.0551699017,
+      "lon": 14.3483650835,
+      "species": "Tall",
+      "year": 1141
+    },
+    {
+      "site_id": 3940,
+      "site_name": "Väversunda kyrka",
+      "lat": 58.3465756683,
+      "lon": 14.7105073647,
+      "species": "Ek",
+      "year": 1129
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1121
+    },
+    {
+      "site_id": 4141,
+      "site_name": "Hakarps kyrka",
+      "lat": 57.796370601,
+      "lon": 14.3113491593,
+      "species": "Ek",
+      "year": 1141
+    },
+    {
+      "site_id": 4136,
+      "site_name": "Hallstorps kyrka",
+      "lat": 56.4993020289,
+      "lon": 16.1102204665,
+      "species": "Tall",
+      "year": 1118
+    },
+    {
+      "site_id": 4105,
+      "site_name": "Kaga kyrka",
+      "lat": 58.4532111432,
+      "lon": 15.529385322,
+      "species": "Tall",
+      "year": 1115
+    },
+    {
+      "site_id": 4122,
+      "site_name": "Hossmo kyrka",
+      "lat": 56.6371820488,
+      "lon": 16.225186553,
+      "species": "Ek",
+      "year": 1109
+    },
+    {
+      "site_id": 4222,
+      "site_name": "Bankekinds kyrka",
+      "lat": 58.3760722953,
+      "lon": 15.8200924421,
+      "species": "Tall",
+      "year": 1134
+    },
+    {
+      "site_id": 4135,
+      "site_name": "Hammarlunda kyrka",
+      "lat": 55.7370635839,
+      "lon": 13.438054968,
+      "species": "Ek",
+      "year": 1108
+    },
+    {
+      "site_id": 3999,
+      "site_name": "Sproge gamla stavkyrka",
+      "lat": 57.2536558517,
+      "lon": 18.2109779133,
+      "species": "Ek",
+      "year": 1107
+    },
+    {
+      "site_id": 4091,
+      "site_name": "Kumlaby kyrka",
+      "lat": 58.0551699017,
+      "lon": 14.3483650835,
+      "species": "Tall",
+      "year": 1142
+    },
+    {
+      "site_id": 4164,
+      "site_name": "Furingstads kyrka",
+      "lat": 58.5554415248,
+      "lon": 16.3444366205,
+      "species": "Tall",
+      "year": 1103
+    },
+    {
+      "site_id": 4136,
+      "site_name": "Hallstorps kyrka",
+      "lat": 56.4993020289,
+      "lon": 16.1102204665,
+      "species": "Tall",
+      "year": 1137
+    },
+    {
+      "site_id": 4170,
+      "site_name": "Flistads kyrka",
+      "lat": 58.4756256101,
+      "lon": 15.4129405934,
+      "species": "Tall",
+      "year": 1122
+    },
+    {
+      "site_id": 4222,
+      "site_name": "Bankekinds kyrka",
+      "lat": 58.3760722953,
+      "lon": 15.8200924421,
+      "species": "Tall",
+      "year": 1138
+    },
+    {
+      "site_id": 4135,
+      "site_name": "Hammarlunda kyrka",
+      "lat": 55.7370635839,
+      "lon": 13.438054968,
+      "species": "Ek",
+      "year": 1104
+    },
+    {
+      "site_id": 4176,
+      "site_name": "Farhults kyrka",
+      "lat": 56.2140163145,
+      "lon": 12.7123001788,
+      "species": "Ek",
+      "year": 1105
+    },
+    {
+      "site_id": 4135,
+      "site_name": "Hammarlunda kyrka",
+      "lat": 55.7370635839,
+      "lon": 13.438054968,
+      "species": "Ek",
+      "year": 1103
+    },
+    {
+      "site_id": 4164,
+      "site_name": "Furingstads kyrka",
+      "lat": 58.5554415248,
+      "lon": 16.3444366205,
+      "species": "Tall",
+      "year": 1148
+    },
+    {
+      "site_id": 3975,
+      "site_name": "Tumbo kyrka",
+      "lat": 59.4259717935,
+      "lon": 16.3388589456,
+      "species": "Tall",
+      "year": 1146
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1130
+    },
+    {
+      "site_id": 3927,
+      "site_name": "Övraby kyrka",
+      "lat": 55.5033468311,
+      "lon": 13.9526785727,
+      "species": "Ek",
+      "year": 1126
+    },
+    {
+      "site_id": 3940,
+      "site_name": "Väversunda kyrka",
+      "lat": 58.3465756683,
+      "lon": 14.7105073647,
+      "species": "Ek",
+      "year": 1148
+    },
+    {
+      "site_id": 4126,
+      "site_name": "Herrestad kyrka",
+      "lat": 58.3899654744,
+      "lon": 14.8114946006,
+      "species": "Ek",
+      "year": 1102
+    },
+    {
+      "site_id": 4164,
+      "site_name": "Furingstads kyrka",
+      "lat": 58.5554415248,
+      "lon": 16.3444366205,
+      "species": "Tall",
+      "year": 1140
+    },
+    {
+      "site_id": 4122,
+      "site_name": "Hossmo kyrka",
+      "lat": 56.6371820488,
+      "lon": 16.225186553,
+      "species": "Ek",
+      "year": 1104
+    },
+    {
+      "site_id": 4164,
+      "site_name": "Furingstads kyrka",
+      "lat": 58.5554415248,
+      "lon": 16.3444366205,
+      "species": "Tall",
+      "year": 1132
+    },
+    {
+      "site_id": 4142,
+      "site_name": "Hagebyhöga kyrka",
+      "lat": 58.46746785,
+      "lon": 14.9747329733,
+      "species": "Ek",
+      "year": 1125
+    },
+    {
+      "site_id": 4135,
+      "site_name": "Hammarlunda kyrka",
+      "lat": 55.7370635839,
+      "lon": 13.438054968,
+      "species": "Ek",
+      "year": 1126
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1127
+    },
+    {
+      "site_id": 4204,
+      "site_name": "Brahekyrkan",
+      "lat": 58.0349336355,
+      "lon": 14.3432633174,
+      "species": "Tall",
+      "year": 1135
+    },
+    {
+      "site_id": 4049,
+      "site_name": "Norra Åsums kyrka",
+      "lat": 55.9895996121,
+      "lon": 14.1514451464,
+      "species": "Ek",
+      "year": 1138
+    },
+    {
+      "site_id": 4083,
+      "site_name": "Kävlinge gamla kyrka",
+      "lat": 55.7904585547,
+      "lon": 13.1060322317,
+      "species": "Ek",
+      "year": 1127
+    },
+    {
+      "site_id": 3999,
+      "site_name": "Sproge gamla stavkyrka",
+      "lat": 57.2536558517,
+      "lon": 18.2109779133,
+      "species": "Ek",
+      "year": 1116
+    },
+    {
+      "site_id": 3900,
+      "site_name": "Ingatorp",
+      "lat": 57.6380382075,
+      "lon": 15.4073076125,
+      "species": "Tall",
+      "year": 1123
+    },
+    {
+      "site_id": 4049,
+      "site_name": "Norra Åsums kyrka",
+      "lat": 55.9895996121,
+      "lon": 14.1514451464,
+      "species": "Ek",
+      "year": 1147
+    },
+    {
+      "site_id": 3999,
+      "site_name": "Sproge gamla stavkyrka",
+      "lat": 57.2536558517,
+      "lon": 18.2109779133,
+      "species": "Ek",
+      "year": 1115
+    },
+    {
+      "site_id": 3999,
+      "site_name": "Sproge gamla stavkyrka",
+      "lat": 57.2536558517,
+      "lon": 18.2109779133,
+      "species": "Ek",
+      "year": 1112
+    },
+    {
+      "site_id": 4142,
+      "site_name": "Hagebyhöga kyrka",
+      "lat": 58.46746785,
+      "lon": 14.9747329733,
+      "species": "Tall",
+      "year": 1115
+    },
+    {
+      "site_id": 4127,
+      "site_name": "Hemse kyrka",
+      "lat": 57.2329277258,
+      "lon": 18.3730658735,
+      "species": "Ek",
+      "year": 1116
+    },
+    {
+      "site_id": 4049,
+      "site_name": "Norra Åsums kyrka",
+      "lat": 55.9895996121,
+      "lon": 14.1514451464,
+      "species": "Ek",
+      "year": 1145
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1122
+    },
+    {
+      "site_id": 3999,
+      "site_name": "Sproge gamla stavkyrka",
+      "lat": 57.2536558517,
+      "lon": 18.2109779133,
+      "species": "Ek",
+      "year": 1137
+    },
+    {
+      "site_id": 4142,
+      "site_name": "Hagebyhöga kyrka",
+      "lat": 58.46746785,
+      "lon": 14.9747329733,
+      "species": "Tall",
+      "year": 1119
+    },
+    {
+      "site_id": 4142,
+      "site_name": "Hagebyhöga kyrka",
+      "lat": 58.46746785,
+      "lon": 14.9747329733,
+      "species": "Ek",
+      "year": 1123
+    },
+    {
+      "site_id": 4164,
+      "site_name": "Furingstads kyrka",
+      "lat": 58.5554415248,
+      "lon": 16.3444366205,
+      "species": "Tall",
+      "year": 1138
+    },
+    {
+      "site_id": 4135,
+      "site_name": "Hammarlunda kyrka",
+      "lat": 55.7370635839,
+      "lon": 13.438054968,
+      "species": "Ek",
+      "year": 1102
+    },
+    {
+      "site_id": 4227,
+      "site_name": "Arby kyrka",
+      "lat": 56.5667765411,
+      "lon": 16.1224000967,
+      "species": "Ek",
+      "year": 1144
+    },
+    {
+      "site_id": 4135,
+      "site_name": "Hammarlunda kyrka",
+      "lat": 55.7370635839,
+      "lon": 13.438054968,
+      "species": "Ek",
+      "year": 1103
+    },
+    {
+      "site_id": 4142,
+      "site_name": "Hagebyhöga kyrka",
+      "lat": 58.46746785,
+      "lon": 14.9747329733,
+      "species": "Tall",
+      "year": 1118
+    },
+    {
+      "site_id": 4162,
+      "site_name": "Färlövs kyrka",
+      "lat": 56.0741126978,
+      "lon": 14.083255033,
+      "species": "Ek",
+      "year": 1103
+    },
+    {
+      "site_id": 4034,
+      "site_name": "Rogslösa kyrka",
+      "lat": 58.3828598943,
+      "lon": 14.7435739026,
+      "species": "Tall",
+      "year": 1135
+    },
+    {
+      "site_id": 3948,
+      "site_name": "Väsby kyrka",
+      "lat": 56.2073516765,
+      "lon": 12.5955294635,
+      "species": "Ek",
+      "year": 1131
+    },
+    {
+      "site_id": 4091,
+      "site_name": "Kumlaby kyrka",
+      "lat": 58.0551699017,
+      "lon": 14.3483650835,
+      "species": "Tall",
+      "year": 1145
+    },
+    {
+      "site_id": 4131,
+      "site_name": "Hedeskoga kyrka",
+      "lat": 55.4510198918,
+      "lon": 13.7981628029,
+      "species": "Ek",
+      "year": 1123
+    },
+    {
+      "site_id": 4135,
+      "site_name": "Hammarlunda kyrka",
+      "lat": 55.7370635839,
+      "lon": 13.438054968,
+      "species": "Ek",
+      "year": 1117
+    },
+    {
+      "site_id": 4142,
+      "site_name": "Hagebyhöga kyrka",
+      "lat": 58.46746785,
+      "lon": 14.9747329733,
+      "species": "Ek",
+      "year": 1137
+    },
+    {
+      "site_id": 3931,
+      "site_name": "Östra Skrukeby kyrka",
+      "lat": 58.4998073545,
+      "lon": 15.818514302,
+      "species": "Tall",
+      "year": 1133
+    },
+    {
+      "site_id": 4135,
+      "site_name": "Hammarlunda kyrka",
+      "lat": 55.7370635839,
+      "lon": 13.438054968,
+      "species": "Ek",
+      "year": 1100
+    },
+    {
+      "site_id": 4164,
+      "site_name": "Furingstads kyrka",
+      "lat": 58.5554415248,
+      "lon": 16.3444366205,
+      "species": "Tall",
+      "year": 1120
+    },
+    {
+      "site_id": 4127,
+      "site_name": "Hemse kyrka",
+      "lat": 57.2329277258,
+      "lon": 18.3730658735,
+      "species": "Ek",
+      "year": 1135
+    },
+    {
+      "site_id": 4222,
+      "site_name": "Bankekinds kyrka",
+      "lat": 58.3760722953,
+      "lon": 15.8200924421,
+      "species": "Tall",
+      "year": 1139
+    },
+    {
+      "site_id": 4142,
+      "site_name": "Hagebyhöga kyrka",
+      "lat": 58.46746785,
+      "lon": 14.9747329733,
+      "species": "Tall",
+      "year": 1117
+    },
+    {
+      "site_id": 3940,
+      "site_name": "Väversunda kyrka",
+      "lat": 58.3465756683,
+      "lon": 14.7105073647,
+      "species": "Ek",
+      "year": 1137
+    },
+    {
+      "site_id": 4222,
+      "site_name": "Bankekinds kyrka",
+      "lat": 58.3760722953,
+      "lon": 15.8200924421,
+      "species": "Tall",
+      "year": 1126
+    },
+    {
+      "site_id": 3975,
+      "site_name": "Tumbo kyrka",
+      "lat": 59.4259717935,
+      "lon": 16.3388589456,
+      "species": "Tall",
+      "year": 1130
+    },
+    {
+      "site_id": 4049,
+      "site_name": "Norra Åsums kyrka",
+      "lat": 55.9895996121,
+      "lon": 14.1514451464,
+      "species": "Ek",
+      "year": 1132
+    },
+    {
+      "site_id": 4050,
+      "site_name": "Norra Solberga gamla kyrka",
+      "lat": 57.7216499252,
+      "lon": 14.8437225965,
+      "species": "Tall",
+      "year": 1144
+    },
+    {
+      "site_id": 4083,
+      "site_name": "Kävlinge gamla kyrka",
+      "lat": 55.7904585547,
+      "lon": 13.1060322317,
+      "species": "Ek",
+      "year": 1110
+    },
+    {
+      "site_id": 3975,
+      "site_name": "Tumbo kyrka",
+      "lat": 59.4259717935,
+      "lon": 16.3388589456,
+      "species": "Tall",
+      "year": 1136
+    },
+    {
+      "site_id": 4127,
+      "site_name": "Hemse kyrka",
+      "lat": 57.2329277258,
+      "lon": 18.3730658735,
+      "species": "Ek",
+      "year": 1123
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1126
+    },
+    {
+      "site_id": 4142,
+      "site_name": "Hagebyhöga kyrka",
+      "lat": 58.46746785,
+      "lon": 14.9747329733,
+      "species": "Tall",
+      "year": 1117
+    },
+    {
+      "site_id": 3940,
+      "site_name": "Väversunda kyrka",
+      "lat": 58.3465756683,
+      "lon": 14.7105073647,
+      "species": "Ek",
+      "year": 1109
+    },
+    {
+      "site_id": 4222,
+      "site_name": "Bankekinds kyrka",
+      "lat": 58.3760722953,
+      "lon": 15.8200924421,
+      "species": "Tall",
+      "year": 1121
+    },
+    {
+      "site_id": 4127,
+      "site_name": "Hemse kyrka",
+      "lat": 57.2329277258,
+      "lon": 18.3730658735,
+      "species": "Ek",
+      "year": 1139
+    },
+    {
+      "site_id": 3999,
+      "site_name": "Sproge gamla stavkyrka",
+      "lat": 57.2536558517,
+      "lon": 18.2109779133,
+      "species": "Ek",
+      "year": 1110
+    },
+    {
+      "site_id": 3999,
+      "site_name": "Sproge gamla stavkyrka",
+      "lat": 57.2536558517,
+      "lon": 18.2109779133,
+      "species": "Ek",
+      "year": 1138
+    },
+    {
+      "site_id": 4222,
+      "site_name": "Bankekinds kyrka",
+      "lat": 58.3760722953,
+      "lon": 15.8200924421,
+      "species": "Tall",
+      "year": 1121
+    },
+    {
+      "site_id": 3940,
+      "site_name": "Väversunda kyrka",
+      "lat": 58.3465756683,
+      "lon": 14.7105073647,
+      "species": "Ek",
+      "year": 1145
+    },
+    {
+      "site_id": 3927,
+      "site_name": "Övraby kyrka",
+      "lat": 55.5033468311,
+      "lon": 13.9526785727,
+      "species": "Ek",
+      "year": 1126
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1121
+    },
+    {
+      "site_id": 4162,
+      "site_name": "Färlövs kyrka",
+      "lat": 56.0741126978,
+      "lon": 14.083255033,
+      "species": "Ek",
+      "year": 1118
+    },
+    {
+      "site_id": 3927,
+      "site_name": "Övraby kyrka",
+      "lat": 55.5033468311,
+      "lon": 13.9526785727,
+      "species": "Ek",
+      "year": 1126
+    },
+    {
+      "site_id": 3936,
+      "site_name": "Örberga kyrka",
+      "lat": 58.4346795121,
+      "lon": 14.8023330488,
+      "species": "Ek",
+      "year": 1107
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1129
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1120
+    },
+    {
+      "site_id": 4126,
+      "site_name": "Herrestad kyrka",
+      "lat": 58.3899654744,
+      "lon": 14.8114946006,
+      "species": "Ek",
+      "year": 1102
+    },
+    {
+      "site_id": 3940,
+      "site_name": "Väversunda kyrka",
+      "lat": 58.3465756683,
+      "lon": 14.7105073647,
+      "species": "Ek",
+      "year": 1115
+    },
+    {
+      "site_id": 3940,
+      "site_name": "Väversunda kyrka",
+      "lat": 58.3465756683,
+      "lon": 14.7105073647,
+      "species": "Ek",
+      "year": 1147
+    },
+    {
+      "site_id": 4227,
+      "site_name": "Arby kyrka",
+      "lat": 56.5667765411,
+      "lon": 16.1224000967,
+      "species": "Ek",
+      "year": 1103
+    },
+    {
+      "site_id": 4215,
+      "site_name": "Bjäresjö kyrka",
+      "lat": 55.4623008363,
+      "lon": 13.7500069282,
+      "species": "Ek",
+      "year": 1140
+    },
+    {
+      "site_id": 3942,
+      "site_name": "Västra Nöbbelövs kyrka",
+      "lat": 55.435257265,
+      "lon": 13.6169241057,
+      "species": "Ek",
+      "year": 1106
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1111
+    },
+    {
+      "site_id": 4170,
+      "site_name": "Flistads kyrka",
+      "lat": 58.4756256101,
+      "lon": 15.4129405934,
+      "species": "Tall",
+      "year": 1139
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1129
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1122
+    },
+    {
+      "site_id": 3936,
+      "site_name": "Örberga kyrka",
+      "lat": 58.4346795121,
+      "lon": 14.8023330488,
+      "species": "Ek",
+      "year": 1116
+    },
+    {
+      "site_id": 4127,
+      "site_name": "Hemse kyrka",
+      "lat": 57.2329277258,
+      "lon": 18.3730658735,
+      "species": "Ek",
+      "year": 1148
+    },
+    {
+      "site_id": 3999,
+      "site_name": "Sproge gamla stavkyrka",
+      "lat": 57.2536558517,
+      "lon": 18.2109779133,
+      "species": "Ek",
+      "year": 1100
+    },
+    {
+      "site_id": 3940,
+      "site_name": "Väversunda kyrka",
+      "lat": 58.3465756683,
+      "lon": 14.7105073647,
+      "species": "Ek",
+      "year": 1143
+    },
+    {
+      "site_id": 4227,
+      "site_name": "Arby kyrka",
+      "lat": 56.5667765411,
+      "lon": 16.1224000967,
+      "species": "Ek",
+      "year": 1149
+    },
+    {
+      "site_id": 4083,
+      "site_name": "Kävlinge gamla kyrka",
+      "lat": 55.7904585547,
+      "lon": 13.1060322317,
+      "species": "Ek",
+      "year": 1118
+    },
+    {
+      "site_id": 4083,
+      "site_name": "Kävlinge gamla kyrka",
+      "lat": 55.7904585547,
+      "lon": 13.1060322317,
+      "species": "Ek",
+      "year": 1133
+    }
+  ]
+}

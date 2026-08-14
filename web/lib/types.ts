@@ -106,3 +106,85 @@ export interface ClimatePoint {
   range_high_c: number;
   n_samples: number;
 }
+
+export interface TimberRingYear {
+  year: number;
+  label: string;
+  species_local: string[];
+  species_en: string[];
+  has_waney: boolean;
+  n_samples: number;
+}
+
+export interface TimberRingsIndexEntry {
+  site_id: number;
+  site_name: string;
+  lat: number;
+  lon: number;
+  n_samples: number;
+  n_years: number;
+  earliest_label: string | null;
+  latest_label: string | null;
+  photo: SitePhoto | null;
+}
+
+export interface TimberRingsDetail extends TimberRingsIndexEntry {
+  years: TimberRingYear[];
+}
+
+export interface TimberSpeciesPoint {
+  site_id: number;
+  site_name: string;
+  lat: number;
+  lon: number;
+  species: string;
+  year: number;
+}
+
+export interface TimberSpeciesBucketSummary {
+  bucket_start: number;
+  label: string;
+  n_samples: number;
+}
+
+export interface TimberSpeciesBucketDetail extends TimberSpeciesBucketSummary {
+  composition: Record<string, number>;
+  points: TimberSpeciesPoint[];
+}
+
+export interface SisterSite {
+  site_id: number;
+  site_name: string;
+  lat: number;
+  lon: number;
+  felling_year: number;
+  label: string;
+  species_local: string | null;
+  species_en: string | null;
+  distance_km: number;
+  photo: SitePhoto | null;
+}
+
+export interface SisterCluster {
+  provenance: string;
+  origin_lat: number;
+  origin_lon: number;
+  year_bucket: number;
+  label: string;
+  n_sites: number;
+  max_distance_km: number;
+  sites: SisterSite[];
+}
+
+export interface TimberPreciseSample {
+  site_id: number;
+  site_name: string;
+  lat: number;
+  lon: number;
+  species_local: string | null;
+  species_en: string | null;
+  felling_year: number;
+  label: string;
+  season_name: string;
+  photo: SitePhoto | null;
+}

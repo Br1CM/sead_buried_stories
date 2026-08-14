@@ -1,0 +1,130 @@
+{
+  "bucket_start": 1000,
+  "label": "1000 AD - 1050 AD",
+  "n_samples": 15,
+  "composition": {
+    "Ek": 100.0
+  },
+  "points": [
+    {
+      "site_id": 4135,
+      "site_name": "Hammarlunda kyrka",
+      "lat": 55.7370635839,
+      "lon": 13.438054968,
+      "species": "Ek",
+      "year": 1046
+    },
+    {
+      "site_id": 4034,
+      "site_name": "Rogslösa kyrka",
+      "lat": 58.3828598943,
+      "lon": 14.7435739026,
+      "species": "Ek",
+      "year": 1041
+    },
+    {
+      "site_id": 4036,
+      "site_name": "Resmo kyrka",
+      "lat": 56.5413620819,
+      "lon": 16.443276332,
+      "species": "Ek",
+      "year": 1046
+    },
+    {
+      "site_id": 4119,
+      "site_name": "Hulterstads kyrka",
+      "lat": 56.4494462203,
+      "lon": 16.5673979521,
+      "species": "Ek",
+      "year": 1012
+    },
+    {
+      "site_id": 4119,
+      "site_name": "Hulterstads kyrka",
+      "lat": 56.4494462203,
+      "lon": 16.5673979521,
+      "species": "Ek",
+      "year": 1012
+    },
+    {
+      "site_id": 4036,
+      "site_name": "Resmo kyrka",
+      "lat": 56.5413620819,
+      "lon": 16.443276332,
+      "species": "Ek",
+      "year": 1036
+    },
+    {
+      "site_id": 4036,
+      "site_name": "Resmo kyrka",
+      "lat": 56.5413620819,
+      "lon": 16.443276332,
+      "species": "Ek",
+      "year": 1034
+    },
+    {
+      "site_id": 4215,
+      "site_name": "Bjäresjö kyrka",
+      "lat": 55.4623008363,
+      "lon": 13.7500069282,
+      "species": "Ek",
+      "year": 1018
+    },
+    {
+      "site_id": 4036,
+      "site_name": "Resmo kyrka",
+      "lat": 56.5413620819,
+      "lon": 16.443276332,
+      "species": "Ek",
+      "year": 1026
+    },
+    {
+      "site_id": 4036,
+      "site_name": "Resmo kyrka",
+      "lat": 56.5413620819,
+      "lon": 16.443276332,
+      "species": "Ek",
+      "year": 1036
+    },
+    {
+      "site_id": 4127,
+      "site_name": "Hemse kyrka",
+      "lat": 57.2329277258,
+      "lon": 18.3730658735,
+      "species": "Ek",
+      "year": 1030
+    },
+    {
+      "site_id": 4185,
+      "site_name": "Eke kyrka",
+      "lat": 57.168046693,
+      "lon": 18.3791792559,
+      "species": "Ek",
+      "year": 1031
+    },
+    {
+      "site_id": 4083,
+      "site_name": "Kävlinge gamla kyrka",
+      "lat": 55.7904585547,
+      "lon": 13.1060322317,
+      "species": "Ek",
+      "year": 1020
+    },
+    {
+      "site_id": 4036,
+      "site_name": "Resmo kyrka",
+      "lat": 56.5413620819,
+      "lon": 16.443276332,
+      "species": "Ek",
+      "year": 1024
+    },
+    {
+      "site_id": 4162,
+      "site_name": "Färlövs kyrka",
+      "lat": 56.0741126978,
+      "lon": 14.083255033,
+      "species": "Ek",
+      "year": 1020
+    }
+  ]
+}

@@ -28,7 +28,7 @@ export function SitesMap({ sites }: { sites: SiteIndexEntry[] }) {
   }, [sites]);
 
   return (
-    <div className="relative h-[520px] w-full overflow-hidden rounded-2xl border border-white/10">
+    <div className="relative h-[520px] w-full overflow-hidden rounded-2xl border border-ink-10">
       <Map
         ref={mapRef}
         mapStyle={osmRasterStyle}
@@ -53,7 +53,7 @@ export function SitesMap({ sites }: { sites: SiteIndexEntry[] }) {
                 style={{
                   width: isHovered ? size + 6 : size,
                   height: isHovered ? size + 6 : size,
-                  background: isHovered ? "#e0a458" : "rgba(224,164,88,0.75)",
+                  background: isHovered ? "#e8863d" : "rgba(232,134,61,0.75)",
                   borderColor: isHovered ? "#fff" : "rgba(255,255,255,0.5)",
                 }}
                 aria-label={`Explore ${s.site_name}`}
@@ -64,12 +64,12 @@ export function SitesMap({ sites }: { sites: SiteIndexEntry[] }) {
       </Map>
 
       {hovered && (
-        <div className="pointer-events-none absolute top-4 left-4 max-w-xs rounded-lg border border-white/10 bg-[#14100c] px-3 py-2 text-sm shadow-lg">
-          <div className="font-medium">{hovered.site_name}</div>
-          <div className="text-white/60">
+        <div className="pointer-events-none absolute top-4 left-4 max-w-xs rounded-lg border border-cream-10 bg-overlay px-3 py-2 text-sm shadow-lg">
+          <div className="font-medium text-cream-70">{hovered.site_name}</div>
+          <div className="text-cream-60">
             {hovered.n_layers} dated period{hovered.n_layers === 1 ? "" : "s"} · {hovered.n_taxa} species
           </div>
-          <div className="text-xs text-white/30">
+          <div className="text-xs text-cream-30">
             {hovered.oldest_label} &rarr; {hovered.youngest_label}
           </div>
           <div className="mt-1 text-xs text-accent">Click to explore &rarr;</div>

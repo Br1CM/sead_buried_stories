@@ -1,0 +1,1108 @@
+{
+  "bucket_start": 1600,
+  "label": "1600 AD - 1650 AD",
+  "n_samples": 137,
+  "composition": {
+    "Tall": 87.6,
+    "Ek": 8.8,
+    "Gran": 3.6
+  },
+  "points": [
+    {
+      "site_id": 3978,
+      "site_name": "Tovastugan",
+      "lat": 58.7474760743,
+      "lon": 17.0144328194,
+      "species": "Tall",
+      "year": 1637
+    },
+    {
+      "site_id": 4080,
+      "site_name": "Lau Kyrka",
+      "lat": 57.2829069812,
+      "lon": 18.6201900158,
+      "species": "Tall",
+      "year": 1640
+    },
+    {
+      "site_id": 4149,
+      "site_name": "Grävsten herrgård",
+      "lat": 58.3515719205,
+      "lon": 15.8922615755,
+      "species": "Tall",
+      "year": 1649
+    },
+    {
+      "site_id": 4014,
+      "site_name": "Skabersjö slott",
+      "lat": 55.5407035295,
+      "lon": 13.1471592635,
+      "species": "Ek",
+      "year": 1620
+    },
+    {
+      "site_id": 3925,
+      "site_name": "Biby säteri",
+      "lat": 59.2985850114,
+      "lon": 16.361841554,
+      "species": "Tall",
+      "year": 1608
+    },
+    {
+      "site_id": 4186,
+      "site_name": "Dörby kyrka",
+      "lat": 56.6716229714,
+      "lon": 16.2331583797,
+      "species": "Tall",
+      "year": 1614
+    },
+    {
+      "site_id": 4187,
+      "site_name": "Drottningholms slott",
+      "lat": 59.32165393,
+      "lon": 17.8869837339,
+      "species": "Tall",
+      "year": 1605
+    },
+    {
+      "site_id": 4008,
+      "site_name": "Slottsskogen",
+      "lat": 57.6870565543,
+      "lon": 11.9401224056,
+      "species": "Ek",
+      "year": 1620
+    },
+    {
+      "site_id": 4058,
+      "site_name": "Måcketorpsboden",
+      "lat": 57.1672248969,
+      "lon": 15.3526086089,
+      "species": "Tall",
+      "year": 1608
+    },
+    {
+      "site_id": 4058,
+      "site_name": "Måcketorpsboden",
+      "lat": 57.1672248969,
+      "lon": 15.3526086089,
+      "species": "Tall",
+      "year": 1614
+    },
+    {
+      "site_id": 4219,
+      "site_name": "Biskops",
+      "lat": 57.8524433281,
+      "lon": 19.0470244846,
+      "species": "Tall",
+      "year": 1637
+    },
+    {
+      "site_id": 3873,
+      "site_name": "Kvarteret Vaxblekaren",
+      "lat": 57.6677943959,
+      "lon": 14.9719557061,
+      "species": "Tall",
+      "year": 1647
+    },
+    {
+      "site_id": 4186,
+      "site_name": "Dörby kyrka",
+      "lat": 56.6716229714,
+      "lon": 16.2331583797,
+      "species": "Tall",
+      "year": 1614
+    },
+    {
+      "site_id": 3983,
+      "site_name": "Tingstäde kyrka",
+      "lat": 57.7363463435,
+      "lon": 18.61508962,
+      "species": "Tall",
+      "year": 1606
+    },
+    {
+      "site_id": 4186,
+      "site_name": "Dörby kyrka",
+      "lat": 56.6716229714,
+      "lon": 16.2331583797,
+      "species": "Tall",
+      "year": 1614
+    },
+    {
+      "site_id": 4149,
+      "site_name": "Grävsten herrgård",
+      "lat": 58.3515719205,
+      "lon": 15.8922615755,
+      "species": "Tall",
+      "year": 1636
+    },
+    {
+      "site_id": 4080,
+      "site_name": "Lau Kyrka",
+      "lat": 57.2829069812,
+      "lon": 18.6201900158,
+      "species": "Tall",
+      "year": 1637
+    },
+    {
+      "site_id": 4080,
+      "site_name": "Lau Kyrka",
+      "lat": 57.2829069812,
+      "lon": 18.6201900158,
+      "species": "Tall",
+      "year": 1609
+    },
+    {
+      "site_id": 4178,
+      "site_name": "Etelhems kyrka",
+      "lat": 57.337221976,
+      "lon": 18.4958931378,
+      "species": "Tall",
+      "year": 1613
+    },
+    {
+      "site_id": 3978,
+      "site_name": "Tovastugan",
+      "lat": 58.7474760743,
+      "lon": 17.0144328194,
+      "species": "Tall",
+      "year": 1638
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Gran",
+      "year": 1607
+    },
+    {
+      "site_id": 3938,
+      "site_name": "Älvestads kyrka",
+      "lat": 58.4457789678,
+      "lon": 15.2964228007,
+      "species": "Tall",
+      "year": 1626
+    },
+    {
+      "site_id": 4161,
+      "site_name": "Föllingsö säteri",
+      "lat": 57.9792353144,
+      "lon": 15.5982792286,
+      "species": "Tall",
+      "year": 1630
+    },
+    {
+      "site_id": 4008,
+      "site_name": "Slottsskogen",
+      "lat": 57.6870565543,
+      "lon": 11.9401224056,
+      "species": "Ek",
+      "year": 1605
+    },
+    {
+      "site_id": 3978,
+      "site_name": "Tovastugan",
+      "lat": 58.7474760743,
+      "lon": 17.0144328194,
+      "species": "Tall",
+      "year": 1637
+    },
+    {
+      "site_id": 3874,
+      "site_name": "Kvarteret Svartbrodern",
+      "lat": 57.6389679773,
+      "lon": 18.2934424244,
+      "species": "Tall",
+      "year": 1632
+    },
+    {
+      "site_id": 3971,
+      "site_name": "Tångerda gård",
+      "lat": 57.4625230012,
+      "lon": 15.0716759291,
+      "species": "Ek",
+      "year": 1644
+    },
+    {
+      "site_id": 4149,
+      "site_name": "Grävsten herrgård",
+      "lat": 58.3515719205,
+      "lon": 15.8922615755,
+      "species": "Tall",
+      "year": 1634
+    },
+    {
+      "site_id": 4205,
+      "site_name": "Bosebo kyrka",
+      "lat": 57.3061935154,
+      "lon": 13.3510066476,
+      "species": "Tall",
+      "year": 1638
+    },
+    {
+      "site_id": 4149,
+      "site_name": "Grävsten herrgård",
+      "lat": 58.3515719205,
+      "lon": 15.8922615755,
+      "species": "Tall",
+      "year": 1636
+    },
+    {
+      "site_id": 4034,
+      "site_name": "Rogslösa kyrka",
+      "lat": 58.3828598943,
+      "lon": 14.7435739026,
+      "species": "Tall",
+      "year": 1645
+    },
+    {
+      "site_id": 3925,
+      "site_name": "Biby säteri",
+      "lat": 59.2985850114,
+      "lon": 16.361841554,
+      "species": "Tall",
+      "year": 1609
+    },
+    {
+      "site_id": 4149,
+      "site_name": "Grävsten herrgård",
+      "lat": 58.3515719205,
+      "lon": 15.8922615755,
+      "species": "Tall",
+      "year": 1636
+    },
+    {
+      "site_id": 4219,
+      "site_name": "Biskops",
+      "lat": 57.8524433281,
+      "lon": 19.0470244846,
+      "species": "Tall",
+      "year": 1636
+    },
+    {
+      "site_id": 4096,
+      "site_name": "Kruttornet",
+      "lat": 57.6422680797,
+      "lon": 18.2913277078,
+      "species": "Tall",
+      "year": 1622
+    },
+    {
+      "site_id": 4080,
+      "site_name": "Lau Kyrka",
+      "lat": 57.2829069812,
+      "lon": 18.6201900158,
+      "species": "Tall",
+      "year": 1640
+    },
+    {
+      "site_id": 3923,
+      "site_name": "Stenbockska palatset",
+      "lat": 59.3251236041,
+      "lon": 18.0627745883,
+      "species": "Tall",
+      "year": 1644
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1611
+    },
+    {
+      "site_id": 4014,
+      "site_name": "Skabersjö slott",
+      "lat": 55.5407035295,
+      "lon": 13.1471592635,
+      "species": "Ek",
+      "year": 1620
+    },
+    {
+      "site_id": 4096,
+      "site_name": "Kruttornet",
+      "lat": 57.6422680797,
+      "lon": 18.2913277078,
+      "species": "Tall",
+      "year": 1630
+    },
+    {
+      "site_id": 3925,
+      "site_name": "Biby säteri",
+      "lat": 59.2985850114,
+      "lon": 16.361841554,
+      "species": "Tall",
+      "year": 1604
+    },
+    {
+      "site_id": 4051,
+      "site_name": "Norra Rörums kyrka",
+      "lat": 56.0203410643,
+      "lon": 13.5107429543,
+      "species": "Ek",
+      "year": 1646
+    },
+    {
+      "site_id": 3888,
+      "site_name": "Kvarteret Färgaren",
+      "lat": 57.6689523502,
+      "lon": 14.9685853665,
+      "species": "Tall",
+      "year": 1624
+    },
+    {
+      "site_id": 3968,
+      "site_name": "Vadsbro kyrka",
+      "lat": 58.9766928294,
+      "lon": 16.5681074665,
+      "species": "Tall",
+      "year": 1648
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Gran",
+      "year": 1629
+    },
+    {
+      "site_id": 4205,
+      "site_name": "Bosebo kyrka",
+      "lat": 57.3061935154,
+      "lon": 13.3510066476,
+      "species": "Tall",
+      "year": 1646
+    },
+    {
+      "site_id": 4058,
+      "site_name": "Måcketorpsboden",
+      "lat": 57.1672248969,
+      "lon": 15.3526086089,
+      "species": "Tall",
+      "year": 1614
+    },
+    {
+      "site_id": 4058,
+      "site_name": "Måcketorpsboden",
+      "lat": 57.1672248969,
+      "lon": 15.3526086089,
+      "species": "Tall",
+      "year": 1606
+    },
+    {
+      "site_id": 3978,
+      "site_name": "Tovastugan",
+      "lat": 58.7474760743,
+      "lon": 17.0144328194,
+      "species": "Tall",
+      "year": 1620
+    },
+    {
+      "site_id": 3892,
+      "site_name": "Kvarteret Borgmästaren",
+      "lat": 56.663040622,
+      "lon": 16.3667343936,
+      "species": "Tall",
+      "year": 1645
+    },
+    {
+      "site_id": 4051,
+      "site_name": "Norra Rörums kyrka",
+      "lat": 56.0203410643,
+      "lon": 13.5107429543,
+      "species": "Ek",
+      "year": 1647
+    },
+    {
+      "site_id": 4014,
+      "site_name": "Skabersjö slott",
+      "lat": 55.5407035295,
+      "lon": 13.1471592635,
+      "species": "Tall",
+      "year": 1648
+    },
+    {
+      "site_id": 3958,
+      "site_name": "Vireda kyrka",
+      "lat": 57.915504815,
+      "lon": 14.6333559785,
+      "species": "Tall",
+      "year": 1633
+    },
+    {
+      "site_id": 3884,
+      "site_name": "Kvarteret Kassamannen",
+      "lat": 57.6704795196,
+      "lon": 14.969154026,
+      "species": "Tall",
+      "year": 1629
+    },
+    {
+      "site_id": 3925,
+      "site_name": "Biby säteri",
+      "lat": 59.2985850114,
+      "lon": 16.361841554,
+      "species": "Tall",
+      "year": 1609
+    },
+    {
+      "site_id": 3978,
+      "site_name": "Tovastugan",
+      "lat": 58.7474760743,
+      "lon": 17.0144328194,
+      "species": "Tall",
+      "year": 1636
+    },
+    {
+      "site_id": 4080,
+      "site_name": "Lau Kyrka",
+      "lat": 57.2829069812,
+      "lon": 18.6201900158,
+      "species": "Tall",
+      "year": 1640
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1604
+    },
+    {
+      "site_id": 4014,
+      "site_name": "Skabersjö slott",
+      "lat": 55.5407035295,
+      "lon": 13.1471592635,
+      "species": "Ek",
+      "year": 1601
+    },
+    {
+      "site_id": 4219,
+      "site_name": "Biskops",
+      "lat": 57.8524433281,
+      "lon": 19.0470244846,
+      "species": "Tall",
+      "year": 1636
+    },
+    {
+      "site_id": 4186,
+      "site_name": "Dörby kyrka",
+      "lat": 56.6716229714,
+      "lon": 16.2331583797,
+      "species": "Tall",
+      "year": 1610
+    },
+    {
+      "site_id": 3923,
+      "site_name": "Stenbockska palatset",
+      "lat": 59.3251236041,
+      "lon": 18.0627745883,
+      "species": "Tall",
+      "year": 1644
+    },
+    {
+      "site_id": 4014,
+      "site_name": "Skabersjö slott",
+      "lat": 55.5407035295,
+      "lon": 13.1471592635,
+      "species": "Tall",
+      "year": 1647
+    },
+    {
+      "site_id": 3958,
+      "site_name": "Vireda kyrka",
+      "lat": 57.915504815,
+      "lon": 14.6333559785,
+      "species": "Tall",
+      "year": 1600
+    },
+    {
+      "site_id": 4178,
+      "site_name": "Etelhems kyrka",
+      "lat": 57.337221976,
+      "lon": 18.4958931378,
+      "species": "Tall",
+      "year": 1619
+    },
+    {
+      "site_id": 4014,
+      "site_name": "Skabersjö slott",
+      "lat": 55.5407035295,
+      "lon": 13.1471592635,
+      "species": "Tall",
+      "year": 1640
+    },
+    {
+      "site_id": 4014,
+      "site_name": "Skabersjö slott",
+      "lat": 55.5407035295,
+      "lon": 13.1471592635,
+      "species": "Tall",
+      "year": 1645
+    },
+    {
+      "site_id": 3925,
+      "site_name": "Biby säteri",
+      "lat": 59.2985850114,
+      "lon": 16.361841554,
+      "species": "Tall",
+      "year": 1609
+    },
+    {
+      "site_id": 4194,
+      "site_name": "Burmeisterska huset",
+      "lat": 57.6392324458,
+      "lon": 18.2915723418,
+      "species": "Tall",
+      "year": 1649
+    },
+    {
+      "site_id": 4194,
+      "site_name": "Burmeisterska huset",
+      "lat": 57.6392324458,
+      "lon": 18.2915723418,
+      "species": "Tall",
+      "year": 1648
+    },
+    {
+      "site_id": 4194,
+      "site_name": "Burmeisterska huset",
+      "lat": 57.6392324458,
+      "lon": 18.2915723418,
+      "species": "Tall",
+      "year": 1647
+    },
+    {
+      "site_id": 4080,
+      "site_name": "Lau Kyrka",
+      "lat": 57.2829069812,
+      "lon": 18.6201900158,
+      "species": "Tall",
+      "year": 1637
+    },
+    {
+      "site_id": 3925,
+      "site_name": "Biby säteri",
+      "lat": 59.2985850114,
+      "lon": 16.361841554,
+      "species": "Tall",
+      "year": 1602
+    },
+    {
+      "site_id": 3892,
+      "site_name": "Kvarteret Borgmästaren",
+      "lat": 56.663040622,
+      "lon": 16.3667343936,
+      "species": "Tall",
+      "year": 1646
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Gran",
+      "year": 1631
+    },
+    {
+      "site_id": 4186,
+      "site_name": "Dörby kyrka",
+      "lat": 56.6716229714,
+      "lon": 16.2331583797,
+      "species": "Tall",
+      "year": 1614
+    },
+    {
+      "site_id": 4123,
+      "site_name": "Horns kyrka",
+      "lat": 57.9010708522,
+      "lon": 15.8381807879,
+      "species": "Tall",
+      "year": 1629
+    },
+    {
+      "site_id": 4096,
+      "site_name": "Kruttornet",
+      "lat": 57.6422680797,
+      "lon": 18.2913277078,
+      "species": "Tall",
+      "year": 1645
+    },
+    {
+      "site_id": 4034,
+      "site_name": "Rogslösa kyrka",
+      "lat": 58.3828598943,
+      "lon": 14.7435739026,
+      "species": "Tall",
+      "year": 1611
+    },
+    {
+      "site_id": 3978,
+      "site_name": "Tovastugan",
+      "lat": 58.7474760743,
+      "lon": 17.0144328194,
+      "species": "Tall",
+      "year": 1638
+    },
+    {
+      "site_id": 4205,
+      "site_name": "Bosebo kyrka",
+      "lat": 57.3061935154,
+      "lon": 13.3510066476,
+      "species": "Tall",
+      "year": 1638
+    },
+    {
+      "site_id": 3958,
+      "site_name": "Vireda kyrka",
+      "lat": 57.915504815,
+      "lon": 14.6333559785,
+      "species": "Tall",
+      "year": 1614
+    },
+    {
+      "site_id": 4186,
+      "site_name": "Dörby kyrka",
+      "lat": 56.6716229714,
+      "lon": 16.2331583797,
+      "species": "Tall",
+      "year": 1613
+    },
+    {
+      "site_id": 3938,
+      "site_name": "Älvestads kyrka",
+      "lat": 58.4457789678,
+      "lon": 15.2964228007,
+      "species": "Tall",
+      "year": 1639
+    },
+    {
+      "site_id": 3923,
+      "site_name": "Stenbockska palatset",
+      "lat": 59.3251236041,
+      "lon": 18.0627745883,
+      "species": "Tall",
+      "year": 1644
+    },
+    {
+      "site_id": 4014,
+      "site_name": "Skabersjö slott",
+      "lat": 55.5407035295,
+      "lon": 13.1471592635,
+      "species": "Ek",
+      "year": 1620
+    },
+    {
+      "site_id": 4215,
+      "site_name": "Bjäresjö kyrka",
+      "lat": 55.4623008363,
+      "lon": 13.7500069282,
+      "species": "Ek",
+      "year": 1601
+    },
+    {
+      "site_id": 3977,
+      "site_name": "Trehörna säteri",
+      "lat": 58.1525781452,
+      "lon": 14.8366734133,
+      "species": "Tall",
+      "year": 1648
+    },
+    {
+      "site_id": 3981,
+      "site_name": "Torpa kyrka",
+      "lat": 57.9619772617,
+      "lon": 15.1435311483,
+      "species": "Tall",
+      "year": 1637
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1642
+    },
+    {
+      "site_id": 3978,
+      "site_name": "Tovastugan",
+      "lat": 58.7474760743,
+      "lon": 17.0144328194,
+      "species": "Tall",
+      "year": 1635
+    },
+    {
+      "site_id": 3874,
+      "site_name": "Kvarteret Svartbrodern",
+      "lat": 57.6389679773,
+      "lon": 18.2934424244,
+      "species": "Tall",
+      "year": 1635
+    },
+    {
+      "site_id": 3871,
+      "site_name": "Kvarteret Östergötland",
+      "lat": 59.3174360133,
+      "lon": 18.0690616945,
+      "species": "Tall",
+      "year": 1630
+    },
+    {
+      "site_id": 4080,
+      "site_name": "Lau Kyrka",
+      "lat": 57.2829069812,
+      "lon": 18.6201900158,
+      "species": "Tall",
+      "year": 1640
+    },
+    {
+      "site_id": 3978,
+      "site_name": "Tovastugan",
+      "lat": 58.7474760743,
+      "lon": 17.0144328194,
+      "species": "Tall",
+      "year": 1627
+    },
+    {
+      "site_id": 3978,
+      "site_name": "Tovastugan",
+      "lat": 58.7474760743,
+      "lon": 17.0144328194,
+      "species": "Tall",
+      "year": 1632
+    },
+    {
+      "site_id": 4014,
+      "site_name": "Skabersjö slott",
+      "lat": 55.5407035295,
+      "lon": 13.1471592635,
+      "species": "Tall",
+      "year": 1645
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Tall",
+      "year": 1633
+    },
+    {
+      "site_id": 4172,
+      "site_name": "Fjellskäfte säteri",
+      "lat": 59.1191566711,
+      "lon": 16.3647591532,
+      "species": "Tall",
+      "year": 1630
+    },
+    {
+      "site_id": 4149,
+      "site_name": "Grävsten herrgård",
+      "lat": 58.3515719205,
+      "lon": 15.8922615755,
+      "species": "Tall",
+      "year": 1636
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1631
+    },
+    {
+      "site_id": 3925,
+      "site_name": "Biby säteri",
+      "lat": 59.2985850114,
+      "lon": 16.361841554,
+      "species": "Tall",
+      "year": 1604
+    },
+    {
+      "site_id": 3925,
+      "site_name": "Biby säteri",
+      "lat": 59.2985850114,
+      "lon": 16.361841554,
+      "species": "Tall",
+      "year": 1608
+    },
+    {
+      "site_id": 3888,
+      "site_name": "Kvarteret Färgaren",
+      "lat": 57.6689523502,
+      "lon": 14.9685853665,
+      "species": "Tall",
+      "year": 1600
+    },
+    {
+      "site_id": 4205,
+      "site_name": "Bosebo kyrka",
+      "lat": 57.3061935154,
+      "lon": 13.3510066476,
+      "species": "Tall",
+      "year": 1647
+    },
+    {
+      "site_id": 3888,
+      "site_name": "Kvarteret Färgaren",
+      "lat": 57.6689523502,
+      "lon": 14.9685853665,
+      "species": "Tall",
+      "year": 1605
+    },
+    {
+      "site_id": 3863,
+      "site_name": "Näs",
+      "lat": 57.6636863995,
+      "lon": 15.3713909548,
+      "species": "Tall",
+      "year": 1647
+    },
+    {
+      "site_id": 4080,
+      "site_name": "Lau Kyrka",
+      "lat": 57.2829069812,
+      "lon": 18.6201900158,
+      "species": "Tall",
+      "year": 1637
+    },
+    {
+      "site_id": 4128,
+      "site_name": "Hellvi kyrka",
+      "lat": 57.7750977341,
+      "lon": 18.8953010319,
+      "species": "Tall",
+      "year": 1600
+    },
+    {
+      "site_id": 4096,
+      "site_name": "Kruttornet",
+      "lat": 57.6422680797,
+      "lon": 18.2913277078,
+      "species": "Tall",
+      "year": 1630
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Tall",
+      "year": 1630
+    },
+    {
+      "site_id": 4191,
+      "site_name": "Cramérska huset",
+      "lat": 57.6413266574,
+      "lon": 18.2957180164,
+      "species": "Tall",
+      "year": 1637
+    },
+    {
+      "site_id": 4149,
+      "site_name": "Grävsten herrgård",
+      "lat": 58.3515719205,
+      "lon": 15.8922615755,
+      "species": "Tall",
+      "year": 1636
+    },
+    {
+      "site_id": 4096,
+      "site_name": "Kruttornet",
+      "lat": 57.6422680797,
+      "lon": 18.2913277078,
+      "species": "Tall",
+      "year": 1644
+    },
+    {
+      "site_id": 4194,
+      "site_name": "Burmeisterska huset",
+      "lat": 57.6392324458,
+      "lon": 18.2915723418,
+      "species": "Tall",
+      "year": 1647
+    },
+    {
+      "site_id": 3892,
+      "site_name": "Kvarteret Borgmästaren",
+      "lat": 56.663040622,
+      "lon": 16.3667343936,
+      "species": "Tall",
+      "year": 1625
+    },
+    {
+      "site_id": 4219,
+      "site_name": "Biskops",
+      "lat": 57.8524433281,
+      "lon": 19.0470244846,
+      "species": "Tall",
+      "year": 1637
+    },
+    {
+      "site_id": 3887,
+      "site_name": "Kvarteret Garvaren",
+      "lat": 57.6696892072,
+      "lon": 14.9697749558,
+      "species": "Tall",
+      "year": 1648
+    },
+    {
+      "site_id": 4014,
+      "site_name": "Skabersjö slott",
+      "lat": 55.5407035295,
+      "lon": 13.1471592635,
+      "species": "Tall",
+      "year": 1648
+    },
+    {
+      "site_id": 4149,
+      "site_name": "Grävsten herrgård",
+      "lat": 58.3515719205,
+      "lon": 15.8922615755,
+      "species": "Tall",
+      "year": 1635
+    },
+    {
+      "site_id": 4219,
+      "site_name": "Biskops",
+      "lat": 57.8524433281,
+      "lon": 19.0470244846,
+      "species": "Tall",
+      "year": 1625
+    },
+    {
+      "site_id": 3925,
+      "site_name": "Biby säteri",
+      "lat": 59.2985850114,
+      "lon": 16.361841554,
+      "species": "Tall",
+      "year": 1609
+    },
+    {
+      "site_id": 4014,
+      "site_name": "Skabersjö slott",
+      "lat": 55.5407035295,
+      "lon": 13.1471592635,
+      "species": "Ek",
+      "year": 1615
+    },
+    {
+      "site_id": 4186,
+      "site_name": "Dörby kyrka",
+      "lat": 56.6716229714,
+      "lon": 16.2331583797,
+      "species": "Tall",
+      "year": 1614
+    },
+    {
+      "site_id": 3938,
+      "site_name": "Älvestads kyrka",
+      "lat": 58.4457789678,
+      "lon": 15.2964228007,
+      "species": "Tall",
+      "year": 1639
+    },
+    {
+      "site_id": 4186,
+      "site_name": "Dörby kyrka",
+      "lat": 56.6716229714,
+      "lon": 16.2331583797,
+      "species": "Tall",
+      "year": 1614
+    },
+    {
+      "site_id": 4112,
+      "site_name": "Härnevi kyrka",
+      "lat": 59.7272333569,
+      "lon": 17.0759149131,
+      "species": "Tall",
+      "year": 1609
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1606
+    },
+    {
+      "site_id": 4072,
+      "site_name": "Lojsta kyrka",
+      "lat": 57.3128325904,
+      "lon": 18.3838930155,
+      "species": "Tall",
+      "year": 1606
+    },
+    {
+      "site_id": 4080,
+      "site_name": "Lau Kyrka",
+      "lat": 57.2829069812,
+      "lon": 18.6201900158,
+      "species": "Tall",
+      "year": 1637
+    },
+    {
+      "site_id": 4014,
+      "site_name": "Skabersjö slott",
+      "lat": 55.5407035295,
+      "lon": 13.1471592635,
+      "species": "Tall",
+      "year": 1645
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Gran",
+      "year": 1629
+    },
+    {
+      "site_id": 4014,
+      "site_name": "Skabersjö slott",
+      "lat": 55.5407035295,
+      "lon": 13.1471592635,
+      "species": "Tall",
+      "year": 1645
+    },
+    {
+      "site_id": 4186,
+      "site_name": "Dörby kyrka",
+      "lat": 56.6716229714,
+      "lon": 16.2331583797,
+      "species": "Tall",
+      "year": 1614
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1603
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1625
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Gran",
+      "year": 1631
+    }
+  ]
+}

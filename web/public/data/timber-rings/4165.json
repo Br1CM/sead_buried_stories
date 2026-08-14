@@ -1,0 +1,195 @@
+{
+  "site_id": 4165,
+  "site_name": "Fröken Löfgrens gård",
+  "lat": 58.4124597098,
+  "lon": 15.627324903,
+  "n_samples": 30,
+  "n_years": 15,
+  "earliest_label": "1714 AD",
+  "latest_label": "1817 AD",
+  "photo": null,
+  "years": [
+    {
+      "year": 1714,
+      "label": "1714 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    },
+    {
+      "year": 1715,
+      "label": "1715 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 2
+    },
+    {
+      "year": 1731,
+      "label": "1731 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 10
+    },
+    {
+      "year": 1750,
+      "label": "1750 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    },
+    {
+      "year": 1761,
+      "label": "1761 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    },
+    {
+      "year": 1763,
+      "label": "1763 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    },
+    {
+      "year": 1764,
+      "label": "1764 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 2
+    },
+    {
+      "year": 1768,
+      "label": "1768 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    },
+    {
+      "year": 1786,
+      "label": "1786 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    },
+    {
+      "year": 1788,
+      "label": "1788 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    },
+    {
+      "year": 1798,
+      "label": "1798 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    },
+    {
+      "year": 1801,
+      "label": "1801 AD",
+      "species_local": [
+        "Gran",
+        "Tall"
+      ],
+      "species_en": [
+        "Spruce",
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 3
+    },
+    {
+      "year": 1802,
+      "label": "1802 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    },
+    {
+      "year": 1804,
+      "label": "1804 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 2
+    },
+    {
+      "year": 1817,
+      "label": "1817 AD",
+      "species_local": [
+        "Gran"
+      ],
+      "species_en": [
+        "Spruce"
+      ],
+      "has_waney": true,
+      "n_samples": 2
+    }
+  ]
+}

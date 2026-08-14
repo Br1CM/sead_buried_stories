@@ -1,0 +1,52 @@
+{
+  "bucket_start": 2000,
+  "label": "2000 AD - 2050 AD",
+  "n_samples": 5,
+  "composition": {
+    "Tall": 40.0,
+    "Äppel": 40.0,
+    "Ask": 20.0
+  },
+  "points": [
+    {
+      "site_id": 3902,
+      "site_name": "Högsjö gård",
+      "lat": 59.0303156826,
+      "lon": 15.6846029132,
+      "species": "Tall",
+      "year": 2007
+    },
+    {
+      "site_id": 3898,
+      "site_name": "Karkebo",
+      "lat": 60.2495692205,
+      "lon": 17.8630769664,
+      "species": "Tall",
+      "year": 2008
+    },
+    {
+      "site_id": 3868,
+      "site_name": "Lögla",
+      "lat": 59.6337874186,
+      "lon": 18.7329262838,
+      "species": "Äppel",
+      "year": 2013
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Ask",
+      "year": 2011
+    },
+    {
+      "site_id": 3868,
+      "site_name": "Lögla",
+      "lat": 59.6337874186,
+      "lon": 18.7329262838,
+      "species": "Äppel",
+      "year": 2013
+    }
+  ]
+}

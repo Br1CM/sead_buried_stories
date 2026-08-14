@@ -67,10 +67,10 @@ export function ClimateChart({ series }: { series: ClimatePoint[] }) {
               x2={WIDTH - PAD.right}
               y1={y(v)}
               y2={y(v)}
-              stroke="rgba(255,255,255,0.08)"
+              stroke="var(--ink-8)"
               strokeWidth={1}
             />
-            <text x={PAD.left - 10} y={y(v)} textAnchor="end" dominantBaseline="middle" className="fill-white/40 text-[11px]">
+            <text x={PAD.left - 10} y={y(v)} textAnchor="end" dominantBaseline="middle" className="fill-ink-40 text-[11px]">
               {v.toFixed(0)}°
             </text>
           </g>
@@ -84,7 +84,7 @@ export function ClimateChart({ series }: { series: ClimatePoint[] }) {
 
         {/* x-axis labels */}
         {tickIndices.map((i) => (
-          <text key={i} x={x(i)} y={HEIGHT - 10} textAnchor="middle" className="fill-white/40 text-[11px]">
+          <text key={i} x={x(i)} y={HEIGHT - 10} textAnchor="middle" className="fill-ink-40 text-[11px]">
             {series[i].label}
           </text>
         ))}
@@ -97,7 +97,7 @@ export function ClimateChart({ series }: { series: ClimatePoint[] }) {
               x2={x(hoverIndex)}
               y1={PAD.top}
               y2={HEIGHT - PAD.bottom}
-              stroke="rgba(255,255,255,0.3)"
+              stroke="var(--ink-30)"
               strokeWidth={1}
             />
             <circle cx={x(hoverIndex)} cy={y(active.reconstructed_tmax_c)} r={4} fill="var(--color-accent)" />
@@ -106,10 +106,10 @@ export function ClimateChart({ series }: { series: ClimatePoint[] }) {
       </svg>
 
       {active && (
-        <div className="pointer-events-none absolute top-2 right-2 rounded-lg border border-white/10 bg-[#14100c] px-3 py-2 text-sm shadow-lg">
-          <div className="font-medium">{active.label}</div>
-          <div className="text-white/60">~{active.reconstructed_tmax_c}°C (range {active.range_low_c}–{active.range_high_c}°C)</div>
-          <div className="text-xs text-white/30">from {active.n_samples} dated sample{active.n_samples === 1 ? "" : "s"}</div>
+        <div className="pointer-events-none absolute top-2 right-2 rounded-lg border border-cream-10 bg-overlay px-3 py-2 text-sm shadow-lg">
+          <div className="font-medium text-cream-70">{active.label}</div>
+          <div className="text-cream-60">~{active.reconstructed_tmax_c}°C (range {active.range_low_c}–{active.range_high_c}°C)</div>
+          <div className="text-xs text-cream-30">from {active.n_samples} dated sample{active.n_samples === 1 ? "" : "s"}</div>
         </div>
       )}
     </div>

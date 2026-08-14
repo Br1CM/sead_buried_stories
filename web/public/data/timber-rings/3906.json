@@ -1,0 +1,325 @@
+{
+  "site_id": 3906,
+  "site_name": "Hunnebergsgatan",
+  "lat": 58.412078418,
+  "lon": 15.613317767,
+  "n_samples": 44,
+  "n_years": 25,
+  "earliest_label": "1607 AD",
+  "latest_label": "1782 AD",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Hunnebergsgatan_i_Link%C3%B6ping.JPG?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Hunnebergsgatan",
+    "license": "Copyrighted free use",
+    "creator": "Fotografiet taget under Kruosios och sv:Mannen av börds sightseeing i Linköping 2006-06-09. Någon av dessa är upphovsman, och tillåter frianvändning av bilden.",
+    "source": "Wikimedia Commons"
+  },
+  "years": [
+    {
+      "year": 1607,
+      "label": "1607 AD",
+      "species_local": [
+        "Gran"
+      ],
+      "species_en": [
+        "Spruce"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    },
+    {
+      "year": 1629,
+      "label": "1629 AD",
+      "species_local": [
+        "Gran"
+      ],
+      "species_en": [
+        "Spruce"
+      ],
+      "has_waney": true,
+      "n_samples": 2
+    },
+    {
+      "year": 1630,
+      "label": "1630 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    },
+    {
+      "year": 1631,
+      "label": "1631 AD",
+      "species_local": [
+        "Gran"
+      ],
+      "species_en": [
+        "Spruce"
+      ],
+      "has_waney": true,
+      "n_samples": 2
+    },
+    {
+      "year": 1633,
+      "label": "1633 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1663,
+      "label": "1663 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1678,
+      "label": "1678 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1683,
+      "label": "1683 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 2
+    },
+    {
+      "year": 1684,
+      "label": "1684 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 8
+    },
+    {
+      "year": 1686,
+      "label": "1686 AD",
+      "species_local": [
+        "Gran"
+      ],
+      "species_en": [
+        "Spruce"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    },
+    {
+      "year": 1727,
+      "label": "1727 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 2
+    },
+    {
+      "year": 1729,
+      "label": "1729 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1735,
+      "label": "1735 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1743,
+      "label": "1743 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1744,
+      "label": "1744 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    },
+    {
+      "year": 1746,
+      "label": "1746 AD",
+      "species_local": [
+        "Gran",
+        "Tall"
+      ],
+      "species_en": [
+        "Spruce",
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 2
+    },
+    {
+      "year": 1750,
+      "label": "1750 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 2
+    },
+    {
+      "year": 1758,
+      "label": "1758 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    },
+    {
+      "year": 1760,
+      "label": "1760 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    },
+    {
+      "year": 1762,
+      "label": "1762 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    },
+    {
+      "year": 1773,
+      "label": "1773 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1774,
+      "label": "1774 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1780,
+      "label": "1780 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 4
+    },
+    {
+      "year": 1781,
+      "label": "1781 AD",
+      "species_local": [
+        "Gran",
+        "Tall"
+      ],
+      "species_en": [
+        "Spruce",
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 2
+    },
+    {
+      "year": 1782,
+      "label": "1782 AD",
+      "species_local": [
+        "Gran",
+        "Tall"
+      ],
+      "species_en": [
+        "Spruce",
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 3
+    }
+  ]
+}

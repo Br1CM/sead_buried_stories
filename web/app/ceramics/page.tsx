@@ -9,7 +9,7 @@ export default function CeramicsPage() {
   return (
     <div className="mx-auto w-full max-w-6xl px-6 py-10">
       <h1 className="text-3xl font-semibold tracking-tight">Ceramics Through Time</h1>
-      <p className="mt-2 max-w-2xl text-white/60">
+      <p className="mt-2 max-w-2xl text-ink-60">
         Every pot tells potters&rsquo; recipes: what they mixed into the clay to keep it
         from cracking in the kiln. Step through the eras and watch the recipe change.
       </p>

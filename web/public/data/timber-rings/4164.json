@@ -1,0 +1,259 @@
+{
+  "site_id": 4164,
+  "site_name": "Furingstads kyrka",
+  "lat": 58.5554415248,
+  "lon": 16.3444366205,
+  "n_samples": 21,
+  "n_years": 20,
+  "earliest_label": "1082 AD",
+  "latest_label": "1344 AD",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Furingstads_kyrka_1.JPG?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Furingstads kyrka",
+    "license": "CC BY-SA 3.0",
+    "creator": "Västgöten",
+    "source": "Wikimedia Commons"
+  },
+  "years": [
+    {
+      "year": 1082,
+      "label": "1082 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1092,
+      "label": "1092 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1094,
+      "label": "1094 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    },
+    {
+      "year": 1103,
+      "label": "1103 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1120,
+      "label": "1120 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1132,
+      "label": "1132 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1138,
+      "label": "1138 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1140,
+      "label": "1140 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1148,
+      "label": "1148 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1150,
+      "label": "1150 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 2
+    },
+    {
+      "year": 1158,
+      "label": "1158 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    },
+    {
+      "year": 1163,
+      "label": "1163 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1164,
+      "label": "1164 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1165,
+      "label": "1165 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1166,
+      "label": "1166 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    },
+    {
+      "year": 1265,
+      "label": "1265 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1339,
+      "label": "1339 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1341,
+      "label": "1341 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    },
+    {
+      "year": 1343,
+      "label": "1343 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    },
+    {
+      "year": 1344,
+      "label": "1344 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "site_id": 4121,
+  "site_name": "Hovdala slott",
+  "lat": 56.1036848292,
+  "lon": 13.7137204295,
+  "n_samples": 25,
+  "n_years": 17,
+  "earliest_label": "1596 AD",
+  "latest_label": "1825 AD",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Hovdala_Slott.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Hovdala slott",
+    "license": "CC BY-SA 3.0",
+    "creator": "F.A.E.",
+    "source": "Wikimedia Commons"
+  },
+  "years": [
+    {
+      "year": 1596,
+      "label": "1596 AD",
+      "species_local": [
+        "Tall"
+      ],
+      "species_en": [
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 1
+    },
+    {
+      "year": 1598,
+      "label": "1598 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1599,
+      "label": "1599 AD",
+      "species_local": [
+        "Ek",
+        "Tall"
+      ],
+      "species_en": [
+        "Oak",
+        "Pine"
+      ],
+      "has_waney": true,
+      "n_samples": 3
+    },
+    {
+      "year": 1678,
+      "label": "1678 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1679,
+      "label": "1679 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": true,
+      "n_samples": 3
+    },
+    {
+      "year": 1785,
+      "label": "1785 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1788,
+      "label": "1788 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1793,
+      "label": "1793 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1799,
+      "label": "1799 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1801,
+      "label": "1801 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1803,
+      "label": "1803 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1807,
+      "label": "1807 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1815,
+      "label": "1815 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1817,
+      "label": "1817 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 2
+    },
+    {
+      "year": 1819,
+      "label": "1819 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    },
+    {
+      "year": 1824,
+      "label": "1824 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": true,
+      "n_samples": 4
+    },
+    {
+      "year": 1825,
+      "label": "1825 AD",
+      "species_local": [
+        "Ek"
+      ],
+      "species_en": [
+        "Oak"
+      ],
+      "has_waney": false,
+      "n_samples": 1
+    }
+  ]
+}

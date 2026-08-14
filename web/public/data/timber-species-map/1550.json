@@ -1,0 +1,707 @@
+{
+  "bucket_start": 1550,
+  "label": "1550 AD - 1600 AD",
+  "n_samples": 87,
+  "composition": {
+    "Tall": 63.2,
+    "Ek": 36.8
+  },
+  "points": [
+    {
+      "site_id": 3900,
+      "site_name": "Ingatorp",
+      "lat": 57.6380382075,
+      "lon": 15.4073076125,
+      "species": "Tall",
+      "year": 1553
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1595
+    },
+    {
+      "site_id": 4004,
+      "site_name": "Smedstorps slott",
+      "lat": 55.5630381446,
+      "lon": 14.1077989281,
+      "species": "Ek",
+      "year": 1579
+    },
+    {
+      "site_id": 4214,
+      "site_name": "Bjärsjöholms slott",
+      "lat": 55.4534400797,
+      "lon": 13.7775800683,
+      "species": "Ek",
+      "year": 1572
+    },
+    {
+      "site_id": 4214,
+      "site_name": "Bjärsjöholms slott",
+      "lat": 55.4534400797,
+      "lon": 13.7775800683,
+      "species": "Ek",
+      "year": 1577
+    },
+    {
+      "site_id": 4111,
+      "site_name": "Häverö kyrka",
+      "lat": 60.0412829391,
+      "lon": 18.6804237713,
+      "species": "Tall",
+      "year": 1588
+    },
+    {
+      "site_id": 4219,
+      "site_name": "Biskops",
+      "lat": 57.8524433281,
+      "lon": 19.0470244846,
+      "species": "Tall",
+      "year": 1593
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1588
+    },
+    {
+      "site_id": 4012,
+      "site_name": "Skeppsås kyrka",
+      "lat": 58.453699333,
+      "lon": 15.2315984439,
+      "species": "Tall",
+      "year": 1574
+    },
+    {
+      "site_id": 3900,
+      "site_name": "Ingatorp",
+      "lat": 57.6380382075,
+      "lon": 15.4073076125,
+      "species": "Tall",
+      "year": 1555
+    },
+    {
+      "site_id": 4004,
+      "site_name": "Smedstorps slott",
+      "lat": 55.5630381446,
+      "lon": 14.1077989281,
+      "species": "Ek",
+      "year": 1576
+    },
+    {
+      "site_id": 4214,
+      "site_name": "Bjärsjöholms slott",
+      "lat": 55.4534400797,
+      "lon": 13.7775800683,
+      "species": "Ek",
+      "year": 1577
+    },
+    {
+      "site_id": 3900,
+      "site_name": "Ingatorp",
+      "lat": 57.6380382075,
+      "lon": 15.4073076125,
+      "species": "Tall",
+      "year": 1554
+    },
+    {
+      "site_id": 3894,
+      "site_name": "Kvarteret Almen",
+      "lat": 57.7822875189,
+      "lon": 14.1719727915,
+      "species": "Tall",
+      "year": 1590
+    },
+    {
+      "site_id": 4186,
+      "site_name": "Dörby kyrka",
+      "lat": 56.6716229714,
+      "lon": 16.2331583797,
+      "species": "Tall",
+      "year": 1599
+    },
+    {
+      "site_id": 3900,
+      "site_name": "Ingatorp",
+      "lat": 57.6380382075,
+      "lon": 15.4073076125,
+      "species": "Tall",
+      "year": 1552
+    },
+    {
+      "site_id": 4180,
+      "site_name": "Erikskulle",
+      "lat": 59.8905697613,
+      "lon": 18.7118577513,
+      "species": "Tall",
+      "year": 1575
+    },
+    {
+      "site_id": 4180,
+      "site_name": "Erikskulle",
+      "lat": 59.8905697613,
+      "lon": 18.7118577513,
+      "species": "Tall",
+      "year": 1592
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1594
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1592
+    },
+    {
+      "site_id": 4214,
+      "site_name": "Bjärsjöholms slott",
+      "lat": 55.4534400797,
+      "lon": 13.7775800683,
+      "species": "Ek",
+      "year": 1577
+    },
+    {
+      "site_id": 4183,
+      "site_name": "Ekelunda",
+      "lat": 56.5714921145,
+      "lon": 16.576268413,
+      "species": "Ek",
+      "year": 1598
+    },
+    {
+      "site_id": 4183,
+      "site_name": "Ekelunda",
+      "lat": 56.5714921145,
+      "lon": 16.576268413,
+      "species": "Ek",
+      "year": 1590
+    },
+    {
+      "site_id": 4091,
+      "site_name": "Kumlaby kyrka",
+      "lat": 58.0551699017,
+      "lon": 14.3483650835,
+      "species": "Tall",
+      "year": 1575
+    },
+    {
+      "site_id": 4214,
+      "site_name": "Bjärsjöholms slott",
+      "lat": 55.4534400797,
+      "lon": 13.7775800683,
+      "species": "Tall",
+      "year": 1576
+    },
+    {
+      "site_id": 4214,
+      "site_name": "Bjärsjöholms slott",
+      "lat": 55.4534400797,
+      "lon": 13.7775800683,
+      "species": "Ek",
+      "year": 1577
+    },
+    {
+      "site_id": 4121,
+      "site_name": "Hovdala slott",
+      "lat": 56.1036848292,
+      "lon": 13.7137204295,
+      "species": "Ek",
+      "year": 1599
+    },
+    {
+      "site_id": 4180,
+      "site_name": "Erikskulle",
+      "lat": 59.8905697613,
+      "lon": 18.7118577513,
+      "species": "Tall",
+      "year": 1592
+    },
+    {
+      "site_id": 3900,
+      "site_name": "Ingatorp",
+      "lat": 57.6380382075,
+      "lon": 15.4073076125,
+      "species": "Tall",
+      "year": 1555
+    },
+    {
+      "site_id": 4081,
+      "site_name": "Lassor",
+      "lat": 57.9708347187,
+      "lon": 19.2317309103,
+      "species": "Tall",
+      "year": 1558
+    },
+    {
+      "site_id": 4214,
+      "site_name": "Bjärsjöholms slott",
+      "lat": 55.4534400797,
+      "lon": 13.7775800683,
+      "species": "Ek",
+      "year": 1563
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1582
+    },
+    {
+      "site_id": 4215,
+      "site_name": "Bjäresjö kyrka",
+      "lat": 55.4623008363,
+      "lon": 13.7500069282,
+      "species": "Ek",
+      "year": 1550
+    },
+    {
+      "site_id": 4111,
+      "site_name": "Häverö kyrka",
+      "lat": 60.0412829391,
+      "lon": 18.6804237713,
+      "species": "Tall",
+      "year": 1583
+    },
+    {
+      "site_id": 4214,
+      "site_name": "Bjärsjöholms slott",
+      "lat": 55.4534400797,
+      "lon": 13.7775800683,
+      "species": "Tall",
+      "year": 1560
+    },
+    {
+      "site_id": 4214,
+      "site_name": "Bjärsjöholms slott",
+      "lat": 55.4534400797,
+      "lon": 13.7775800683,
+      "species": "Ek",
+      "year": 1577
+    },
+    {
+      "site_id": 4004,
+      "site_name": "Smedstorps slott",
+      "lat": 55.5630381446,
+      "lon": 14.1077989281,
+      "species": "Ek",
+      "year": 1572
+    },
+    {
+      "site_id": 4012,
+      "site_name": "Skeppsås kyrka",
+      "lat": 58.453699333,
+      "lon": 15.2315984439,
+      "species": "Tall",
+      "year": 1586
+    },
+    {
+      "site_id": 4111,
+      "site_name": "Häverö kyrka",
+      "lat": 60.0412829391,
+      "lon": 18.6804237713,
+      "species": "Tall",
+      "year": 1588
+    },
+    {
+      "site_id": 4121,
+      "site_name": "Hovdala slott",
+      "lat": 56.1036848292,
+      "lon": 13.7137204295,
+      "species": "Tall",
+      "year": 1599
+    },
+    {
+      "site_id": 4042,
+      "site_name": "Orkesta kyrka",
+      "lat": 59.6047544634,
+      "lon": 18.1101330621,
+      "species": "Tall",
+      "year": 1584
+    },
+    {
+      "site_id": 4121,
+      "site_name": "Hovdala slott",
+      "lat": 56.1036848292,
+      "lon": 13.7137204295,
+      "species": "Tall",
+      "year": 1599
+    },
+    {
+      "site_id": 3900,
+      "site_name": "Ingatorp",
+      "lat": 57.6380382075,
+      "lon": 15.4073076125,
+      "species": "Tall",
+      "year": 1554
+    },
+    {
+      "site_id": 3900,
+      "site_name": "Ingatorp",
+      "lat": 57.6380382075,
+      "lon": 15.4073076125,
+      "species": "Tall",
+      "year": 1554
+    },
+    {
+      "site_id": 4012,
+      "site_name": "Skeppsås kyrka",
+      "lat": 58.453699333,
+      "lon": 15.2315984439,
+      "species": "Tall",
+      "year": 1576
+    },
+    {
+      "site_id": 4004,
+      "site_name": "Smedstorps slott",
+      "lat": 55.5630381446,
+      "lon": 14.1077989281,
+      "species": "Ek",
+      "year": 1581
+    },
+    {
+      "site_id": 4004,
+      "site_name": "Smedstorps slott",
+      "lat": 55.5630381446,
+      "lon": 14.1077989281,
+      "species": "Tall",
+      "year": 1572
+    },
+    {
+      "site_id": 4214,
+      "site_name": "Bjärsjöholms slott",
+      "lat": 55.4534400797,
+      "lon": 13.7775800683,
+      "species": "Tall",
+      "year": 1568
+    },
+    {
+      "site_id": 4214,
+      "site_name": "Bjärsjöholms slott",
+      "lat": 55.4534400797,
+      "lon": 13.7775800683,
+      "species": "Tall",
+      "year": 1574
+    },
+    {
+      "site_id": 4012,
+      "site_name": "Skeppsås kyrka",
+      "lat": 58.453699333,
+      "lon": 15.2315984439,
+      "species": "Tall",
+      "year": 1573
+    },
+    {
+      "site_id": 4004,
+      "site_name": "Smedstorps slott",
+      "lat": 55.5630381446,
+      "lon": 14.1077989281,
+      "species": "Ek",
+      "year": 1571
+    },
+    {
+      "site_id": 3871,
+      "site_name": "Kvarteret Östergötland",
+      "lat": 59.3174360133,
+      "lon": 18.0690616945,
+      "species": "Tall",
+      "year": 1594
+    },
+    {
+      "site_id": 4214,
+      "site_name": "Bjärsjöholms slott",
+      "lat": 55.4534400797,
+      "lon": 13.7775800683,
+      "species": "Tall",
+      "year": 1558
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1598
+    },
+    {
+      "site_id": 4214,
+      "site_name": "Bjärsjöholms slott",
+      "lat": 55.4534400797,
+      "lon": 13.7775800683,
+      "species": "Ek",
+      "year": 1577
+    },
+    {
+      "site_id": 4058,
+      "site_name": "Måcketorpsboden",
+      "lat": 57.1672248969,
+      "lon": 15.3526086089,
+      "species": "Tall",
+      "year": 1582
+    },
+    {
+      "site_id": 4012,
+      "site_name": "Skeppsås kyrka",
+      "lat": 58.453699333,
+      "lon": 15.2315984439,
+      "species": "Tall",
+      "year": 1574
+    },
+    {
+      "site_id": 4091,
+      "site_name": "Kumlaby kyrka",
+      "lat": 58.0551699017,
+      "lon": 14.3483650835,
+      "species": "Tall",
+      "year": 1575
+    },
+    {
+      "site_id": 4081,
+      "site_name": "Lassor",
+      "lat": 57.9708347187,
+      "lon": 19.2317309103,
+      "species": "Tall",
+      "year": 1558
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1592
+    },
+    {
+      "site_id": 4012,
+      "site_name": "Skeppsås kyrka",
+      "lat": 58.453699333,
+      "lon": 15.2315984439,
+      "species": "Tall",
+      "year": 1572
+    },
+    {
+      "site_id": 4214,
+      "site_name": "Bjärsjöholms slott",
+      "lat": 55.4534400797,
+      "lon": 13.7775800683,
+      "species": "Ek",
+      "year": 1558
+    },
+    {
+      "site_id": 4004,
+      "site_name": "Smedstorps slott",
+      "lat": 55.5630381446,
+      "lon": 14.1077989281,
+      "species": "Ek",
+      "year": 1580
+    },
+    {
+      "site_id": 4098,
+      "site_name": "Krapperups borg",
+      "lat": 56.2620769233,
+      "lon": 12.5302627748,
+      "species": "Ek",
+      "year": 1552
+    },
+    {
+      "site_id": 4214,
+      "site_name": "Bjärsjöholms slott",
+      "lat": 55.4534400797,
+      "lon": 13.7775800683,
+      "species": "Ek",
+      "year": 1567
+    },
+    {
+      "site_id": 4214,
+      "site_name": "Bjärsjöholms slott",
+      "lat": 55.4534400797,
+      "lon": 13.7775800683,
+      "species": "Ek",
+      "year": 1566
+    },
+    {
+      "site_id": 4186,
+      "site_name": "Dörby kyrka",
+      "lat": 56.6716229714,
+      "lon": 16.2331583797,
+      "species": "Tall",
+      "year": 1588
+    },
+    {
+      "site_id": 4058,
+      "site_name": "Måcketorpsboden",
+      "lat": 57.1672248969,
+      "lon": 15.3526086089,
+      "species": "Tall",
+      "year": 1575
+    },
+    {
+      "site_id": 4121,
+      "site_name": "Hovdala slott",
+      "lat": 56.1036848292,
+      "lon": 13.7137204295,
+      "species": "Tall",
+      "year": 1596
+    },
+    {
+      "site_id": 4012,
+      "site_name": "Skeppsås kyrka",
+      "lat": 58.453699333,
+      "lon": 15.2315984439,
+      "species": "Tall",
+      "year": 1586
+    },
+    {
+      "site_id": 4111,
+      "site_name": "Häverö kyrka",
+      "lat": 60.0412829391,
+      "lon": 18.6804237713,
+      "species": "Tall",
+      "year": 1583
+    },
+    {
+      "site_id": 4121,
+      "site_name": "Hovdala slott",
+      "lat": 56.1036848292,
+      "lon": 13.7137204295,
+      "species": "Ek",
+      "year": 1598
+    },
+    {
+      "site_id": 4012,
+      "site_name": "Skeppsås kyrka",
+      "lat": 58.453699333,
+      "lon": 15.2315984439,
+      "species": "Tall",
+      "year": 1562
+    },
+    {
+      "site_id": 4111,
+      "site_name": "Häverö kyrka",
+      "lat": 60.0412829391,
+      "lon": 18.6804237713,
+      "species": "Tall",
+      "year": 1583
+    },
+    {
+      "site_id": 4219,
+      "site_name": "Biskops",
+      "lat": 57.8524433281,
+      "lon": 19.0470244846,
+      "species": "Tall",
+      "year": 1562
+    },
+    {
+      "site_id": 4149,
+      "site_name": "Grävsten herrgård",
+      "lat": 58.3515719205,
+      "lon": 15.8922615755,
+      "species": "Tall",
+      "year": 1593
+    },
+    {
+      "site_id": 3872,
+      "site_name": "Kvarteret Vinskänken",
+      "lat": 57.6675874623,
+      "lon": 14.970480741,
+      "species": "Tall",
+      "year": 1587
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1591
+    },
+    {
+      "site_id": 4214,
+      "site_name": "Bjärsjöholms slott",
+      "lat": 55.4534400797,
+      "lon": 13.7775800683,
+      "species": "Ek",
+      "year": 1562
+    },
+    {
+      "site_id": 4180,
+      "site_name": "Erikskulle",
+      "lat": 59.8905697613,
+      "lon": 18.7118577513,
+      "species": "Tall",
+      "year": 1585
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1595
+    },
+    {
+      "site_id": 4004,
+      "site_name": "Smedstorps slott",
+      "lat": 55.5630381446,
+      "lon": 14.1077989281,
+      "species": "Ek",
+      "year": 1567
+    },
+    {
+      "site_id": 4219,
+      "site_name": "Biskops",
+      "lat": 57.8524433281,
+      "lon": 19.0470244846,
+      "species": "Tall",
+      "year": 1591
+    },
+    {
+      "site_id": 4012,
+      "site_name": "Skeppsås kyrka",
+      "lat": 58.453699333,
+      "lon": 15.2315984439,
+      "species": "Tall",
+      "year": 1586
+    },
+    {
+      "site_id": 4219,
+      "site_name": "Biskops",
+      "lat": 57.8524433281,
+      "lon": 19.0470244846,
+      "species": "Tall",
+      "year": 1559
+    },
+    {
+      "site_id": 4080,
+      "site_name": "Lau Kyrka",
+      "lat": 57.2829069812,
+      "lon": 18.6201900158,
+      "species": "Tall",
+      "year": 1561
+    },
+    {
+      "site_id": 4214,
+      "site_name": "Bjärsjöholms slott",
+      "lat": 55.4534400797,
+      "lon": 13.7775800683,
+      "species": "Tall",
+      "year": 1556
+    }
+  ]
+}

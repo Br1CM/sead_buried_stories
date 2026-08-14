@@ -22,7 +22,7 @@ export default async function SpeciesDetailPage({
   return (
     <div className="mx-auto w-full max-w-6xl px-6 py-10">
       <div className="mb-8 flex flex-col gap-6 sm:flex-row sm:items-start">
-        <div className="relative h-40 w-40 shrink-0 overflow-hidden rounded-2xl bg-white/5">
+        <div className="relative h-40 w-40 shrink-0 overflow-hidden rounded-2xl bg-ink-5">
           {species.image ? (
             <Image
               src={species.image.url}
@@ -32,15 +32,15 @@ export default async function SpeciesDetailPage({
               className="object-cover"
             />
           ) : (
-            <div className="flex h-full w-full items-center justify-center text-3xl text-white/20">
+            <div className="flex h-full w-full items-center justify-center text-3xl text-ink-20">
               ?
             </div>
           )}
         </div>
         <div>
           <h1 className="text-3xl font-semibold tracking-tight">{displayName}</h1>
-          <p className="italic text-white/50">{species.scientific_name}</p>
-          <p className="mt-3 max-w-xl text-white/70">
+          <p className="italic text-ink-50">{species.scientific_name}</p>
+          <p className="mt-3 max-w-xl text-ink-70">
             Found at {species.n_sites} dated sites across {species.n_finds} separate finds,
             spanning {species.oldest_label} to {species.youngest_label}. Drag the slider
             below to follow it through time.

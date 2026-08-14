@@ -1,0 +1,1180 @@
+{
+  "bucket_start": 1400,
+  "label": "1400 AD - 1450 AD",
+  "n_samples": 146,
+  "composition": {
+    "Ek": 73.3,
+    "Tall": 23.3,
+    "Gran": 3.4
+  },
+  "points": [
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1444
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1430
+    },
+    {
+      "site_id": 4070,
+      "site_name": "Lunds domkyrka",
+      "lat": 55.7041071246,
+      "lon": 13.1934823315,
+      "species": "Ek",
+      "year": 1406
+    },
+    {
+      "site_id": 4147,
+      "site_name": "Guldrupe kyrka",
+      "lat": 57.4303913604,
+      "lon": 18.4266631287,
+      "species": "Tall",
+      "year": 1431
+    },
+    {
+      "site_id": 3994,
+      "site_name": "Stora Köpinge kyrka",
+      "lat": 55.470583297,
+      "lon": 13.9474727836,
+      "species": "Ek",
+      "year": 1418
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1449
+    },
+    {
+      "site_id": 4200,
+      "site_name": "Bromma kyrka",
+      "lat": 55.470354386,
+      "lon": 13.8013871193,
+      "species": "Ek",
+      "year": 1421
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1409
+    },
+    {
+      "site_id": 4112,
+      "site_name": "Härnevi kyrka",
+      "lat": 59.7272333569,
+      "lon": 17.0759149131,
+      "species": "Gran",
+      "year": 1444
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1415
+    },
+    {
+      "site_id": 4195,
+      "site_name": "Burlövs gamla kyrka",
+      "lat": 55.6366912361,
+      "lon": 13.1132212027,
+      "species": "Ek",
+      "year": 1408
+    },
+    {
+      "site_id": 4212,
+      "site_name": "Bonderups kyrka",
+      "lat": 55.6397157063,
+      "lon": 13.3565138671,
+      "species": "Ek",
+      "year": 1420
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1403
+    },
+    {
+      "site_id": 4200,
+      "site_name": "Bromma kyrka",
+      "lat": 55.470354386,
+      "lon": 13.8013871193,
+      "species": "Ek",
+      "year": 1418
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1405
+    },
+    {
+      "site_id": 4109,
+      "site_name": "Hörja kyrka",
+      "lat": 56.2056145128,
+      "lon": 13.5898355804,
+      "species": "Ek",
+      "year": 1427
+    },
+    {
+      "site_id": 4109,
+      "site_name": "Hörja kyrka",
+      "lat": 56.2056145128,
+      "lon": 13.5898355804,
+      "species": "Ek",
+      "year": 1434
+    },
+    {
+      "site_id": 4109,
+      "site_name": "Hörja kyrka",
+      "lat": 56.2056145128,
+      "lon": 13.5898355804,
+      "species": "Ek",
+      "year": 1434
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1409
+    },
+    {
+      "site_id": 4011,
+      "site_name": "Skårby kyrka",
+      "lat": 55.4865440236,
+      "lon": 13.7133457284,
+      "species": "Ek",
+      "year": 1431
+    },
+    {
+      "site_id": 4142,
+      "site_name": "Hagebyhöga kyrka",
+      "lat": 58.46746785,
+      "lon": 14.9747329733,
+      "species": "Ek",
+      "year": 1437
+    },
+    {
+      "site_id": 3956,
+      "site_name": "Visseltofta kyrka",
+      "lat": 56.427730662,
+      "lon": 13.8564207006,
+      "species": "Ek",
+      "year": 1415
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1409
+    },
+    {
+      "site_id": 4051,
+      "site_name": "Norra Rörums kyrka",
+      "lat": 56.0203410643,
+      "lon": 13.5107429543,
+      "species": "Ek",
+      "year": 1448
+    },
+    {
+      "site_id": 3994,
+      "site_name": "Stora Köpinge kyrka",
+      "lat": 55.470583297,
+      "lon": 13.9474727836,
+      "species": "Ek",
+      "year": 1416
+    },
+    {
+      "site_id": 4049,
+      "site_name": "Norra Åsums kyrka",
+      "lat": 55.9895996121,
+      "lon": 14.1514451464,
+      "species": "Ek",
+      "year": 1449
+    },
+    {
+      "site_id": 4011,
+      "site_name": "Skårby kyrka",
+      "lat": 55.4865440236,
+      "lon": 13.7133457284,
+      "species": "Ek",
+      "year": 1439
+    },
+    {
+      "site_id": 4212,
+      "site_name": "Bonderups kyrka",
+      "lat": 55.6397157063,
+      "lon": 13.3565138671,
+      "species": "Ek",
+      "year": 1407
+    },
+    {
+      "site_id": 4212,
+      "site_name": "Bonderups kyrka",
+      "lat": 55.6397157063,
+      "lon": 13.3565138671,
+      "species": "Ek",
+      "year": 1410
+    },
+    {
+      "site_id": 4190,
+      "site_name": "Dalby kungsgård",
+      "lat": 55.6645794767,
+      "lon": 13.3442790198,
+      "species": "Ek",
+      "year": 1435
+    },
+    {
+      "site_id": 3956,
+      "site_name": "Visseltofta kyrka",
+      "lat": 56.427730662,
+      "lon": 13.8564207006,
+      "species": "Ek",
+      "year": 1419
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1409
+    },
+    {
+      "site_id": 4142,
+      "site_name": "Hagebyhöga kyrka",
+      "lat": 58.46746785,
+      "lon": 14.9747329733,
+      "species": "Ek",
+      "year": 1424
+    },
+    {
+      "site_id": 4112,
+      "site_name": "Härnevi kyrka",
+      "lat": 59.7272333569,
+      "lon": 17.0759149131,
+      "species": "Gran",
+      "year": 1448
+    },
+    {
+      "site_id": 3956,
+      "site_name": "Visseltofta kyrka",
+      "lat": 56.427730662,
+      "lon": 13.8564207006,
+      "species": "Ek",
+      "year": 1424
+    },
+    {
+      "site_id": 4109,
+      "site_name": "Hörja kyrka",
+      "lat": 56.2056145128,
+      "lon": 13.5898355804,
+      "species": "Ek",
+      "year": 1428
+    },
+    {
+      "site_id": 3956,
+      "site_name": "Visseltofta kyrka",
+      "lat": 56.427730662,
+      "lon": 13.8564207006,
+      "species": "Ek",
+      "year": 1439
+    },
+    {
+      "site_id": 4109,
+      "site_name": "Hörja kyrka",
+      "lat": 56.2056145128,
+      "lon": 13.5898355804,
+      "species": "Ek",
+      "year": 1425
+    },
+    {
+      "site_id": 4109,
+      "site_name": "Hörja kyrka",
+      "lat": 56.2056145128,
+      "lon": 13.5898355804,
+      "species": "Ek",
+      "year": 1428
+    },
+    {
+      "site_id": 4143,
+      "site_name": "Hagby kyrka",
+      "lat": 56.5546307122,
+      "lon": 16.1766390834,
+      "species": "Tall",
+      "year": 1440
+    },
+    {
+      "site_id": 4212,
+      "site_name": "Bonderups kyrka",
+      "lat": 55.6397157063,
+      "lon": 13.3565138671,
+      "species": "Ek",
+      "year": 1412
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1409
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1410
+    },
+    {
+      "site_id": 4112,
+      "site_name": "Härnevi kyrka",
+      "lat": 59.7272333569,
+      "lon": 17.0759149131,
+      "species": "Gran",
+      "year": 1447
+    },
+    {
+      "site_id": 3994,
+      "site_name": "Stora Köpinge kyrka",
+      "lat": 55.470583297,
+      "lon": 13.9474727836,
+      "species": "Ek",
+      "year": 1417
+    },
+    {
+      "site_id": 4039,
+      "site_name": "Perstorps kyrka",
+      "lat": 56.1416136158,
+      "lon": 13.3867602912,
+      "species": "Ek",
+      "year": 1448
+    },
+    {
+      "site_id": 3994,
+      "site_name": "Stora Köpinge kyrka",
+      "lat": 55.470583297,
+      "lon": 13.9474727836,
+      "species": "Ek",
+      "year": 1420
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1423
+    },
+    {
+      "site_id": 4143,
+      "site_name": "Hagby kyrka",
+      "lat": 56.5546307122,
+      "lon": 16.1766390834,
+      "species": "Tall",
+      "year": 1440
+    },
+    {
+      "site_id": 3942,
+      "site_name": "Västra Nöbbelövs kyrka",
+      "lat": 55.435257265,
+      "lon": 13.6169241057,
+      "species": "Ek",
+      "year": 1426
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1409
+    },
+    {
+      "site_id": 3956,
+      "site_name": "Visseltofta kyrka",
+      "lat": 56.427730662,
+      "lon": 13.8564207006,
+      "species": "Ek",
+      "year": 1444
+    },
+    {
+      "site_id": 4109,
+      "site_name": "Hörja kyrka",
+      "lat": 56.2056145128,
+      "lon": 13.5898355804,
+      "species": "Ek",
+      "year": 1416
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1449
+    },
+    {
+      "site_id": 4051,
+      "site_name": "Norra Rörums kyrka",
+      "lat": 56.0203410643,
+      "lon": 13.5107429543,
+      "species": "Ek",
+      "year": 1440
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1407
+    },
+    {
+      "site_id": 3943,
+      "site_name": "Västra Klagstorps kyrka",
+      "lat": 55.5281739447,
+      "lon": 12.9947204671,
+      "species": "Ek",
+      "year": 1449
+    },
+    {
+      "site_id": 4112,
+      "site_name": "Härnevi kyrka",
+      "lat": 59.7272333569,
+      "lon": 17.0759149131,
+      "species": "Tall",
+      "year": 1426
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1409
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1433
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1432
+    },
+    {
+      "site_id": 3994,
+      "site_name": "Stora Köpinge kyrka",
+      "lat": 55.470583297,
+      "lon": 13.9474727836,
+      "species": "Ek",
+      "year": 1417
+    },
+    {
+      "site_id": 3994,
+      "site_name": "Stora Köpinge kyrka",
+      "lat": 55.470583297,
+      "lon": 13.9474727836,
+      "species": "Ek",
+      "year": 1416
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1429
+    },
+    {
+      "site_id": 3956,
+      "site_name": "Visseltofta kyrka",
+      "lat": 56.427730662,
+      "lon": 13.8564207006,
+      "species": "Ek",
+      "year": 1420
+    },
+    {
+      "site_id": 4224,
+      "site_name": "Baldringe kyrka",
+      "lat": 55.5299390885,
+      "lon": 13.8401822932,
+      "species": "Ek",
+      "year": 1426
+    },
+    {
+      "site_id": 4212,
+      "site_name": "Bonderups kyrka",
+      "lat": 55.6397157063,
+      "lon": 13.3565138671,
+      "species": "Ek",
+      "year": 1417
+    },
+    {
+      "site_id": 4098,
+      "site_name": "Krapperups borg",
+      "lat": 56.2620769233,
+      "lon": 12.5302627748,
+      "species": "Ek",
+      "year": 1405
+    },
+    {
+      "site_id": 4070,
+      "site_name": "Lunds domkyrka",
+      "lat": 55.7041071246,
+      "lon": 13.1934823315,
+      "species": "Ek",
+      "year": 1411
+    },
+    {
+      "site_id": 4142,
+      "site_name": "Hagebyhöga kyrka",
+      "lat": 58.46746785,
+      "lon": 14.9747329733,
+      "species": "Ek",
+      "year": 1421
+    },
+    {
+      "site_id": 3994,
+      "site_name": "Stora Köpinge kyrka",
+      "lat": 55.470583297,
+      "lon": 13.9474727836,
+      "species": "Ek",
+      "year": 1419
+    },
+    {
+      "site_id": 4212,
+      "site_name": "Bonderups kyrka",
+      "lat": 55.6397157063,
+      "lon": 13.3565138671,
+      "species": "Ek",
+      "year": 1416
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1415
+    },
+    {
+      "site_id": 4143,
+      "site_name": "Hagby kyrka",
+      "lat": 56.5546307122,
+      "lon": 16.1766390834,
+      "species": "Tall",
+      "year": 1430
+    },
+    {
+      "site_id": 4143,
+      "site_name": "Hagby kyrka",
+      "lat": 56.5546307122,
+      "lon": 16.1766390834,
+      "species": "Tall",
+      "year": 1424
+    },
+    {
+      "site_id": 4109,
+      "site_name": "Hörja kyrka",
+      "lat": 56.2056145128,
+      "lon": 13.5898355804,
+      "species": "Ek",
+      "year": 1427
+    },
+    {
+      "site_id": 4212,
+      "site_name": "Bonderups kyrka",
+      "lat": 55.6397157063,
+      "lon": 13.3565138671,
+      "species": "Ek",
+      "year": 1416
+    },
+    {
+      "site_id": 3994,
+      "site_name": "Stora Köpinge kyrka",
+      "lat": 55.470583297,
+      "lon": 13.9474727836,
+      "species": "Ek",
+      "year": 1416
+    },
+    {
+      "site_id": 4049,
+      "site_name": "Norra Åsums kyrka",
+      "lat": 55.9895996121,
+      "lon": 14.1514451464,
+      "species": "Ek",
+      "year": 1435
+    },
+    {
+      "site_id": 4109,
+      "site_name": "Hörja kyrka",
+      "lat": 56.2056145128,
+      "lon": 13.5898355804,
+      "species": "Ek",
+      "year": 1431
+    },
+    {
+      "site_id": 4212,
+      "site_name": "Bonderups kyrka",
+      "lat": 55.6397157063,
+      "lon": 13.3565138671,
+      "species": "Ek",
+      "year": 1420
+    },
+    {
+      "site_id": 4070,
+      "site_name": "Lunds domkyrka",
+      "lat": 55.7041071246,
+      "lon": 13.1934823315,
+      "species": "Ek",
+      "year": 1417
+    },
+    {
+      "site_id": 4112,
+      "site_name": "Härnevi kyrka",
+      "lat": 59.7272333569,
+      "lon": 17.0759149131,
+      "species": "Gran",
+      "year": 1444
+    },
+    {
+      "site_id": 4070,
+      "site_name": "Lunds domkyrka",
+      "lat": 55.7041071246,
+      "lon": 13.1934823315,
+      "species": "Ek",
+      "year": 1413
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1427
+    },
+    {
+      "site_id": 4128,
+      "site_name": "Hellvi kyrka",
+      "lat": 57.7750977341,
+      "lon": 18.8953010319,
+      "species": "Tall",
+      "year": 1420
+    },
+    {
+      "site_id": 4143,
+      "site_name": "Hagby kyrka",
+      "lat": 56.5546307122,
+      "lon": 16.1766390834,
+      "species": "Tall",
+      "year": 1440
+    },
+    {
+      "site_id": 4109,
+      "site_name": "Hörja kyrka",
+      "lat": 56.2056145128,
+      "lon": 13.5898355804,
+      "species": "Ek",
+      "year": 1410
+    },
+    {
+      "site_id": 3994,
+      "site_name": "Stora Köpinge kyrka",
+      "lat": 55.470583297,
+      "lon": 13.9474727836,
+      "species": "Ek",
+      "year": 1419
+    },
+    {
+      "site_id": 3943,
+      "site_name": "Västra Klagstorps kyrka",
+      "lat": 55.5281739447,
+      "lon": 12.9947204671,
+      "species": "Ek",
+      "year": 1446
+    },
+    {
+      "site_id": 3994,
+      "site_name": "Stora Köpinge kyrka",
+      "lat": 55.470583297,
+      "lon": 13.9474727836,
+      "species": "Ek",
+      "year": 1417
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1448
+    },
+    {
+      "site_id": 4143,
+      "site_name": "Hagby kyrka",
+      "lat": 56.5546307122,
+      "lon": 16.1766390834,
+      "species": "Tall",
+      "year": 1437
+    },
+    {
+      "site_id": 4229,
+      "site_name": "Alva kyrka",
+      "lat": 57.207482496,
+      "lon": 18.3615153428,
+      "species": "Tall",
+      "year": 1441
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1427
+    },
+    {
+      "site_id": 4200,
+      "site_name": "Bromma kyrka",
+      "lat": 55.470354386,
+      "lon": 13.8013871193,
+      "species": "Ek",
+      "year": 1423
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1440
+    },
+    {
+      "site_id": 4143,
+      "site_name": "Hagby kyrka",
+      "lat": 56.5546307122,
+      "lon": 16.1766390834,
+      "species": "Tall",
+      "year": 1440
+    },
+    {
+      "site_id": 4135,
+      "site_name": "Hammarlunda kyrka",
+      "lat": 55.7370635839,
+      "lon": 13.438054968,
+      "species": "Ek",
+      "year": 1404
+    },
+    {
+      "site_id": 4135,
+      "site_name": "Hammarlunda kyrka",
+      "lat": 55.7370635839,
+      "lon": 13.438054968,
+      "species": "Ek",
+      "year": 1401
+    },
+    {
+      "site_id": 3956,
+      "site_name": "Visseltofta kyrka",
+      "lat": 56.427730662,
+      "lon": 13.8564207006,
+      "species": "Ek",
+      "year": 1438
+    },
+    {
+      "site_id": 4143,
+      "site_name": "Hagby kyrka",
+      "lat": 56.5546307122,
+      "lon": 16.1766390834,
+      "species": "Tall",
+      "year": 1440
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1427
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1410
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1410
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1412
+    },
+    {
+      "site_id": 4135,
+      "site_name": "Hammarlunda kyrka",
+      "lat": 55.7370635839,
+      "lon": 13.438054968,
+      "species": "Ek",
+      "year": 1401
+    },
+    {
+      "site_id": 4070,
+      "site_name": "Lunds domkyrka",
+      "lat": 55.7041071246,
+      "lon": 13.1934823315,
+      "species": "Ek",
+      "year": 1417
+    },
+    {
+      "site_id": 4070,
+      "site_name": "Lunds domkyrka",
+      "lat": 55.7041071246,
+      "lon": 13.1934823315,
+      "species": "Ek",
+      "year": 1419
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1409
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1409
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1409
+    },
+    {
+      "site_id": 4142,
+      "site_name": "Hagebyhöga kyrka",
+      "lat": 58.46746785,
+      "lon": 14.9747329733,
+      "species": "Ek",
+      "year": 1431
+    },
+    {
+      "site_id": 4112,
+      "site_name": "Härnevi kyrka",
+      "lat": 59.7272333569,
+      "lon": 17.0759149131,
+      "species": "Tall",
+      "year": 1449
+    },
+    {
+      "site_id": 4109,
+      "site_name": "Hörja kyrka",
+      "lat": 56.2056145128,
+      "lon": 13.5898355804,
+      "species": "Ek",
+      "year": 1415
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1439
+    },
+    {
+      "site_id": 3943,
+      "site_name": "Västra Klagstorps kyrka",
+      "lat": 55.5281739447,
+      "lon": 12.9947204671,
+      "species": "Ek",
+      "year": 1445
+    },
+    {
+      "site_id": 4195,
+      "site_name": "Burlövs gamla kyrka",
+      "lat": 55.6366912361,
+      "lon": 13.1132212027,
+      "species": "Ek",
+      "year": 1400
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1409
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1409
+    },
+    {
+      "site_id": 4212,
+      "site_name": "Bonderups kyrka",
+      "lat": 55.6397157063,
+      "lon": 13.3565138671,
+      "species": "Ek",
+      "year": 1417
+    },
+    {
+      "site_id": 4142,
+      "site_name": "Hagebyhöga kyrka",
+      "lat": 58.46746785,
+      "lon": 14.9747329733,
+      "species": "Ek",
+      "year": 1408
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Ek",
+      "year": 1433
+    },
+    {
+      "site_id": 4200,
+      "site_name": "Bromma kyrka",
+      "lat": 55.470354386,
+      "lon": 13.8013871193,
+      "species": "Ek",
+      "year": 1444
+    },
+    {
+      "site_id": 4212,
+      "site_name": "Bonderups kyrka",
+      "lat": 55.6397157063,
+      "lon": 13.3565138671,
+      "species": "Ek",
+      "year": 1403
+    },
+    {
+      "site_id": 4162,
+      "site_name": "Färlövs kyrka",
+      "lat": 56.0741126978,
+      "lon": 14.083255033,
+      "species": "Ek",
+      "year": 1402
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1431
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1409
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1449
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1409
+    },
+    {
+      "site_id": 4113,
+      "site_name": "Härlövs kyrka",
+      "lat": 56.9613678499,
+      "lon": 14.6376292336,
+      "species": "Ek",
+      "year": 1444
+    },
+    {
+      "site_id": 4109,
+      "site_name": "Hörja kyrka",
+      "lat": 56.2056145128,
+      "lon": 13.5898355804,
+      "species": "Ek",
+      "year": 1432
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1409
+    },
+    {
+      "site_id": 4011,
+      "site_name": "Skårby kyrka",
+      "lat": 55.4865440236,
+      "lon": 13.7133457284,
+      "species": "Ek",
+      "year": 1405
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1424
+    },
+    {
+      "site_id": 4070,
+      "site_name": "Lunds domkyrka",
+      "lat": 55.7041071246,
+      "lon": 13.1934823315,
+      "species": "Ek",
+      "year": 1417
+    },
+    {
+      "site_id": 4158,
+      "site_name": "Gammelgarn kastal",
+      "lat": 57.4043835849,
+      "lon": 18.8040465235,
+      "species": "Tall",
+      "year": 1449
+    },
+    {
+      "site_id": 4212,
+      "site_name": "Bonderups kyrka",
+      "lat": 55.6397157063,
+      "lon": 13.3565138671,
+      "species": "Ek",
+      "year": 1424
+    },
+    {
+      "site_id": 3956,
+      "site_name": "Visseltofta kyrka",
+      "lat": 56.427730662,
+      "lon": 13.8564207006,
+      "species": "Ek",
+      "year": 1439
+    },
+    {
+      "site_id": 3956,
+      "site_name": "Visseltofta kyrka",
+      "lat": 56.427730662,
+      "lon": 13.8564207006,
+      "species": "Ek",
+      "year": 1441
+    },
+    {
+      "site_id": 4200,
+      "site_name": "Bromma kyrka",
+      "lat": 55.470354386,
+      "lon": 13.8013871193,
+      "species": "Ek",
+      "year": 1423
+    },
+    {
+      "site_id": 3956,
+      "site_name": "Visseltofta kyrka",
+      "lat": 56.427730662,
+      "lon": 13.8564207006,
+      "species": "Ek",
+      "year": 1413
+    },
+    {
+      "site_id": 4112,
+      "site_name": "Härnevi kyrka",
+      "lat": 59.7272333569,
+      "lon": 17.0759149131,
+      "species": "Gran",
+      "year": 1444
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1433
+    },
+    {
+      "site_id": 3956,
+      "site_name": "Visseltofta kyrka",
+      "lat": 56.427730662,
+      "lon": 13.8564207006,
+      "species": "Ek",
+      "year": 1418
+    },
+    {
+      "site_id": 4200,
+      "site_name": "Bromma kyrka",
+      "lat": 55.470354386,
+      "lon": 13.8013871193,
+      "species": "Ek",
+      "year": 1419
+    }
+  ]
+}

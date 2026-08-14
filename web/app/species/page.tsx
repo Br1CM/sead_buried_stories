@@ -10,7 +10,7 @@ export default function SpeciesPage() {
   return (
     <div className="mx-auto w-full max-w-6xl px-6 py-10">
       <h1 className="text-3xl font-semibold tracking-tight">Species Path</h1>
-      <p className="mt-2 max-w-2xl text-white/60">
+      <p className="mt-2 max-w-2xl text-ink-60">
         Every creature below was pulled from the ground somewhere in Europe, dated, and
         logged. Pick one and follow it across thousands of years, from the oldest site
         where it turned up to the most recent.

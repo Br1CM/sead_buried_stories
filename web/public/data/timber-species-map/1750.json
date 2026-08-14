@@ -1,0 +1,5533 @@
+{
+  "bucket_start": 1750,
+  "label": "1750 AD - 1800 AD",
+  "n_samples": 690,
+  "composition": {
+    "Tall": 84.8,
+    "Ek": 10.4,
+    "Gran": 4.5,
+    "Lärk": 0.3
+  },
+  "points": [
+    {
+      "site_id": 4165,
+      "site_name": "Fröken Löfgrens gård",
+      "lat": 58.4124597098,
+      "lon": 15.627324903,
+      "species": "Tall",
+      "year": 1761
+    },
+    {
+      "site_id": 3843,
+      "site_name": "Verksgatan",
+      "lat": 58.1988383361,
+      "lon": 16.0048511229,
+      "species": "Tall",
+      "year": 1775
+    },
+    {
+      "site_id": 3964,
+      "site_name": "Vamlingbo prästgård",
+      "lat": 56.9692204162,
+      "lon": 18.2291867481,
+      "species": "Tall",
+      "year": 1778
+    },
+    {
+      "site_id": 4161,
+      "site_name": "Föllingsö säteri",
+      "lat": 57.9792353144,
+      "lon": 15.5982792286,
+      "species": "Tall",
+      "year": 1759
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1781
+    },
+    {
+      "site_id": 4154,
+      "site_name": "Gimo Herrgård",
+      "lat": 60.1790929337,
+      "lon": 18.1734389044,
+      "species": "Tall",
+      "year": 1773
+    },
+    {
+      "site_id": 4177,
+      "site_name": "Fallebo gård",
+      "lat": 57.2825301121,
+      "lon": 16.4599047102,
+      "species": "Tall",
+      "year": 1756
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Tall",
+      "year": 1783
+    },
+    {
+      "site_id": 4121,
+      "site_name": "Hovdala slott",
+      "lat": 56.1036848292,
+      "lon": 13.7137204295,
+      "species": "Ek",
+      "year": 1785
+    },
+    {
+      "site_id": 4125,
+      "site_name": "Hester gamla gästgiveri",
+      "lat": 58.1545506911,
+      "lon": 14.992625859,
+      "species": "Tall",
+      "year": 1766
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Gran",
+      "year": 1782
+    },
+    {
+      "site_id": 3902,
+      "site_name": "Högsjö gård",
+      "lat": 59.0303156826,
+      "lon": 15.6846029132,
+      "species": "Tall",
+      "year": 1759
+    },
+    {
+      "site_id": 4161,
+      "site_name": "Föllingsö säteri",
+      "lat": 57.9792353144,
+      "lon": 15.5982792286,
+      "species": "Tall",
+      "year": 1759
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1778
+    },
+    {
+      "site_id": 3825,
+      "site_name": "75533 Örsjö",
+      "lat": 56.6844593966,
+      "lon": 15.7263416363,
+      "species": "Tall",
+      "year": 1764
+    },
+    {
+      "site_id": 4198,
+      "site_name": "Brunsta gård",
+      "lat": 58.780304488,
+      "lon": 16.9499694894,
+      "species": "Tall",
+      "year": 1786
+    },
+    {
+      "site_id": 3977,
+      "site_name": "Trehörna säteri",
+      "lat": 58.1525781452,
+      "lon": 14.8366734133,
+      "species": "Tall",
+      "year": 1757
+    },
+    {
+      "site_id": 4174,
+      "site_name": "Finntorp",
+      "lat": 58.8976171968,
+      "lon": 15.9373051965,
+      "species": "Tall",
+      "year": 1791
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1791
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1779
+    },
+    {
+      "site_id": 4005,
+      "site_name": "Smedstorp",
+      "lat": 57.9433759312,
+      "lon": 15.4137172846,
+      "species": "Tall",
+      "year": 1772
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1777
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1796
+    },
+    {
+      "site_id": 3858,
+      "site_name": "Sandemar",
+      "lat": 59.1308438944,
+      "lon": 18.3681539736,
+      "species": "Tall",
+      "year": 1784
+    },
+    {
+      "site_id": 4040,
+      "site_name": "Pedersborg",
+      "lat": 59.7461323276,
+      "lon": 18.8157655584,
+      "species": "Tall",
+      "year": 1764
+    },
+    {
+      "site_id": 3998,
+      "site_name": "Steninge slott",
+      "lat": 59.6020978067,
+      "lon": 17.8044417982,
+      "species": "Tall",
+      "year": 1768
+    },
+    {
+      "site_id": 3860,
+      "site_name": "Ryssebo",
+      "lat": 57.6337670915,
+      "lon": 15.3551085325,
+      "species": "Tall",
+      "year": 1753
+    },
+    {
+      "site_id": 3843,
+      "site_name": "Verksgatan",
+      "lat": 58.1988383361,
+      "lon": 16.0048511229,
+      "species": "Tall",
+      "year": 1781
+    },
+    {
+      "site_id": 3993,
+      "site_name": "Stora Lund",
+      "lat": 58.3639363937,
+      "lon": 15.7329137085,
+      "species": "Gran",
+      "year": 1777
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Tall",
+      "year": 1750
+    },
+    {
+      "site_id": 3839,
+      "site_name": "Värdshusbacken",
+      "lat": 59.3168343545,
+      "lon": 17.9843813614,
+      "species": "Tall",
+      "year": 1765
+    },
+    {
+      "site_id": 4125,
+      "site_name": "Hester gamla gästgiveri",
+      "lat": 58.1545506911,
+      "lon": 14.992625859,
+      "species": "Tall",
+      "year": 1766
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1791
+    },
+    {
+      "site_id": 4110,
+      "site_name": "Hönstorp",
+      "lat": 56.6625014058,
+      "lon": 16.5529641114,
+      "species": "Ek",
+      "year": 1757
+    },
+    {
+      "site_id": 4057,
+      "site_name": "Möllebacken",
+      "lat": 56.0455325558,
+      "lon": 12.7004467553,
+      "species": "Ek",
+      "year": 1758
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Tall",
+      "year": 1773
+    },
+    {
+      "site_id": 4107,
+      "site_name": "Janssongården",
+      "lat": 59.1678809041,
+      "lon": 18.2375194949,
+      "species": "Tall",
+      "year": 1761
+    },
+    {
+      "site_id": 3929,
+      "site_name": "Östrabo biskopsgård",
+      "lat": 56.8796868193,
+      "lon": 14.8186359964,
+      "species": "Tall",
+      "year": 1765
+    },
+    {
+      "site_id": 4188,
+      "site_name": "Djursnäs säteri",
+      "lat": 58.9251999602,
+      "lon": 17.8122643018,
+      "species": "Gran",
+      "year": 1760
+    },
+    {
+      "site_id": 3885,
+      "site_name": "Kvarteret Hattmakaren",
+      "lat": 56.6631034526,
+      "lon": 16.3626413075,
+      "species": "Tall",
+      "year": 1762
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1796
+    },
+    {
+      "site_id": 4132,
+      "site_name": "Heda hembygdsgård",
+      "lat": 58.2868011797,
+      "lon": 14.7020076462,
+      "species": "Tall",
+      "year": 1785
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1771
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1777
+    },
+    {
+      "site_id": 4071,
+      "site_name": "Lopperstad",
+      "lat": 56.6863049239,
+      "lon": 16.6934905697,
+      "species": "Ek",
+      "year": 1799
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Tall",
+      "year": 1794
+    },
+    {
+      "site_id": 4161,
+      "site_name": "Föllingsö säteri",
+      "lat": 57.9792353144,
+      "lon": 15.5982792286,
+      "species": "Tall",
+      "year": 1753
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1797
+    },
+    {
+      "site_id": 4100,
+      "site_name": "Kleva gård",
+      "lat": 59.01385283,
+      "lon": 17.0847642233,
+      "species": "Tall",
+      "year": 1782
+    },
+    {
+      "site_id": 3843,
+      "site_name": "Verksgatan",
+      "lat": 58.1988383361,
+      "lon": 16.0048511229,
+      "species": "Tall",
+      "year": 1781
+    },
+    {
+      "site_id": 3861,
+      "site_name": "Qvarnarp",
+      "lat": 57.6472984191,
+      "lon": 14.9847376269,
+      "species": "Tall",
+      "year": 1799
+    },
+    {
+      "site_id": 3862,
+      "site_name": "Prästtorp",
+      "lat": 58.4028209933,
+      "lon": 14.8474776891,
+      "species": "Tall",
+      "year": 1783
+    },
+    {
+      "site_id": 3977,
+      "site_name": "Trehörna säteri",
+      "lat": 58.1525781452,
+      "lon": 14.8366734133,
+      "species": "Tall",
+      "year": 1757
+    },
+    {
+      "site_id": 4054,
+      "site_name": "Noors Herrgård",
+      "lat": 59.8749269109,
+      "lon": 18.8372757059,
+      "species": "Tall",
+      "year": 1771
+    },
+    {
+      "site_id": 3885,
+      "site_name": "Kvarteret Hattmakaren",
+      "lat": 56.6631034526,
+      "lon": 16.3626413075,
+      "species": "Tall",
+      "year": 1787
+    },
+    {
+      "site_id": 3950,
+      "site_name": "Värna kyrka",
+      "lat": 58.3139760359,
+      "lon": 15.9247175364,
+      "species": "Tall",
+      "year": 1770
+    },
+    {
+      "site_id": 3957,
+      "site_name": "Visby domkyrka",
+      "lat": 57.6417959686,
+      "lon": 18.2980570848,
+      "species": "Tall",
+      "year": 1761
+    },
+    {
+      "site_id": 4161,
+      "site_name": "Föllingsö säteri",
+      "lat": 57.9792353144,
+      "lon": 15.5982792286,
+      "species": "Tall",
+      "year": 1753
+    },
+    {
+      "site_id": 3843,
+      "site_name": "Verksgatan",
+      "lat": 58.1988383361,
+      "lon": 16.0048511229,
+      "species": "Tall",
+      "year": 1781
+    },
+    {
+      "site_id": 4125,
+      "site_name": "Hester gamla gästgiveri",
+      "lat": 58.1545506911,
+      "lon": 14.992625859,
+      "species": "Gran",
+      "year": 1783
+    },
+    {
+      "site_id": 3822,
+      "site_name": "75710 Jönköping",
+      "lat": 57.5320112095,
+      "lon": 14.4060082223,
+      "species": "Tall",
+      "year": 1779
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1767
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1751
+    },
+    {
+      "site_id": 3886,
+      "site_name": "Kvarteret Guldsmeden",
+      "lat": 57.6675696327,
+      "lon": 14.9710674526,
+      "species": "Tall",
+      "year": 1781
+    },
+    {
+      "site_id": 4154,
+      "site_name": "Gimo Herrgård",
+      "lat": 60.1790929337,
+      "lon": 18.1734389044,
+      "species": "Tall",
+      "year": 1773
+    },
+    {
+      "site_id": 3834,
+      "site_name": "Tosterup 32:2",
+      "lat": 55.4800716178,
+      "lon": 13.9867459422,
+      "species": "Tall",
+      "year": 1790
+    },
+    {
+      "site_id": 3861,
+      "site_name": "Qvarnarp",
+      "lat": 57.6472984191,
+      "lon": 14.9847376269,
+      "species": "Tall",
+      "year": 1799
+    },
+    {
+      "site_id": 4005,
+      "site_name": "Smedstorp",
+      "lat": 57.9433759312,
+      "lon": 15.4137172846,
+      "species": "Tall",
+      "year": 1796
+    },
+    {
+      "site_id": 3822,
+      "site_name": "75710 Jönköping",
+      "lat": 57.5320112095,
+      "lon": 14.4060082223,
+      "species": "Tall",
+      "year": 1779
+    },
+    {
+      "site_id": 4121,
+      "site_name": "Hovdala slott",
+      "lat": 56.1036848292,
+      "lon": 13.7137204295,
+      "species": "Ek",
+      "year": 1799
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Tall",
+      "year": 1788
+    },
+    {
+      "site_id": 4054,
+      "site_name": "Noors Herrgård",
+      "lat": 59.8749269109,
+      "lon": 18.8372757059,
+      "species": "Tall",
+      "year": 1771
+    },
+    {
+      "site_id": 3970,
+      "site_name": "Törnbotten",
+      "lat": 56.6695248019,
+      "lon": 16.5481613697,
+      "species": "Ek",
+      "year": 1797
+    },
+    {
+      "site_id": 3862,
+      "site_name": "Prästtorp",
+      "lat": 58.4028209933,
+      "lon": 14.8474776891,
+      "species": "Tall",
+      "year": 1781
+    },
+    {
+      "site_id": 4090,
+      "site_name": "Kummelnäs gård",
+      "lat": 59.351292562,
+      "lon": 18.2676698306,
+      "species": "Tall",
+      "year": 1763
+    },
+    {
+      "site_id": 4100,
+      "site_name": "Kleva gård",
+      "lat": 59.01385283,
+      "lon": 17.0847642233,
+      "species": "Tall",
+      "year": 1780
+    },
+    {
+      "site_id": 4154,
+      "site_name": "Gimo Herrgård",
+      "lat": 60.1790929337,
+      "lon": 18.1734389044,
+      "species": "Tall",
+      "year": 1773
+    },
+    {
+      "site_id": 3917,
+      "site_name": "Björkenäs",
+      "lat": 57.7879896964,
+      "lon": 15.8513684344,
+      "species": "Tall",
+      "year": 1797
+    },
+    {
+      "site_id": 4174,
+      "site_name": "Finntorp",
+      "lat": 58.8976171968,
+      "lon": 15.9373051965,
+      "species": "Tall",
+      "year": 1755
+    },
+    {
+      "site_id": 4165,
+      "site_name": "Fröken Löfgrens gård",
+      "lat": 58.4124597098,
+      "lon": 15.627324903,
+      "species": "Tall",
+      "year": 1788
+    },
+    {
+      "site_id": 4182,
+      "site_name": "Ektorpet",
+      "lat": 59.2242707916,
+      "lon": 18.3087201531,
+      "species": "Tall",
+      "year": 1780
+    },
+    {
+      "site_id": 4035,
+      "site_name": "Ristomta gård",
+      "lat": 58.9867577024,
+      "lon": 17.8041573423,
+      "species": "Tall",
+      "year": 1768
+    },
+    {
+      "site_id": 3895,
+      "site_name": "Kvarteret Allön",
+      "lat": 56.0300847179,
+      "lon": 14.1549862137,
+      "species": "Ek",
+      "year": 1799
+    },
+    {
+      "site_id": 3852,
+      "site_name": "Stora Harrie",
+      "lat": 55.8041967345,
+      "lon": 13.1735470066,
+      "species": "Ek",
+      "year": 1774
+    },
+    {
+      "site_id": 4132,
+      "site_name": "Heda hembygdsgård",
+      "lat": 58.2868011797,
+      "lon": 14.7020076462,
+      "species": "Tall",
+      "year": 1785
+    },
+    {
+      "site_id": 4177,
+      "site_name": "Fallebo gård",
+      "lat": 57.2825301121,
+      "lon": 16.4599047102,
+      "species": "Tall",
+      "year": 1770
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1789
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1785
+    },
+    {
+      "site_id": 4077,
+      "site_name": "Lilla Rätö gård",
+      "lat": 57.8528391698,
+      "lon": 16.5862815869,
+      "species": "Tall",
+      "year": 1776
+    },
+    {
+      "site_id": 4080,
+      "site_name": "Lau Kyrka",
+      "lat": 57.2829069812,
+      "lon": 18.6201900158,
+      "species": "Tall",
+      "year": 1753
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Tall",
+      "year": 1780
+    },
+    {
+      "site_id": 3879,
+      "site_name": "Kvarteret Prelaten",
+      "lat": 58.4490150617,
+      "lon": 14.8944959842,
+      "species": "Tall",
+      "year": 1798
+    },
+    {
+      "site_id": 4211,
+      "site_name": "Bonäs",
+      "lat": 58.9966370047,
+      "lon": 16.2082655153,
+      "species": "Tall",
+      "year": 1775
+    },
+    {
+      "site_id": 3993,
+      "site_name": "Stora Lund",
+      "lat": 58.3639363937,
+      "lon": 15.7329137085,
+      "species": "Tall",
+      "year": 1777
+    },
+    {
+      "site_id": 3964,
+      "site_name": "Vamlingbo prästgård",
+      "lat": 56.9692204162,
+      "lon": 18.2291867481,
+      "species": "Tall",
+      "year": 1762
+    },
+    {
+      "site_id": 3911,
+      "site_name": "Föra",
+      "lat": 57.0217696502,
+      "lon": 16.866672345,
+      "species": "Gran",
+      "year": 1761
+    },
+    {
+      "site_id": 4221,
+      "site_name": "Bellmanhuset",
+      "lat": 59.3242063671,
+      "lon": 18.0977532733,
+      "species": "Tall",
+      "year": 1754
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1784
+    },
+    {
+      "site_id": 3980,
+      "site_name": "Torpa prästgård",
+      "lat": 57.9634423864,
+      "lon": 15.1426074673,
+      "species": "Tall",
+      "year": 1784
+    },
+    {
+      "site_id": 4191,
+      "site_name": "Cramérska huset",
+      "lat": 57.6413266574,
+      "lon": 18.2957180164,
+      "species": "Tall",
+      "year": 1760
+    },
+    {
+      "site_id": 3875,
+      "site_name": "Kvarteret Specksrum",
+      "lat": 57.6422931957,
+      "lon": 18.2931236185,
+      "species": "Tall",
+      "year": 1784
+    },
+    {
+      "site_id": 3843,
+      "site_name": "Verksgatan",
+      "lat": 58.1988383361,
+      "lon": 16.0048511229,
+      "species": "Tall",
+      "year": 1775
+    },
+    {
+      "site_id": 3896,
+      "site_name": "Krogsfall",
+      "lat": 58.0468080488,
+      "lon": 15.6153996599,
+      "species": "Tall",
+      "year": 1774
+    },
+    {
+      "site_id": 4107,
+      "site_name": "Janssongården",
+      "lat": 59.1678809041,
+      "lon": 18.2375194949,
+      "species": "Tall",
+      "year": 1761
+    },
+    {
+      "site_id": 4040,
+      "site_name": "Pedersborg",
+      "lat": 59.7461323276,
+      "lon": 18.8157655584,
+      "species": "Tall",
+      "year": 1764
+    },
+    {
+      "site_id": 3849,
+      "site_name": "Stämmeryd",
+      "lat": 56.8065070548,
+      "lon": 16.0519570649,
+      "species": "Ek",
+      "year": 1794
+    },
+    {
+      "site_id": 4101,
+      "site_name": "Kista hembygdsgård",
+      "lat": 59.9594680567,
+      "lon": 18.8475983058,
+      "species": "Tall",
+      "year": 1799
+    },
+    {
+      "site_id": 4108,
+      "site_name": "Hörsne kyrka",
+      "lat": 57.5585118971,
+      "lon": 18.5974471903,
+      "species": "Tall",
+      "year": 1786
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1792
+    },
+    {
+      "site_id": 4054,
+      "site_name": "Noors Herrgård",
+      "lat": 59.8749269109,
+      "lon": 18.8372757059,
+      "species": "Tall",
+      "year": 1771
+    },
+    {
+      "site_id": 3823,
+      "site_name": "17200 Ödeshög",
+      "lat": 58.2171235319,
+      "lon": 14.67374088,
+      "species": "Tall",
+      "year": 1797
+    },
+    {
+      "site_id": 4130,
+      "site_name": "Hejde kyrka",
+      "lat": 57.41279186,
+      "lon": 18.346056546,
+      "species": "Tall",
+      "year": 1793
+    },
+    {
+      "site_id": 4027,
+      "site_name": "Sandby prästgård",
+      "lat": 56.8769833036,
+      "lon": 16.8243131497,
+      "species": "Tall",
+      "year": 1752
+    },
+    {
+      "site_id": 3852,
+      "site_name": "Stora Harrie",
+      "lat": 55.8041967345,
+      "lon": 13.1735470066,
+      "species": "Ek",
+      "year": 1789
+    },
+    {
+      "site_id": 4108,
+      "site_name": "Hörsne kyrka",
+      "lat": 57.5585118971,
+      "lon": 18.5974471903,
+      "species": "Tall",
+      "year": 1795
+    },
+    {
+      "site_id": 3866,
+      "site_name": "Malmstorp",
+      "lat": 58.6819182804,
+      "lon": 15.5684635643,
+      "species": "Tall",
+      "year": 1761
+    },
+    {
+      "site_id": 3959,
+      "site_name": "Villie kyrka",
+      "lat": 55.4790114805,
+      "lon": 13.5977963404,
+      "species": "Ek",
+      "year": 1782
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1778
+    },
+    {
+      "site_id": 3843,
+      "site_name": "Verksgatan",
+      "lat": 58.1988383361,
+      "lon": 16.0048511229,
+      "species": "Tall",
+      "year": 1779
+    },
+    {
+      "site_id": 4132,
+      "site_name": "Heda hembygdsgård",
+      "lat": 58.2868011797,
+      "lon": 14.7020076462,
+      "species": "Tall",
+      "year": 1783
+    },
+    {
+      "site_id": 3843,
+      "site_name": "Verksgatan",
+      "lat": 58.1988383361,
+      "lon": 16.0048511229,
+      "species": "Tall",
+      "year": 1781
+    },
+    {
+      "site_id": 3828,
+      "site_name": "75549 Nybro",
+      "lat": 56.7376874617,
+      "lon": 15.9333443683,
+      "species": "Tall",
+      "year": 1781
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1771
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Tall",
+      "year": 1794
+    },
+    {
+      "site_id": 3886,
+      "site_name": "Kvarteret Guldsmeden",
+      "lat": 57.6675696327,
+      "lon": 14.9710674526,
+      "species": "Tall",
+      "year": 1798
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1772
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Gran",
+      "year": 1795
+    },
+    {
+      "site_id": 3992,
+      "site_name": "Stora Rickby",
+      "lat": 59.6919816711,
+      "lon": 17.8877828299,
+      "species": "Gran",
+      "year": 1754
+    },
+    {
+      "site_id": 3828,
+      "site_name": "75549 Nybro",
+      "lat": 56.7376874617,
+      "lon": 15.9333443683,
+      "species": "Tall",
+      "year": 1793
+    },
+    {
+      "site_id": 4099,
+      "site_name": "Knappsmåla",
+      "lat": 56.6620491335,
+      "lon": 15.7629932746,
+      "species": "Tall",
+      "year": 1782
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1796
+    },
+    {
+      "site_id": 4125,
+      "site_name": "Hester gamla gästgiveri",
+      "lat": 58.1545506911,
+      "lon": 14.992625859,
+      "species": "Tall",
+      "year": 1766
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1777
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Tall",
+      "year": 1794
+    },
+    {
+      "site_id": 4130,
+      "site_name": "Hejde kyrka",
+      "lat": 57.41279186,
+      "lon": 18.346056546,
+      "species": "Tall",
+      "year": 1792
+    },
+    {
+      "site_id": 4093,
+      "site_name": "Kulltorps gård",
+      "lat": 58.0871147666,
+      "lon": 16.4801731603,
+      "species": "Tall",
+      "year": 1757
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1791
+    },
+    {
+      "site_id": 3957,
+      "site_name": "Visby domkyrka",
+      "lat": 57.6417959686,
+      "lon": 18.2980570848,
+      "species": "Tall",
+      "year": 1766
+    },
+    {
+      "site_id": 3851,
+      "site_name": "Stora Hulterska",
+      "lat": 58.7029188555,
+      "lon": 16.8021290152,
+      "species": "Tall",
+      "year": 1761
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1777
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1796
+    },
+    {
+      "site_id": 4181,
+      "site_name": "Em's herrgård",
+      "lat": 57.127675854,
+      "lon": 16.4979303262,
+      "species": "Tall",
+      "year": 1781
+    },
+    {
+      "site_id": 3896,
+      "site_name": "Krogsfall",
+      "lat": 58.0468080488,
+      "lon": 15.6153996599,
+      "species": "Tall",
+      "year": 1774
+    },
+    {
+      "site_id": 3830,
+      "site_name": "62928 Faringe",
+      "lat": 59.9777584604,
+      "lon": 18.1645160986,
+      "species": "Tall",
+      "year": 1777
+    },
+    {
+      "site_id": 3878,
+      "site_name": "Kvarteret Repslagaren",
+      "lat": 56.6661231227,
+      "lon": 16.3707621787,
+      "species": "Tall",
+      "year": 1772
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1796
+    },
+    {
+      "site_id": 3830,
+      "site_name": "62928 Faringe",
+      "lat": 59.9777584604,
+      "lon": 18.1645160986,
+      "species": "Tall",
+      "year": 1774
+    },
+    {
+      "site_id": 3993,
+      "site_name": "Stora Lund",
+      "lat": 58.3639363937,
+      "lon": 15.7329137085,
+      "species": "Tall",
+      "year": 1777
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Tall",
+      "year": 1750
+    },
+    {
+      "site_id": 3862,
+      "site_name": "Prästtorp",
+      "lat": 58.4028209933,
+      "lon": 14.8474776891,
+      "species": "Gran",
+      "year": 1781
+    },
+    {
+      "site_id": 3963,
+      "site_name": "Vanserum",
+      "lat": 56.6902758413,
+      "lon": 16.6648810588,
+      "species": "Ek",
+      "year": 1773
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Tall",
+      "year": 1782
+    },
+    {
+      "site_id": 3833,
+      "site_name": "12051 Bro",
+      "lat": 57.6698565725,
+      "lon": 18.4661389697,
+      "species": "Tall",
+      "year": 1750
+    },
+    {
+      "site_id": 4161,
+      "site_name": "Föllingsö säteri",
+      "lat": 57.9792353144,
+      "lon": 15.5982792286,
+      "species": "Tall",
+      "year": 1750
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1791
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1767
+    },
+    {
+      "site_id": 3964,
+      "site_name": "Vamlingbo prästgård",
+      "lat": 56.9692204162,
+      "lon": 18.2291867481,
+      "species": "Tall",
+      "year": 1778
+    },
+    {
+      "site_id": 4174,
+      "site_name": "Finntorp",
+      "lat": 58.8976171968,
+      "lon": 15.9373051965,
+      "species": "Tall",
+      "year": 1755
+    },
+    {
+      "site_id": 4194,
+      "site_name": "Burmeisterska huset",
+      "lat": 57.6392324458,
+      "lon": 18.2915723418,
+      "species": "Tall",
+      "year": 1762
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1790
+    },
+    {
+      "site_id": 3843,
+      "site_name": "Verksgatan",
+      "lat": 58.1988383361,
+      "lon": 16.0048511229,
+      "species": "Tall",
+      "year": 1779
+    },
+    {
+      "site_id": 3843,
+      "site_name": "Verksgatan",
+      "lat": 58.1988383361,
+      "lon": 16.0048511229,
+      "species": "Tall",
+      "year": 1777
+    },
+    {
+      "site_id": 4154,
+      "site_name": "Gimo Herrgård",
+      "lat": 60.1790929337,
+      "lon": 18.1734389044,
+      "species": "Tall",
+      "year": 1773
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1796
+    },
+    {
+      "site_id": 4014,
+      "site_name": "Skabersjö slott",
+      "lat": 55.5407035295,
+      "lon": 13.1471592635,
+      "species": "Tall",
+      "year": 1775
+    },
+    {
+      "site_id": 4054,
+      "site_name": "Noors Herrgård",
+      "lat": 59.8749269109,
+      "lon": 18.8372757059,
+      "species": "Tall",
+      "year": 1771
+    },
+    {
+      "site_id": 3851,
+      "site_name": "Stora Hulterska",
+      "lat": 58.7029188555,
+      "lon": 16.8021290152,
+      "species": "Tall",
+      "year": 1761
+    },
+    {
+      "site_id": 4154,
+      "site_name": "Gimo Herrgård",
+      "lat": 60.1790929337,
+      "lon": 18.1734389044,
+      "species": "Tall",
+      "year": 1773
+    },
+    {
+      "site_id": 4132,
+      "site_name": "Heda hembygdsgård",
+      "lat": 58.2868011797,
+      "lon": 14.7020076462,
+      "species": "Tall",
+      "year": 1785
+    },
+    {
+      "site_id": 4198,
+      "site_name": "Brunsta gård",
+      "lat": 58.780304488,
+      "lon": 16.9499694894,
+      "species": "Tall",
+      "year": 1788
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Tall",
+      "year": 1781
+    },
+    {
+      "site_id": 4014,
+      "site_name": "Skabersjö slott",
+      "lat": 55.5407035295,
+      "lon": 13.1471592635,
+      "species": "Lärk",
+      "year": 1776
+    },
+    {
+      "site_id": 4110,
+      "site_name": "Hönstorp",
+      "lat": 56.6625014058,
+      "lon": 16.5529641114,
+      "species": "Ek",
+      "year": 1755
+    },
+    {
+      "site_id": 4130,
+      "site_name": "Hejde kyrka",
+      "lat": 57.41279186,
+      "lon": 18.346056546,
+      "species": "Tall",
+      "year": 1778
+    },
+    {
+      "site_id": 3971,
+      "site_name": "Tångerda gård",
+      "lat": 57.4625230012,
+      "lon": 15.0716759291,
+      "species": "Tall",
+      "year": 1775
+    },
+    {
+      "site_id": 3902,
+      "site_name": "Högsjö gård",
+      "lat": 59.0303156826,
+      "lon": 15.6846029132,
+      "species": "Tall",
+      "year": 1759
+    },
+    {
+      "site_id": 4125,
+      "site_name": "Hester gamla gästgiveri",
+      "lat": 58.1545506911,
+      "lon": 14.992625859,
+      "species": "Tall",
+      "year": 1765
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Tall",
+      "year": 1794
+    },
+    {
+      "site_id": 4140,
+      "site_name": "Hall kyrka",
+      "lat": 57.8920701027,
+      "lon": 18.715963847,
+      "species": "Tall",
+      "year": 1753
+    },
+    {
+      "site_id": 3847,
+      "site_name": "Tofta",
+      "lat": 57.7925944619,
+      "lon": 14.7835679577,
+      "species": "Tall",
+      "year": 1780
+    },
+    {
+      "site_id": 3998,
+      "site_name": "Steninge slott",
+      "lat": 59.6020978067,
+      "lon": 17.8044417982,
+      "species": "Tall",
+      "year": 1768
+    },
+    {
+      "site_id": 4165,
+      "site_name": "Fröken Löfgrens gård",
+      "lat": 58.4124597098,
+      "lon": 15.627324903,
+      "species": "Tall",
+      "year": 1750
+    },
+    {
+      "site_id": 4108,
+      "site_name": "Hörsne kyrka",
+      "lat": 57.5585118971,
+      "lon": 18.5974471903,
+      "species": "Tall",
+      "year": 1771
+    },
+    {
+      "site_id": 4177,
+      "site_name": "Fallebo gård",
+      "lat": 57.2825301121,
+      "lon": 16.4599047102,
+      "species": "Tall",
+      "year": 1770
+    },
+    {
+      "site_id": 3843,
+      "site_name": "Verksgatan",
+      "lat": 58.1988383361,
+      "lon": 16.0048511229,
+      "species": "Tall",
+      "year": 1779
+    },
+    {
+      "site_id": 3843,
+      "site_name": "Verksgatan",
+      "lat": 58.1988383361,
+      "lon": 16.0048511229,
+      "species": "Tall",
+      "year": 1775
+    },
+    {
+      "site_id": 3971,
+      "site_name": "Tångerda gård",
+      "lat": 57.4625230012,
+      "lon": 15.0716759291,
+      "species": "Tall",
+      "year": 1752
+    },
+    {
+      "site_id": 4027,
+      "site_name": "Sandby prästgård",
+      "lat": 56.8769833036,
+      "lon": 16.8243131497,
+      "species": "Ek",
+      "year": 1767
+    },
+    {
+      "site_id": 4042,
+      "site_name": "Orkesta kyrka",
+      "lat": 59.6047544634,
+      "lon": 18.1101330621,
+      "species": "Tall",
+      "year": 1790
+    },
+    {
+      "site_id": 4107,
+      "site_name": "Janssongården",
+      "lat": 59.1678809041,
+      "lon": 18.2375194949,
+      "species": "Tall",
+      "year": 1761
+    },
+    {
+      "site_id": 3914,
+      "site_name": "Ekeby",
+      "lat": 59.9309248608,
+      "lon": 18.7352302992,
+      "species": "Tall",
+      "year": 1773
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Tall",
+      "year": 1774
+    },
+    {
+      "site_id": 4009,
+      "site_name": "Slevringe gård",
+      "lat": 58.2027733697,
+      "lon": 15.9603993335,
+      "species": "Tall",
+      "year": 1751
+    },
+    {
+      "site_id": 3900,
+      "site_name": "Ingatorp",
+      "lat": 57.6380382075,
+      "lon": 15.4073076125,
+      "species": "Tall",
+      "year": 1768
+    },
+    {
+      "site_id": 4168,
+      "site_name": "Follingbo kyrka",
+      "lat": 57.582323119,
+      "lon": 18.3833762446,
+      "species": "Tall",
+      "year": 1755
+    },
+    {
+      "site_id": 4108,
+      "site_name": "Hörsne kyrka",
+      "lat": 57.5585118971,
+      "lon": 18.5974471903,
+      "species": "Tall",
+      "year": 1782
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Gran",
+      "year": 1777
+    },
+    {
+      "site_id": 4005,
+      "site_name": "Smedstorp",
+      "lat": 57.9433759312,
+      "lon": 15.4137172846,
+      "species": "Tall",
+      "year": 1796
+    },
+    {
+      "site_id": 3886,
+      "site_name": "Kvarteret Guldsmeden",
+      "lat": 57.6675696327,
+      "lon": 14.9710674526,
+      "species": "Tall",
+      "year": 1798
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1773
+    },
+    {
+      "site_id": 4197,
+      "site_name": "Brönnestads kyrka",
+      "lat": 56.0801435964,
+      "lon": 13.6984040659,
+      "species": "Ek",
+      "year": 1768
+    },
+    {
+      "site_id": 3946,
+      "site_name": "Västergård",
+      "lat": 55.9128297957,
+      "lon": 12.9780268743,
+      "species": "Tall",
+      "year": 1776
+    },
+    {
+      "site_id": 3900,
+      "site_name": "Ingatorp",
+      "lat": 57.6380382075,
+      "lon": 15.4073076125,
+      "species": "Tall",
+      "year": 1764
+    },
+    {
+      "site_id": 4207,
+      "site_name": "Borgmästargården",
+      "lat": 57.6663230944,
+      "lon": 15.8477446388,
+      "species": "Tall",
+      "year": 1796
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1777
+    },
+    {
+      "site_id": 3982,
+      "site_name": "Toresbo",
+      "lat": 56.687873753,
+      "lon": 15.794011781,
+      "species": "Tall",
+      "year": 1797
+    },
+    {
+      "site_id": 4161,
+      "site_name": "Föllingsö säteri",
+      "lat": 57.9792353144,
+      "lon": 15.5982792286,
+      "species": "Tall",
+      "year": 1750
+    },
+    {
+      "site_id": 4001,
+      "site_name": "Sonnorps frälsegård",
+      "lat": 58.5253465014,
+      "lon": 15.0956199379,
+      "species": "Tall",
+      "year": 1789
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1778
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1791
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1789
+    },
+    {
+      "site_id": 3843,
+      "site_name": "Verksgatan",
+      "lat": 58.1988383361,
+      "lon": 16.0048511229,
+      "species": "Tall",
+      "year": 1777
+    },
+    {
+      "site_id": 4174,
+      "site_name": "Finntorp",
+      "lat": 58.8976171968,
+      "lon": 15.9373051965,
+      "species": "Tall",
+      "year": 1755
+    },
+    {
+      "site_id": 4130,
+      "site_name": "Hejde kyrka",
+      "lat": 57.41279186,
+      "lon": 18.346056546,
+      "species": "Tall",
+      "year": 1790
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Gran",
+      "year": 1795
+    },
+    {
+      "site_id": 3960,
+      "site_name": "Viggesbo säteri",
+      "lat": 57.69034414,
+      "lon": 15.5156977131,
+      "species": "Tall",
+      "year": 1786
+    },
+    {
+      "site_id": 4067,
+      "site_name": "Länsmansgården",
+      "lat": 59.4934711749,
+      "lon": 18.3284417206,
+      "species": "Tall",
+      "year": 1775
+    },
+    {
+      "site_id": 3862,
+      "site_name": "Prästtorp",
+      "lat": 58.4028209933,
+      "lon": 14.8474776891,
+      "species": "Tall",
+      "year": 1771
+    },
+    {
+      "site_id": 4001,
+      "site_name": "Sonnorps frälsegård",
+      "lat": 58.5253465014,
+      "lon": 15.0956199379,
+      "species": "Tall",
+      "year": 1789
+    },
+    {
+      "site_id": 4054,
+      "site_name": "Noors Herrgård",
+      "lat": 59.8749269109,
+      "lon": 18.8372757059,
+      "species": "Tall",
+      "year": 1771
+    },
+    {
+      "site_id": 4041,
+      "site_name": "Ottenby kungsgård",
+      "lat": 56.2324481195,
+      "lon": 16.4131022179,
+      "species": "Gran",
+      "year": 1781
+    },
+    {
+      "site_id": 4207,
+      "site_name": "Borgmästargården",
+      "lat": 57.6663230944,
+      "lon": 15.8477446388,
+      "species": "Tall",
+      "year": 1794
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Tall",
+      "year": 1758
+    },
+    {
+      "site_id": 3825,
+      "site_name": "75533 Örsjö",
+      "lat": 56.6844593966,
+      "lon": 15.7263416363,
+      "species": "Tall",
+      "year": 1778
+    },
+    {
+      "site_id": 3960,
+      "site_name": "Viggesbo säteri",
+      "lat": 57.69034414,
+      "lon": 15.5156977131,
+      "species": "Tall",
+      "year": 1768
+    },
+    {
+      "site_id": 4035,
+      "site_name": "Ristomta gård",
+      "lat": 58.9867577024,
+      "lon": 17.8041573423,
+      "species": "Tall",
+      "year": 1795
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Tall",
+      "year": 1780
+    },
+    {
+      "site_id": 3970,
+      "site_name": "Törnbotten",
+      "lat": 56.6695248019,
+      "lon": 16.5481613697,
+      "species": "Ek",
+      "year": 1793
+    },
+    {
+      "site_id": 4080,
+      "site_name": "Lau Kyrka",
+      "lat": 57.2829069812,
+      "lon": 18.6201900158,
+      "species": "Tall",
+      "year": 1754
+    },
+    {
+      "site_id": 3980,
+      "site_name": "Torpa prästgård",
+      "lat": 57.9634423864,
+      "lon": 15.1426074673,
+      "species": "Gran",
+      "year": 1784
+    },
+    {
+      "site_id": 4071,
+      "site_name": "Lopperstad",
+      "lat": 56.6863049239,
+      "lon": 16.6934905697,
+      "species": "Ek",
+      "year": 1792
+    },
+    {
+      "site_id": 4161,
+      "site_name": "Föllingsö säteri",
+      "lat": 57.9792353144,
+      "lon": 15.5982792286,
+      "species": "Tall",
+      "year": 1750
+    },
+    {
+      "site_id": 3957,
+      "site_name": "Visby domkyrka",
+      "lat": 57.6417959686,
+      "lon": 18.2980570848,
+      "species": "Tall",
+      "year": 1766
+    },
+    {
+      "site_id": 4210,
+      "site_name": "Boqvistudden",
+      "lat": 58.1811905314,
+      "lon": 16.9249755122,
+      "species": "Tall",
+      "year": 1791
+    },
+    {
+      "site_id": 4147,
+      "site_name": "Guldrupe kyrka",
+      "lat": 57.4303913604,
+      "lon": 18.4266631287,
+      "species": "Tall",
+      "year": 1792
+    },
+    {
+      "site_id": 3851,
+      "site_name": "Stora Hulterska",
+      "lat": 58.7029188555,
+      "lon": 16.8021290152,
+      "species": "Tall",
+      "year": 1771
+    },
+    {
+      "site_id": 3822,
+      "site_name": "75710 Jönköping",
+      "lat": 57.5320112095,
+      "lon": 14.4060082223,
+      "species": "Tall",
+      "year": 1779
+    },
+    {
+      "site_id": 3889,
+      "site_name": "Kvarteret Fältskären",
+      "lat": 56.6617207235,
+      "lon": 16.3633745572,
+      "species": "Tall",
+      "year": 1766
+    },
+    {
+      "site_id": 4077,
+      "site_name": "Lilla Rätö gård",
+      "lat": 57.8528391698,
+      "lon": 16.5862815869,
+      "species": "Tall",
+      "year": 1776
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1791
+    },
+    {
+      "site_id": 4140,
+      "site_name": "Hall kyrka",
+      "lat": 57.8920701027,
+      "lon": 18.715963847,
+      "species": "Tall",
+      "year": 1753
+    },
+    {
+      "site_id": 3885,
+      "site_name": "Kvarteret Hattmakaren",
+      "lat": 56.6631034526,
+      "lon": 16.3626413075,
+      "species": "Tall",
+      "year": 1755
+    },
+    {
+      "site_id": 4161,
+      "site_name": "Föllingsö säteri",
+      "lat": 57.9792353144,
+      "lon": 15.5982792286,
+      "species": "Tall",
+      "year": 1750
+    },
+    {
+      "site_id": 3822,
+      "site_name": "75710 Jönköping",
+      "lat": 57.5320112095,
+      "lon": 14.4060082223,
+      "species": "Tall",
+      "year": 1779
+    },
+    {
+      "site_id": 4174,
+      "site_name": "Finntorp",
+      "lat": 58.8976171968,
+      "lon": 15.9373051965,
+      "species": "Tall",
+      "year": 1791
+    },
+    {
+      "site_id": 3957,
+      "site_name": "Visby domkyrka",
+      "lat": 57.6417959686,
+      "lon": 18.2980570848,
+      "species": "Tall",
+      "year": 1754
+    },
+    {
+      "site_id": 3889,
+      "site_name": "Kvarteret Fältskären",
+      "lat": 56.6617207235,
+      "lon": 16.3633745572,
+      "species": "Tall",
+      "year": 1766
+    },
+    {
+      "site_id": 4132,
+      "site_name": "Heda hembygdsgård",
+      "lat": 58.2868011797,
+      "lon": 14.7020076462,
+      "species": "Tall",
+      "year": 1781
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1785
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1798
+    },
+    {
+      "site_id": 4110,
+      "site_name": "Hönstorp",
+      "lat": 56.6625014058,
+      "lon": 16.5529641114,
+      "species": "Ek",
+      "year": 1766
+    },
+    {
+      "site_id": 4100,
+      "site_name": "Kleva gård",
+      "lat": 59.01385283,
+      "lon": 17.0847642233,
+      "species": "Tall",
+      "year": 1771
+    },
+    {
+      "site_id": 4211,
+      "site_name": "Bonäs",
+      "lat": 58.9966370047,
+      "lon": 16.2082655153,
+      "species": "Tall",
+      "year": 1797
+    },
+    {
+      "site_id": 3889,
+      "site_name": "Kvarteret Fältskären",
+      "lat": 56.6617207235,
+      "lon": 16.3633745572,
+      "species": "Tall",
+      "year": 1766
+    },
+    {
+      "site_id": 4039,
+      "site_name": "Perstorps kyrka",
+      "lat": 56.1416136158,
+      "lon": 13.3867602912,
+      "species": "Ek",
+      "year": 1766
+    },
+    {
+      "site_id": 4149,
+      "site_name": "Grävsten herrgård",
+      "lat": 58.3515719205,
+      "lon": 15.8922615755,
+      "species": "Tall",
+      "year": 1765
+    },
+    {
+      "site_id": 4041,
+      "site_name": "Ottenby kungsgård",
+      "lat": 56.2324481195,
+      "lon": 16.4131022179,
+      "species": "Gran",
+      "year": 1791
+    },
+    {
+      "site_id": 3970,
+      "site_name": "Törnbotten",
+      "lat": 56.6695248019,
+      "lon": 16.5481613697,
+      "species": "Ek",
+      "year": 1798
+    },
+    {
+      "site_id": 4149,
+      "site_name": "Grävsten herrgård",
+      "lat": 58.3515719205,
+      "lon": 15.8922615755,
+      "species": "Tall",
+      "year": 1762
+    },
+    {
+      "site_id": 4174,
+      "site_name": "Finntorp",
+      "lat": 58.8976171968,
+      "lon": 15.9373051965,
+      "species": "Tall",
+      "year": 1755
+    },
+    {
+      "site_id": 4080,
+      "site_name": "Lau Kyrka",
+      "lat": 57.2829069812,
+      "lon": 18.6201900158,
+      "species": "Tall",
+      "year": 1754
+    },
+    {
+      "site_id": 3896,
+      "site_name": "Krogsfall",
+      "lat": 58.0468080488,
+      "lon": 15.6153996599,
+      "species": "Tall",
+      "year": 1774
+    },
+    {
+      "site_id": 4103,
+      "site_name": "Katthamra",
+      "lat": 57.43267109,
+      "lon": 18.8521965856,
+      "species": "Tall",
+      "year": 1767
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Tall",
+      "year": 1795
+    },
+    {
+      "site_id": 4219,
+      "site_name": "Biskops",
+      "lat": 57.8524433281,
+      "lon": 19.0470244846,
+      "species": "Tall",
+      "year": 1791
+    },
+    {
+      "site_id": 3964,
+      "site_name": "Vamlingbo prästgård",
+      "lat": 56.9692204162,
+      "lon": 18.2291867481,
+      "species": "Tall",
+      "year": 1772
+    },
+    {
+      "site_id": 4163,
+      "site_name": "Fäbohagen",
+      "lat": 59.2564593792,
+      "lon": 17.2107675191,
+      "species": "Tall",
+      "year": 1766
+    },
+    {
+      "site_id": 3852,
+      "site_name": "Stora Harrie",
+      "lat": 55.8041967345,
+      "lon": 13.1735470066,
+      "species": "Ek",
+      "year": 1774
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1789
+    },
+    {
+      "site_id": 3902,
+      "site_name": "Högsjö gård",
+      "lat": 59.0303156826,
+      "lon": 15.6846029132,
+      "species": "Tall",
+      "year": 1759
+    },
+    {
+      "site_id": 4027,
+      "site_name": "Sandby prästgård",
+      "lat": 56.8769833036,
+      "lon": 16.8243131497,
+      "species": "Ek",
+      "year": 1775
+    },
+    {
+      "site_id": 3964,
+      "site_name": "Vamlingbo prästgård",
+      "lat": 56.9692204162,
+      "lon": 18.2291867481,
+      "species": "Tall",
+      "year": 1777
+    },
+    {
+      "site_id": 3836,
+      "site_name": "Åkarp",
+      "lat": 55.7466125559,
+      "lon": 13.400742912,
+      "species": "Ek",
+      "year": 1773
+    },
+    {
+      "site_id": 3855,
+      "site_name": "Skålsta",
+      "lat": 59.6918257743,
+      "lon": 17.7340431894,
+      "species": "Tall",
+      "year": 1776
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1786
+    },
+    {
+      "site_id": 4130,
+      "site_name": "Hejde kyrka",
+      "lat": 57.41279186,
+      "lon": 18.346056546,
+      "species": "Tall",
+      "year": 1793
+    },
+    {
+      "site_id": 4165,
+      "site_name": "Fröken Löfgrens gård",
+      "lat": 58.4124597098,
+      "lon": 15.627324903,
+      "species": "Tall",
+      "year": 1764
+    },
+    {
+      "site_id": 4101,
+      "site_name": "Kista hembygdsgård",
+      "lat": 59.9594680567,
+      "lon": 18.8475983058,
+      "species": "Tall",
+      "year": 1788
+    },
+    {
+      "site_id": 4080,
+      "site_name": "Lau Kyrka",
+      "lat": 57.2829069812,
+      "lon": 18.6201900158,
+      "species": "Tall",
+      "year": 1753
+    },
+    {
+      "site_id": 4187,
+      "site_name": "Drottningholms slott",
+      "lat": 59.32165393,
+      "lon": 17.8869837339,
+      "species": "Tall",
+      "year": 1766
+    },
+    {
+      "site_id": 4165,
+      "site_name": "Fröken Löfgrens gård",
+      "lat": 58.4124597098,
+      "lon": 15.627324903,
+      "species": "Tall",
+      "year": 1768
+    },
+    {
+      "site_id": 4132,
+      "site_name": "Heda hembygdsgård",
+      "lat": 58.2868011797,
+      "lon": 14.7020076462,
+      "species": "Tall",
+      "year": 1783
+    },
+    {
+      "site_id": 3900,
+      "site_name": "Ingatorp",
+      "lat": 57.6380382075,
+      "lon": 15.4073076125,
+      "species": "Tall",
+      "year": 1756
+    },
+    {
+      "site_id": 3825,
+      "site_name": "75533 Örsjö",
+      "lat": 56.6844593966,
+      "lon": 15.7263416363,
+      "species": "Tall",
+      "year": 1798
+    },
+    {
+      "site_id": 3891,
+      "site_name": "Kvarteret Båtsmannen",
+      "lat": 57.757533626,
+      "lon": 16.6423907987,
+      "species": "Tall",
+      "year": 1755
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1763
+    },
+    {
+      "site_id": 4132,
+      "site_name": "Heda hembygdsgård",
+      "lat": 58.2868011797,
+      "lon": 14.7020076462,
+      "species": "Tall",
+      "year": 1785
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Tall",
+      "year": 1780
+    },
+    {
+      "site_id": 4174,
+      "site_name": "Finntorp",
+      "lat": 58.8976171968,
+      "lon": 15.9373051965,
+      "species": "Tall",
+      "year": 1791
+    },
+    {
+      "site_id": 4101,
+      "site_name": "Kista hembygdsgård",
+      "lat": 59.9594680567,
+      "lon": 18.8475983058,
+      "species": "Tall",
+      "year": 1799
+    },
+    {
+      "site_id": 3843,
+      "site_name": "Verksgatan",
+      "lat": 58.1988383361,
+      "lon": 16.0048511229,
+      "species": "Tall",
+      "year": 1777
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Gran",
+      "year": 1798
+    },
+    {
+      "site_id": 3834,
+      "site_name": "Tosterup 32:2",
+      "lat": 55.4800716178,
+      "lon": 13.9867459422,
+      "species": "Gran",
+      "year": 1787
+    },
+    {
+      "site_id": 4221,
+      "site_name": "Bellmanhuset",
+      "lat": 59.3242063671,
+      "lon": 18.0977532733,
+      "species": "Tall",
+      "year": 1784
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1770
+    },
+    {
+      "site_id": 4041,
+      "site_name": "Ottenby kungsgård",
+      "lat": 56.2324481195,
+      "lon": 16.4131022179,
+      "species": "Ek",
+      "year": 1783
+    },
+    {
+      "site_id": 3826,
+      "site_name": "62858 Skånela",
+      "lat": 59.5921656685,
+      "lon": 17.9253260553,
+      "species": "Tall",
+      "year": 1760
+    },
+    {
+      "site_id": 4177,
+      "site_name": "Fallebo gård",
+      "lat": 57.2825301121,
+      "lon": 16.4599047102,
+      "species": "Tall",
+      "year": 1770
+    },
+    {
+      "site_id": 3816,
+      "site_name": "Låga längan",
+      "lat": 59.324024,
+      "lon": 18.097877,
+      "species": "Tall",
+      "year": 1754
+    },
+    {
+      "site_id": 3854,
+      "site_name": "Sköldsborg",
+      "lat": 58.4072010098,
+      "lon": 15.845373135,
+      "species": "Tall",
+      "year": 1796
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1788
+    },
+    {
+      "site_id": 4040,
+      "site_name": "Pedersborg",
+      "lat": 59.7461323276,
+      "lon": 18.8157655584,
+      "species": "Tall",
+      "year": 1764
+    },
+    {
+      "site_id": 4121,
+      "site_name": "Hovdala slott",
+      "lat": 56.1036848292,
+      "lon": 13.7137204295,
+      "species": "Ek",
+      "year": 1793
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1776
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1777
+    },
+    {
+      "site_id": 3843,
+      "site_name": "Verksgatan",
+      "lat": 58.1988383361,
+      "lon": 16.0048511229,
+      "species": "Tall",
+      "year": 1799
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Tall",
+      "year": 1760
+    },
+    {
+      "site_id": 3825,
+      "site_name": "75533 Örsjö",
+      "lat": 56.6844593966,
+      "lon": 15.7263416363,
+      "species": "Tall",
+      "year": 1781
+    },
+    {
+      "site_id": 4174,
+      "site_name": "Finntorp",
+      "lat": 58.8976171968,
+      "lon": 15.9373051965,
+      "species": "Tall",
+      "year": 1791
+    },
+    {
+      "site_id": 3862,
+      "site_name": "Prästtorp",
+      "lat": 58.4028209933,
+      "lon": 14.8474776891,
+      "species": "Tall",
+      "year": 1779
+    },
+    {
+      "site_id": 4161,
+      "site_name": "Föllingsö säteri",
+      "lat": 57.9792353144,
+      "lon": 15.5982792286,
+      "species": "Tall",
+      "year": 1759
+    },
+    {
+      "site_id": 4100,
+      "site_name": "Kleva gård",
+      "lat": 59.01385283,
+      "lon": 17.0847642233,
+      "species": "Tall",
+      "year": 1786
+    },
+    {
+      "site_id": 3833,
+      "site_name": "12051 Bro",
+      "lat": 57.6698565725,
+      "lon": 18.4661389697,
+      "species": "Tall",
+      "year": 1755
+    },
+    {
+      "site_id": 4014,
+      "site_name": "Skabersjö slott",
+      "lat": 55.5407035295,
+      "lon": 13.1471592635,
+      "species": "Tall",
+      "year": 1779
+    },
+    {
+      "site_id": 3878,
+      "site_name": "Kvarteret Repslagaren",
+      "lat": 56.6661231227,
+      "lon": 16.3707621787,
+      "species": "Gran",
+      "year": 1765
+    },
+    {
+      "site_id": 3843,
+      "site_name": "Verksgatan",
+      "lat": 58.1988383361,
+      "lon": 16.0048511229,
+      "species": "Tall",
+      "year": 1765
+    },
+    {
+      "site_id": 4007,
+      "site_name": "Slästorp",
+      "lat": 58.1918290817,
+      "lon": 15.1483176423,
+      "species": "Tall",
+      "year": 1753
+    },
+    {
+      "site_id": 4067,
+      "site_name": "Länsmansgården",
+      "lat": 59.4934711749,
+      "lon": 18.3284417206,
+      "species": "Tall",
+      "year": 1780
+    },
+    {
+      "site_id": 3825,
+      "site_name": "75533 Örsjö",
+      "lat": 56.6844593966,
+      "lon": 15.7263416363,
+      "species": "Tall",
+      "year": 1778
+    },
+    {
+      "site_id": 4165,
+      "site_name": "Fröken Löfgrens gård",
+      "lat": 58.4124597098,
+      "lon": 15.627324903,
+      "species": "Tall",
+      "year": 1786
+    },
+    {
+      "site_id": 3830,
+      "site_name": "62928 Faringe",
+      "lat": 59.9777584604,
+      "lon": 18.1645160986,
+      "species": "Tall",
+      "year": 1777
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1791
+    },
+    {
+      "site_id": 4035,
+      "site_name": "Ristomta gård",
+      "lat": 58.9867577024,
+      "lon": 17.8041573423,
+      "species": "Tall",
+      "year": 1768
+    },
+    {
+      "site_id": 3843,
+      "site_name": "Verksgatan",
+      "lat": 58.1988383361,
+      "lon": 16.0048511229,
+      "species": "Tall",
+      "year": 1781
+    },
+    {
+      "site_id": 4005,
+      "site_name": "Smedstorp",
+      "lat": 57.9433759312,
+      "lon": 15.4137172846,
+      "species": "Tall",
+      "year": 1796
+    },
+    {
+      "site_id": 4101,
+      "site_name": "Kista hembygdsgård",
+      "lat": 59.9594680567,
+      "lon": 18.8475983058,
+      "species": "Tall",
+      "year": 1799
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Gran",
+      "year": 1795
+    },
+    {
+      "site_id": 3861,
+      "site_name": "Qvarnarp",
+      "lat": 57.6472984191,
+      "lon": 14.9847376269,
+      "species": "Tall",
+      "year": 1797
+    },
+    {
+      "site_id": 4001,
+      "site_name": "Sonnorps frälsegård",
+      "lat": 58.5253465014,
+      "lon": 15.0956199379,
+      "species": "Tall",
+      "year": 1789
+    },
+    {
+      "site_id": 4130,
+      "site_name": "Hejde kyrka",
+      "lat": 57.41279186,
+      "lon": 18.346056546,
+      "species": "Tall",
+      "year": 1790
+    },
+    {
+      "site_id": 3960,
+      "site_name": "Viggesbo säteri",
+      "lat": 57.69034414,
+      "lon": 15.5156977131,
+      "species": "Tall",
+      "year": 1786
+    },
+    {
+      "site_id": 3863,
+      "site_name": "Näs",
+      "lat": 57.6636863995,
+      "lon": 15.3713909548,
+      "species": "Tall",
+      "year": 1754
+    },
+    {
+      "site_id": 3902,
+      "site_name": "Högsjö gård",
+      "lat": 59.0303156826,
+      "lon": 15.6846029132,
+      "species": "Tall",
+      "year": 1759
+    },
+    {
+      "site_id": 4130,
+      "site_name": "Hejde kyrka",
+      "lat": 57.41279186,
+      "lon": 18.346056546,
+      "species": "Tall",
+      "year": 1793
+    },
+    {
+      "site_id": 4067,
+      "site_name": "Länsmansgården",
+      "lat": 59.4934711749,
+      "lon": 18.3284417206,
+      "species": "Tall",
+      "year": 1770
+    },
+    {
+      "site_id": 4077,
+      "site_name": "Lilla Rätö gård",
+      "lat": 57.8528391698,
+      "lon": 16.5862815869,
+      "species": "Tall",
+      "year": 1786
+    },
+    {
+      "site_id": 3960,
+      "site_name": "Viggesbo säteri",
+      "lat": 57.69034414,
+      "lon": 15.5156977131,
+      "species": "Tall",
+      "year": 1784
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1750
+    },
+    {
+      "site_id": 4154,
+      "site_name": "Gimo Herrgård",
+      "lat": 60.1790929337,
+      "lon": 18.1734389044,
+      "species": "Tall",
+      "year": 1773
+    },
+    {
+      "site_id": 4140,
+      "site_name": "Hall kyrka",
+      "lat": 57.8920701027,
+      "lon": 18.715963847,
+      "species": "Tall",
+      "year": 1753
+    },
+    {
+      "site_id": 3963,
+      "site_name": "Vanserum",
+      "lat": 56.6902758413,
+      "lon": 16.6648810588,
+      "species": "Ek",
+      "year": 1789
+    },
+    {
+      "site_id": 4179,
+      "site_name": "Eriksöre",
+      "lat": 56.6085306117,
+      "lon": 16.4788957813,
+      "species": "Ek",
+      "year": 1757
+    },
+    {
+      "site_id": 3843,
+      "site_name": "Verksgatan",
+      "lat": 58.1988383361,
+      "lon": 16.0048511229,
+      "species": "Tall",
+      "year": 1777
+    },
+    {
+      "site_id": 3889,
+      "site_name": "Kvarteret Fältskären",
+      "lat": 56.6617207235,
+      "lon": 16.3633745572,
+      "species": "Tall",
+      "year": 1766
+    },
+    {
+      "site_id": 3970,
+      "site_name": "Törnbotten",
+      "lat": 56.6695248019,
+      "lon": 16.5481613697,
+      "species": "Ek",
+      "year": 1794
+    },
+    {
+      "site_id": 3854,
+      "site_name": "Sköldsborg",
+      "lat": 58.4072010098,
+      "lon": 15.845373135,
+      "species": "Tall",
+      "year": 1797
+    },
+    {
+      "site_id": 3843,
+      "site_name": "Verksgatan",
+      "lat": 58.1988383361,
+      "lon": 16.0048511229,
+      "species": "Tall",
+      "year": 1777
+    },
+    {
+      "site_id": 4174,
+      "site_name": "Finntorp",
+      "lat": 58.8976171968,
+      "lon": 15.9373051965,
+      "species": "Tall",
+      "year": 1755
+    },
+    {
+      "site_id": 3916,
+      "site_name": "Borntorp",
+      "lat": 59.9812361508,
+      "lon": 18.7313972675,
+      "species": "Tall",
+      "year": 1797
+    },
+    {
+      "site_id": 4132,
+      "site_name": "Heda hembygdsgård",
+      "lat": 58.2868011797,
+      "lon": 14.7020076462,
+      "species": "Tall",
+      "year": 1785
+    },
+    {
+      "site_id": 4166,
+      "site_name": "Fröjden",
+      "lat": 58.0836551307,
+      "lon": 16.4887472928,
+      "species": "Tall",
+      "year": 1774
+    },
+    {
+      "site_id": 4110,
+      "site_name": "Hönstorp",
+      "lat": 56.6625014058,
+      "lon": 16.5529641114,
+      "species": "Ek",
+      "year": 1757
+    },
+    {
+      "site_id": 4071,
+      "site_name": "Lopperstad",
+      "lat": 56.6863049239,
+      "lon": 16.6934905697,
+      "species": "Ek",
+      "year": 1790
+    },
+    {
+      "site_id": 4161,
+      "site_name": "Föllingsö säteri",
+      "lat": 57.9792353144,
+      "lon": 15.5982792286,
+      "species": "Tall",
+      "year": 1759
+    },
+    {
+      "site_id": 4201,
+      "site_name": "Broarps gästgiveri",
+      "lat": 57.6347443674,
+      "lon": 14.8676935405,
+      "species": "Tall",
+      "year": 1798
+    },
+    {
+      "site_id": 3959,
+      "site_name": "Villie kyrka",
+      "lat": 55.4790114805,
+      "lon": 13.5977963404,
+      "species": "Ek",
+      "year": 1782
+    },
+    {
+      "site_id": 4198,
+      "site_name": "Brunsta gård",
+      "lat": 58.780304488,
+      "lon": 16.9499694894,
+      "species": "Tall",
+      "year": 1786
+    },
+    {
+      "site_id": 4130,
+      "site_name": "Hejde kyrka",
+      "lat": 57.41279186,
+      "lon": 18.346056546,
+      "species": "Tall",
+      "year": 1792
+    },
+    {
+      "site_id": 3929,
+      "site_name": "Östrabo biskopsgård",
+      "lat": 56.8796868193,
+      "lon": 14.8186359964,
+      "species": "Tall",
+      "year": 1790
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Tall",
+      "year": 1794
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1777
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1785
+    },
+    {
+      "site_id": 4174,
+      "site_name": "Finntorp",
+      "lat": 58.8976171968,
+      "lon": 15.9373051965,
+      "species": "Tall",
+      "year": 1791
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Tall",
+      "year": 1793
+    },
+    {
+      "site_id": 3843,
+      "site_name": "Verksgatan",
+      "lat": 58.1988383361,
+      "lon": 16.0048511229,
+      "species": "Tall",
+      "year": 1775
+    },
+    {
+      "site_id": 3929,
+      "site_name": "Östrabo biskopsgård",
+      "lat": 56.8796868193,
+      "lon": 14.8186359964,
+      "species": "Tall",
+      "year": 1790
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Tall",
+      "year": 1781
+    },
+    {
+      "site_id": 4043,
+      "site_name": "Nääs gård",
+      "lat": 57.9527626474,
+      "lon": 15.1425988749,
+      "species": "Tall",
+      "year": 1767
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Tall",
+      "year": 1795
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Tall",
+      "year": 1780
+    },
+    {
+      "site_id": 4177,
+      "site_name": "Fallebo gård",
+      "lat": 57.2825301121,
+      "lon": 16.4599047102,
+      "species": "Tall",
+      "year": 1770
+    },
+    {
+      "site_id": 4014,
+      "site_name": "Skabersjö slott",
+      "lat": 55.5407035295,
+      "lon": 13.1471592635,
+      "species": "Tall",
+      "year": 1779
+    },
+    {
+      "site_id": 4174,
+      "site_name": "Finntorp",
+      "lat": 58.8976171968,
+      "lon": 15.9373051965,
+      "species": "Tall",
+      "year": 1755
+    },
+    {
+      "site_id": 4217,
+      "site_name": "Bisslinge gård",
+      "lat": 59.4941434395,
+      "lon": 17.8807695573,
+      "species": "Tall",
+      "year": 1766
+    },
+    {
+      "site_id": 4015,
+      "site_name": "Sjöstugan",
+      "lat": 59.1953522018,
+      "lon": 16.9142181099,
+      "species": "Tall",
+      "year": 1794
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1777
+    },
+    {
+      "site_id": 4100,
+      "site_name": "Kleva gård",
+      "lat": 59.01385283,
+      "lon": 17.0847642233,
+      "species": "Tall",
+      "year": 1778
+    },
+    {
+      "site_id": 4140,
+      "site_name": "Hall kyrka",
+      "lat": 57.8920701027,
+      "lon": 18.715963847,
+      "species": "Tall",
+      "year": 1750
+    },
+    {
+      "site_id": 3971,
+      "site_name": "Tångerda gård",
+      "lat": 57.4625230012,
+      "lon": 15.0716759291,
+      "species": "Tall",
+      "year": 1763
+    },
+    {
+      "site_id": 4130,
+      "site_name": "Hejde kyrka",
+      "lat": 57.41279186,
+      "lon": 18.346056546,
+      "species": "Tall",
+      "year": 1778
+    },
+    {
+      "site_id": 4221,
+      "site_name": "Bellmanhuset",
+      "lat": 59.3242063671,
+      "lon": 18.0977532733,
+      "species": "Tall",
+      "year": 1754
+    },
+    {
+      "site_id": 3823,
+      "site_name": "17200 Ödeshög",
+      "lat": 58.2171235319,
+      "lon": 14.67374088,
+      "species": "Tall",
+      "year": 1797
+    },
+    {
+      "site_id": 3963,
+      "site_name": "Vanserum",
+      "lat": 56.6902758413,
+      "lon": 16.6648810588,
+      "species": "Ek",
+      "year": 1799
+    },
+    {
+      "site_id": 4167,
+      "site_name": "Fornminnesgården",
+      "lat": 57.6690964084,
+      "lon": 14.9699766107,
+      "species": "Tall",
+      "year": 1751
+    },
+    {
+      "site_id": 4054,
+      "site_name": "Noors Herrgård",
+      "lat": 59.8749269109,
+      "lon": 18.8372757059,
+      "species": "Tall",
+      "year": 1771
+    },
+    {
+      "site_id": 4029,
+      "site_name": "Röhälla",
+      "lat": 56.7231108407,
+      "lon": 16.5131997805,
+      "species": "Ek",
+      "year": 1780
+    },
+    {
+      "site_id": 3980,
+      "site_name": "Torpa prästgård",
+      "lat": 57.9634423864,
+      "lon": 15.1426074673,
+      "species": "Gran",
+      "year": 1784
+    },
+    {
+      "site_id": 3960,
+      "site_name": "Viggesbo säteri",
+      "lat": 57.69034414,
+      "lon": 15.5156977131,
+      "species": "Tall",
+      "year": 1785
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1780
+    },
+    {
+      "site_id": 4179,
+      "site_name": "Eriksöre",
+      "lat": 56.6085306117,
+      "lon": 16.4788957813,
+      "species": "Ek",
+      "year": 1788
+    },
+    {
+      "site_id": 3834,
+      "site_name": "Tosterup 32:2",
+      "lat": 55.4800716178,
+      "lon": 13.9867459422,
+      "species": "Gran",
+      "year": 1784
+    },
+    {
+      "site_id": 4174,
+      "site_name": "Finntorp",
+      "lat": 58.8976171968,
+      "lon": 15.9373051965,
+      "species": "Tall",
+      "year": 1755
+    },
+    {
+      "site_id": 3833,
+      "site_name": "12051 Bro",
+      "lat": 57.6698565725,
+      "lon": 18.4661389697,
+      "species": "Tall",
+      "year": 1755
+    },
+    {
+      "site_id": 3900,
+      "site_name": "Ingatorp",
+      "lat": 57.6380382075,
+      "lon": 15.4073076125,
+      "species": "Tall",
+      "year": 1761
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1776
+    },
+    {
+      "site_id": 3911,
+      "site_name": "Föra",
+      "lat": 57.0217696502,
+      "lon": 16.866672345,
+      "species": "Gran",
+      "year": 1773
+    },
+    {
+      "site_id": 4179,
+      "site_name": "Eriksöre",
+      "lat": 56.6085306117,
+      "lon": 16.4788957813,
+      "species": "Ek",
+      "year": 1793
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1767
+    },
+    {
+      "site_id": 4179,
+      "site_name": "Eriksöre",
+      "lat": 56.6085306117,
+      "lon": 16.4788957813,
+      "species": "Ek",
+      "year": 1798
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Tall",
+      "year": 1792
+    },
+    {
+      "site_id": 3911,
+      "site_name": "Föra",
+      "lat": 57.0217696502,
+      "lon": 16.866672345,
+      "species": "Tall",
+      "year": 1784
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1773
+    },
+    {
+      "site_id": 4221,
+      "site_name": "Bellmanhuset",
+      "lat": 59.3242063671,
+      "lon": 18.0977532733,
+      "species": "Tall",
+      "year": 1754
+    },
+    {
+      "site_id": 3843,
+      "site_name": "Verksgatan",
+      "lat": 58.1988383361,
+      "lon": 16.0048511229,
+      "species": "Tall",
+      "year": 1775
+    },
+    {
+      "site_id": 4161,
+      "site_name": "Föllingsö säteri",
+      "lat": 57.9792353144,
+      "lon": 15.5982792286,
+      "species": "Tall",
+      "year": 1750
+    },
+    {
+      "site_id": 4095,
+      "site_name": "Kråkvik",
+      "lat": 58.0430129509,
+      "lon": 16.7038344946,
+      "species": "Tall",
+      "year": 1780
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Tall",
+      "year": 1782
+    },
+    {
+      "site_id": 3826,
+      "site_name": "62858 Skånela",
+      "lat": 59.5921656685,
+      "lon": 17.9253260553,
+      "species": "Tall",
+      "year": 1760
+    },
+    {
+      "site_id": 4159,
+      "site_name": "Gamla prästgården",
+      "lat": 55.7923702296,
+      "lon": 13.204679547,
+      "species": "Ek",
+      "year": 1755
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1798
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1777
+    },
+    {
+      "site_id": 3843,
+      "site_name": "Verksgatan",
+      "lat": 58.1988383361,
+      "lon": 16.0048511229,
+      "species": "Tall",
+      "year": 1777
+    },
+    {
+      "site_id": 4005,
+      "site_name": "Smedstorp",
+      "lat": 57.9433759312,
+      "lon": 15.4137172846,
+      "species": "Tall",
+      "year": 1764
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1790
+    },
+    {
+      "site_id": 3825,
+      "site_name": "75533 Örsjö",
+      "lat": 56.6844593966,
+      "lon": 15.7263416363,
+      "species": "Tall",
+      "year": 1768
+    },
+    {
+      "site_id": 3878,
+      "site_name": "Kvarteret Repslagaren",
+      "lat": 56.6661231227,
+      "lon": 16.3707621787,
+      "species": "Tall",
+      "year": 1772
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Tall",
+      "year": 1781
+    },
+    {
+      "site_id": 3929,
+      "site_name": "Östrabo biskopsgård",
+      "lat": 56.8796868193,
+      "lon": 14.8186359964,
+      "species": "Tall",
+      "year": 1787
+    },
+    {
+      "site_id": 4174,
+      "site_name": "Finntorp",
+      "lat": 58.8976171968,
+      "lon": 15.9373051965,
+      "species": "Tall",
+      "year": 1791
+    },
+    {
+      "site_id": 3959,
+      "site_name": "Villie kyrka",
+      "lat": 55.4790114805,
+      "lon": 13.5977963404,
+      "species": "Ek",
+      "year": 1771
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Tall",
+      "year": 1780
+    },
+    {
+      "site_id": 4110,
+      "site_name": "Hönstorp",
+      "lat": 56.6625014058,
+      "lon": 16.5529641114,
+      "species": "Ek",
+      "year": 1752
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1777
+    },
+    {
+      "site_id": 4140,
+      "site_name": "Hall kyrka",
+      "lat": 57.8920701027,
+      "lon": 18.715963847,
+      "species": "Tall",
+      "year": 1753
+    },
+    {
+      "site_id": 4182,
+      "site_name": "Ektorpet",
+      "lat": 59.2242707916,
+      "lon": 18.3087201531,
+      "species": "Tall",
+      "year": 1780
+    },
+    {
+      "site_id": 4002,
+      "site_name": "Solbaddet",
+      "lat": 59.3629570089,
+      "lon": 18.0230932849,
+      "species": "Tall",
+      "year": 1756
+    },
+    {
+      "site_id": 4125,
+      "site_name": "Hester gamla gästgiveri",
+      "lat": 58.1545506911,
+      "lon": 14.992625859,
+      "species": "Tall",
+      "year": 1765
+    },
+    {
+      "site_id": 4181,
+      "site_name": "Em's herrgård",
+      "lat": 57.127675854,
+      "lon": 16.4979303262,
+      "species": "Tall",
+      "year": 1781
+    },
+    {
+      "site_id": 4101,
+      "site_name": "Kista hembygdsgård",
+      "lat": 59.9594680567,
+      "lon": 18.8475983058,
+      "species": "Tall",
+      "year": 1789
+    },
+    {
+      "site_id": 4071,
+      "site_name": "Lopperstad",
+      "lat": 56.6863049239,
+      "lon": 16.6934905697,
+      "species": "Ek",
+      "year": 1790
+    },
+    {
+      "site_id": 4071,
+      "site_name": "Lopperstad",
+      "lat": 56.6863049239,
+      "lon": 16.6934905697,
+      "species": "Ek",
+      "year": 1797
+    },
+    {
+      "site_id": 4001,
+      "site_name": "Sonnorps frälsegård",
+      "lat": 58.5253465014,
+      "lon": 15.0956199379,
+      "species": "Tall",
+      "year": 1789
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1796
+    },
+    {
+      "site_id": 4154,
+      "site_name": "Gimo Herrgård",
+      "lat": 60.1790929337,
+      "lon": 18.1734389044,
+      "species": "Tall",
+      "year": 1773
+    },
+    {
+      "site_id": 4040,
+      "site_name": "Pedersborg",
+      "lat": 59.7461323276,
+      "lon": 18.8157655584,
+      "species": "Tall",
+      "year": 1764
+    },
+    {
+      "site_id": 4181,
+      "site_name": "Em's herrgård",
+      "lat": 57.127675854,
+      "lon": 16.4979303262,
+      "species": "Tall",
+      "year": 1760
+    },
+    {
+      "site_id": 3843,
+      "site_name": "Verksgatan",
+      "lat": 58.1988383361,
+      "lon": 16.0048511229,
+      "species": "Tall",
+      "year": 1781
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1791
+    },
+    {
+      "site_id": 3855,
+      "site_name": "Skålsta",
+      "lat": 59.6918257743,
+      "lon": 17.7340431894,
+      "species": "Tall",
+      "year": 1776
+    },
+    {
+      "site_id": 3867,
+      "site_name": "Lövö",
+      "lat": 56.982687405,
+      "lon": 16.4670895041,
+      "species": "Ek",
+      "year": 1794
+    },
+    {
+      "site_id": 3833,
+      "site_name": "12051 Bro",
+      "lat": 57.6698565725,
+      "lon": 18.4661389697,
+      "species": "Tall",
+      "year": 1752
+    },
+    {
+      "site_id": 4181,
+      "site_name": "Em's herrgård",
+      "lat": 57.127675854,
+      "lon": 16.4979303262,
+      "species": "Tall",
+      "year": 1760
+    },
+    {
+      "site_id": 4110,
+      "site_name": "Hönstorp",
+      "lat": 56.6625014058,
+      "lon": 16.5529641114,
+      "species": "Ek",
+      "year": 1757
+    },
+    {
+      "site_id": 4165,
+      "site_name": "Fröken Löfgrens gård",
+      "lat": 58.4124597098,
+      "lon": 15.627324903,
+      "species": "Tall",
+      "year": 1798
+    },
+    {
+      "site_id": 4041,
+      "site_name": "Ottenby kungsgård",
+      "lat": 56.2324481195,
+      "lon": 16.4131022179,
+      "species": "Ek",
+      "year": 1783
+    },
+    {
+      "site_id": 3867,
+      "site_name": "Lövö",
+      "lat": 56.982687405,
+      "lon": 16.4670895041,
+      "species": "Gran",
+      "year": 1772
+    },
+    {
+      "site_id": 3862,
+      "site_name": "Prästtorp",
+      "lat": 58.4028209933,
+      "lon": 14.8474776891,
+      "species": "Tall",
+      "year": 1779
+    },
+    {
+      "site_id": 3914,
+      "site_name": "Ekeby",
+      "lat": 59.9309248608,
+      "lon": 18.7352302992,
+      "species": "Tall",
+      "year": 1773
+    },
+    {
+      "site_id": 3854,
+      "site_name": "Sköldsborg",
+      "lat": 58.4072010098,
+      "lon": 15.845373135,
+      "species": "Tall",
+      "year": 1797
+    },
+    {
+      "site_id": 3862,
+      "site_name": "Prästtorp",
+      "lat": 58.4028209933,
+      "lon": 14.8474776891,
+      "species": "Tall",
+      "year": 1780
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Tall",
+      "year": 1792
+    },
+    {
+      "site_id": 4174,
+      "site_name": "Finntorp",
+      "lat": 58.8976171968,
+      "lon": 15.9373051965,
+      "species": "Tall",
+      "year": 1755
+    },
+    {
+      "site_id": 3909,
+      "site_name": "Grisslehamn",
+      "lat": 60.1021465278,
+      "lon": 18.8113333236,
+      "species": "Tall",
+      "year": 1784
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Tall",
+      "year": 1762
+    },
+    {
+      "site_id": 3823,
+      "site_name": "17200 Ödeshög",
+      "lat": 58.2171235319,
+      "lon": 14.67374088,
+      "species": "Tall",
+      "year": 1798
+    },
+    {
+      "site_id": 4001,
+      "site_name": "Sonnorps frälsegård",
+      "lat": 58.5253465014,
+      "lon": 15.0956199379,
+      "species": "Tall",
+      "year": 1752
+    },
+    {
+      "site_id": 3843,
+      "site_name": "Verksgatan",
+      "lat": 58.1988383361,
+      "lon": 16.0048511229,
+      "species": "Tall",
+      "year": 1775
+    },
+    {
+      "site_id": 4181,
+      "site_name": "Em's herrgård",
+      "lat": 57.127675854,
+      "lon": 16.4979303262,
+      "species": "Tall",
+      "year": 1777
+    },
+    {
+      "site_id": 4041,
+      "site_name": "Ottenby kungsgård",
+      "lat": 56.2324481195,
+      "lon": 16.4131022179,
+      "species": "Ek",
+      "year": 1783
+    },
+    {
+      "site_id": 4035,
+      "site_name": "Ristomta gård",
+      "lat": 58.9867577024,
+      "lon": 17.8041573423,
+      "species": "Tall",
+      "year": 1768
+    },
+    {
+      "site_id": 3980,
+      "site_name": "Torpa prästgård",
+      "lat": 57.9634423864,
+      "lon": 15.1426074673,
+      "species": "Tall",
+      "year": 1784
+    },
+    {
+      "site_id": 3878,
+      "site_name": "Kvarteret Repslagaren",
+      "lat": 56.6661231227,
+      "lon": 16.3707621787,
+      "species": "Tall",
+      "year": 1772
+    },
+    {
+      "site_id": 4014,
+      "site_name": "Skabersjö slott",
+      "lat": 55.5407035295,
+      "lon": 13.1471592635,
+      "species": "Lärk",
+      "year": 1776
+    },
+    {
+      "site_id": 3900,
+      "site_name": "Ingatorp",
+      "lat": 57.6380382075,
+      "lon": 15.4073076125,
+      "species": "Tall",
+      "year": 1770
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1777
+    },
+    {
+      "site_id": 4174,
+      "site_name": "Finntorp",
+      "lat": 58.8976171968,
+      "lon": 15.9373051965,
+      "species": "Tall",
+      "year": 1755
+    },
+    {
+      "site_id": 4080,
+      "site_name": "Lau Kyrka",
+      "lat": 57.2829069812,
+      "lon": 18.6201900158,
+      "species": "Tall",
+      "year": 1754
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1781
+    },
+    {
+      "site_id": 3834,
+      "site_name": "Tosterup 32:2",
+      "lat": 55.4800716178,
+      "lon": 13.9867459422,
+      "species": "Tall",
+      "year": 1796
+    },
+    {
+      "site_id": 4035,
+      "site_name": "Ristomta gård",
+      "lat": 58.9867577024,
+      "lon": 17.8041573423,
+      "species": "Tall",
+      "year": 1768
+    },
+    {
+      "site_id": 3847,
+      "site_name": "Tofta",
+      "lat": 57.7925944619,
+      "lon": 14.7835679577,
+      "species": "Tall",
+      "year": 1780
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1798
+    },
+    {
+      "site_id": 4009,
+      "site_name": "Slevringe gård",
+      "lat": 58.2027733697,
+      "lon": 15.9603993335,
+      "species": "Tall",
+      "year": 1788
+    },
+    {
+      "site_id": 3889,
+      "site_name": "Kvarteret Fältskären",
+      "lat": 56.6617207235,
+      "lon": 16.3633745572,
+      "species": "Tall",
+      "year": 1766
+    },
+    {
+      "site_id": 3929,
+      "site_name": "Östrabo biskopsgård",
+      "lat": 56.8796868193,
+      "lon": 14.8186359964,
+      "species": "Gran",
+      "year": 1790
+    },
+    {
+      "site_id": 4182,
+      "site_name": "Ektorpet",
+      "lat": 59.2242707916,
+      "lon": 18.3087201531,
+      "species": "Tall",
+      "year": 1775
+    },
+    {
+      "site_id": 3995,
+      "site_name": "Stora Kolfly",
+      "lat": 56.668258298,
+      "lon": 15.7252303996,
+      "species": "Tall",
+      "year": 1767
+    },
+    {
+      "site_id": 3852,
+      "site_name": "Stora Harrie",
+      "lat": 55.8041967345,
+      "lon": 13.1735470066,
+      "species": "Ek",
+      "year": 1770
+    },
+    {
+      "site_id": 3922,
+      "site_name": "Wrangelska palatset",
+      "lat": 59.3251154621,
+      "lon": 18.0627386877,
+      "species": "Tall",
+      "year": 1760
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Tall",
+      "year": 1795
+    },
+    {
+      "site_id": 4154,
+      "site_name": "Gimo Herrgård",
+      "lat": 60.1790929337,
+      "lon": 18.1734389044,
+      "species": "Tall",
+      "year": 1773
+    },
+    {
+      "site_id": 3862,
+      "site_name": "Prästtorp",
+      "lat": 58.4028209933,
+      "lon": 14.8474776891,
+      "species": "Tall",
+      "year": 1775
+    },
+    {
+      "site_id": 3964,
+      "site_name": "Vamlingbo prästgård",
+      "lat": 56.9692204162,
+      "lon": 18.2291867481,
+      "species": "Tall",
+      "year": 1778
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1778
+    },
+    {
+      "site_id": 3902,
+      "site_name": "Högsjö gård",
+      "lat": 59.0303156826,
+      "lon": 15.6846029132,
+      "species": "Tall",
+      "year": 1759
+    },
+    {
+      "site_id": 3916,
+      "site_name": "Borntorp",
+      "lat": 59.9812361508,
+      "lon": 18.7313972675,
+      "species": "Tall",
+      "year": 1797
+    },
+    {
+      "site_id": 3836,
+      "site_name": "Åkarp",
+      "lat": 55.7466125559,
+      "lon": 13.400742912,
+      "species": "Ek",
+      "year": 1763
+    },
+    {
+      "site_id": 4191,
+      "site_name": "Cramérska huset",
+      "lat": 57.6413266574,
+      "lon": 18.2957180164,
+      "species": "Tall",
+      "year": 1760
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1791
+    },
+    {
+      "site_id": 4005,
+      "site_name": "Smedstorp",
+      "lat": 57.9433759312,
+      "lon": 15.4137172846,
+      "species": "Tall",
+      "year": 1796
+    },
+    {
+      "site_id": 4027,
+      "site_name": "Sandby prästgård",
+      "lat": 56.8769833036,
+      "lon": 16.8243131497,
+      "species": "Ek",
+      "year": 1775
+    },
+    {
+      "site_id": 4027,
+      "site_name": "Sandby prästgård",
+      "lat": 56.8769833036,
+      "lon": 16.8243131497,
+      "species": "Ek",
+      "year": 1775
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1789
+    },
+    {
+      "site_id": 3826,
+      "site_name": "62858 Skånela",
+      "lat": 59.5921656685,
+      "lon": 17.9253260553,
+      "species": "Tall",
+      "year": 1760
+    },
+    {
+      "site_id": 3920,
+      "site_name": "Stockholms Slott",
+      "lat": 59.3268384536,
+      "lon": 18.0716158312,
+      "species": "Tall",
+      "year": 1751
+    },
+    {
+      "site_id": 3825,
+      "site_name": "75533 Örsjö",
+      "lat": 56.6844593966,
+      "lon": 15.7263416363,
+      "species": "Tall",
+      "year": 1779
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1786
+    },
+    {
+      "site_id": 4182,
+      "site_name": "Ektorpet",
+      "lat": 59.2242707916,
+      "lon": 18.3087201531,
+      "species": "Tall",
+      "year": 1780
+    },
+    {
+      "site_id": 4177,
+      "site_name": "Fallebo gård",
+      "lat": 57.2825301121,
+      "lon": 16.4599047102,
+      "species": "Tall",
+      "year": 1769
+    },
+    {
+      "site_id": 4130,
+      "site_name": "Hejde kyrka",
+      "lat": 57.41279186,
+      "lon": 18.346056546,
+      "species": "Tall",
+      "year": 1778
+    },
+    {
+      "site_id": 4191,
+      "site_name": "Cramérska huset",
+      "lat": 57.6413266574,
+      "lon": 18.2957180164,
+      "species": "Tall",
+      "year": 1787
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Tall",
+      "year": 1795
+    },
+    {
+      "site_id": 4177,
+      "site_name": "Fallebo gård",
+      "lat": 57.2825301121,
+      "lon": 16.4599047102,
+      "species": "Tall",
+      "year": 1770
+    },
+    {
+      "site_id": 4174,
+      "site_name": "Finntorp",
+      "lat": 58.8976171968,
+      "lon": 15.9373051965,
+      "species": "Tall",
+      "year": 1791
+    },
+    {
+      "site_id": 3886,
+      "site_name": "Kvarteret Guldsmeden",
+      "lat": 57.6675696327,
+      "lon": 14.9710674526,
+      "species": "Tall",
+      "year": 1796
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1775
+    },
+    {
+      "site_id": 4130,
+      "site_name": "Hejde kyrka",
+      "lat": 57.41279186,
+      "lon": 18.346056546,
+      "species": "Tall",
+      "year": 1793
+    },
+    {
+      "site_id": 3839,
+      "site_name": "Värdshusbacken",
+      "lat": 59.3168343545,
+      "lon": 17.9843813614,
+      "species": "Tall",
+      "year": 1765
+    },
+    {
+      "site_id": 3957,
+      "site_name": "Visby domkyrka",
+      "lat": 57.6417959686,
+      "lon": 18.2980570848,
+      "species": "Tall",
+      "year": 1766
+    },
+    {
+      "site_id": 3867,
+      "site_name": "Lövö",
+      "lat": 56.982687405,
+      "lon": 16.4670895041,
+      "species": "Gran",
+      "year": 1772
+    },
+    {
+      "site_id": 4014,
+      "site_name": "Skabersjö slott",
+      "lat": 55.5407035295,
+      "lon": 13.1471592635,
+      "species": "Tall",
+      "year": 1779
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1791
+    },
+    {
+      "site_id": 4035,
+      "site_name": "Ristomta gård",
+      "lat": 58.9867577024,
+      "lon": 17.8041573423,
+      "species": "Tall",
+      "year": 1768
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Tall",
+      "year": 1770
+    },
+    {
+      "site_id": 4005,
+      "site_name": "Smedstorp",
+      "lat": 57.9433759312,
+      "lon": 15.4137172846,
+      "species": "Tall",
+      "year": 1796
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1777
+    },
+    {
+      "site_id": 3849,
+      "site_name": "Stämmeryd",
+      "lat": 56.8065070548,
+      "lon": 16.0519570649,
+      "species": "Ek",
+      "year": 1775
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Tall",
+      "year": 1794
+    },
+    {
+      "site_id": 3896,
+      "site_name": "Krogsfall",
+      "lat": 58.0468080488,
+      "lon": 15.6153996599,
+      "species": "Tall",
+      "year": 1774
+    },
+    {
+      "site_id": 4181,
+      "site_name": "Em's herrgård",
+      "lat": 57.127675854,
+      "lon": 16.4979303262,
+      "species": "Tall",
+      "year": 1781
+    },
+    {
+      "site_id": 4077,
+      "site_name": "Lilla Rätö gård",
+      "lat": 57.8528391698,
+      "lon": 16.5862815869,
+      "species": "Tall",
+      "year": 1786
+    },
+    {
+      "site_id": 3834,
+      "site_name": "Tosterup 32:2",
+      "lat": 55.4800716178,
+      "lon": 13.9867459422,
+      "species": "Tall",
+      "year": 1793
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Tall",
+      "year": 1795
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1771
+    },
+    {
+      "site_id": 4110,
+      "site_name": "Hönstorp",
+      "lat": 56.6625014058,
+      "lon": 16.5529641114,
+      "species": "Ek",
+      "year": 1752
+    },
+    {
+      "site_id": 4174,
+      "site_name": "Finntorp",
+      "lat": 58.8976171968,
+      "lon": 15.9373051965,
+      "species": "Tall",
+      "year": 1755
+    },
+    {
+      "site_id": 3964,
+      "site_name": "Vamlingbo prästgård",
+      "lat": 56.9692204162,
+      "lon": 18.2291867481,
+      "species": "Tall",
+      "year": 1778
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Tall",
+      "year": 1794
+    },
+    {
+      "site_id": 4201,
+      "site_name": "Broarps gästgiveri",
+      "lat": 57.6347443674,
+      "lon": 14.8676935405,
+      "species": "Tall",
+      "year": 1796
+    },
+    {
+      "site_id": 4067,
+      "site_name": "Länsmansgården",
+      "lat": 59.4934711749,
+      "lon": 18.3284417206,
+      "species": "Tall",
+      "year": 1790
+    },
+    {
+      "site_id": 4207,
+      "site_name": "Borgmästargården",
+      "lat": 57.6663230944,
+      "lon": 15.8477446388,
+      "species": "Tall",
+      "year": 1794
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Gran",
+      "year": 1778
+    },
+    {
+      "site_id": 4035,
+      "site_name": "Ristomta gård",
+      "lat": 58.9867577024,
+      "lon": 17.8041573423,
+      "species": "Tall",
+      "year": 1768
+    },
+    {
+      "site_id": 4132,
+      "site_name": "Heda hembygdsgård",
+      "lat": 58.2868011797,
+      "lon": 14.7020076462,
+      "species": "Tall",
+      "year": 1785
+    },
+    {
+      "site_id": 4179,
+      "site_name": "Eriksöre",
+      "lat": 56.6085306117,
+      "lon": 16.4788957813,
+      "species": "Ek",
+      "year": 1766
+    },
+    {
+      "site_id": 4080,
+      "site_name": "Lau Kyrka",
+      "lat": 57.2829069812,
+      "lon": 18.6201900158,
+      "species": "Tall",
+      "year": 1753
+    },
+    {
+      "site_id": 4108,
+      "site_name": "Hörsne kyrka",
+      "lat": 57.5585118971,
+      "lon": 18.5974471903,
+      "species": "Tall",
+      "year": 1789
+    },
+    {
+      "site_id": 3998,
+      "site_name": "Steninge slott",
+      "lat": 59.6020978067,
+      "lon": 17.8044417982,
+      "species": "Tall",
+      "year": 1768
+    },
+    {
+      "site_id": 3843,
+      "site_name": "Verksgatan",
+      "lat": 58.1988383361,
+      "lon": 16.0048511229,
+      "species": "Tall",
+      "year": 1781
+    },
+    {
+      "site_id": 3959,
+      "site_name": "Villie kyrka",
+      "lat": 55.4790114805,
+      "lon": 13.5977963404,
+      "species": "Ek",
+      "year": 1777
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1778
+    },
+    {
+      "site_id": 4177,
+      "site_name": "Fallebo gård",
+      "lat": 57.2825301121,
+      "lon": 16.4599047102,
+      "species": "Tall",
+      "year": 1768
+    },
+    {
+      "site_id": 4207,
+      "site_name": "Borgmästargården",
+      "lat": 57.6663230944,
+      "lon": 15.8477446388,
+      "species": "Tall",
+      "year": 1794
+    },
+    {
+      "site_id": 4168,
+      "site_name": "Follingbo kyrka",
+      "lat": 57.582323119,
+      "lon": 18.3833762446,
+      "species": "Tall",
+      "year": 1762
+    },
+    {
+      "site_id": 3902,
+      "site_name": "Högsjö gård",
+      "lat": 59.0303156826,
+      "lon": 15.6846029132,
+      "species": "Tall",
+      "year": 1759
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Tall",
+      "year": 1780
+    },
+    {
+      "site_id": 4221,
+      "site_name": "Bellmanhuset",
+      "lat": 59.3242063671,
+      "lon": 18.0977532733,
+      "species": "Tall",
+      "year": 1754
+    },
+    {
+      "site_id": 4181,
+      "site_name": "Em's herrgård",
+      "lat": 57.127675854,
+      "lon": 16.4979303262,
+      "species": "Tall",
+      "year": 1779
+    },
+    {
+      "site_id": 4035,
+      "site_name": "Ristomta gård",
+      "lat": 58.9867577024,
+      "lon": 17.8041573423,
+      "species": "Tall",
+      "year": 1768
+    },
+    {
+      "site_id": 4080,
+      "site_name": "Lau Kyrka",
+      "lat": 57.2829069812,
+      "lon": 18.6201900158,
+      "species": "Tall",
+      "year": 1753
+    },
+    {
+      "site_id": 3959,
+      "site_name": "Villie kyrka",
+      "lat": 55.4790114805,
+      "lon": 13.5977963404,
+      "species": "Ek",
+      "year": 1782
+    },
+    {
+      "site_id": 3843,
+      "site_name": "Verksgatan",
+      "lat": 58.1988383361,
+      "lon": 16.0048511229,
+      "species": "Tall",
+      "year": 1777
+    },
+    {
+      "site_id": 3964,
+      "site_name": "Vamlingbo prästgård",
+      "lat": 56.9692204162,
+      "lon": 18.2291867481,
+      "species": "Tall",
+      "year": 1778
+    },
+    {
+      "site_id": 3971,
+      "site_name": "Tångerda gård",
+      "lat": 57.4625230012,
+      "lon": 15.0716759291,
+      "species": "Tall",
+      "year": 1775
+    },
+    {
+      "site_id": 3954,
+      "site_name": "Vives",
+      "lat": 57.4382079215,
+      "lon": 18.2393610784,
+      "species": "Tall",
+      "year": 1755
+    },
+    {
+      "site_id": 3964,
+      "site_name": "Vamlingbo prästgård",
+      "lat": 56.9692204162,
+      "lon": 18.2291867481,
+      "species": "Tall",
+      "year": 1779
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1781
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1785
+    },
+    {
+      "site_id": 3970,
+      "site_name": "Törnbotten",
+      "lat": 56.6695248019,
+      "lon": 16.5481613697,
+      "species": "Ek",
+      "year": 1782
+    },
+    {
+      "site_id": 4100,
+      "site_name": "Kleva gård",
+      "lat": 59.01385283,
+      "lon": 17.0847642233,
+      "species": "Tall",
+      "year": 1772
+    },
+    {
+      "site_id": 4107,
+      "site_name": "Janssongården",
+      "lat": 59.1678809041,
+      "lon": 18.2375194949,
+      "species": "Tall",
+      "year": 1761
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1784
+    },
+    {
+      "site_id": 3895,
+      "site_name": "Kvarteret Allön",
+      "lat": 56.0300847179,
+      "lon": 14.1549862137,
+      "species": "Ek",
+      "year": 1797
+    },
+    {
+      "site_id": 3920,
+      "site_name": "Stockholms Slott",
+      "lat": 59.3268384536,
+      "lon": 18.0716158312,
+      "species": "Tall",
+      "year": 1750
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1791
+    },
+    {
+      "site_id": 4071,
+      "site_name": "Lopperstad",
+      "lat": 56.6863049239,
+      "lon": 16.6934905697,
+      "species": "Ek",
+      "year": 1780
+    },
+    {
+      "site_id": 4154,
+      "site_name": "Gimo Herrgård",
+      "lat": 60.1790929337,
+      "lon": 18.1734389044,
+      "species": "Tall",
+      "year": 1791
+    },
+    {
+      "site_id": 4177,
+      "site_name": "Fallebo gård",
+      "lat": 57.2825301121,
+      "lon": 16.4599047102,
+      "species": "Tall",
+      "year": 1769
+    },
+    {
+      "site_id": 3855,
+      "site_name": "Skålsta",
+      "lat": 59.6918257743,
+      "lon": 17.7340431894,
+      "species": "Tall",
+      "year": 1776
+    },
+    {
+      "site_id": 3816,
+      "site_name": "Låga längan",
+      "lat": 59.324024,
+      "lon": 18.097877,
+      "species": "Tall",
+      "year": 1754
+    },
+    {
+      "site_id": 4071,
+      "site_name": "Lopperstad",
+      "lat": 56.6863049239,
+      "lon": 16.6934905697,
+      "species": "Ek",
+      "year": 1773
+    },
+    {
+      "site_id": 4168,
+      "site_name": "Follingbo kyrka",
+      "lat": 57.582323119,
+      "lon": 18.3833762446,
+      "species": "Tall",
+      "year": 1762
+    },
+    {
+      "site_id": 3878,
+      "site_name": "Kvarteret Repslagaren",
+      "lat": 56.6661231227,
+      "lon": 16.3707621787,
+      "species": "Tall",
+      "year": 1772
+    },
+    {
+      "site_id": 3862,
+      "site_name": "Prästtorp",
+      "lat": 58.4028209933,
+      "lon": 14.8474776891,
+      "species": "Tall",
+      "year": 1767
+    },
+    {
+      "site_id": 3849,
+      "site_name": "Stämmeryd",
+      "lat": 56.8065070548,
+      "lon": 16.0519570649,
+      "species": "Gran",
+      "year": 1796
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1785
+    },
+    {
+      "site_id": 4121,
+      "site_name": "Hovdala slott",
+      "lat": 56.1036848292,
+      "lon": 13.7137204295,
+      "species": "Ek",
+      "year": 1788
+    },
+    {
+      "site_id": 3891,
+      "site_name": "Kvarteret Båtsmannen",
+      "lat": 57.757533626,
+      "lon": 16.6423907987,
+      "species": "Tall",
+      "year": 1760
+    },
+    {
+      "site_id": 3847,
+      "site_name": "Tofta",
+      "lat": 57.7925944619,
+      "lon": 14.7835679577,
+      "species": "Tall",
+      "year": 1780
+    },
+    {
+      "site_id": 4125,
+      "site_name": "Hester gamla gästgiveri",
+      "lat": 58.1545506911,
+      "lon": 14.992625859,
+      "species": "Tall",
+      "year": 1775
+    },
+    {
+      "site_id": 3839,
+      "site_name": "Värdshusbacken",
+      "lat": 59.3168343545,
+      "lon": 17.9843813614,
+      "species": "Tall",
+      "year": 1760
+    },
+    {
+      "site_id": 4001,
+      "site_name": "Sonnorps frälsegård",
+      "lat": 58.5253465014,
+      "lon": 15.0956199379,
+      "species": "Tall",
+      "year": 1754
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1770
+    },
+    {
+      "site_id": 3858,
+      "site_name": "Sandemar",
+      "lat": 59.1308438944,
+      "lon": 18.3681539736,
+      "species": "Tall",
+      "year": 1792
+    },
+    {
+      "site_id": 4140,
+      "site_name": "Hall kyrka",
+      "lat": 57.8920701027,
+      "lon": 18.715963847,
+      "species": "Tall",
+      "year": 1753
+    },
+    {
+      "site_id": 3833,
+      "site_name": "12051 Bro",
+      "lat": 57.6698565725,
+      "lon": 18.4661389697,
+      "species": "Tall",
+      "year": 1758
+    },
+    {
+      "site_id": 4201,
+      "site_name": "Broarps gästgiveri",
+      "lat": 57.6347443674,
+      "lon": 14.8676935405,
+      "species": "Tall",
+      "year": 1770
+    },
+    {
+      "site_id": 3906,
+      "site_name": "Hunnebergsgatan",
+      "lat": 58.412078418,
+      "lon": 15.613317767,
+      "species": "Gran",
+      "year": 1781
+    },
+    {
+      "site_id": 4035,
+      "site_name": "Ristomta gård",
+      "lat": 58.9867577024,
+      "lon": 17.8041573423,
+      "species": "Tall",
+      "year": 1795
+    },
+    {
+      "site_id": 4130,
+      "site_name": "Hejde kyrka",
+      "lat": 57.41279186,
+      "lon": 18.346056546,
+      "species": "Tall",
+      "year": 1793
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Tall",
+      "year": 1786
+    },
+    {
+      "site_id": 4040,
+      "site_name": "Pedersborg",
+      "lat": 59.7461323276,
+      "lon": 18.8157655584,
+      "species": "Tall",
+      "year": 1764
+    },
+    {
+      "site_id": 4165,
+      "site_name": "Fröken Löfgrens gård",
+      "lat": 58.4124597098,
+      "lon": 15.627324903,
+      "species": "Tall",
+      "year": 1764
+    },
+    {
+      "site_id": 3941,
+      "site_name": "Västra trädgårdsgatan 13",
+      "lat": 58.7502298238,
+      "lon": 17.0083693034,
+      "species": "Tall",
+      "year": 1798
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1751
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1796
+    },
+    {
+      "site_id": 4042,
+      "site_name": "Orkesta kyrka",
+      "lat": 59.6047544634,
+      "lon": 18.1101330621,
+      "species": "Tall",
+      "year": 1773
+    },
+    {
+      "site_id": 3886,
+      "site_name": "Kvarteret Guldsmeden",
+      "lat": 57.6675696327,
+      "lon": 14.9710674526,
+      "species": "Tall",
+      "year": 1796
+    },
+    {
+      "site_id": 4232,
+      "site_name": "Adamsbergs gård",
+      "lat": 59.6965557293,
+      "lon": 18.3891358998,
+      "species": "Tall",
+      "year": 1794
+    },
+    {
+      "site_id": 4108,
+      "site_name": "Hörsne kyrka",
+      "lat": 57.5585118971,
+      "lon": 18.5974471903,
+      "species": "Tall",
+      "year": 1794
+    },
+    {
+      "site_id": 4197,
+      "site_name": "Brönnestads kyrka",
+      "lat": 56.0801435964,
+      "lon": 13.6984040659,
+      "species": "Ek",
+      "year": 1768
+    },
+    {
+      "site_id": 4054,
+      "site_name": "Noors Herrgård",
+      "lat": 59.8749269109,
+      "lon": 18.8372757059,
+      "species": "Tall",
+      "year": 1771
+    },
+    {
+      "site_id": 3903,
+      "site_name": "Häljaryd",
+      "lat": 56.9459010335,
+      "lon": 14.9851896895,
+      "species": "Tall",
+      "year": 1784
+    },
+    {
+      "site_id": 3841,
+      "site_name": "Vingåker-Kvarngölet",
+      "lat": 58.9683555819,
+      "lon": 16.0928748286,
+      "species": "Tall",
+      "year": 1779
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1797
+    },
+    {
+      "site_id": 4027,
+      "site_name": "Sandby prästgård",
+      "lat": 56.8769833036,
+      "lon": 16.8243131497,
+      "species": "Ek",
+      "year": 1774
+    },
+    {
+      "site_id": 3854,
+      "site_name": "Sköldsborg",
+      "lat": 58.4072010098,
+      "lon": 15.845373135,
+      "species": "Tall",
+      "year": 1797
+    },
+    {
+      "site_id": 3851,
+      "site_name": "Stora Hulterska",
+      "lat": 58.7029188555,
+      "lon": 16.8021290152,
+      "species": "Tall",
+      "year": 1771
+    },
+    {
+      "site_id": 3914,
+      "site_name": "Ekeby",
+      "lat": 59.9309248608,
+      "lon": 18.7352302992,
+      "species": "Tall",
+      "year": 1770
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1791
+    },
+    {
+      "site_id": 4198,
+      "site_name": "Brunsta gård",
+      "lat": 58.780304488,
+      "lon": 16.9499694894,
+      "species": "Tall",
+      "year": 1790
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1783
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Tall",
+      "year": 1795
+    },
+    {
+      "site_id": 4130,
+      "site_name": "Hejde kyrka",
+      "lat": 57.41279186,
+      "lon": 18.346056546,
+      "species": "Tall",
+      "year": 1766
+    },
+    {
+      "site_id": 3896,
+      "site_name": "Krogsfall",
+      "lat": 58.0468080488,
+      "lon": 15.6153996599,
+      "species": "Tall",
+      "year": 1774
+    },
+    {
+      "site_id": 4043,
+      "site_name": "Nääs gård",
+      "lat": 57.9527626474,
+      "lon": 15.1425988749,
+      "species": "Gran",
+      "year": 1769
+    },
+    {
+      "site_id": 4174,
+      "site_name": "Finntorp",
+      "lat": 58.8976171968,
+      "lon": 15.9373051965,
+      "species": "Tall",
+      "year": 1791
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1768
+    },
+    {
+      "site_id": 3858,
+      "site_name": "Sandemar",
+      "lat": 59.1308438944,
+      "lon": 18.3681539736,
+      "species": "Tall",
+      "year": 1764
+    },
+    {
+      "site_id": 3920,
+      "site_name": "Stockholms Slott",
+      "lat": 59.3268384536,
+      "lon": 18.0716158312,
+      "species": "Tall",
+      "year": 1750
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1788
+    },
+    {
+      "site_id": 4108,
+      "site_name": "Hörsne kyrka",
+      "lat": 57.5585118971,
+      "lon": 18.5974471903,
+      "species": "Tall",
+      "year": 1795
+    },
+    {
+      "site_id": 3998,
+      "site_name": "Steninge slott",
+      "lat": 59.6020978067,
+      "lon": 17.8044417982,
+      "species": "Tall",
+      "year": 1769
+    },
+    {
+      "site_id": 3917,
+      "site_name": "Björkenäs",
+      "lat": 57.7879896964,
+      "lon": 15.8513684344,
+      "species": "Tall",
+      "year": 1794
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1797
+    },
+    {
+      "site_id": 4027,
+      "site_name": "Sandby prästgård",
+      "lat": 56.8769833036,
+      "lon": 16.8243131497,
+      "species": "Ek",
+      "year": 1784
+    },
+    {
+      "site_id": 4100,
+      "site_name": "Kleva gård",
+      "lat": 59.01385283,
+      "lon": 17.0847642233,
+      "species": "Tall",
+      "year": 1770
+    },
+    {
+      "site_id": 3977,
+      "site_name": "Trehörna säteri",
+      "lat": 58.1525781452,
+      "lon": 14.8366734133,
+      "species": "Tall",
+      "year": 1757
+    },
+    {
+      "site_id": 4041,
+      "site_name": "Ottenby kungsgård",
+      "lat": 56.2324481195,
+      "lon": 16.4131022179,
+      "species": "Gran",
+      "year": 1798
+    },
+    {
+      "site_id": 4188,
+      "site_name": "Djursnäs säteri",
+      "lat": 58.9251999602,
+      "lon": 17.8122643018,
+      "species": "Gran",
+      "year": 1760
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1777
+    },
+    {
+      "site_id": 3838,
+      "site_name": "Väster Lakbäck",
+      "lat": 60.1743047169,
+      "lon": 16.9659864264,
+      "species": "Tall",
+      "year": 1778
+    },
+    {
+      "site_id": 3824,
+      "site_name": "12068 Gotland",
+      "lat": 57.6101525719,
+      "lon": 18.6794564984,
+      "species": "Tall",
+      "year": 1784
+    },
+    {
+      "site_id": 4110,
+      "site_name": "Hönstorp",
+      "lat": 56.6625014058,
+      "lon": 16.5529641114,
+      "species": "Ek",
+      "year": 1757
+    },
+    {
+      "site_id": 4132,
+      "site_name": "Heda hembygdsgård",
+      "lat": 58.2868011797,
+      "lon": 14.7020076462,
+      "species": "Tall",
+      "year": 1785
+    },
+    {
+      "site_id": 4140,
+      "site_name": "Hall kyrka",
+      "lat": 57.8920701027,
+      "lon": 18.715963847,
+      "species": "Tall",
+      "year": 1753
+    },
+    {
+      "site_id": 3885,
+      "site_name": "Kvarteret Hattmakaren",
+      "lat": 56.6631034526,
+      "lon": 16.3626413075,
+      "species": "Tall",
+      "year": 1763
+    },
+    {
+      "site_id": 4177,
+      "site_name": "Fallebo gård",
+      "lat": 57.2825301121,
+      "lon": 16.4599047102,
+      "species": "Tall",
+      "year": 1770
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1767
+    },
+    {
+      "site_id": 4130,
+      "site_name": "Hejde kyrka",
+      "lat": 57.41279186,
+      "lon": 18.346056546,
+      "species": "Tall",
+      "year": 1793
+    },
+    {
+      "site_id": 4054,
+      "site_name": "Noors Herrgård",
+      "lat": 59.8749269109,
+      "lon": 18.8372757059,
+      "species": "Tall",
+      "year": 1771
+    },
+    {
+      "site_id": 4041,
+      "site_name": "Ottenby kungsgård",
+      "lat": 56.2324481195,
+      "lon": 16.4131022179,
+      "species": "Gran",
+      "year": 1784
+    },
+    {
+      "site_id": 3900,
+      "site_name": "Ingatorp",
+      "lat": 57.6380382075,
+      "lon": 15.4073076125,
+      "species": "Tall",
+      "year": 1770
+    },
+    {
+      "site_id": 3957,
+      "site_name": "Visby domkyrka",
+      "lat": 57.6417959686,
+      "lon": 18.2980570848,
+      "species": "Tall",
+      "year": 1766
+    },
+    {
+      "site_id": 4168,
+      "site_name": "Follingbo kyrka",
+      "lat": 57.582323119,
+      "lon": 18.3833762446,
+      "species": "Tall",
+      "year": 1762
+    },
+    {
+      "site_id": 4198,
+      "site_name": "Brunsta gård",
+      "lat": 58.780304488,
+      "lon": 16.9499694894,
+      "species": "Tall",
+      "year": 1790
+    },
+    {
+      "site_id": 3896,
+      "site_name": "Krogsfall",
+      "lat": 58.0468080488,
+      "lon": 15.6153996599,
+      "species": "Tall",
+      "year": 1774
+    },
+    {
+      "site_id": 4165,
+      "site_name": "Fröken Löfgrens gård",
+      "lat": 58.4124597098,
+      "lon": 15.627324903,
+      "species": "Tall",
+      "year": 1763
+    },
+    {
+      "site_id": 4029,
+      "site_name": "Röhälla",
+      "lat": 56.7231108407,
+      "lon": 16.5131997805,
+      "species": "Ek",
+      "year": 1781
+    },
+    {
+      "site_id": 3959,
+      "site_name": "Villie kyrka",
+      "lat": 55.4790114805,
+      "lon": 13.5977963404,
+      "species": "Ek",
+      "year": 1782
+    },
+    {
+      "site_id": 4029,
+      "site_name": "Röhälla",
+      "lat": 56.7231108407,
+      "lon": 16.5131997805,
+      "species": "Ek",
+      "year": 1774
+    },
+    {
+      "site_id": 4077,
+      "site_name": "Lilla Rätö gård",
+      "lat": 57.8528391698,
+      "lon": 16.5862815869,
+      "species": "Tall",
+      "year": 1786
+    },
+    {
+      "site_id": 3896,
+      "site_name": "Krogsfall",
+      "lat": 58.0468080488,
+      "lon": 15.6153996599,
+      "species": "Tall",
+      "year": 1774
+    },
+    {
+      "site_id": 3914,
+      "site_name": "Ekeby",
+      "lat": 59.9309248608,
+      "lon": 18.7352302992,
+      "species": "Tall",
+      "year": 1773
+    },
+    {
+      "site_id": 4005,
+      "site_name": "Smedstorp",
+      "lat": 57.9433759312,
+      "lon": 15.4137172846,
+      "species": "Tall",
+      "year": 1764
+    },
+    {
+      "site_id": 3902,
+      "site_name": "Högsjö gård",
+      "lat": 59.0303156826,
+      "lon": 15.6846029132,
+      "species": "Tall",
+      "year": 1759
+    },
+    {
+      "site_id": 3824,
+      "site_name": "12068 Gotland",
+      "lat": 57.6101525719,
+      "lon": 18.6794564984,
+      "species": "Tall",
+      "year": 1784
+    },
+    {
+      "site_id": 3843,
+      "site_name": "Verksgatan",
+      "lat": 58.1988383361,
+      "lon": 16.0048511229,
+      "species": "Tall",
+      "year": 1768
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1795
+    },
+    {
+      "site_id": 3964,
+      "site_name": "Vamlingbo prästgård",
+      "lat": 56.9692204162,
+      "lon": 18.2291867481,
+      "species": "Tall",
+      "year": 1778
+    },
+    {
+      "site_id": 4002,
+      "site_name": "Solbaddet",
+      "lat": 59.3629570089,
+      "lon": 18.0230932849,
+      "species": "Tall",
+      "year": 1756
+    },
+    {
+      "site_id": 4154,
+      "site_name": "Gimo Herrgård",
+      "lat": 60.1790929337,
+      "lon": 18.1734389044,
+      "species": "Tall",
+      "year": 1791
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1791
+    },
+    {
+      "site_id": 3895,
+      "site_name": "Kvarteret Allön",
+      "lat": 56.0300847179,
+      "lon": 14.1549862137,
+      "species": "Ek",
+      "year": 1797
+    },
+    {
+      "site_id": 3902,
+      "site_name": "Högsjö gård",
+      "lat": 59.0303156826,
+      "lon": 15.6846029132,
+      "species": "Tall",
+      "year": 1759
+    },
+    {
+      "site_id": 3867,
+      "site_name": "Lövö",
+      "lat": 56.982687405,
+      "lon": 16.4670895041,
+      "species": "Gran",
+      "year": 1772
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Tall",
+      "year": 1794
+    },
+    {
+      "site_id": 3826,
+      "site_name": "62858 Skånela",
+      "lat": 59.5921656685,
+      "lon": 17.9253260553,
+      "species": "Tall",
+      "year": 1760
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1778
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Tall",
+      "year": 1786
+    },
+    {
+      "site_id": 4100,
+      "site_name": "Kleva gård",
+      "lat": 59.01385283,
+      "lon": 17.0847642233,
+      "species": "Tall",
+      "year": 1782
+    },
+    {
+      "site_id": 4101,
+      "site_name": "Kista hembygdsgård",
+      "lat": 59.9594680567,
+      "lon": 18.8475983058,
+      "species": "Tall",
+      "year": 1799
+    },
+    {
+      "site_id": 3847,
+      "site_name": "Tofta",
+      "lat": 57.7925944619,
+      "lon": 14.7835679577,
+      "species": "Tall",
+      "year": 1780
+    },
+    {
+      "site_id": 4077,
+      "site_name": "Lilla Rätö gård",
+      "lat": 57.8528391698,
+      "lon": 16.5862815869,
+      "species": "Tall",
+      "year": 1776
+    },
+    {
+      "site_id": 3973,
+      "site_name": "Tvartorps gård",
+      "lat": 58.8356707398,
+      "lon": 15.8465332706,
+      "species": "Tall",
+      "year": 1784
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Tall",
+      "year": 1795
+    },
+    {
+      "site_id": 3924,
+      "site_name": "Ösjöfors handpappersbruk",
+      "lat": 57.7558690113,
+      "lon": 15.5669247642,
+      "species": "Tall",
+      "year": 1788
+    },
+    {
+      "site_id": 4169,
+      "site_name": "Flöxhult säteri",
+      "lat": 57.0616855739,
+      "lon": 15.5916708875,
+      "species": "Tall",
+      "year": 1794
+    },
+    {
+      "site_id": 3851,
+      "site_name": "Stora Hulterska",
+      "lat": 58.7029188555,
+      "lon": 16.8021290152,
+      "species": "Tall",
+      "year": 1761
+    },
+    {
+      "site_id": 3889,
+      "site_name": "Kvarteret Fältskären",
+      "lat": 56.6617207235,
+      "lon": 16.3633745572,
+      "species": "Tall",
+      "year": 1766
+    },
+    {
+      "site_id": 4005,
+      "site_name": "Smedstorp",
+      "lat": 57.9433759312,
+      "lon": 15.4137172846,
+      "species": "Tall",
+      "year": 1764
+    },
+    {
+      "site_id": 3890,
+      "site_name": "Kvarteret Ciselören",
+      "lat": 57.6684137998,
+      "lon": 14.9702453854,
+      "species": "Tall",
+      "year": 1776
+    },
+    {
+      "site_id": 3916,
+      "site_name": "Borntorp",
+      "lat": 59.9812361508,
+      "lon": 18.7313972675,
+      "species": "Ek",
+      "year": 1797
+    },
+    {
+      "site_id": 4130,
+      "site_name": "Hejde kyrka",
+      "lat": 57.41279186,
+      "lon": 18.346056546,
+      "species": "Tall",
+      "year": 1792
+    },
+    {
+      "site_id": 4103,
+      "site_name": "Katthamra",
+      "lat": 57.43267109,
+      "lon": 18.8521965856,
+      "species": "Tall",
+      "year": 1780
+    },
+    {
+      "site_id": 4014,
+      "site_name": "Skabersjö slott",
+      "lat": 55.5407035295,
+      "lon": 13.1471592635,
+      "species": "Tall",
+      "year": 1779
+    },
+    {
+      "site_id": 3946,
+      "site_name": "Västergård",
+      "lat": 55.9128297957,
+      "lon": 12.9780268743,
+      "species": "Ek",
+      "year": 1753
+    },
+    {
+      "site_id": 4117,
+      "site_name": "Hunnebergsgatan 30A",
+      "lat": 58.413038648,
+      "lon": 15.6097230179,
+      "species": "Tall",
+      "year": 1795
+    },
+    {
+      "site_id": 4140,
+      "site_name": "Hall kyrka",
+      "lat": 57.8920701027,
+      "lon": 18.715963847,
+      "species": "Tall",
+      "year": 1753
+    },
+    {
+      "site_id": 4130,
+      "site_name": "Hejde kyrka",
+      "lat": 57.41279186,
+      "lon": 18.346056546,
+      "species": "Tall",
+      "year": 1793
+    }
+  ]
+}

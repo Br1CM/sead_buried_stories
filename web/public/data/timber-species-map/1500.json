@@ -1,0 +1,740 @@
+{
+  "bucket_start": 1500,
+  "label": "1500 AD - 1550 AD",
+  "n_samples": 91,
+  "composition": {
+    "Ek": 56.0,
+    "Tall": 42.9,
+    "Gran": 1.1
+  },
+  "points": [
+    {
+      "site_id": 4084,
+      "site_name": "Kärnan",
+      "lat": 56.0482731299,
+      "lon": 12.6975215329,
+      "species": "Ek",
+      "year": 1507
+    },
+    {
+      "site_id": 3898,
+      "site_name": "Karkebo",
+      "lat": 60.2495692205,
+      "lon": 17.8630769664,
+      "species": "Tall",
+      "year": 1538
+    },
+    {
+      "site_id": 4215,
+      "site_name": "Bjäresjö kyrka",
+      "lat": 55.4623008363,
+      "lon": 13.7500069282,
+      "species": "Ek",
+      "year": 1515
+    },
+    {
+      "site_id": 3900,
+      "site_name": "Ingatorp",
+      "lat": 57.6380382075,
+      "lon": 15.4073076125,
+      "species": "Tall",
+      "year": 1540
+    },
+    {
+      "site_id": 4049,
+      "site_name": "Norra Åsums kyrka",
+      "lat": 55.9895996121,
+      "lon": 14.1514451464,
+      "species": "Ek",
+      "year": 1506
+    },
+    {
+      "site_id": 3838,
+      "site_name": "Väster Lakbäck",
+      "lat": 60.1743047169,
+      "lon": 16.9659864264,
+      "species": "Tall",
+      "year": 1521
+    },
+    {
+      "site_id": 4084,
+      "site_name": "Kärnan",
+      "lat": 56.0482731299,
+      "lon": 12.6975215329,
+      "species": "Ek",
+      "year": 1514
+    },
+    {
+      "site_id": 3838,
+      "site_name": "Väster Lakbäck",
+      "lat": 60.1743047169,
+      "lon": 16.9659864264,
+      "species": "Tall",
+      "year": 1519
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Ek",
+      "year": 1508
+    },
+    {
+      "site_id": 3838,
+      "site_name": "Väster Lakbäck",
+      "lat": 60.1743047169,
+      "lon": 16.9659864264,
+      "species": "Tall",
+      "year": 1521
+    },
+    {
+      "site_id": 4215,
+      "site_name": "Bjäresjö kyrka",
+      "lat": 55.4623008363,
+      "lon": 13.7500069282,
+      "species": "Ek",
+      "year": 1544
+    },
+    {
+      "site_id": 3950,
+      "site_name": "Värna kyrka",
+      "lat": 58.3139760359,
+      "lon": 15.9247175364,
+      "species": "Tall",
+      "year": 1519
+    },
+    {
+      "site_id": 3950,
+      "site_name": "Värna kyrka",
+      "lat": 58.3139760359,
+      "lon": 15.9247175364,
+      "species": "Tall",
+      "year": 1518
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Ek",
+      "year": 1509
+    },
+    {
+      "site_id": 4065,
+      "site_name": "Löddeköpinge kyrka",
+      "lat": 55.7591932866,
+      "lon": 13.0205569903,
+      "species": "Ek",
+      "year": 1520
+    },
+    {
+      "site_id": 4214,
+      "site_name": "Bjärsjöholms slott",
+      "lat": 55.4534400797,
+      "lon": 13.7775800683,
+      "species": "Ek",
+      "year": 1523
+    },
+    {
+      "site_id": 4039,
+      "site_name": "Perstorps kyrka",
+      "lat": 56.1416136158,
+      "lon": 13.3867602912,
+      "species": "Ek",
+      "year": 1538
+    },
+    {
+      "site_id": 3838,
+      "site_name": "Väster Lakbäck",
+      "lat": 60.1743047169,
+      "lon": 16.9659864264,
+      "species": "Tall",
+      "year": 1521
+    },
+    {
+      "site_id": 4061,
+      "site_name": "Mellby kyrka",
+      "lat": 57.5560526033,
+      "lon": 15.1079898518,
+      "species": "Gran",
+      "year": 1525
+    },
+    {
+      "site_id": 4065,
+      "site_name": "Löddeköpinge kyrka",
+      "lat": 55.7591932866,
+      "lon": 13.0205569903,
+      "species": "Ek",
+      "year": 1512
+    },
+    {
+      "site_id": 4084,
+      "site_name": "Kärnan",
+      "lat": 56.0482731299,
+      "lon": 12.6975215329,
+      "species": "Ek",
+      "year": 1507
+    },
+    {
+      "site_id": 4190,
+      "site_name": "Dalby kungsgård",
+      "lat": 55.6645794767,
+      "lon": 13.3442790198,
+      "species": "Ek",
+      "year": 1504
+    },
+    {
+      "site_id": 4155,
+      "site_name": "Genarps kyrka",
+      "lat": 55.6032954613,
+      "lon": 13.3961349048,
+      "species": "Ek",
+      "year": 1549
+    },
+    {
+      "site_id": 4141,
+      "site_name": "Hakarps kyrka",
+      "lat": 57.796370601,
+      "lon": 14.3113491593,
+      "species": "Ek",
+      "year": 1507
+    },
+    {
+      "site_id": 4098,
+      "site_name": "Krapperups borg",
+      "lat": 56.2620769233,
+      "lon": 12.5302627748,
+      "species": "Ek",
+      "year": 1543
+    },
+    {
+      "site_id": 3900,
+      "site_name": "Ingatorp",
+      "lat": 57.6380382075,
+      "lon": 15.4073076125,
+      "species": "Tall",
+      "year": 1541
+    },
+    {
+      "site_id": 4039,
+      "site_name": "Perstorps kyrka",
+      "lat": 56.1416136158,
+      "lon": 13.3867602912,
+      "species": "Ek",
+      "year": 1531
+    },
+    {
+      "site_id": 4039,
+      "site_name": "Perstorps kyrka",
+      "lat": 56.1416136158,
+      "lon": 13.3867602912,
+      "species": "Ek",
+      "year": 1524
+    },
+    {
+      "site_id": 3950,
+      "site_name": "Värna kyrka",
+      "lat": 58.3139760359,
+      "lon": 15.9247175364,
+      "species": "Tall",
+      "year": 1515
+    },
+    {
+      "site_id": 4039,
+      "site_name": "Perstorps kyrka",
+      "lat": 56.1416136158,
+      "lon": 13.3867602912,
+      "species": "Ek",
+      "year": 1538
+    },
+    {
+      "site_id": 3838,
+      "site_name": "Väster Lakbäck",
+      "lat": 60.1743047169,
+      "lon": 16.9659864264,
+      "species": "Tall",
+      "year": 1509
+    },
+    {
+      "site_id": 3898,
+      "site_name": "Karkebo",
+      "lat": 60.2495692205,
+      "lon": 17.8630769664,
+      "species": "Tall",
+      "year": 1538
+    },
+    {
+      "site_id": 4141,
+      "site_name": "Hakarps kyrka",
+      "lat": 57.796370601,
+      "lon": 14.3113491593,
+      "species": "Ek",
+      "year": 1502
+    },
+    {
+      "site_id": 4084,
+      "site_name": "Kärnan",
+      "lat": 56.0482731299,
+      "lon": 12.6975215329,
+      "species": "Ek",
+      "year": 1514
+    },
+    {
+      "site_id": 3898,
+      "site_name": "Karkebo",
+      "lat": 60.2495692205,
+      "lon": 17.8630769664,
+      "species": "Tall",
+      "year": 1538
+    },
+    {
+      "site_id": 3950,
+      "site_name": "Värna kyrka",
+      "lat": 58.3139760359,
+      "lon": 15.9247175364,
+      "species": "Tall",
+      "year": 1516
+    },
+    {
+      "site_id": 3898,
+      "site_name": "Karkebo",
+      "lat": 60.2495692205,
+      "lon": 17.8630769664,
+      "species": "Tall",
+      "year": 1538
+    },
+    {
+      "site_id": 3950,
+      "site_name": "Värna kyrka",
+      "lat": 58.3139760359,
+      "lon": 15.9247175364,
+      "species": "Tall",
+      "year": 1519
+    },
+    {
+      "site_id": 4176,
+      "site_name": "Farhults kyrka",
+      "lat": 56.2140163145,
+      "lon": 12.7123001788,
+      "species": "Ek",
+      "year": 1513
+    },
+    {
+      "site_id": 4084,
+      "site_name": "Kärnan",
+      "lat": 56.0482731299,
+      "lon": 12.6975215329,
+      "species": "Ek",
+      "year": 1507
+    },
+    {
+      "site_id": 4039,
+      "site_name": "Perstorps kyrka",
+      "lat": 56.1416136158,
+      "lon": 13.3867602912,
+      "species": "Ek",
+      "year": 1535
+    },
+    {
+      "site_id": 3898,
+      "site_name": "Karkebo",
+      "lat": 60.2495692205,
+      "lon": 17.8630769664,
+      "species": "Tall",
+      "year": 1538
+    },
+    {
+      "site_id": 4190,
+      "site_name": "Dalby kungsgård",
+      "lat": 55.6645794767,
+      "lon": 13.3442790198,
+      "species": "Ek",
+      "year": 1511
+    },
+    {
+      "site_id": 4176,
+      "site_name": "Farhults kyrka",
+      "lat": 56.2140163145,
+      "lon": 12.7123001788,
+      "species": "Ek",
+      "year": 1516
+    },
+    {
+      "site_id": 4011,
+      "site_name": "Skårby kyrka",
+      "lat": 55.4865440236,
+      "lon": 13.7133457284,
+      "species": "Ek",
+      "year": 1500
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1501
+    },
+    {
+      "site_id": 3838,
+      "site_name": "Väster Lakbäck",
+      "lat": 60.1743047169,
+      "lon": 16.9659864264,
+      "species": "Tall",
+      "year": 1521
+    },
+    {
+      "site_id": 4004,
+      "site_name": "Smedstorps slott",
+      "lat": 55.5630381446,
+      "lon": 14.1077989281,
+      "species": "Ek",
+      "year": 1535
+    },
+    {
+      "site_id": 4114,
+      "site_name": "Härads kyrka",
+      "lat": 59.3598703443,
+      "lon": 16.9092602778,
+      "species": "Tall",
+      "year": 1500
+    },
+    {
+      "site_id": 4199,
+      "site_name": "Brunnby kyrka",
+      "lat": 56.2592047646,
+      "lon": 12.5736108173,
+      "species": "Ek",
+      "year": 1524
+    },
+    {
+      "site_id": 4066,
+      "site_name": "Lärbro kyrka",
+      "lat": 57.7871605877,
+      "lon": 18.7938608719,
+      "species": "Tall",
+      "year": 1544
+    },
+    {
+      "site_id": 4189,
+      "site_name": "Dalby kyrka",
+      "lat": 55.6643446666,
+      "lon": 13.3441935422,
+      "species": "Ek",
+      "year": 1503
+    },
+    {
+      "site_id": 3900,
+      "site_name": "Ingatorp",
+      "lat": 57.6380382075,
+      "lon": 15.4073076125,
+      "species": "Tall",
+      "year": 1540
+    },
+    {
+      "site_id": 3898,
+      "site_name": "Karkebo",
+      "lat": 60.2495692205,
+      "lon": 17.8630769664,
+      "species": "Tall",
+      "year": 1538
+    },
+    {
+      "site_id": 3838,
+      "site_name": "Väster Lakbäck",
+      "lat": 60.1743047169,
+      "lon": 16.9659864264,
+      "species": "Tall",
+      "year": 1520
+    },
+    {
+      "site_id": 4205,
+      "site_name": "Bosebo kyrka",
+      "lat": 57.3061935154,
+      "lon": 13.3510066476,
+      "species": "Ek",
+      "year": 1548
+    },
+    {
+      "site_id": 4004,
+      "site_name": "Smedstorps slott",
+      "lat": 55.5630381446,
+      "lon": 14.1077989281,
+      "species": "Ek",
+      "year": 1501
+    },
+    {
+      "site_id": 3950,
+      "site_name": "Värna kyrka",
+      "lat": 58.3139760359,
+      "lon": 15.9247175364,
+      "species": "Tall",
+      "year": 1519
+    },
+    {
+      "site_id": 4176,
+      "site_name": "Farhults kyrka",
+      "lat": 56.2140163145,
+      "lon": 12.7123001788,
+      "species": "Ek",
+      "year": 1516
+    },
+    {
+      "site_id": 4176,
+      "site_name": "Farhults kyrka",
+      "lat": 56.2140163145,
+      "lon": 12.7123001788,
+      "species": "Ek",
+      "year": 1520
+    },
+    {
+      "site_id": 4215,
+      "site_name": "Bjäresjö kyrka",
+      "lat": 55.4623008363,
+      "lon": 13.7500069282,
+      "species": "Ek",
+      "year": 1512
+    },
+    {
+      "site_id": 3950,
+      "site_name": "Värna kyrka",
+      "lat": 58.3139760359,
+      "lon": 15.9247175364,
+      "species": "Tall",
+      "year": 1518
+    },
+    {
+      "site_id": 4176,
+      "site_name": "Farhults kyrka",
+      "lat": 56.2140163145,
+      "lon": 12.7123001788,
+      "species": "Ek",
+      "year": 1520
+    },
+    {
+      "site_id": 3898,
+      "site_name": "Karkebo",
+      "lat": 60.2495692205,
+      "lon": 17.8630769664,
+      "species": "Tall",
+      "year": 1538
+    },
+    {
+      "site_id": 4190,
+      "site_name": "Dalby kungsgård",
+      "lat": 55.6645794767,
+      "lon": 13.3442790198,
+      "species": "Ek",
+      "year": 1508
+    },
+    {
+      "site_id": 4039,
+      "site_name": "Perstorps kyrka",
+      "lat": 56.1416136158,
+      "lon": 13.3867602912,
+      "species": "Ek",
+      "year": 1530
+    },
+    {
+      "site_id": 4199,
+      "site_name": "Brunnby kyrka",
+      "lat": 56.2592047646,
+      "lon": 12.5736108173,
+      "species": "Ek",
+      "year": 1517
+    },
+    {
+      "site_id": 3950,
+      "site_name": "Värna kyrka",
+      "lat": 58.3139760359,
+      "lon": 15.9247175364,
+      "species": "Tall",
+      "year": 1519
+    },
+    {
+      "site_id": 4199,
+      "site_name": "Brunnby kyrka",
+      "lat": 56.2592047646,
+      "lon": 12.5736108173,
+      "species": "Ek",
+      "year": 1515
+    },
+    {
+      "site_id": 4004,
+      "site_name": "Smedstorps slott",
+      "lat": 55.5630381446,
+      "lon": 14.1077989281,
+      "species": "Tall",
+      "year": 1529
+    },
+    {
+      "site_id": 4114,
+      "site_name": "Härads kyrka",
+      "lat": 59.3598703443,
+      "lon": 16.9092602778,
+      "species": "Tall",
+      "year": 1500
+    },
+    {
+      "site_id": 4199,
+      "site_name": "Brunnby kyrka",
+      "lat": 56.2592047646,
+      "lon": 12.5736108173,
+      "species": "Ek",
+      "year": 1517
+    },
+    {
+      "site_id": 4176,
+      "site_name": "Farhults kyrka",
+      "lat": 56.2140163145,
+      "lon": 12.7123001788,
+      "species": "Ek",
+      "year": 1520
+    },
+    {
+      "site_id": 3900,
+      "site_name": "Ingatorp",
+      "lat": 57.6380382075,
+      "lon": 15.4073076125,
+      "species": "Tall",
+      "year": 1540
+    },
+    {
+      "site_id": 3950,
+      "site_name": "Värna kyrka",
+      "lat": 58.3139760359,
+      "lon": 15.9247175364,
+      "species": "Tall",
+      "year": 1520
+    },
+    {
+      "site_id": 4190,
+      "site_name": "Dalby kungsgård",
+      "lat": 55.6645794767,
+      "lon": 13.3442790198,
+      "species": "Ek",
+      "year": 1507
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Ek",
+      "year": 1505
+    },
+    {
+      "site_id": 4215,
+      "site_name": "Bjäresjö kyrka",
+      "lat": 55.4623008363,
+      "lon": 13.7500069282,
+      "species": "Ek",
+      "year": 1505
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Ek",
+      "year": 1537
+    },
+    {
+      "site_id": 4108,
+      "site_name": "Hörsne kyrka",
+      "lat": 57.5585118971,
+      "lon": 18.5974471903,
+      "species": "Tall",
+      "year": 1549
+    },
+    {
+      "site_id": 3950,
+      "site_name": "Värna kyrka",
+      "lat": 58.3139760359,
+      "lon": 15.9247175364,
+      "species": "Tall",
+      "year": 1519
+    },
+    {
+      "site_id": 4105,
+      "site_name": "Kaga kyrka",
+      "lat": 58.4532111432,
+      "lon": 15.529385322,
+      "species": "Tall",
+      "year": 1506
+    },
+    {
+      "site_id": 4199,
+      "site_name": "Brunnby kyrka",
+      "lat": 56.2592047646,
+      "lon": 12.5736108173,
+      "species": "Ek",
+      "year": 1525
+    },
+    {
+      "site_id": 4215,
+      "site_name": "Bjäresjö kyrka",
+      "lat": 55.4623008363,
+      "lon": 13.7500069282,
+      "species": "Ek",
+      "year": 1542
+    },
+    {
+      "site_id": 3859,
+      "site_name": "Salvarp",
+      "lat": 57.9029939781,
+      "lon": 15.2068031606,
+      "species": "Tall",
+      "year": 1522
+    },
+    {
+      "site_id": 4105,
+      "site_name": "Kaga kyrka",
+      "lat": 58.4532111432,
+      "lon": 15.529385322,
+      "species": "Tall",
+      "year": 1506
+    },
+    {
+      "site_id": 3900,
+      "site_name": "Ingatorp",
+      "lat": 57.6380382075,
+      "lon": 15.4073076125,
+      "species": "Tall",
+      "year": 1549
+    },
+    {
+      "site_id": 4105,
+      "site_name": "Kaga kyrka",
+      "lat": 58.4532111432,
+      "lon": 15.529385322,
+      "species": "Tall",
+      "year": 1502
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Ek",
+      "year": 1520
+    },
+    {
+      "site_id": 3838,
+      "site_name": "Väster Lakbäck",
+      "lat": 60.1743047169,
+      "lon": 16.9659864264,
+      "species": "Tall",
+      "year": 1510
+    },
+    {
+      "site_id": 4224,
+      "site_name": "Baldringe kyrka",
+      "lat": 55.5299390885,
+      "lon": 13.8401822932,
+      "species": "Ek",
+      "year": 1506
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+[
+  {
+    "site_id": 4052,
+    "site_name": "Norra Mellby kyrka",
+    "lat": 56.0487252518,
+    "lon": 13.7194676553,
+    "n_samples": 62,
+    "n_years": 52,
+    "earliest_label": "1053 AD",
+    "latest_label": "1830 AD",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Norra_Mellby_kyrka_2.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Norra Mellby kyrka",
+      "license": "CC0",
+      "creator": "This image was produced by me, David Castor (user:dcastor). The pictures I submit to the Wikipedia Project are released to the public domain. This gives you the right to use them in any way you like, without any kind of notification. This said, I would still appreciate to be mentioned as the originator whenever you think it complies well with your use of the picture. A message to me  about how it has been used would also be welcome. You are obviously not required to respond to these wishes of mine, just in a friendly manner encouraged to. (All my photos are placed in Category:Images by David Castor or a subcategory thereof.)",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 3973,
+    "site_name": "Tvartorps gård",
+    "lat": 58.8356707398,
+    "lon": 15.8465332706,
+    "n_samples": 72,
+    "n_years": 45,
+    "earliest_label": "1737 AD",
+    "latest_label": "1874 AD",
+    "photo": null
+  },
+  {
+    "site_id": 4152,
+    "site_name": "Glimmingehus",
+    "lat": 55.5009089705,
+    "lon": 14.2310562858,
+    "n_samples": 54,
+    "n_years": 40,
+    "earliest_label": "1382 AD",
+    "latest_label": "1892 AD",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Glimmingehus_-_KMB_-_16000300021192.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Glimmingehus",
+      "license": "CC BY 2.5",
+      "creator": "{{{artist}}}",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 4034,
+    "site_name": "Rogslösa kyrka",
+    "lat": 58.3828598943,
+    "lon": 14.7435739026,
+    "n_samples": 47,
+    "n_years": 34,
+    "earliest_label": "951 AD",
+    "latest_label": "1655 AD",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Rogsl%C3%B6sa4.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Rogslösa kyrka",
+      "license": "CC BY-SA 3.0",
+      "creator": "Bernt Fransson",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 3890,
+    "site_name": "Kvarteret Ciselören",
+    "lat": 57.6684137998,
+    "lon": 14.9702453854,
+    "n_samples": 58,
+    "n_years": 33,
+    "earliest_label": "1606 AD",
+    "latest_label": "1883 AD",
+    "photo": null
+  },
+  {
+    "site_id": 4049,
+    "site_name": "Norra Åsums kyrka",
+    "lat": 55.9895996121,
+    "lon": 14.1514451464,
+    "n_samples": 35,
+    "n_years": 32,
+    "earliest_label": "967 AD",
+    "latest_label": "1506 AD",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Norra_%C3%85sums_kyrka%2C_maj_2017.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Norra Åsums kyrka",
+      "license": "CC BY-SA 3.0",
+      "creator": "Jorchr",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 4149,
+    "site_name": "Grävsten herrgård",
+    "lat": 58.3515719205,
+    "lon": 15.8922615755,
+    "n_samples": 98,
+    "n_years": 28,
+    "earliest_label": "1593 AD",
+    "latest_label": "1840 AD",
+    "photo": null
+  },
+  {
+    "site_id": 4066,
+    "site_name": "Lärbro kyrka",
+    "lat": 57.7871605877,
+    "lon": 18.7938608719,
+    "n_samples": 56,
+    "n_years": 27,
+    "earliest_label": "1316 AD",
+    "latest_label": "1872 AD",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/L%C3%A4rbro_kyrka_October_2020_02.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Lärbro kyrka",
+      "license": "CC BY-SA 4.0",
+      "creator": "Arild Vågen",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 4112,
+    "site_name": "Härnevi kyrka",
+    "lat": 59.7272333569,
+    "lon": 17.0759149131,
+    "n_samples": 37,
+    "n_years": 26,
+    "earliest_label": "1338 AD",
+    "latest_label": "1673 AD",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/H%C3%A4rneviKyrka%C3%96ster2201.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Härnevi kyrka",
+      "license": "Public domain",
+      "creator": "Ulkl",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 4098,
+    "site_name": "Krapperups borg",
+    "lat": 56.2620769233,
+    "lon": 12.5302627748,
+    "n_samples": 26,
+    "n_years": 26,
+    "earliest_label": "1386 AD",
+    "latest_label": "1831 AD",
+    "photo": null
+  },
+  {
+    "site_id": 3906,
+    "site_name": "Hunnebergsgatan",
+    "lat": 58.412078418,
+    "lon": 15.613317767,
+    "n_samples": 44,
+    "n_years": 25,
+    "earliest_label": "1607 AD",
+    "latest_label": "1782 AD",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Hunnebergsgatan_i_Link%C3%B6ping.JPG?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Hunnebergsgatan",
+      "license": "Copyrighted free use",
+      "creator": "Fotografiet taget under Kruosios och sv:Mannen av börds sightseeing i Linköping 2006-06-09. Någon av dessa är upphovsman, och tillåter frianvändning av bilden.",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 4135,
+    "site_name": "Hammarlunda kyrka",
+    "lat": 55.7370635839,
+    "lon": 13.438054968,
+    "n_samples": 30,
+    "n_years": 25,
+    "earliest_label": "1046 AD",
+    "latest_label": "1483 AD",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Hammarlunda_kyrka_februari_2012.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Hammarlunda kyrka",
+      "license": "CC BY-SA 3.0",
+      "creator": "Jorchr",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 4191,
+    "site_name": "Cramérska huset",
+    "lat": 57.6413266574,
+    "lon": 18.2957180164,
+    "n_samples": 39,
+    "n_years": 24,
+    "earliest_label": "1189 AD",
+    "latest_label": "1829 AD",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Cram%C3%A9rska_huset_June_2024_01.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Cramérska huset",
+      "license": "CC BY-SA 4.0",
+      "creator": "ArildV",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 4022,
+    "site_name": "Sankta Maria kyrka",
+    "lat": 56.0463746463,
+    "lon": 12.6964463699,
+    "n_samples": 64,
+    "n_years": 23,
+    "earliest_label": "1384 AD",
+    "latest_label": "1501 AD",
+    "photo": null
+  },
+  {
+    "site_id": 3924,
+    "site_name": "Ösjöfors handpappersbruk",
+    "lat": 57.7558690113,
+    "lon": 15.5669247642,
+    "n_samples": 58,
+    "n_years": 22,
+    "earliest_label": "1770 AD",
+    "latest_label": "1855 AD",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/%C3%96sj%C3%B6fors_handpappersbruk_1965.JPG?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Ösjöfors handpappersbruk",
+      "license": "Public domain",
+      "creator": "Thorvald Eriksson",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 4169,
+    "site_name": "Flöxhult säteri",
+    "lat": 57.0616855739,
+    "lon": 15.5916708875,
+    "n_samples": 38,
+    "n_years": 21,
+    "earliest_label": "1751 AD",
+    "latest_label": "2011 AD",
+    "photo": null
+  },
+  {
+    "site_id": 4162,
+    "site_name": "Färlövs kyrka",
+    "lat": 56.0741126978,
+    "lon": 14.083255033,
+    "n_samples": 23,
+    "n_years": 21,
+    "earliest_label": "985 AD",
+    "latest_label": "1498 AD",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/F%C3%A4rl%C3%B6vs_kyrka%2C_mars_2014.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Färlövs kyrka",
+      "license": "CC BY-SA 3.0",
+      "creator": "Jorchr",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 4164,
+    "site_name": "Furingstads kyrka",
+    "lat": 58.5554415248,
+    "lon": 16.3444366205,
+    "n_samples": 21,
+    "n_years": 20,
+    "earliest_label": "1082 AD",
+    "latest_label": "1344 AD",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Furingstads_kyrka_1.JPG?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Furingstads kyrka",
+      "license": "CC BY-SA 3.0",
+      "creator": "Västgöten",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 4222,
+    "site_name": "Bankekinds kyrka",
+    "lat": 58.3760722953,
+    "lon": 15.8200924421,
+    "n_samples": 24,
+    "n_years": 20,
+    "earliest_label": "1121 AD",
+    "latest_label": "1662 AD",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Bankekind_view.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Bankekinds kyrka",
+      "license": "CC BY 2.5",
+      "creator": "Håkan Svensson (Xauxa)",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 4161,
+    "site_name": "Föllingsö säteri",
+    "lat": 57.9792353144,
+    "lon": 15.5982792286,
+    "n_samples": 42,
+    "n_years": 19,
+    "earliest_label": "1630 AD",
+    "latest_label": "1876 AD",
+    "photo": null
+  },
+  {
+    "site_id": 4039,
+    "site_name": "Perstorps kyrka",
+    "lat": 56.1416136158,
+    "lon": 13.3867602912,
+    "n_samples": 22,
+    "n_years": 19,
+    "earliest_label": "1213 AD",
+    "latest_label": "1766 AD",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Perstorps_kyrka.JPG?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Perstorps kyrka",
+      "license": "CC BY-SA 3.0",
+      "creator": "User Fantomen on sv.wikipedia",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 3900,
+    "site_name": "Ingatorp",
+    "lat": 57.6380382075,
+    "lon": 15.4073076125,
+    "n_samples": 25,
+    "n_years": 18,
+    "earliest_label": "1123 AD",
+    "latest_label": "1770 AD",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Ingatorps_kyrka1.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Ingatorp",
+      "license": "CC BY-SA 4.0",
+      "creator": "L.G.foto",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 4121,
+    "site_name": "Hovdala slott",
+    "lat": 56.1036848292,
+    "lon": 13.7137204295,
+    "n_samples": 25,
+    "n_years": 17,
+    "earliest_label": "1596 AD",
+    "latest_label": "1825 AD",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Hovdala_Slott.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Hovdala slott",
+      "license": "CC BY-SA 3.0",
+      "creator": "F.A.E.",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 3913,
+    "site_name": "Friggestad",
+    "lat": 55.9026716839,
+    "lon": 13.9326988282,
+    "n_samples": 21,
+    "n_years": 15,
+    "earliest_label": "1811 AD",
+    "latest_label": "1859 AD",
+    "photo": null
+  },
+  {
+    "site_id": 4165,
+    "site_name": "Fröken Löfgrens gård",
+    "lat": 58.4124597098,
+    "lon": 15.627324903,
+    "n_samples": 30,
+    "n_years": 15,
+    "earliest_label": "1714 AD",
+    "latest_label": "1817 AD",
+    "photo": null
+  }
+]

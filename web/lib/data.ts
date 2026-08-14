@@ -8,6 +8,12 @@ import type {
   SiteIndexEntry,
   SpeciesDetail,
   SpeciesIndexEntry,
+  TimberPreciseSample,
+  TimberRingsDetail,
+  TimberRingsIndexEntry,
+  TimberSpeciesBucketDetail,
+  TimberSpeciesBucketSummary,
+  SisterCluster,
 } from "./types";
 
 const DATA_DIR = path.join(process.cwd(), "public", "data");
@@ -50,4 +56,34 @@ export function getSitesIndex(): SiteIndexEntry[] {
 
 export function getSiteDetail(siteId: string): SiteDetail | null {
   return readJson<SiteDetail>(`sites/${siteId}.json`);
+}
+
+export function getTimberPreciseSamples(): TimberPreciseSample[] {
+  return readJson<TimberPreciseSample[]>("timber-precise/index.json") ?? [];
+}
+
+export function getTimberRingsIndex(): TimberRingsIndexEntry[] {
+  return readJson<TimberRingsIndexEntry[]>("timber-rings/index.json") ?? [];
+}
+
+export function getTimberRingsDetail(siteId: string): TimberRingsDetail | null {
+  return readJson<TimberRingsDetail>(`timber-rings/${siteId}.json`);
+}
+
+export function getTimberSpeciesMapIndex(): TimberSpeciesBucketSummary[] {
+  return readJson<TimberSpeciesBucketSummary[]>("timber-species-map/index.json") ?? [];
+}
+
+export function getTimberSpeciesBucket(bucketStart: number): TimberSpeciesBucketDetail | null {
+  return readJson<TimberSpeciesBucketDetail>(`timber-species-map/${bucketStart}.json`);
+}
+
+export function getAllTimberSpeciesBuckets(): TimberSpeciesBucketDetail[] {
+  return getTimberSpeciesMapIndex()
+    .map((b) => getTimberSpeciesBucket(b.bucket_start))
+    .filter((b): b is TimberSpeciesBucketDetail => b !== null);
+}
+
+export function getSisterClusters(): SisterCluster[] {
+  return readJson<SisterCluster[]>("timber-sisters/index.json") ?? [];
 }

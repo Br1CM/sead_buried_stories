@@ -1,0 +1,98 @@
+{
+  "bucket_start": 1950,
+  "label": "1950 AD - 2000 AD",
+  "n_samples": 11,
+  "composition": {
+    "Tall": 100.0
+  },
+  "points": [
+    {
+      "site_id": 3918,
+      "site_name": "Billsta",
+      "lat": 59.0798667177,
+      "lon": 17.5123126198,
+      "species": "Tall",
+      "year": 1969
+    },
+    {
+      "site_id": 3918,
+      "site_name": "Billsta",
+      "lat": 59.0798667177,
+      "lon": 17.5123126198,
+      "species": "Tall",
+      "year": 1969
+    },
+    {
+      "site_id": 3918,
+      "site_name": "Billsta",
+      "lat": 59.0798667177,
+      "lon": 17.5123126198,
+      "species": "Tall",
+      "year": 1969
+    },
+    {
+      "site_id": 3918,
+      "site_name": "Billsta",
+      "lat": 59.0798667177,
+      "lon": 17.5123126198,
+      "species": "Tall",
+      "year": 1969
+    },
+    {
+      "site_id": 3918,
+      "site_name": "Billsta",
+      "lat": 59.0798667177,
+      "lon": 17.5123126198,
+      "species": "Tall",
+      "year": 1969
+    },
+    {
+      "site_id": 3918,
+      "site_name": "Billsta",
+      "lat": 59.0798667177,
+      "lon": 17.5123126198,
+      "species": "Tall",
+      "year": 1969
+    },
+    {
+      "site_id": 3918,
+      "site_name": "Billsta",
+      "lat": 59.0798667177,
+      "lon": 17.5123126198,
+      "species": "Tall",
+      "year": 1969
+    },
+    {
+      "site_id": 3918,
+      "site_name": "Billsta",
+      "lat": 59.0798667177,
+      "lon": 17.5123126198,
+      "species": "Tall",
+      "year": 1969
+    },
+    {
+      "site_id": 3918,
+      "site_name": "Billsta",
+      "lat": 59.0798667177,
+      "lon": 17.5123126198,
+      "species": "Tall",
+      "year": 1969
+    },
+    {
+      "site_id": 3918,
+      "site_name": "Billsta",
+      "lat": 59.0798667177,
+      "lon": 17.5123126198,
+      "species": "Tall",
+      "year": 1969
+    },
+    {
+      "site_id": 3918,
+      "site_name": "Billsta",
+      "lat": 59.0798667177,
+      "lon": 17.5123126198,
+      "species": "Tall",
+      "year": 1969
+    }
+  ]
+}

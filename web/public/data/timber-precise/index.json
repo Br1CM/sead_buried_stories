@@ -1,0 +1,872 @@
+[
+  {
+    "site_id": 4164,
+    "site_name": "Furingstads kyrka",
+    "lat": 58.5554415248,
+    "lon": 16.3444366205,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1094,
+    "label": "1094 AD",
+    "season_name": "March",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Furingstads_kyrka_1.JPG?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Furingstads kyrka",
+      "license": "CC BY-SA 3.0",
+      "creator": "Västgöten",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 4222,
+    "site_name": "Bankekinds kyrka",
+    "lat": 58.3760722953,
+    "lon": 15.8200924421,
+    "species_local": "Ek",
+    "species_en": "Oak",
+    "felling_year": 1193,
+    "label": "1193 AD",
+    "season_name": "March",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Bankekind_view.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Bankekinds kyrka",
+      "license": "CC BY 2.5",
+      "creator": "Håkan Svensson (Xauxa)",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 4076,
+    "site_name": "Linde kyrka",
+    "lat": 57.2796924645,
+    "lon": 18.3797198479,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1278,
+    "label": "1278 AD",
+    "season_name": "March",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Linde_kyrka_church_Gotland_Sweden.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Linde kyrka",
+      "license": "CC BY-SA 4.0",
+      "creator": "Helen Simonsson",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 4114,
+    "site_name": "Härads kyrka",
+    "lat": 59.3598703443,
+    "lon": 16.9092602778,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1317,
+    "label": "1317 AD",
+    "season_name": "March",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/H%C3%A4rads_kyrka.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Härads kyrka",
+      "license": "CC BY-SA 3.0",
+      "creator": "Larske",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 4022,
+    "site_name": "Sankta Maria kyrka",
+    "lat": 56.0463746463,
+    "lon": 12.6964463699,
+    "species_local": "Ek",
+    "species_en": "Oak",
+    "felling_year": 1393,
+    "label": "1393 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 4191,
+    "site_name": "Cramérska huset",
+    "lat": 57.6413266574,
+    "lon": 18.2957180164,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1459,
+    "label": "1459 AD",
+    "season_name": "March",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Cram%C3%A9rska_huset_June_2024_01.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Cramérska huset",
+      "license": "CC BY-SA 4.0",
+      "creator": "ArildV",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 4052,
+    "site_name": "Norra Mellby kyrka",
+    "lat": 56.0487252518,
+    "lon": 13.7194676553,
+    "species_local": "Ek",
+    "species_en": "Oak",
+    "felling_year": 1480,
+    "label": "1480 AD",
+    "season_name": "March",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Norra_Mellby_kyrka_2.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Norra Mellby kyrka",
+      "license": "CC0",
+      "creator": "This image was produced by me, David Castor (user:dcastor). The pictures I submit to the Wikipedia Project are released to the public domain. This gives you the right to use them in any way you like, without any kind of notification. This said, I would still appreciate to be mentioned as the originator whenever you think it complies well with your use of the picture. A message to me  about how it has been used would also be welcome. You are obviously not required to respond to these wishes of mine, just in a friendly manner encouraged to. (All my photos are placed in Category:Images by David Castor or a subcategory thereof.)",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 4114,
+    "site_name": "Härads kyrka",
+    "lat": 59.3598703443,
+    "lon": 16.9092602778,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1500,
+    "label": "1500 AD",
+    "season_name": "March",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/H%C3%A4rads_kyrka.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Härads kyrka",
+      "license": "CC BY-SA 3.0",
+      "creator": "Larske",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 3933,
+    "site_name": "Östensbo",
+    "lat": 60.3339385481,
+    "lon": 18.0553473546,
+    "species_local": "Undefined",
+    "species_en": null,
+    "felling_year": 1520,
+    "label": "1520 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 3898,
+    "site_name": "Karkebo",
+    "lat": 60.2495692205,
+    "lon": 17.8630769664,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1538,
+    "label": "1538 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 4033,
+    "site_name": "Rusthållargården",
+    "lat": 59.616572509,
+    "lon": 18.4348167539,
+    "species_local": "Undefined",
+    "species_en": null,
+    "felling_year": 1552,
+    "label": "1552 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 3872,
+    "site_name": "Kvarteret Vinskänken",
+    "lat": 57.6675874623,
+    "lon": 14.970480741,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1587,
+    "label": "1587 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 4186,
+    "site_name": "Dörby kyrka",
+    "lat": 56.6716229714,
+    "lon": 16.2331583797,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1610,
+    "label": "1610 AD",
+    "season_name": "March",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/D%C3%B6rby_kyrka003.JPG?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Dörby kyrka",
+      "license": "CC BY-SA 3.0",
+      "creator": "Bernt Fransson",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 4149,
+    "site_name": "Grävsten herrgård",
+    "lat": 58.3515719205,
+    "lon": 15.8922615755,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1634,
+    "label": "1634 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 4080,
+    "site_name": "Lau Kyrka",
+    "lat": 57.2829069812,
+    "lon": 18.6201900158,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1640,
+    "label": "1640 AD",
+    "season_name": "March",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Lau_kyrka_view01.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Lau",
+      "license": "CC BY 2.5",
+      "creator": "Håkan Svensson (Xauxa)",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 4172,
+    "site_name": "Fjellskäfte säteri",
+    "lat": 59.1191566711,
+    "lon": 16.3647591532,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1654,
+    "label": "1654 AD",
+    "season_name": "March",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Stig_-_Fjellsk%C3%A4fte_2.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Fjellskäfte (naturreservat)",
+      "license": "CC0",
+      "creator": "Abbe98",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 3853,
+    "site_name": "Stallbacksvägen",
+    "lat": 59.1832425393,
+    "lon": 17.4296699654,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1667,
+    "label": "1667 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 4042,
+    "site_name": "Orkesta kyrka",
+    "lat": 59.6047544634,
+    "lon": 18.1101330621,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1685,
+    "label": "1685 AD",
+    "season_name": "March",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Byggnader_och_byggnadsdetaljer_Orkesta_kyrka_03.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Orkesta kyrka",
+      "license": "CC BY-SA 3.0",
+      "creator": "Webbgun",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 3977,
+    "site_name": "Trehörna säteri",
+    "lat": 58.1525781452,
+    "lon": 14.8366734133,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1690,
+    "label": "1690 AD",
+    "season_name": "March",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Trehornasjon.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Trehörna",
+      "license": "Public domain",
+      "creator": "Anders Johansson",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 3888,
+    "site_name": "Kvarteret Färgaren",
+    "lat": 57.6689523502,
+    "lon": 14.9685853665,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1693,
+    "label": "1693 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 3983,
+    "site_name": "Tingstäde kyrka",
+    "lat": 57.7363463435,
+    "lon": 18.61508962,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1695,
+    "label": "1695 AD",
+    "season_name": "March",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Tingst%C3%A4de_church%2C_2009-08-11.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Tingstäde kyrka",
+      "license": "CC BY-SA 3.0",
+      "creator": "Per Enström, a friend of en:User:Plrk (User:Plrk)",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 4001,
+    "site_name": "Sonnorps frälsegård",
+    "lat": 58.5253465014,
+    "lon": 15.0956199379,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1698,
+    "label": "1698 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 3873,
+    "site_name": "Kvarteret Vaxblekaren",
+    "lat": 57.6677943959,
+    "lon": 14.9719557061,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1705,
+    "label": "1705 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 4191,
+    "site_name": "Cramérska huset",
+    "lat": 57.6413266574,
+    "lon": 18.2957180164,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1708,
+    "label": "1708 AD",
+    "season_name": "March",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Cram%C3%A9rska_huset_June_2024_01.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Cramérska huset",
+      "license": "CC BY-SA 4.0",
+      "creator": "ArildV",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 4174,
+    "site_name": "Finntorp",
+    "lat": 58.8976171968,
+    "lon": 15.9373051965,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1723,
+    "label": "1723 AD",
+    "season_name": "March",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Finntorp_from_V%C3%A4rmd%C3%B6v%C3%A4gen_september_2010.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Finntorp",
+      "license": "CC BY-SA 3.0",
+      "creator": "Ankara",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 3846,
+    "site_name": "Torhult",
+    "lat": 56.4844293717,
+    "lon": 15.7508352053,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1727,
+    "label": "1727 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 4008,
+    "site_name": "Slottsskogen",
+    "lat": 57.6870565543,
+    "lon": 11.9401224056,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1728,
+    "label": "1728 AD",
+    "season_name": "March",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Slottsskogen04.JPG?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Slottsskogen",
+      "license": "CC BY-SA 4.0",
+      "creator": "Monikoska",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 3979,
+    "site_name": "Torö kyrka",
+    "lat": 58.8402885051,
+    "lon": 17.841172899,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1734,
+    "label": "1734 AD",
+    "season_name": "March",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Tor%C3%B6_kyrka_2015a.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Torö kyrka",
+      "license": "CC BY-SA 4.0",
+      "creator": "Holger.Ellgaard",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 3990,
+    "site_name": "Sundbyviks gård",
+    "lat": 59.4496174411,
+    "lon": 16.3425451286,
+    "species_local": "Undefined",
+    "species_en": null,
+    "felling_year": 1736,
+    "label": "1736 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 3876,
+    "site_name": "Kvarteret Skonaren",
+    "lat": 57.7606213966,
+    "lon": 16.6356561089,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1743,
+    "label": "1743 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 4002,
+    "site_name": "Solbaddet",
+    "lat": 59.3629570089,
+    "lon": 18.0230932849,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1747,
+    "label": "1747 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 3860,
+    "site_name": "Ryssebo",
+    "lat": 57.6337670915,
+    "lon": 15.3551085325,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1753,
+    "label": "1753 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 3902,
+    "site_name": "Högsjö gård",
+    "lat": 59.0303156826,
+    "lon": 15.6846029132,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1759,
+    "label": "1759 AD",
+    "season_name": "March",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/H%C3%B6gsj%C3%B6_g%C3%A5rd%2C_vykort_%281%29.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Högsjögård",
+      "license": "Public domain",
+      "creator": "Unknown authorUnknown author",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 3851,
+    "site_name": "Stora Hulterska",
+    "lat": 58.7029188555,
+    "lon": 16.8021290152,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1761,
+    "label": "1761 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 4125,
+    "site_name": "Hester gamla gästgiveri",
+    "lat": 58.1545506911,
+    "lon": 14.992625859,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1765,
+    "label": "1765 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 4177,
+    "site_name": "Fallebo gård",
+    "lat": 57.2825301121,
+    "lon": 16.4599047102,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1769,
+    "label": "1769 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 3878,
+    "site_name": "Kvarteret Repslagaren",
+    "lat": 56.6661231227,
+    "lon": 16.3707621787,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1772,
+    "label": "1772 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 3914,
+    "site_name": "Ekeby",
+    "lat": 59.9309248608,
+    "lon": 18.7352302992,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1773,
+    "label": "1773 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 3855,
+    "site_name": "Skålsta",
+    "lat": 59.6918257743,
+    "lon": 17.7340431894,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1776,
+    "label": "1776 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 3843,
+    "site_name": "Verksgatan",
+    "lat": 58.1988383361,
+    "lon": 16.0048511229,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1777,
+    "label": "1777 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 3964,
+    "site_name": "Vamlingbo prästgård",
+    "lat": 56.9692204162,
+    "lon": 18.2291867481,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1778,
+    "label": "1778 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 3847,
+    "site_name": "Tofta",
+    "lat": 57.7925944619,
+    "lon": 14.7835679577,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1780,
+    "label": "1780 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 4041,
+    "site_name": "Ottenby kungsgård",
+    "lat": 56.2324481195,
+    "lon": 16.4131022179,
+    "species_local": "Ek",
+    "species_en": "Oak",
+    "felling_year": 1783,
+    "label": "1783 AD",
+    "season_name": "March",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/OttenbyKungsg%C3%A5rd160727.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Ottenby kungsgård",
+      "license": "Public domain",
+      "creator": "Ulkl",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 4132,
+    "site_name": "Heda hembygdsgård",
+    "lat": 58.2868011797,
+    "lon": 14.7020076462,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1785,
+    "label": "1785 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 4015,
+    "site_name": "Sjöstugan",
+    "lat": 59.1953522018,
+    "lon": 16.9142181099,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1794,
+    "label": "1794 AD",
+    "season_name": "March",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Sj%C3%B6stugan_Borgholm_%C3%96land_nr2_140708.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Sjöstugan",
+      "license": "CC BY-SA 4.0",
+      "creator": "Kentlarserik",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 3879,
+    "site_name": "Kvarteret Prelaten",
+    "lat": 58.4490150617,
+    "lon": 14.8944959842,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1798,
+    "label": "1798 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 3848,
+    "site_name": "Svaneberg",
+    "lat": 56.67043776,
+    "lon": 16.3156127792,
+    "species_local": "Gran",
+    "species_en": "Spruce",
+    "felling_year": 1803,
+    "label": "1803 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 4095,
+    "site_name": "Kråkvik",
+    "lat": 58.0430129509,
+    "lon": 16.7038344946,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1808,
+    "label": "1808 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 3862,
+    "site_name": "Prästtorp",
+    "lat": 58.4028209933,
+    "lon": 14.8474776891,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1816,
+    "label": "1816 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 4188,
+    "site_name": "Djursnäs säteri",
+    "lat": 58.9251999602,
+    "lon": 17.8122643018,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1823,
+    "label": "1823 AD",
+    "season_name": "March",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Djursn%C3%A4s_g%C3%A5rd_mars_2015.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Djursnäs",
+      "license": "CC BY-SA 4.0",
+      "creator": "Holger.Ellgaard",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 4159,
+    "site_name": "Gamla prästgården",
+    "lat": 55.7923702296,
+    "lon": 13.204679547,
+    "species_local": "Ek",
+    "species_en": "Oak",
+    "felling_year": 1825,
+    "label": "1825 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 4019,
+    "site_name": "Silte kyrka",
+    "lat": 57.2210286963,
+    "lon": 18.2367579286,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1828,
+    "label": "1828 AD",
+    "season_name": "March",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Silte_kyrka_Gotland.JPG?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Silte kyrka",
+      "license": "CC BY-SA 4.0",
+      "creator": "W.carter",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 4030,
+    "site_name": "Ränneslätt",
+    "lat": 57.6711118854,
+    "lon": 14.951869383,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1831,
+    "label": "1831 AD",
+    "season_name": "March",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Baltic_extration_-_1946.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Ränneslätt",
+      "license": "Public domain",
+      "creator": "REPORTAGEBILD/PRESSENS BILD",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 3928,
+    "site_name": "Överselö kyrka",
+    "lat": 59.4189025381,
+    "lon": 17.1310342492,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1836,
+    "label": "1836 AD",
+    "season_name": "March",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/%C3%96versel%C3%B6_kyrka_2011.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Överselö kyrka",
+      "license": "CC BY-SA 3.0",
+      "creator": "Holger.Ellgaard",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 4000,
+    "site_name": "Spargott",
+    "lat": 55.9426474373,
+    "lon": 12.9631975336,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1846,
+    "label": "1846 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 3833,
+    "site_name": "12051 Bro",
+    "lat": 57.6698565725,
+    "lon": 18.4661389697,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1850,
+    "label": "1850 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 3864,
+    "site_name": "Mellanköpinge",
+    "lat": 55.3830376757,
+    "lon": 13.1958516631,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1858,
+    "label": "1858 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 3949,
+    "site_name": "Väsby kvarn",
+    "lat": 59.5330507391,
+    "lon": 18.067232364,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1864,
+    "label": "1864 AD",
+    "season_name": "March",
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/V%C3%A4sby_kvarn%2C_Vallentuna_01.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+      "depicts": "Väsby kvarn",
+      "license": "CC BY-SA 3.0",
+      "creator": "User Einarspetz at Swedish Wikipedia",
+      "source": "Wikimedia Commons"
+    }
+  },
+  {
+    "site_id": 4093,
+    "site_name": "Kulltorps gård",
+    "lat": 58.0871147666,
+    "lon": 16.4801731603,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1878,
+    "label": "1878 AD",
+    "season_name": "March",
+    "photo": null
+  },
+  {
+    "site_id": 4102,
+    "site_name": "Kisa hotell och konferens",
+    "lat": 57.9869621622,
+    "lon": 15.6367139929,
+    "species_local": "Tall",
+    "species_en": "Pine",
+    "felling_year": 1897,
+    "label": "1897 AD",
+    "season_name": "March",
+    "photo": null
+  }
+]

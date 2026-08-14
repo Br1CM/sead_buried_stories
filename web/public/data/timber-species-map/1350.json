@@ -1,0 +1,771 @@
+{
+  "bucket_start": 1350,
+  "label": "1350 AD - 1400 AD",
+  "n_samples": 95,
+  "composition": {
+    "Ek": 82.1,
+    "Tall": 17.9
+  },
+  "points": [
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1397
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1389
+    },
+    {
+      "site_id": 3987,
+      "site_name": "Särslövs kyrka",
+      "lat": 55.6213576114,
+      "lon": 13.1598571309,
+      "species": "Ek",
+      "year": 1390
+    },
+    {
+      "site_id": 4064,
+      "site_name": "Löts kyrka",
+      "lat": 56.9181649388,
+      "lon": 16.837723756,
+      "species": "Ek",
+      "year": 1378
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1396
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1396
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1394
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1396
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1396
+    },
+    {
+      "site_id": 4123,
+      "site_name": "Horns kyrka",
+      "lat": 57.9010708522,
+      "lon": 15.8381807879,
+      "species": "Tall",
+      "year": 1356
+    },
+    {
+      "site_id": 4199,
+      "site_name": "Brunnby kyrka",
+      "lat": 56.2592047646,
+      "lon": 12.5736108173,
+      "species": "Ek",
+      "year": 1373
+    },
+    {
+      "site_id": 4135,
+      "site_name": "Hammarlunda kyrka",
+      "lat": 55.7370635839,
+      "lon": 13.438054968,
+      "species": "Ek",
+      "year": 1379
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1393
+    },
+    {
+      "site_id": 3947,
+      "site_name": "Västergarn kyrka",
+      "lat": 57.4408299712,
+      "lon": 18.1508926891,
+      "species": "Tall",
+      "year": 1392
+    },
+    {
+      "site_id": 4123,
+      "site_name": "Horns kyrka",
+      "lat": 57.9010708522,
+      "lon": 15.8381807879,
+      "species": "Tall",
+      "year": 1366
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1373
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1396
+    },
+    {
+      "site_id": 4064,
+      "site_name": "Löts kyrka",
+      "lat": 56.9181649388,
+      "lon": 16.837723756,
+      "species": "Ek",
+      "year": 1371
+    },
+    {
+      "site_id": 3956,
+      "site_name": "Visseltofta kyrka",
+      "lat": 56.427730662,
+      "lon": 13.8564207006,
+      "species": "Ek",
+      "year": 1362
+    },
+    {
+      "site_id": 3958,
+      "site_name": "Vireda kyrka",
+      "lat": 57.915504815,
+      "lon": 14.6333559785,
+      "species": "Tall",
+      "year": 1396
+    },
+    {
+      "site_id": 4123,
+      "site_name": "Horns kyrka",
+      "lat": 57.9010708522,
+      "lon": 15.8381807879,
+      "species": "Tall",
+      "year": 1375
+    },
+    {
+      "site_id": 4049,
+      "site_name": "Norra Åsums kyrka",
+      "lat": 55.9895996121,
+      "lon": 14.1514451464,
+      "species": "Ek",
+      "year": 1387
+    },
+    {
+      "site_id": 3947,
+      "site_name": "Västergarn kyrka",
+      "lat": 57.4408299712,
+      "lon": 18.1508926891,
+      "species": "Tall",
+      "year": 1392
+    },
+    {
+      "site_id": 4135,
+      "site_name": "Hammarlunda kyrka",
+      "lat": 55.7370635839,
+      "lon": 13.438054968,
+      "species": "Ek",
+      "year": 1384
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1396
+    },
+    {
+      "site_id": 4135,
+      "site_name": "Hammarlunda kyrka",
+      "lat": 55.7370635839,
+      "lon": 13.438054968,
+      "species": "Ek",
+      "year": 1391
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1389
+    },
+    {
+      "site_id": 4112,
+      "site_name": "Härnevi kyrka",
+      "lat": 59.7272333569,
+      "lon": 17.0759149131,
+      "species": "Ek",
+      "year": 1351
+    },
+    {
+      "site_id": 4229,
+      "site_name": "Alva kyrka",
+      "lat": 57.207482496,
+      "lon": 18.3615153428,
+      "species": "Tall",
+      "year": 1397
+    },
+    {
+      "site_id": 4049,
+      "site_name": "Norra Åsums kyrka",
+      "lat": 55.9895996121,
+      "lon": 14.1514451464,
+      "species": "Ek",
+      "year": 1390
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1391
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1396
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1373
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1393
+    },
+    {
+      "site_id": 4049,
+      "site_name": "Norra Åsums kyrka",
+      "lat": 55.9895996121,
+      "lon": 14.1514451464,
+      "species": "Ek",
+      "year": 1390
+    },
+    {
+      "site_id": 4016,
+      "site_name": "Sjörups gamla kyrka",
+      "lat": 55.440969436,
+      "lon": 13.6350301362,
+      "species": "Ek",
+      "year": 1377
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1367
+    },
+    {
+      "site_id": 4212,
+      "site_name": "Bonderups kyrka",
+      "lat": 55.6397157063,
+      "lon": 13.3565138671,
+      "species": "Ek",
+      "year": 1373
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1383
+    },
+    {
+      "site_id": 4016,
+      "site_name": "Sjörups gamla kyrka",
+      "lat": 55.440969436,
+      "lon": 13.6350301362,
+      "species": "Ek",
+      "year": 1394
+    },
+    {
+      "site_id": 4064,
+      "site_name": "Löts kyrka",
+      "lat": 56.9181649388,
+      "lon": 16.837723756,
+      "species": "Ek",
+      "year": 1372
+    },
+    {
+      "site_id": 4229,
+      "site_name": "Alva kyrka",
+      "lat": 57.207482496,
+      "lon": 18.3615153428,
+      "species": "Tall",
+      "year": 1377
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1395
+    },
+    {
+      "site_id": 4016,
+      "site_name": "Sjörups gamla kyrka",
+      "lat": 55.440969436,
+      "lon": 13.6350301362,
+      "species": "Ek",
+      "year": 1377
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1393
+    },
+    {
+      "site_id": 4049,
+      "site_name": "Norra Åsums kyrka",
+      "lat": 55.9895996121,
+      "lon": 14.1514451464,
+      "species": "Ek",
+      "year": 1387
+    },
+    {
+      "site_id": 4016,
+      "site_name": "Sjörups gamla kyrka",
+      "lat": 55.440969436,
+      "lon": 13.6350301362,
+      "species": "Ek",
+      "year": 1384
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1397
+    },
+    {
+      "site_id": 4064,
+      "site_name": "Löts kyrka",
+      "lat": 56.9181649388,
+      "lon": 16.837723756,
+      "species": "Ek",
+      "year": 1366
+    },
+    {
+      "site_id": 4016,
+      "site_name": "Sjörups gamla kyrka",
+      "lat": 55.440969436,
+      "lon": 13.6350301362,
+      "species": "Ek",
+      "year": 1377
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1393
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1396
+    },
+    {
+      "site_id": 4233,
+      "site_name": "Ada Blocks hus",
+      "lat": 57.6414647577,
+      "lon": 18.2969709754,
+      "species": "Tall",
+      "year": 1372
+    },
+    {
+      "site_id": 4049,
+      "site_name": "Norra Åsums kyrka",
+      "lat": 55.9895996121,
+      "lon": 14.1514451464,
+      "species": "Ek",
+      "year": 1388
+    },
+    {
+      "site_id": 4049,
+      "site_name": "Norra Åsums kyrka",
+      "lat": 55.9895996121,
+      "lon": 14.1514451464,
+      "species": "Ek",
+      "year": 1383
+    },
+    {
+      "site_id": 4064,
+      "site_name": "Löts kyrka",
+      "lat": 56.9181649388,
+      "lon": 16.837723756,
+      "species": "Ek",
+      "year": 1384
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1361
+    },
+    {
+      "site_id": 3956,
+      "site_name": "Visseltofta kyrka",
+      "lat": 56.427730662,
+      "lon": 13.8564207006,
+      "species": "Ek",
+      "year": 1386
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1396
+    },
+    {
+      "site_id": 4049,
+      "site_name": "Norra Åsums kyrka",
+      "lat": 55.9895996121,
+      "lon": 14.1514451464,
+      "species": "Ek",
+      "year": 1393
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1396
+    },
+    {
+      "site_id": 3956,
+      "site_name": "Visseltofta kyrka",
+      "lat": 56.427730662,
+      "lon": 13.8564207006,
+      "species": "Ek",
+      "year": 1386
+    },
+    {
+      "site_id": 4135,
+      "site_name": "Hammarlunda kyrka",
+      "lat": 55.7370635839,
+      "lon": 13.438054968,
+      "species": "Ek",
+      "year": 1387
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1384
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1393
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1396
+    },
+    {
+      "site_id": 4195,
+      "site_name": "Burlövs gamla kyrka",
+      "lat": 55.6366912361,
+      "lon": 13.1132212027,
+      "species": "Ek",
+      "year": 1375
+    },
+    {
+      "site_id": 4112,
+      "site_name": "Härnevi kyrka",
+      "lat": 59.7272333569,
+      "lon": 17.0759149131,
+      "species": "Ek",
+      "year": 1351
+    },
+    {
+      "site_id": 4135,
+      "site_name": "Hammarlunda kyrka",
+      "lat": 55.7370635839,
+      "lon": 13.438054968,
+      "species": "Ek",
+      "year": 1365
+    },
+    {
+      "site_id": 4135,
+      "site_name": "Hammarlunda kyrka",
+      "lat": 55.7370635839,
+      "lon": 13.438054968,
+      "species": "Ek",
+      "year": 1387
+    },
+    {
+      "site_id": 3956,
+      "site_name": "Visseltofta kyrka",
+      "lat": 56.427730662,
+      "lon": 13.8564207006,
+      "species": "Ek",
+      "year": 1391
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1396
+    },
+    {
+      "site_id": 4152,
+      "site_name": "Glimmingehus",
+      "lat": 55.5009089705,
+      "lon": 14.2310562858,
+      "species": "Tall",
+      "year": 1382
+    },
+    {
+      "site_id": 4123,
+      "site_name": "Horns kyrka",
+      "lat": 57.9010708522,
+      "lon": 15.8381807879,
+      "species": "Tall",
+      "year": 1380
+    },
+    {
+      "site_id": 4098,
+      "site_name": "Krapperups borg",
+      "lat": 56.2620769233,
+      "lon": 12.5302627748,
+      "species": "Ek",
+      "year": 1386
+    },
+    {
+      "site_id": 3958,
+      "site_name": "Vireda kyrka",
+      "lat": 57.915504815,
+      "lon": 14.6333559785,
+      "species": "Tall",
+      "year": 1389
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1372
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1393
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1393
+    },
+    {
+      "site_id": 4064,
+      "site_name": "Löts kyrka",
+      "lat": 56.9181649388,
+      "lon": 16.837723756,
+      "species": "Ek",
+      "year": 1380
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1393
+    },
+    {
+      "site_id": 4052,
+      "site_name": "Norra Mellby kyrka",
+      "lat": 56.0487252518,
+      "lon": 13.7194676553,
+      "species": "Ek",
+      "year": 1372
+    },
+    {
+      "site_id": 3958,
+      "site_name": "Vireda kyrka",
+      "lat": 57.915504815,
+      "lon": 14.6333559785,
+      "species": "Tall",
+      "year": 1376
+    },
+    {
+      "site_id": 3958,
+      "site_name": "Vireda kyrka",
+      "lat": 57.915504815,
+      "lon": 14.6333559785,
+      "species": "Tall",
+      "year": 1361
+    },
+    {
+      "site_id": 4199,
+      "site_name": "Brunnby kyrka",
+      "lat": 56.2592047646,
+      "lon": 12.5736108173,
+      "species": "Ek",
+      "year": 1380
+    },
+    {
+      "site_id": 4199,
+      "site_name": "Brunnby kyrka",
+      "lat": 56.2592047646,
+      "lon": 12.5736108173,
+      "species": "Ek",
+      "year": 1377
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1391
+    },
+    {
+      "site_id": 4064,
+      "site_name": "Löts kyrka",
+      "lat": 56.9181649388,
+      "lon": 16.837723756,
+      "species": "Ek",
+      "year": 1376
+    },
+    {
+      "site_id": 3930,
+      "site_name": "Östra Vrams kyrka",
+      "lat": 55.9310962627,
+      "lon": 14.0229459209,
+      "species": "Ek",
+      "year": 1386
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1394
+    },
+    {
+      "site_id": 4215,
+      "site_name": "Bjäresjö kyrka",
+      "lat": 55.4623008363,
+      "lon": 13.7500069282,
+      "species": "Ek",
+      "year": 1387
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1393
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1395
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1393
+    },
+    {
+      "site_id": 4022,
+      "site_name": "Sankta Maria kyrka",
+      "lat": 56.0463746463,
+      "lon": 12.6964463699,
+      "species": "Ek",
+      "year": 1393
+    }
+  ]
+}

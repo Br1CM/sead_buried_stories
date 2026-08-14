@@ -1,0 +1,117 @@
+[
+  {
+    "bucket_start": 900,
+    "label": "900 AD - 950 AD",
+    "n_samples": 1
+  },
+  {
+    "bucket_start": 950,
+    "label": "950 AD - 1000 AD",
+    "n_samples": 9
+  },
+  {
+    "bucket_start": 1000,
+    "label": "1000 AD - 1050 AD",
+    "n_samples": 15
+  },
+  {
+    "bucket_start": 1050,
+    "label": "1050 AD - 1100 AD",
+    "n_samples": 65
+  },
+  {
+    "bucket_start": 1100,
+    "label": "1100 AD - 1150 AD",
+    "n_samples": 129
+  },
+  {
+    "bucket_start": 1150,
+    "label": "1150 AD - 1200 AD",
+    "n_samples": 121
+  },
+  {
+    "bucket_start": 1200,
+    "label": "1200 AD - 1250 AD",
+    "n_samples": 104
+  },
+  {
+    "bucket_start": 1250,
+    "label": "1250 AD - 1300 AD",
+    "n_samples": 93
+  },
+  {
+    "bucket_start": 1300,
+    "label": "1300 AD - 1350 AD",
+    "n_samples": 77
+  },
+  {
+    "bucket_start": 1350,
+    "label": "1350 AD - 1400 AD",
+    "n_samples": 95
+  },
+  {
+    "bucket_start": 1400,
+    "label": "1400 AD - 1450 AD",
+    "n_samples": 146
+  },
+  {
+    "bucket_start": 1450,
+    "label": "1450 AD - 1500 AD",
+    "n_samples": 191
+  },
+  {
+    "bucket_start": 1500,
+    "label": "1500 AD - 1550 AD",
+    "n_samples": 91
+  },
+  {
+    "bucket_start": 1550,
+    "label": "1550 AD - 1600 AD",
+    "n_samples": 87
+  },
+  {
+    "bucket_start": 1600,
+    "label": "1600 AD - 1650 AD",
+    "n_samples": 137
+  },
+  {
+    "bucket_start": 1650,
+    "label": "1650 AD - 1700 AD",
+    "n_samples": 261
+  },
+  {
+    "bucket_start": 1700,
+    "label": "1700 AD - 1750 AD",
+    "n_samples": 385
+  },
+  {
+    "bucket_start": 1750,
+    "label": "1750 AD - 1800 AD",
+    "n_samples": 690
+  },
+  {
+    "bucket_start": 1800,
+    "label": "1800 AD - 1850 AD",
+    "n_samples": 471
+  },
+  {
+    "bucket_start": 1850,
+    "label": "1850 AD - 1900 AD",
+    "n_samples": 230
+  },
+  {
+    "bucket_start": 1900,
+    "label": "1900 AD - 1950 AD",
+    "n_samples": 21
+  },
+  {
+    "bucket_start": 1950,
+    "label": "1950 AD - 2000 AD",
+    "n_samples": 11
+  },
+  {
+    "bucket_start": 2000,
+    "label": "2000 AD - 2050 AD",
+    "n_samples": 5
+  }
+]

@@ -1,0 +1,179 @@
+{
+  "bucket_start": 1900,
+  "label": "1900 AD - 1950 AD",
+  "n_samples": 21,
+  "composition": {
+    "Tall": 90.5,
+    "Ek": 9.5
+  },
+  "points": [
+    {
+      "site_id": 4081,
+      "site_name": "Lassor",
+      "lat": 57.9708347187,
+      "lon": 19.2317309103,
+      "species": "Tall",
+      "year": 1916
+    },
+    {
+      "site_id": 4081,
+      "site_name": "Lassor",
+      "lat": 57.9708347187,
+      "lon": 19.2317309103,
+      "species": "Tall",
+      "year": 1915
+    },
+    {
+      "site_id": 4081,
+      "site_name": "Lassor",
+      "lat": 57.9708347187,
+      "lon": 19.2317309103,
+      "species": "Tall",
+      "year": 1916
+    },
+    {
+      "site_id": 3837,
+      "site_name": "Åby",
+      "lat": 56.0570831082,
+      "lon": 14.4880012647,
+      "species": "Tall",
+      "year": 1907
+    },
+    {
+      "site_id": 4081,
+      "site_name": "Lassor",
+      "lat": 57.9708347187,
+      "lon": 19.2317309103,
+      "species": "Tall",
+      "year": 1915
+    },
+    {
+      "site_id": 3837,
+      "site_name": "Åby",
+      "lat": 56.0570831082,
+      "lon": 14.4880012647,
+      "species": "Tall",
+      "year": 1907
+    },
+    {
+      "site_id": 3837,
+      "site_name": "Åby",
+      "lat": 56.0570831082,
+      "lon": 14.4880012647,
+      "species": "Tall",
+      "year": 1901
+    },
+    {
+      "site_id": 3837,
+      "site_name": "Åby",
+      "lat": 56.0570831082,
+      "lon": 14.4880012647,
+      "species": "Tall",
+      "year": 1907
+    },
+    {
+      "site_id": 4000,
+      "site_name": "Spargott",
+      "lat": 55.9426474373,
+      "lon": 12.9631975336,
+      "species": "Tall",
+      "year": 1923
+    },
+    {
+      "site_id": 4084,
+      "site_name": "Kärnan",
+      "lat": 56.0482731299,
+      "lon": 12.6975215329,
+      "species": "Ek",
+      "year": 1949
+    },
+    {
+      "site_id": 4081,
+      "site_name": "Lassor",
+      "lat": 57.9708347187,
+      "lon": 19.2317309103,
+      "species": "Tall",
+      "year": 1916
+    },
+    {
+      "site_id": 4081,
+      "site_name": "Lassor",
+      "lat": 57.9708347187,
+      "lon": 19.2317309103,
+      "species": "Tall",
+      "year": 1916
+    },
+    {
+      "site_id": 4081,
+      "site_name": "Lassor",
+      "lat": 57.9708347187,
+      "lon": 19.2317309103,
+      "species": "Tall",
+      "year": 1916
+    },
+    {
+      "site_id": 3837,
+      "site_name": "Åby",
+      "lat": 56.0570831082,
+      "lon": 14.4880012647,
+      "species": "Tall",
+      "year": 1905
+    },
+    {
+      "site_id": 4197,
+      "site_name": "Brönnestads kyrka",
+      "lat": 56.0801435964,
+      "lon": 13.6984040659,
+      "species": "Ek",
+      "year": 1921
+    },
+    {
+      "site_id": 3837,
+      "site_name": "Åby",
+      "lat": 56.0570831082,
+      "lon": 14.4880012647,
+      "species": "Tall",
+      "year": 1903
+    },
+    {
+      "site_id": 3837,
+      "site_name": "Åby",
+      "lat": 56.0570831082,
+      "lon": 14.4880012647,
+      "species": "Tall",
+      "year": 1902
+    },
+    {
+      "site_id": 4081,
+      "site_name": "Lassor",
+      "lat": 57.9708347187,
+      "lon": 19.2317309103,
+      "species": "Tall",
+      "year": 1916
+    },
+    {
+      "site_id": 4081,
+      "site_name": "Lassor",
+      "lat": 57.9708347187,
+      "lon": 19.2317309103,
+      "species": "Tall",
+      "year": 1916
+    },
+    {
+      "site_id": 4081,
+      "site_name": "Lassor",
+      "lat": 57.9708347187,
+      "lon": 19.2317309103,
+      "species": "Tall",
+      "year": 1916
+    },
+    {
+      "site_id": 3837,
+      "site_name": "Åby",
+      "lat": 56.0570831082,
+      "lon": 14.4880012647,
+      "species": "Tall",
+      "year": 1907
+    }
+  ]
+}

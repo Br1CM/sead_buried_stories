@@ -18,7 +18,7 @@ export function PeriodTimeline({ periods, activeIndex, onChange }: PeriodTimelin
           className={`shrink-0 rounded-full border px-4 py-2 text-sm transition-colors ${
             i === activeIndex
               ? "border-accent bg-accent text-black"
-              : "border-white/15 bg-white/[0.03] text-white/70 hover:border-white/30"
+              : "border-ink-15 bg-ink-3 text-ink-70 hover:border-ink-30"
           }`}
         >
           {p.name}

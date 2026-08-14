@@ -1,0 +1,18 @@
+{
+  "bucket_start": 900,
+  "label": "900 AD - 950 AD",
+  "n_samples": 1,
+  "composition": {
+    "Ek": 100.0
+  },
+  "points": [
+    {
+      "site_id": 4185,
+      "site_name": "Eke kyrka",
+      "lat": 57.168046693,
+      "lon": 18.3791792559,
+      "species": "Ek",
+      "year": 920
+    }
+  ]
+}

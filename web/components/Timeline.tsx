@@ -56,8 +56,8 @@ export function Timeline({ stops, activeIndex, onChange }: TimelineProps) {
       {active && (
         <div className="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1 text-sm">
           <span className="font-medium">{active.site_name}</span>
-          <span className="text-white/50">{active.label}</span>
-          <span className="text-white/40">
+          <span className="text-ink-50">{active.label}</span>
+          <span className="text-ink-40">
             stop {activeIndex + 1} of {stops.length} · {active.n_finds} finds here
           </span>
         </div>
