@@ -502,5 +502,177 @@
     "license": "CC BY-SA 3.0",
     "creator": "Alexandru Baboş",
     "source": "Wikimedia Commons"
+  },
+  "Kullerstads kyrka": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Kullerstads_kyrka%2C_den_21_december_2008%2C_bild_11.JPG?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Kullerstads kyrka",
+    "license": "CC BY-SA 3.0",
+    "creator": "Västgöten",
+    "source": "Wikimedia Commons"
+  },
+  "Hakarps kyrka": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Hakarps_kyrka2.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Hakarps kyrka",
+    "license": "CC BY-SA 3.0",
+    "creator": "Tanzania",
+    "source": "Wikimedia Commons"
+  },
+  "Visseltofta kyrka": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Visseltofta_kyrka_oktober_2013-2.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Visseltofta kyrka",
+    "license": "CC0",
+    "creator": "This image was produced by me, David Castor (user:dcastor). The pictures I submit to the Wikipedia Project are released to the public domain. This gives you the right to use them in any way you like, without any kind of notification. This said, I would still appreciate to be mentioned as the originator whenever you think it complies well with your use of the picture. A message to me  about how it has been used would also be welcome. You are obviously not required to respond to these wishes of mine, just in a friendly manner encouraged to. (All my photos are placed in Category:Images by David Castor or a subcategory thereof.)",
+    "source": "Wikimedia Commons"
+  },
+  "Särslövs kyrka": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/S%C3%A4rsl%C3%B6vs_kyrka_2016.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Särslövs kyrka",
+    "license": "CC BY-SA 4.0",
+    "creator": "Jorchr",
+    "source": "Wikimedia Commons"
+  },
+  "Brönnestads kyrka": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Br%C3%B6nnestads_kyrka_20120404-83.JPG?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Brönnestads kyrka",
+    "license": "CC BY-SA 3.0",
+    "creator": "Hans A. Rosbach",
+    "source": "Wikimedia Commons"
+  },
+  "Önsbo": null,
+  "Väster Lakbäck": null,
+  "Rydboholms slott": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Rydboholms_slott_Vasatorn_1997.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Rydboholms slott",
+    "license": "CC BY 4.0",
+    "creator": "Bengt A Lundberg",
+    "source": "Wikimedia Commons"
+  },
+  "Bjärsjöholms slott": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bj%C3%A4rsj%C3%B6holms_slott.JPG?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Bjärsjöholms slott",
+    "license": "CC BY-SA 3.0",
+    "creator": "User Jorchr on sv.wikipedia",
+    "source": "Wikimedia Commons"
+  },
+  "Berkinge Herrgård": null,
+  "Kvarteret Garvaren": null,
+  "Gammelgarn kyrka": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Gammelgarns_kyrka_view02.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Gammelgarns socken",
+    "license": "CC BY 2.5",
+    "creator": "Håkan Svensson (Xauxa)",
+    "source": "Wikimedia Commons"
+  },
+  "Fleringe kyrka": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Fleringe_kyrka.JPG?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Fleringe kyrka",
+    "license": "CC BY-SA 3.0",
+    "creator": "Bengt Oberger",
+    "source": "Wikimedia Commons"
+  },
+  "Kvarteret Boktryckaren": null,
+  "Smedstorps slott": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Swedish_castle_Smedstorp.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Smedstorps slott",
+    "license": "CC BY-SA 3.0",
+    "creator": "jorchr",
+    "source": "Wikimedia Commons"
+  },
+  "Kvarteret Kommendanten": null,
+  "Halls fiskeläge": null,
+  "Hagby kyrka": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Hagby_kyrka_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Hagby",
+    "license": "CC BY-SA 4.0",
+    "creator": "Bernt Fransson,Lindås",
+    "source": "Wikimedia Commons"
+  },
+  "Ulriksdals slott": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Ulriksdals_slott_och_park_2011.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Ulriksdals slott",
+    "license": "CC BY-SA 3.0",
+    "creator": "Holger.Ellgaard",
+    "source": "Wikimedia Commons"
+  },
+  "Visby domkyrka": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Visby_cathedral_%2829796477974%29.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Visby domkyrka",
+    "license": "CC BY-SA 2.0",
+    "creator": "Susanne Nilsson",
+    "source": "Wikimedia Commons"
+  },
+  "Fornminnesgården": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Eksj%C3%B6_Arendt_Byggm%C3%A4stares_gata.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Fornminnesgården",
+    "license": "CC BY-SA 3.0",
+    "creator": "Boberger",
+    "source": "Wikimedia Commons"
+  },
+  "Pedersborg": null,
+  "Bisslinge gård": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Bisslinge_g%C3%A5rd_2018a.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Bisslinge herrgård",
+    "license": "CC BY-SA 4.0",
+    "creator": "Holger.Ellgaard",
+    "source": "Wikimedia Commons"
+  },
+  "Noors Herrgård": null,
+  "Gimo Herrgård": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Gimo_Herrg%C3%A5rd.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Gimo herrgård",
+    "license": "CC BY-SA 3.0",
+    "creator": "Jan Ainali",
+    "source": "Wikimedia Commons"
+  },
+  "Västergård": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Stockholm_archipelago_V%C3%A4sterg%C3%A5rd_01.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Västergård",
+    "license": "CC BY-SA 4.0",
+    "creator": "Ad Meskens",
+    "source": "Wikimedia Commons"
+  },
+  "Hunnebergsgatan 30A": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Hunnebergsgatan_i_Link%C3%B6ping.JPG?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Hunnebergsgatan",
+    "license": "Copyrighted free use",
+    "creator": "Fotografiet taget under Kruosios och sv:Mannen av börds sightseeing i Linköping 2006-06-09. Någon av dessa är upphovsman, och tillåter frianvändning av bilden.",
+    "source": "Wikimedia Commons"
+  },
+  "Tuntorps gård": null,
+  "Östrabo biskopsgård": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/%C3%96strabo_biskopsg%C3%A5rd-2012-07-17_1.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Östrabo",
+    "license": "CC BY-SA 3.0",
+    "creator": "MikaelLindmark",
+    "source": "Wikimedia Commons"
+  },
+  "Borntorp": null,
+  "Kungsholms kyrka/Ulrika Eleonora kyrka": null,
+  "Lilla Rotsunda": null,
+  "Grönsö gård": null,
+  "Björkenäs": null,
+  "Grindstu": null,
+  "Mortorps kyrka": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Mortorps_kyrka03.JPG?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Mortorps kyrka",
+    "license": "CC BY-SA 3.0",
+    "creator": "Bernt Fransson,Lindås",
+    "source": "Wikimedia Commons"
+  },
+  "Fåglarp": null,
+  "Viby gård": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Viby_g%C3%A5rd_2015b.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Viby gård",
+    "license": "CC BY-SA 4.0",
+    "creator": "Holger.Ellgaard",
+    "source": "Wikimedia Commons"
+  },
+  "Skedshult": null,
+  "Jönköpings regemente": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/J%C3%B6nk%C3%B6pings_vapen.svg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Jönköpings regemente",
+    "license": "CC BY-SA 3.0",
+    "creator": "Leonid 2",
+    "source": "Wikimedia Commons"
   }
 }

@@ -9,6 +9,8 @@ import argparse
 import json
 import os
 
+import pandas as pd
+
 from config import WEB_DATA_DIR
 from dating import ad_label
 from db import get_engine, query
@@ -61,13 +63,30 @@ def main():
     species_map = dict(zip(species_df["physical_sample_id"], species_df["species"]))
     df["species"] = df["physical_sample_id"].map(species_map)
 
-    # Curate for variety: at most 3 per site, spread across the full time range, capped at --limit
+    # Curate for variety: at most 3 per site, spread across the full time range, capped at --limit.
+    # February felling is real but rare (~1.4% of season-precise samples) -- evenly-spaced
+    # sampling from the full pool tends to land on zero of them by chance, making the curated
+    # set look like felling only ever happened in March. Guarantee a few February examples a
+    # seat so the story doesn't undersell its own record.
     df = df.sort_values("felling_year")
     df["site_rank"] = df.groupby("site_id").cumcount()
     curated = df[df["site_rank"] < 3].copy()
-    if len(curated) > args.limit:
-        step = len(curated) / args.limit
-        curated = curated.iloc[[int(i * step) for i in range(args.limit)]]
+
+    FEB_SHOWCASE = 3
+
+    def evenly_sample(rows, n):
+        if n <= 0 or len(rows) == 0:
+            return rows.iloc[0:0]
+        if len(rows) <= n:
+            return rows
+        step = len(rows) / n
+        return rows.iloc[[int(i * step) for i in range(n)]]
+
+    feb = curated[curated["season_name"] == "February"]
+    rest = curated[curated["season_name"] != "February"]
+    feb_selected = evenly_sample(feb, FEB_SHOWCASE)
+    rest_selected = evenly_sample(rest, args.limit - len(feb_selected))
+    curated = pd.concat([feb_selected, rest_selected]).sort_values("felling_year")
 
     photo_cache = load_photo_cache()
     timber_dir = os.path.join(WEB_DATA_DIR, "timber-precise")
