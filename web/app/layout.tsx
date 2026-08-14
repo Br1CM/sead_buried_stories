@@ -73,7 +73,7 @@ export default function RootLayout({
         <main className="flex-1 flex flex-col">{children}</main>
         <footer className="flex flex-col items-center gap-3 border-t border-ink-10 px-6 py-6 text-center text-xs text-ink-40">
           <a href="https://www.sead.se" target="_blank" rel="noopener noreferrer">
-            <Image src="/sead-logo.png" alt="SEAD" width={109} height={36} className="opacity-70 transition-opacity hover:opacity-100" />
+            <Image src="/sead_logo_big.png" alt="SEAD" width={280} height={158} className="opacity-80 transition-opacity hover:opacity-100" />
           </a>
           <span>
             Built on data from the{" "}
