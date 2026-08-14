@@ -6,6 +6,7 @@ import type {
   ClimatePoint,
   SiteDetail,
   SiteIndexEntry,
+  SitePhoto,
   SpeciesDetail,
   SpeciesIndexEntry,
   TimberPreciseSample,
@@ -86,4 +87,8 @@ export function getAllTimberSpeciesBuckets(): TimberSpeciesBucketDetail[] {
 
 export function getSisterClusters(): SisterCluster[] {
   return readJson<SisterCluster[]>("timber-sisters/index.json") ?? [];
+}
+
+export function getClayChroniclesPhoto(): SitePhoto | null {
+  return readJson<SitePhoto>("hubs/clay-chronicles.json");
 }

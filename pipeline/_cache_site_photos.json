@@ -319,7 +319,7 @@
     "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Glimmingehus_-_KMB_-_16000300021192.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
     "depicts": "Glimmingehus",
     "license": "CC BY 2.5",
-    "creator": "{{{artist}}}",
+    "creator": null,
     "source": "Wikimedia Commons"
   },
   "Rogslösa kyrka": {

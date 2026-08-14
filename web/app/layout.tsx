@@ -54,20 +54,17 @@ export default function RootLayout({
               <Image src="/sead-logo.png" alt="SEAD" width={73} height={24} className="opacity-80" />
             </Link>
             <div className="flex flex-wrap items-center gap-x-5 gap-y-1 text-sm text-ink-70">
-              <Link href="/species" className="whitespace-nowrap hover:text-foreground transition-colors">
-                Species Path
+              <Link href="/six-legged-sagas" className="whitespace-nowrap hover:text-foreground transition-colors">
+                Six-Legged Sagas
               </Link>
-              <Link href="/ceramics" className="whitespace-nowrap hover:text-foreground transition-colors">
-                Ceramics
-              </Link>
-              <Link href="/climate" className="whitespace-nowrap hover:text-foreground transition-colors">
-                Thermometer
-              </Link>
-              <Link href="/sites" className="whitespace-nowrap hover:text-foreground transition-colors">
-                Dig One Spot
+              <Link href="/clay-chronicles" className="whitespace-nowrap hover:text-foreground transition-colors">
+                Clay Chronicles
               </Link>
               <Link href="/timber" className="whitespace-nowrap hover:text-foreground transition-colors">
                 Timber Tales
+              </Link>
+              <Link href="/stories" className="whitespace-nowrap hover:text-foreground transition-colors">
+                All Stories
               </Link>
               <ThemeToggle />
             </div>

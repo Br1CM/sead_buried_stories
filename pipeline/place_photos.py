@@ -37,7 +37,14 @@ def _strip_html(value: str | None) -> str | None:
     if not value:
         return None
     text = html.unescape(re.sub(r"<[^>]+>", "", value)).strip()
-    return text or None
+    if not text:
+        return None
+    # Some Commons file pages transclude a Creator/Artist template whose
+    # parameter was never filled in, leaving a literal unresolved placeholder
+    # like "{{{artist}}}" in the extmetadata instead of a real name.
+    if re.fullmatch(r"\{\{\{[^{}]*\}\}\}", text):
+        return None
+    return text
 
 
 def candidate_titles(site_name: str) -> list[str]:
