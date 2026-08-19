@@ -107,6 +107,15 @@ export interface ClimatePoint {
   n_samples: number;
 }
 
+export interface ClimateSpeciesIndexEntry {
+  taxon_id: number;
+  common_name_en: string | null;
+  scientific_name: string;
+  image: ImageCredit | null;
+  n_samples: number;
+  n_buckets: number;
+}
+
 export interface TimberRingYear {
   year: number;
   label: string;

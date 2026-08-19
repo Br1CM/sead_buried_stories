@@ -1,0 +1,314 @@
+[
+  {
+    "taxon_id": 30637,
+    "common_name_en": "Rove beetle",
+    "scientific_name": "Anotylus rugosus",
+    "image": {
+      "url": "https://images.naturalis.nl/original/151604_1.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "n_samples": 1084,
+    "n_buckets": 48
+  },
+  {
+    "taxon_id": 29902,
+    "common_name_en": null,
+    "scientific_name": "Megasternum obscurum",
+    "image": {
+      "url": "https://live.staticflickr.com/65535/53783142254_abddcfeeee_b.jpg",
+      "license": "Copyright by the creator. For license and creator details, see https://nabu-naturgucker-beobachtungen.de/?sprache=en&bild=1605760492.",
+      "creator": null,
+      "source": "GBIF"
+    },
+    "n_samples": 949,
+    "n_buckets": 43
+  },
+  {
+    "taxon_id": 29915,
+    "common_name_en": null,
+    "scientific_name": "Hydrobius fuscipes",
+    "image": {
+      "url": "https://images.naturalis.nl/original/151901_hydrophilidae_hydrobius_fuscipes_roodpootwaterkever_5-8-2016_zoetermeer.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Louis Westgeest",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "n_samples": 876,
+    "n_buckets": 50
+  },
+  {
+    "taxon_id": 29771,
+    "common_name_en": null,
+    "scientific_name": "Ochthebius minimus",
+    "image": {
+      "url": "https://images.naturalis.nl/original/110659_1.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "n_samples": 744,
+    "n_buckets": 52
+  },
+  {
+    "taxon_id": 29632,
+    "common_name_en": null,
+    "scientific_name": "Agabus bipustulatus",
+    "image": {
+      "url": "https://images.naturalis.nl/original/189721.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "n_samples": 710,
+    "n_buckets": 58
+  },
+  {
+    "taxon_id": 28987,
+    "common_name_en": null,
+    "scientific_name": "Dyschirius globosus",
+    "image": {
+      "url": "https://images.naturalis.nl/original/198486.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "n_samples": 599,
+    "n_buckets": 48
+  },
+  {
+    "taxon_id": 30547,
+    "common_name_en": null,
+    "scientific_name": "Lesteva longoelytrata",
+    "image": {
+      "url": "https://images.naturalis.nl/original/96201_p1110818.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "n_samples": 592,
+    "n_buckets": 45
+  },
+  {
+    "taxon_id": 30644,
+    "common_name_en": null,
+    "scientific_name": "Anotylus nitidulus",
+    "image": {
+      "url": "https://11.ilstatic.hu/images/2025-06/r1748809183349_7564578081.jpg",
+      "license": "CC BY 4.0",
+      "creator": "Tóth Norbert",
+      "source": "GBIF"
+    },
+    "n_samples": 561,
+    "n_buckets": 28
+  },
+  {
+    "taxon_id": 29253,
+    "common_name_en": "Smooth-chested Blackclock",
+    "scientific_name": "Pterostichus diligens",
+    "image": {
+      "url": "https://images.naturalis.nl/original/115416_f.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "n_samples": 525,
+    "n_buckets": 55
+  },
+  {
+    "taxon_id": 30658,
+    "common_name_en": null,
+    "scientific_name": "Platystethus arenarius",
+    "image": {
+      "url": "https://zenodo.org/record/245615/files/figure.png",
+      "license": null,
+      "creator": "Lü, Liang;Zhou, Hong-Zhang",
+      "source": "Zenodo"
+    },
+    "n_samples": 501,
+    "n_buckets": 24
+  },
+  {
+    "taxon_id": 29867,
+    "common_name_en": null,
+    "scientific_name": "Coelostoma orbiculare",
+    "image": {
+      "url": "https://images.naturalis.nl/original/198485.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "n_samples": 477,
+    "n_buckets": 46
+  },
+  {
+    "taxon_id": 30532,
+    "common_name_en": null,
+    "scientific_name": "Eucnecosum brachypterum",
+    "image": {
+      "url": "https://www.artsobservasjoner.no/MediaLibrary/2023/5/267db8c8-4f22-4fc8-8694-178dcc049e56_image.jpg",
+      "license": "© All rights reserved",
+      "creator": "Bjarte Aadland",
+      "source": "GBIF"
+    },
+    "n_samples": 381,
+    "n_buckets": 25
+  },
+  {
+    "taxon_id": 30538,
+    "common_name_en": "Crenate Ocellate Rove Beetle",
+    "scientific_name": "Acidota crenata",
+    "image": {
+      "url": "https://binary.pensoft.net/fig/889172",
+      "license": null,
+      "creator": "Chen, Xi;Xu, Yong-Qiang;Peng, Zhong",
+      "source": "Zenodo"
+    },
+    "n_samples": 356,
+    "n_buckets": 38
+  },
+  {
+    "taxon_id": 30641,
+    "common_name_en": null,
+    "scientific_name": "Anotylus sculpturatus",
+    "image": {
+      "url": "https://11.ilstatic.hu/images/2026-02/r1771943251579_7236023265.jpg",
+      "license": "CC BY 4.0",
+      "creator": "Gulyás Szilvia",
+      "source": "GBIF"
+    },
+    "n_samples": 329,
+    "n_buckets": 20
+  },
+  {
+    "taxon_id": 29263,
+    "common_name_en": "Lesser Blackclock",
+    "scientific_name": "Pterostichus minor",
+    "image": {
+      "url": "https://images.naturalis.nl/original/136708.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "n_samples": 321,
+    "n_buckets": 39
+  },
+  {
+    "taxon_id": 29963,
+    "common_name_en": null,
+    "scientific_name": "Chaetarthria seminulum",
+    "image": {
+      "url": "https://images.naturalis.nl/original/151160_14.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "n_samples": 312,
+    "n_buckets": 33
+  },
+  {
+    "taxon_id": 29305,
+    "common_name_en": null,
+    "scientific_name": "Calathus melanocephalus",
+    "image": {
+      "url": "https://images.naturalis.nl/original/143174_calathus_melanocephalus_2.jpg",
+      "license": "CC BY",
+      "creator": "Martien van den Heuvel",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "n_samples": 308,
+    "n_buckets": 27
+  },
+  {
+    "taxon_id": 30522,
+    "common_name_en": null,
+    "scientific_name": "Olophrum fuscum",
+    "image": {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622061038/original.jpg",
+      "license": "CC BY-NC 4.0",
+      "creator": "Michał Górski",
+      "source": "iNaturalist"
+    },
+    "n_samples": 307,
+    "n_buckets": 35
+  },
+  {
+    "taxon_id": 30915,
+    "common_name_en": "Broken-horned Rove Beetle",
+    "scientific_name": "Gyrohypnus fracticornis",
+    "image": {
+      "url": "https://images.naturalis.nl/original/140808_12.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "n_samples": 294,
+    "n_buckets": 16
+  },
+  {
+    "taxon_id": 29692,
+    "common_name_en": null,
+    "scientific_name": "Colymbetes fuscus",
+    "image": {
+      "url": "https://images.naturalis.nl/original/145069_bruine_duiker_3.jpg",
+      "license": "CC BY",
+      "creator": "Martien van den Heuvel",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "n_samples": 291,
+    "n_buckets": 33
+  },
+  {
+    "taxon_id": 29252,
+    "common_name_en": null,
+    "scientific_name": "Pterostichus strenuus",
+    "image": {
+      "url": "https://images.naturalis.nl/original/136710.jpg",
+      "license": "CC BY",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "n_samples": 289,
+    "n_buckets": 35
+  },
+  {
+    "taxon_id": 29268,
+    "common_name_en": "Coal-runner",
+    "scientific_name": "Pterostichus melanarius",
+    "image": {
+      "url": "https://images.naturalis.nl/original/138325_11.jpg",
+      "license": "CC BY-NC-ND",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "n_samples": 282,
+    "n_buckets": 26
+  },
+  {
+    "taxon_id": 29746,
+    "common_name_en": null,
+    "scientific_name": "Hydraena riparia",
+    "image": {
+      "url": "https://images.naturalis.nl/original/128633_hr.jpg",
+      "license": "CC BY-NC",
+      "creator": "Dick Belgers",
+      "source": "Checklist Dutch Species Register - Nederlands Soortenregister"
+    },
+    "n_samples": 264,
+    "n_buckets": 37
+  },
+  {
+    "taxon_id": 30670,
+    "common_name_en": null,
+    "scientific_name": "Platystethus nitens",
+    "image": {
+      "url": "https://zenodo.org/record/245634/files/figure.png",
+      "license": null,
+      "creator": "Lü, Liang;Zhou, Hong-Zhang",
+      "source": "Zenodo"
+    },
+    "n_samples": 251,
+    "n_buckets": 19
+  }
+]

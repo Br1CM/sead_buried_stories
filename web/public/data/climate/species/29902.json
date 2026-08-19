@@ -1,0 +1,346 @@
+[
+  {
+    "age_bp": 13250.0,
+    "label": "11300 BC",
+    "reconstructed_tmax_c": 14.0,
+    "range_low_c": 5.5,
+    "range_high_c": 22.0,
+    "n_samples": 1
+  },
+  {
+    "age_bp": 13000.0,
+    "label": "11050 BC",
+    "reconstructed_tmax_c": 16.6,
+    "range_low_c": 8.7,
+    "range_high_c": 24.2,
+    "n_samples": 1
+  },
+  {
+    "age_bp": 12750.0,
+    "label": "10800 BC",
+    "reconstructed_tmax_c": 15.7,
+    "range_low_c": 8.9,
+    "range_high_c": 22.3,
+    "n_samples": 2
+  },
+  {
+    "age_bp": 11750.0,
+    "label": "9800 BC",
+    "reconstructed_tmax_c": 15.6,
+    "range_low_c": 8.6,
+    "range_high_c": 22.4,
+    "n_samples": 16
+  },
+  {
+    "age_bp": 11500.0,
+    "label": "9550 BC",
+    "reconstructed_tmax_c": 16.0,
+    "range_low_c": 8.6,
+    "range_high_c": 23.4,
+    "n_samples": 1
+  },
+  {
+    "age_bp": 11250.0,
+    "label": "9300 BC",
+    "reconstructed_tmax_c": 18.1,
+    "range_low_c": 9.9,
+    "range_high_c": 26.2,
+    "n_samples": 2
+  },
+  {
+    "age_bp": 11000.0,
+    "label": "9050 BC",
+    "reconstructed_tmax_c": 18.1,
+    "range_low_c": 9.8,
+    "range_high_c": 26.5,
+    "n_samples": 1
+  },
+  {
+    "age_bp": 10750.0,
+    "label": "8800 BC",
+    "reconstructed_tmax_c": 16.6,
+    "range_low_c": 9.6,
+    "range_high_c": 23.4,
+    "n_samples": 2
+  },
+  {
+    "age_bp": 10500.0,
+    "label": "8550 BC",
+    "reconstructed_tmax_c": 18.8,
+    "range_low_c": 9.0,
+    "range_high_c": 28.8,
+    "n_samples": 1
+  },
+  {
+    "age_bp": 10250.0,
+    "label": "8300 BC",
+    "reconstructed_tmax_c": 19.0,
+    "range_low_c": 9.0,
+    "range_high_c": 28.5,
+    "n_samples": 1
+  },
+  {
+    "age_bp": 9750.0,
+    "label": "7800 BC",
+    "reconstructed_tmax_c": 18.5,
+    "range_low_c": 8.5,
+    "range_high_c": 28.4,
+    "n_samples": 1
+  },
+  {
+    "age_bp": 9500.0,
+    "label": "7550 BC",
+    "reconstructed_tmax_c": 19.5,
+    "range_low_c": 9.9,
+    "range_high_c": 28.9,
+    "n_samples": 3
+  },
+  {
+    "age_bp": 8500.0,
+    "label": "6550 BC",
+    "reconstructed_tmax_c": 18.2,
+    "range_low_c": 9.7,
+    "range_high_c": 26.4,
+    "n_samples": 3
+  },
+  {
+    "age_bp": 8250.0,
+    "label": "6300 BC",
+    "reconstructed_tmax_c": 18.3,
+    "range_low_c": 10.2,
+    "range_high_c": 26.3,
+    "n_samples": 2
+  },
+  {
+    "age_bp": 7750.0,
+    "label": "5800 BC",
+    "reconstructed_tmax_c": 16.6,
+    "range_low_c": 9.0,
+    "range_high_c": 24.3,
+    "n_samples": 1
+  },
+  {
+    "age_bp": 7250.0,
+    "label": "5300 BC",
+    "reconstructed_tmax_c": 18.6,
+    "range_low_c": 10.1,
+    "range_high_c": 26.8,
+    "n_samples": 2
+  },
+  {
+    "age_bp": 7000.0,
+    "label": "5050 BC",
+    "reconstructed_tmax_c": 18.4,
+    "range_low_c": 10.4,
+    "range_high_c": 25.9,
+    "n_samples": 7
+  },
+  {
+    "age_bp": 6500.0,
+    "label": "4550 BC",
+    "reconstructed_tmax_c": 19.0,
+    "range_low_c": 10.0,
+    "range_high_c": 27.0,
+    "n_samples": 1
+  },
+  {
+    "age_bp": 6250.0,
+    "label": "4300 BC",
+    "reconstructed_tmax_c": 18.6,
+    "range_low_c": 10.6,
+    "range_high_c": 26.3,
+    "n_samples": 2
+  },
+  {
+    "age_bp": 6000.0,
+    "label": "4050 BC",
+    "reconstructed_tmax_c": 18.6,
+    "range_low_c": 10.4,
+    "range_high_c": 26.8,
+    "n_samples": 6
+  },
+  {
+    "age_bp": 5750.0,
+    "label": "3800 BC",
+    "reconstructed_tmax_c": 18.7,
+    "range_low_c": 10.7,
+    "range_high_c": 26.5,
+    "n_samples": 1
+  },
+  {
+    "age_bp": 5500.0,
+    "label": "3550 BC",
+    "reconstructed_tmax_c": 19.5,
+    "range_low_c": 10.2,
+    "range_high_c": 28.1,
+    "n_samples": 2
+  },
+  {
+    "age_bp": 5250.0,
+    "label": "3300 BC",
+    "reconstructed_tmax_c": 19.9,
+    "range_low_c": 11.4,
+    "range_high_c": 28.2,
+    "n_samples": 10
+  },
+  {
+    "age_bp": 5000.0,
+    "label": "3050 BC",
+    "reconstructed_tmax_c": 18.6,
+    "range_low_c": 10.6,
+    "range_high_c": 26.3,
+    "n_samples": 107
+  },
+  {
+    "age_bp": 4750.0,
+    "label": "2800 BC",
+    "reconstructed_tmax_c": 18.6,
+    "range_low_c": 10.7,
+    "range_high_c": 26.5,
+    "n_samples": 2
+  },
+  {
+    "age_bp": 4500.0,
+    "label": "2550 BC",
+    "reconstructed_tmax_c": 19.1,
+    "range_low_c": 10.8,
+    "range_high_c": 27.3,
+    "n_samples": 24
+  },
+  {
+    "age_bp": 4250.0,
+    "label": "2300 BC",
+    "reconstructed_tmax_c": 19.1,
+    "range_low_c": 11.0,
+    "range_high_c": 27.1,
+    "n_samples": 3
+  },
+  {
+    "age_bp": 3750.0,
+    "label": "1800 BC",
+    "reconstructed_tmax_c": 20.2,
+    "range_low_c": 11.6,
+    "range_high_c": 28.7,
+    "n_samples": 4
+  },
+  {
+    "age_bp": 3500.0,
+    "label": "1550 BC",
+    "reconstructed_tmax_c": 19.1,
+    "range_low_c": 10.0,
+    "range_high_c": 27.9,
+    "n_samples": 7
+  },
+  {
+    "age_bp": 3250.0,
+    "label": "1300 BC",
+    "reconstructed_tmax_c": 19.1,
+    "range_low_c": 10.3,
+    "range_high_c": 27.5,
+    "n_samples": 31
+  },
+  {
+    "age_bp": 3000.0,
+    "label": "1050 BC",
+    "reconstructed_tmax_c": 19.2,
+    "range_low_c": 10.9,
+    "range_high_c": 27.3,
+    "n_samples": 6
+  },
+  {
+    "age_bp": 2750.0,
+    "label": "800 BC",
+    "reconstructed_tmax_c": 19.5,
+    "range_low_c": 10.9,
+    "range_high_c": 28.1,
+    "n_samples": 34
+  },
+  {
+    "age_bp": 2500.0,
+    "label": "550 BC",
+    "reconstructed_tmax_c": 18.5,
+    "range_low_c": 10.1,
+    "range_high_c": 26.6,
+    "n_samples": 75
+  },
+  {
+    "age_bp": 2250.0,
+    "label": "300 BC",
+    "reconstructed_tmax_c": 19.1,
+    "range_low_c": 10.3,
+    "range_high_c": 27.5,
+    "n_samples": 52
+  },
+  {
+    "age_bp": 2000.0,
+    "label": "50 BC",
+    "reconstructed_tmax_c": 19.0,
+    "range_low_c": 10.2,
+    "range_high_c": 27.7,
+    "n_samples": 41
+  },
+  {
+    "age_bp": 1750.0,
+    "label": "200 AD",
+    "reconstructed_tmax_c": 19.7,
+    "range_low_c": 10.9,
+    "range_high_c": 28.2,
+    "n_samples": 54
+  },
+  {
+    "age_bp": 1500.0,
+    "label": "450 AD",
+    "reconstructed_tmax_c": 19.4,
+    "range_low_c": 10.6,
+    "range_high_c": 27.9,
+    "n_samples": 169
+  },
+  {
+    "age_bp": 1250.0,
+    "label": "700 AD",
+    "reconstructed_tmax_c": 19.1,
+    "range_low_c": 10.4,
+    "range_high_c": 27.3,
+    "n_samples": 12
+  },
+  {
+    "age_bp": 1000.0,
+    "label": "950 AD",
+    "reconstructed_tmax_c": 19.2,
+    "range_low_c": 10.4,
+    "range_high_c": 27.5,
+    "n_samples": 36
+  },
+  {
+    "age_bp": 750.0,
+    "label": "1200 AD",
+    "reconstructed_tmax_c": 18.8,
+    "range_low_c": 10.2,
+    "range_high_c": 27.0,
+    "n_samples": 187
+  },
+  {
+    "age_bp": 500.0,
+    "label": "1450 AD",
+    "reconstructed_tmax_c": 18.9,
+    "range_low_c": 10.3,
+    "range_high_c": 27.1,
+    "n_samples": 17
+  },
+  {
+    "age_bp": 250.0,
+    "label": "1700 AD",
+    "reconstructed_tmax_c": 18.9,
+    "range_low_c": 10.2,
+    "range_high_c": 27.2,
+    "n_samples": 9
+  },
+  {
+    "age_bp": 0.0,
+    "label": "1950 AD",
+    "reconstructed_tmax_c": 19.5,
+    "range_low_c": 10.8,
+    "range_high_c": 27.7,
+    "n_samples": 10
+  }
+]

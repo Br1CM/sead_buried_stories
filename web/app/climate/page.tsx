@@ -1,10 +1,15 @@
-import { getClimateSeries } from "@/lib/data";
-import { ClimateChart } from "@/components/ClimateChart";
+import { getClimateSeries, getClimateSpeciesIndex, getClimateSpeciesSeries } from "@/lib/data";
+import { ClimateSpeciesFilter } from "@/components/ClimateSpeciesFilter";
+import type { ClimatePoint } from "@/lib/types";
 
 export const metadata = { title: "The Ancient Thermometer | Buried Stories" };
 
 export default function ClimatePage() {
   const series = getClimateSeries();
+  const speciesIndex = getClimateSpeciesIndex();
+  const speciesSeries = Object.fromEntries(
+    speciesIndex.map((s) => [s.taxon_id, getClimateSpeciesSeries(s.taxon_id)])
+  ) as Record<number, ClimatePoint[]>;
 
   return (
     <div className="mx-auto w-full max-w-6xl px-6 py-10">
@@ -13,15 +18,15 @@ export default function ClimatePage() {
         Beetles are picky: each species only survives within a narrow temperature range.
         So the mix of beetle species preserved in a dated layer brackets how warm that
         summer probably was &mdash; a thermometer built from dead insects. Hover the line
-        to read a moment in time.
+        to read a moment in time, or pick a single species below to see the record built
+        just from the layers it turned up in.
       </p>
-      <div className="mt-8 rounded-2xl border border-ink-10 bg-ink-2 p-6">
-        <ClimateChart series={series} />
-        <p className="mt-4 text-xs text-ink-30">
-          Shaded band shows the spread across all beetle species present at each point;
-          the line is the average estimated summer maximum. Estimates from fewer samples
-          (thin ends of the record) are noisier.
-        </p>
+      <div className="mt-8">
+        <ClimateSpeciesFilter
+          allSeries={series}
+          speciesIndex={speciesIndex}
+          speciesSeries={speciesSeries}
+        />
       </div>
     </div>
   );

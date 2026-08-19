@@ -4,6 +4,7 @@ import type {
   CeramicsPeriodDetail,
   CeramicsPeriodSummary,
   ClimatePoint,
+  ClimateSpeciesIndexEntry,
   SiteDetail,
   SiteIndexEntry,
   SitePhoto,
@@ -49,6 +50,14 @@ export function getAllCeramicsPeriods(): CeramicsPeriodDetail[] {
 
 export function getClimateSeries(): ClimatePoint[] {
   return readJson<ClimatePoint[]>("climate/series.json") ?? [];
+}
+
+export function getClimateSpeciesIndex(): ClimateSpeciesIndexEntry[] {
+  return readJson<ClimateSpeciesIndexEntry[]>("climate/species-index.json") ?? [];
+}
+
+export function getClimateSpeciesSeries(taxonId: number): ClimatePoint[] {
+  return readJson<ClimatePoint[]>(`climate/species/${taxonId}.json`) ?? [];
 }
 
 export function getSitesIndex(): SiteIndexEntry[] {
