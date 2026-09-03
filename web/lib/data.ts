@@ -16,6 +16,7 @@ import type {
   TimberSpeciesBucketDetail,
   TimberSpeciesBucketSummary,
   SisterCluster,
+  ProvenanceShape,
 } from "./types";
 
 const DATA_DIR = path.join(process.cwd(), "public", "data");
@@ -96,6 +97,10 @@ export function getAllTimberSpeciesBuckets(): TimberSpeciesBucketDetail[] {
 
 export function getSisterClusters(): SisterCluster[] {
   return readJson<SisterCluster[]>("timber-sisters/index.json") ?? [];
+}
+
+export function getProvenanceShapes(): Record<string, ProvenanceShape> {
+  return readJson<Record<string, ProvenanceShape>>("timber-sisters/provenance-shapes.json") ?? {};
 }
 
 export function getClayChroniclesPhoto(): SitePhoto | null {

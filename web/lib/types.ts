@@ -178,11 +178,18 @@ export interface SisterCluster {
   provenance: string;
   origin_lat: number;
   origin_lon: number;
+  origin_shape_kind: "landskap" | "approx_circle";
   year_bucket: number;
   label: string;
   n_sites: number;
   max_distance_km: number;
   sites: SisterSite[];
+}
+
+export interface ProvenanceShape {
+  kind: "landskap" | "approx_circle";
+  geometry: GeoJSON.Polygon | GeoJSON.MultiPolygon;
+  area_km2: number;
 }
 
 export interface TimberPreciseSample {

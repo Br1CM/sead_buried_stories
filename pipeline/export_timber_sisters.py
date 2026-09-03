@@ -14,7 +14,7 @@ from config import WEB_DATA_DIR
 from dating import ad_label
 from db import get_engine, query
 from place_photos import get_cached_site_photo, load_photo_cache, save_photo_cache
-from provenance_geo import get_centroid
+from provenance_geo import get_origin_shape
 
 YEAR_BUCKET = 5  # cluster felling years within this many years of each other
 
@@ -90,13 +90,16 @@ def main():
     os.makedirs(sisters_dir, exist_ok=True)
 
     clusters = []
+    shapes_used = {}
     for (provenance, year_bucket), group in df.groupby(["provenance", "year_bucket"]):
         site_ids = group["site_id"].unique()
         if len(site_ids) < 2:
             continue
-        centroid = get_centroid(provenance)
-        if centroid is None:
+        shape = get_origin_shape(provenance)
+        if shape is None:
             continue
+        centroid = shape["centroid"]
+        shapes_used[provenance] = shape
 
         sites = []
         for site_id, sg in group.groupby("site_id"):
@@ -127,6 +130,7 @@ def main():
                 "provenance": provenance,
                 "origin_lat": centroid[0],
                 "origin_lon": centroid[1],
+                "origin_shape_kind": shape["kind"],
                 "year_bucket": int(year_bucket),
                 "label": ad_label(year_bucket),
                 "n_sites": len(sites),
@@ -152,11 +156,22 @@ def main():
     with open(os.path.join(sisters_dir, "index.json"), "w", encoding="utf-8") as f:
         json.dump(clusters, f, ensure_ascii=False, indent=2)
 
+    shapes_out = {
+        provenance: {
+            "kind": shape["kind"],
+            "geometry": shape["geometry"],
+            "area_km2": shape["area_km2"],
+        }
+        for provenance, shape in shapes_used.items()
+    }
+    with open(os.path.join(sisters_dir, "provenance-shapes.json"), "w", encoding="utf-8") as f:
+        json.dump(shapes_out, f, ensure_ascii=False, indent=2)
+
     for c in clusters:
         print(f"  {c['provenance']} ~{c['label']}: {c['n_sites']} sites, "
               f"up to {c['max_distance_km']} km from origin -- {', '.join(s['site_name'] for s in c['sites'])}")
 
-    print(f"Wrote {len(clusters)} clusters to {sisters_dir}")
+    print(f"Wrote {len(clusters)} clusters and {len(shapes_out)} provenance shapes to {sisters_dir}")
 
 
 if __name__ == "__main__":

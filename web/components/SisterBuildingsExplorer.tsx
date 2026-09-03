@@ -5,9 +5,15 @@ import { useState } from "react";
 import { AttributionBadge } from "@/components/AttributionBadge";
 import { SisterBuildingsMap } from "@/components/SisterBuildingsMap";
 import { speciesLabel } from "@/lib/speciesColors";
-import type { SisterCluster } from "@/lib/types";
+import type { ProvenanceShape, SisterCluster } from "@/lib/types";
 
-export function SisterBuildingsExplorer({ clusters }: { clusters: SisterCluster[] }) {
+export function SisterBuildingsExplorer({
+  clusters,
+  shapes,
+}: {
+  clusters: SisterCluster[];
+  shapes: Record<string, ProvenanceShape>;
+}) {
   const [activeIndex, setActiveIndex] = useState(0);
   const active = clusters[activeIndex];
 
@@ -41,8 +47,14 @@ export function SisterBuildingsExplorer({ clusters }: { clusters: SisterCluster[
           </div>
 
           <div className="h-[420px] w-full overflow-hidden rounded-2xl border border-ink-10">
-            <SisterBuildingsMap cluster={active} />
+            <SisterBuildingsMap cluster={active} shape={shapes[active.provenance]} />
           </div>
+          {shapes[active.provenance]?.kind === "approx_circle" && (
+            <p className="text-xs text-ink-40">
+              &ldquo;{active.provenance}&rdquo; isn&apos;t an official province &mdash; the dashed outline is an
+              approximate area, not a real boundary.
+            </p>
+          )}
 
           <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
             {active.sites.map((s) => (

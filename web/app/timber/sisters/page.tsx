@@ -1,10 +1,11 @@
-import { getSisterClusters } from "@/lib/data";
+import { getSisterClusters, getProvenanceShapes } from "@/lib/data";
 import { SisterBuildingsExplorer } from "@/components/SisterBuildingsExplorer";
 
 export const metadata = { title: "Sister Buildings | Buried Stories" };
 
 export default function SisterBuildingsPage() {
   const clusters = getSisterClusters();
+  const shapes = getProvenanceShapes();
 
   return (
     <div className="mx-auto w-full max-w-6xl px-6 py-10">
@@ -16,7 +17,7 @@ export default function SisterBuildingsPage() {
         by accident, in the wood itself.
       </p>
       <div className="mt-8">
-        <SisterBuildingsExplorer clusters={clusters} />
+        <SisterBuildingsExplorer clusters={clusters} shapes={shapes} />
       </div>
     </div>
   );
