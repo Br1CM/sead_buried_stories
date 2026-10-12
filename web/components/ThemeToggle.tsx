@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useSyncExternalStore } from "react";
 
 type Theme = "light" | "dark";
 
@@ -9,19 +9,35 @@ function getSystemTheme(): Theme {
   return window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark";
 }
 
-export function ThemeToggle() {
-  const [theme, setTheme] = useState<Theme | null>(null);
+function getThemeSnapshot(): Theme | null {
+  if (typeof window === "undefined") return null;
+  const stored = localStorage.getItem("theme");
+  return stored === "light" || stored === "dark" ? stored : getSystemTheme();
+}
 
-  useEffect(() => {
-    const stored = localStorage.getItem("theme");
-    setTheme(stored === "light" || stored === "dark" ? stored : getSystemTheme());
-  }, []);
+function subscribeThemeChange(callback: () => void) {
+  if (typeof window === "undefined") return () => {};
+
+  const media = window.matchMedia("(prefers-color-scheme: light)");
+  window.addEventListener("storage", callback);
+  window.addEventListener("themechange", callback);
+  media.addEventListener("change", callback);
+
+  return () => {
+    window.removeEventListener("storage", callback);
+    window.removeEventListener("themechange", callback);
+    media.removeEventListener("change", callback);
+  };
+}
+
+export function ThemeToggle() {
+  const theme = useSyncExternalStore(subscribeThemeChange, getThemeSnapshot, () => null);
 
   function toggle() {
     const next: Theme = (theme ?? getSystemTheme()) === "light" ? "dark" : "light";
-    setTheme(next);
     localStorage.setItem("theme", next);
     document.documentElement.setAttribute("data-theme", next);
+    window.dispatchEvent(new Event("themechange"));
   }
 
   if (theme === null) {

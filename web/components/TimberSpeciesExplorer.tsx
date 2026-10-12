@@ -13,16 +13,18 @@ export function TimberSpeciesExplorer({ buckets }: { buckets: TimberSpeciesBucke
   useEffect(() => {
     if (!playing) return;
     intervalRef.current = setInterval(() => {
-      setActiveIndex((i) => (i >= buckets.length - 1 ? 0 : i + 1));
+      setActiveIndex((i) => {
+        if (i >= buckets.length - 2) {
+          setPlaying(false);
+          return Math.max(buckets.length - 1, 0);
+        }
+        return i + 1;
+      });
     }, 1100);
     return () => {
       if (intervalRef.current) clearInterval(intervalRef.current);
     };
   }, [playing, buckets.length]);
-
-  useEffect(() => {
-    if (activeIndex >= buckets.length - 1) setPlaying(false);
-  }, [activeIndex, buckets.length]);
 
   const active = buckets[activeIndex];
 

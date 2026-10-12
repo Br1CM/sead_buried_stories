@@ -16,17 +16,18 @@ export function Timeline({ stops, activeIndex, onChange }: TimelineProps) {
   useEffect(() => {
     if (!playing) return;
     intervalRef.current = setInterval(() => {
-      onChange(activeIndex >= stops.length - 1 ? 0 : activeIndex + 1);
+      if (activeIndex >= stops.length - 2) {
+        onChange(Math.max(stops.length - 1, 0));
+        setPlaying(false);
+        return;
+      }
+      onChange(activeIndex + 1);
     }, 1200);
     return () => {
       if (intervalRef.current) clearInterval(intervalRef.current);
     };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [playing, activeIndex, stops.length]);
-
-  useEffect(() => {
-    if (activeIndex >= stops.length - 1) setPlaying(false);
-  }, [activeIndex, stops.length]);
 
   const active = stops[activeIndex];
 
