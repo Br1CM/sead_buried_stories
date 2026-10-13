@@ -41,7 +41,7 @@ export default function RootLayout({
             <Link href="/" className="mr-auto flex items-center gap-2.5">
               <span className="font-semibold tracking-tight text-lg">Buried Stories</span>
               <span className="h-4 w-px bg-ink-15" aria-hidden />
-              <Image src="/sead-logo.png" alt="SEAD" width={55} height={24} className="opacity-80" />
+              <Image src="/sead-logo.png" alt="SEAD" width={44} height={24} className="opacity-80" />
             </Link>
             <div className="flex flex-wrap items-center gap-x-5 gap-y-1 text-sm text-ink-70">
               <Link href="/six-legged-sagas" className="whitespace-nowrap hover:text-foreground transition-colors">
@@ -63,7 +63,7 @@ export default function RootLayout({
         <main className="flex-1 flex flex-col">{children}</main>
         <footer className="flex flex-col items-center gap-3 border-t border-ink-10 px-6 py-6 text-center text-xs text-ink-40">
           <a href="https://www.sead.se" target="_blank" rel="noopener noreferrer">
-            <Image src="/sead_logo_big.png" alt="SEAD" width={280} height={70} className="opacity-80 transition-opacity hover:opacity-100" />
+            <Image src="/sead_logo_big.png" alt="SEAD" width={280} height={152} className="opacity-80 transition-opacity hover:opacity-100" />
           </a>
           <span>
             Built on data from the{" "}
