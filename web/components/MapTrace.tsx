@@ -5,7 +5,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import Map, { Source, Layer, Marker, MapRef } from "react-map-gl/maplibre";
 import type { LngLatBoundsLike } from "maplibre-gl";
 import { buffer, convex, featureCollection, lineString, point, points } from "@turf/turf";
-import { osmRasterStyle } from "@/lib/basemap";
+import { maplibreLib, osmRasterStyle } from "@/lib/basemap";
 import type { SpeciesPathStop } from "@/lib/types";
 
 interface MapTraceProps {
@@ -120,6 +120,7 @@ export function MapTrace({ stops, activeIndex }: MapTraceProps) {
   return (
     <Map
       ref={mapRef}
+      mapLib={maplibreLib}
       mapStyle={osmRasterStyle}
       initialViewState={{ longitude: stops[0]?.lon ?? 10, latitude: stops[0]?.lat ?? 55, zoom: 5 }}
       style={{ width: "100%", height: "100%" }}

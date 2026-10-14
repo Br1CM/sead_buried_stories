@@ -4,7 +4,7 @@ import "maplibre-gl/dist/maplibre-gl.css";
 import { useEffect, useRef, useState } from "react";
 import Map, { Marker, Source, Layer, MapRef } from "react-map-gl/maplibre";
 import type { LngLatBoundsLike } from "maplibre-gl";
-import { osmRasterStyle } from "@/lib/basemap";
+import { maplibreLib, osmRasterStyle } from "@/lib/basemap";
 import type { ProvenanceShape, SisterCluster } from "@/lib/types";
 
 function shapeBounds(geometry: ProvenanceShape["geometry"]): [number, number][] {
@@ -56,6 +56,7 @@ export function SisterBuildingsMap({
   return (
     <Map
       ref={mapRef}
+      mapLib={maplibreLib}
       mapStyle={osmRasterStyle}
       initialViewState={{ longitude: cluster.origin_lon, latitude: cluster.origin_lat, zoom: 5 }}
       style={{ width: "100%", height: "100%" }}

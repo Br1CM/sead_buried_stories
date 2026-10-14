@@ -4,7 +4,7 @@ import "maplibre-gl/dist/maplibre-gl.css";
 import { useEffect, useRef, useState } from "react";
 import Map, { Marker, MapRef } from "react-map-gl/maplibre";
 import type { LngLatBoundsLike } from "maplibre-gl";
-import { osmRasterStyle } from "@/lib/basemap";
+import { maplibreLib, osmRasterStyle } from "@/lib/basemap";
 import { speciesColor } from "@/lib/speciesColors";
 import type { TimberSpeciesPoint } from "@/lib/types";
 
@@ -34,6 +34,7 @@ export function TimberSpeciesMap({ points }: { points: TimberSpeciesPoint[] }) {
   return (
     <Map
       ref={mapRef}
+      mapLib={maplibreLib}
       mapStyle={osmRasterStyle}
       initialViewState={{ bounds: SWEDEN_BOUNDS, fitBoundsOptions: { padding: 40 } }}
       style={{ width: "100%", height: "100%" }}

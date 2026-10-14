@@ -2,11 +2,12 @@
 
 import "maplibre-gl/dist/maplibre-gl.css";
 import Map, { Marker } from "react-map-gl/maplibre";
-import { osmRasterStyle } from "@/lib/basemap";
+import { maplibreLib, osmRasterStyle } from "@/lib/basemap";
 
 export function LocatorMap({ lat, lon, label }: { lat: number; lon: number; label: string }) {
   return (
     <Map
+      mapLib={maplibreLib}
       mapStyle={osmRasterStyle}
       initialViewState={{ longitude: lon, latitude: lat, zoom: 8 }}
       style={{ width: "100%", height: "100%" }}

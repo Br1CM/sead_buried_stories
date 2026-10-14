@@ -4,7 +4,7 @@ import "maplibre-gl/dist/maplibre-gl.css";
 import { useEffect, useRef, useState } from "react";
 import Map, { Marker, MapRef } from "react-map-gl/maplibre";
 import type { LngLatBoundsLike } from "maplibre-gl";
-import { osmRasterStyle } from "@/lib/basemap";
+import { maplibreLib, osmRasterStyle } from "@/lib/basemap";
 import type { CeramicsSite } from "@/lib/types";
 
 const SEAD_SITE_URL = "https://browser.sead.se/site/";
@@ -35,6 +35,7 @@ export function CeramicsMap({ sites }: { sites: CeramicsSite[] }) {
   return (
     <Map
       ref={mapRef}
+      mapLib={maplibreLib}
       mapStyle={osmRasterStyle}
       initialViewState={{ longitude: 15, latitude: 58, zoom: 4 }}
       style={{ width: "100%", height: "100%" }}
