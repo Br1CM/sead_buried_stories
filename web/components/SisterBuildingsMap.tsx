@@ -12,6 +12,8 @@ function shapeBounds(geometry: ProvenanceShape["geometry"]): [number, number][] 
   return rings.flat() as [number, number][];
 }
 
+const SEAD_SITE_URL = "https://browser.sead.se/site/";
+
 export function SisterBuildingsMap({
   cluster,
   shape,
@@ -21,6 +23,7 @@ export function SisterBuildingsMap({
 }) {
   const mapRef = useRef<MapRef | null>(null);
   const [isLoaded, setIsLoaded] = useState(false);
+  const [hoveredId, setHoveredId] = useState<number | null>(null);
 
   useEffect(() => {
     const map = mapRef.current;
@@ -97,14 +100,42 @@ export function SisterBuildingsMap({
         </Marker>
       )}
 
-      {cluster.sites.map((s) => (
-        <Marker key={s.site_id} longitude={s.lon} latitude={s.lat} anchor="center">
-          <div
-            className="h-3 w-3 rounded-full border-2 border-white/60 bg-accent-soft"
-            title={`${s.site_name} — ${s.distance_km} km from ${cluster.provenance}`}
-          />
-        </Marker>
-      ))}
+      {cluster.sites.map((s) => {
+        const isHovered = s.site_id === hoveredId;
+        return (
+          <Marker
+            key={s.site_id}
+            longitude={s.lon}
+            latitude={s.lat}
+            anchor="center"
+            style={{ zIndex: isHovered ? 2 : 1 }}
+          >
+            <a
+              href={`${SEAD_SITE_URL}${s.site_id}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label={`${s.site_name} — open in the SEAD browser`}
+              onMouseEnter={() => setHoveredId(s.site_id)}
+              onMouseLeave={() => setHoveredId((h) => (h === s.site_id ? null : h))}
+              onFocus={() => setHoveredId(s.site_id)}
+              onBlur={() => setHoveredId((h) => (h === s.site_id ? null : h))}
+              className={`relative block cursor-pointer rounded-full border-2 transition-all ${
+                isHovered ? "h-4 w-4 border-white bg-accent" : "h-3 w-3 border-white/60 bg-accent-soft"
+              }`}
+            >
+              {isHovered && (
+                <span className="pointer-events-none absolute bottom-full left-1/2 mb-2 -translate-x-1/2 whitespace-nowrap rounded-lg border border-cream-10 bg-overlay px-3 py-1.5 text-sm shadow-lg">
+                  <span className="block font-medium text-cream-70">{s.site_name}</span>
+                  <span className="block text-xs text-cream-30">
+                    {s.distance_km} km from {cluster.provenance}
+                  </span>
+                  <span className="block text-xs text-accent">Open in SEAD browser &#8599;</span>
+                </span>
+              )}
+            </a>
+          </Marker>
+        );
+      })}
     </Map>
   );
 }
