@@ -26,30 +26,20 @@
       "n_finds": 2
     },
     {
-      "site_id": 5340,
-      "site_name": "Hatfield Moor: Torne TS1",
-      "lat": 53.525692,
-      "lon": -0.961225,
-      "age_older_bp": 10000.0,
-      "age_younger_bp": 0.0,
-      "label": "3050 BC",
-      "n_finds": 4
-    },
-    {
-      "site_id": 4870,
-      "site_name": "Goldcliff Pit 15",
-      "lat": 51.531666,
-      "lon": -2.9025,
-      "age_older_bp": 10000.0,
-      "age_younger_bp": 0.0,
-      "label": "3050 BC",
-      "n_finds": 1
-    },
-    {
       "site_id": 4560,
       "site_name": "Norwich: Fishergate",
       "lat": 52.634724,
       "lon": 1.2969445,
+      "age_older_bp": 10000.0,
+      "age_younger_bp": 0.0,
+      "label": "3050 BC",
+      "n_finds": 2
+    },
+    {
+      "site_id": 4670,
+      "site_name": "Sweet Track: Site TG",
+      "lat": 51.177223,
+      "lon": -2.7877777,
       "age_older_bp": 10000.0,
       "age_younger_bp": 0.0,
       "label": "3050 BC",
@@ -66,14 +56,34 @@
       "n_finds": 9
     },
     {
-      "site_id": 4670,
-      "site_name": "Sweet Track: Site TG",
-      "lat": 51.177223,
-      "lon": -2.7877777,
+      "site_id": 4870,
+      "site_name": "Goldcliff Pit 15",
+      "lat": 51.531666,
+      "lon": -2.9025,
       "age_older_bp": 10000.0,
       "age_younger_bp": 0.0,
       "label": "3050 BC",
-      "n_finds": 2
+      "n_finds": 1
+    },
+    {
+      "site_id": 5340,
+      "site_name": "Hatfield Moor: Torne TS1",
+      "lat": 53.525692,
+      "lon": -0.961225,
+      "age_older_bp": 10000.0,
+      "age_younger_bp": 0.0,
+      "label": "3050 BC",
+      "n_finds": 4
+    },
+    {
+      "site_id": 4679,
+      "site_name": "Thayngen-Weier",
+      "lat": 47.7333,
+      "lon": 8.7,
+      "age_older_bp": 4849.0,
+      "age_younger_bp": 4749.0,
+      "label": "2849 BC",
+      "n_finds": 3
     },
     {
       "site_id": 4611,
@@ -84,6 +94,76 @@
       "age_younger_bp": 3949.0,
       "label": "2750 BC",
       "n_finds": 8
+    },
+    {
+      "site_id": 4610,
+      "site_name": "Runnymede 6",
+      "lat": 51.43611,
+      "lon": -0.5369444,
+      "age_older_bp": 4449.0,
+      "age_younger_bp": 2549.0,
+      "label": "1549 BC",
+      "n_finds": 2
+    },
+    {
+      "site_id": 4971,
+      "site_name": "Aston on Trent",
+      "lat": 52.85278,
+      "lon": -1.3611112,
+      "age_older_bp": 3470.0,
+      "age_younger_bp": 3340.0,
+      "label": "1455 BC",
+      "n_finds": 1
+    },
+    {
+      "site_id": 4764,
+      "site_name": "Redwick",
+      "lat": 51.5528,
+      "lon": -2.83648,
+      "age_older_bp": 3548.0,
+      "age_younger_bp": 2550.0,
+      "label": "1099 BC",
+      "n_finds": 2
+    },
+    {
+      "site_id": 5431,
+      "site_name": "Heathrow Terminal 5",
+      "lat": 51.47167,
+      "lon": -0.488733,
+      "age_older_bp": 4449.0,
+      "age_younger_bp": 1540.0,
+      "label": "1044 BC",
+      "n_finds": 8
+    },
+    {
+      "site_id": 5482,
+      "site_name": "Hillfarrance",
+      "lat": 51.01562,
+      "lon": -3.18888,
+      "age_older_bp": 3375.0,
+      "age_younger_bp": 2600.0,
+      "label": "1038 BC",
+      "n_finds": 10
+    },
+    {
+      "site_id": 4613,
+      "site_name": "Runnymede 4 LBA Midden",
+      "lat": 51.43611,
+      "lon": -0.53694445,
+      "age_older_bp": 2950.0,
+      "age_younger_bp": 2599.0,
+      "label": "824 BC",
+      "n_finds": 4
+    },
+    {
+      "site_id": 4871,
+      "site_name": "Runnymede LBA",
+      "lat": 51.43611,
+      "lon": -0.53694445,
+      "age_older_bp": 2950.0,
+      "age_younger_bp": 2599.0,
+      "label": "824 BC",
+      "n_finds": 22
     },
     {
       "site_id": 4348,
@@ -116,86 +196,6 @@
       "n_finds": 1
     },
     {
-      "site_id": 4679,
-      "site_name": "Thayngen-Weier",
-      "lat": 47.7333,
-      "lon": 8.7,
-      "age_older_bp": 4849.0,
-      "age_younger_bp": 4749.0,
-      "label": "2849 BC",
-      "n_finds": 3
-    },
-    {
-      "site_id": 4610,
-      "site_name": "Runnymede 6",
-      "lat": 51.43611,
-      "lon": -0.5369444,
-      "age_older_bp": 4449.0,
-      "age_younger_bp": 2549.0,
-      "label": "1549 BC",
-      "n_finds": 2
-    },
-    {
-      "site_id": 5431,
-      "site_name": "Heathrow Terminal 5",
-      "lat": 51.47167,
-      "lon": -0.488733,
-      "age_older_bp": 4449.0,
-      "age_younger_bp": 1540.0,
-      "label": "1044 BC",
-      "n_finds": 8
-    },
-    {
-      "site_id": 4764,
-      "site_name": "Redwick",
-      "lat": 51.5528,
-      "lon": -2.83648,
-      "age_older_bp": 3548.0,
-      "age_younger_bp": 2550.0,
-      "label": "1099 BC",
-      "n_finds": 2
-    },
-    {
-      "site_id": 4971,
-      "site_name": "Aston on Trent",
-      "lat": 52.85278,
-      "lon": -1.3611112,
-      "age_older_bp": 3470.0,
-      "age_younger_bp": 3340.0,
-      "label": "1455 BC",
-      "n_finds": 1
-    },
-    {
-      "site_id": 5482,
-      "site_name": "Hillfarrance",
-      "lat": 51.01562,
-      "lon": -3.18888,
-      "age_older_bp": 3375.0,
-      "age_younger_bp": 2600.0,
-      "label": "1038 BC",
-      "n_finds": 10
-    },
-    {
-      "site_id": 4871,
-      "site_name": "Runnymede LBA",
-      "lat": 51.43611,
-      "lon": -0.53694445,
-      "age_older_bp": 2950.0,
-      "age_younger_bp": 2599.0,
-      "label": "824 BC",
-      "n_finds": 22
-    },
-    {
-      "site_id": 4613,
-      "site_name": "Runnymede 4 LBA Midden",
-      "lat": 51.43611,
-      "lon": -0.53694445,
-      "age_older_bp": 2950.0,
-      "age_younger_bp": 2599.0,
-      "label": "824 BC",
-      "n_finds": 4
-    },
-    {
       "site_id": 4255,
       "site_name": "Assendelver Polder",
       "lat": 52.466667,
@@ -204,16 +204,6 @@
       "age_younger_bp": 1900.0,
       "label": "372 BC",
       "n_finds": 8
-    },
-    {
-      "site_id": 4978,
-      "site_name": "Wilberfoss: Carberry Hall Farm",
-      "lat": 53.958332,
-      "lon": -0.865,
-      "age_older_bp": 2600.0,
-      "age_younger_bp": 1880.0,
-      "label": "290 BC",
-      "n_finds": 3
     },
     {
       "site_id": 4395,
@@ -236,26 +226,6 @@
       "n_finds": 2
     },
     {
-      "site_id": 4951,
-      "site_name": "Washingborough",
-      "lat": 53.228333,
-      "lon": -0.43666667,
-      "age_older_bp": 2600.0,
-      "age_younger_bp": 1900.0,
-      "label": "300 BC",
-      "n_finds": 2
-    },
-    {
-      "site_id": 5570,
-      "site_name": "Cults Loch",
-      "lat": 54.9035,
-      "lon": -4.9328613,
-      "age_older_bp": 2600.0,
-      "age_younger_bp": 1900.0,
-      "label": "300 BC",
-      "n_finds": 13
-    },
-    {
       "site_id": 4533,
       "site_name": "Midsummer Hill",
       "lat": 52.03528,
@@ -276,24 +246,24 @@
       "n_finds": 2
     },
     {
-      "site_id": 5191,
-      "site_name": "Claydon Pike",
-      "lat": 51.690235,
-      "lon": -1.729385,
+      "site_id": 4869,
+      "site_name": "Goldcliff 5",
+      "lat": 51.531666,
+      "lon": -2.9025,
       "age_older_bp": 2600.0,
-      "age_younger_bp": 1850.0,
-      "label": "275 BC",
-      "n_finds": 3
+      "age_younger_bp": 1900.0,
+      "label": "300 BC",
+      "n_finds": 6
     },
     {
-      "site_id": 4304,
-      "site_name": "Buiston",
-      "lat": 55.657223,
-      "lon": -4.5194445,
+      "site_id": 4951,
+      "site_name": "Washingborough",
+      "lat": 53.228333,
+      "lon": -0.43666667,
       "age_older_bp": 2600.0,
-      "age_younger_bp": 1250.0,
-      "label": "25 AD",
-      "n_finds": 27
+      "age_younger_bp": 1900.0,
+      "label": "300 BC",
+      "n_finds": 2
     },
     {
       "site_id": 5430,
@@ -306,14 +276,34 @@
       "n_finds": 6
     },
     {
-      "site_id": 4869,
-      "site_name": "Goldcliff 5",
-      "lat": 51.531666,
-      "lon": -2.9025,
+      "site_id": 5570,
+      "site_name": "Cults Loch",
+      "lat": 54.9035,
+      "lon": -4.9328613,
       "age_older_bp": 2600.0,
       "age_younger_bp": 1900.0,
       "label": "300 BC",
-      "n_finds": 6
+      "n_finds": 13
+    },
+    {
+      "site_id": 4978,
+      "site_name": "Wilberfoss: Carberry Hall Farm",
+      "lat": 53.958332,
+      "lon": -0.865,
+      "age_older_bp": 2600.0,
+      "age_younger_bp": 1880.0,
+      "label": "290 BC",
+      "n_finds": 3
+    },
+    {
+      "site_id": 5191,
+      "site_name": "Claydon Pike",
+      "lat": 51.690235,
+      "lon": -1.729385,
+      "age_older_bp": 2600.0,
+      "age_younger_bp": 1850.0,
+      "label": "275 BC",
+      "n_finds": 3
     },
     {
       "site_id": 4365,
@@ -326,6 +316,16 @@
       "n_finds": 4
     },
     {
+      "site_id": 4304,
+      "site_name": "Buiston",
+      "lat": 55.657223,
+      "lon": -4.5194445,
+      "age_older_bp": 2600.0,
+      "age_younger_bp": 1250.0,
+      "label": "25 AD",
+      "n_finds": 27
+    },
+    {
       "site_id": 5452,
       "site_name": "Castellum Fectio",
       "lat": 52.058784,
@@ -336,44 +336,34 @@
       "n_finds": 6
     },
     {
-      "site_id": 4519,
-      "site_name": "Lundbacken, Tillinge",
-      "lat": 59.65365,
-      "lon": 16.954866,
-      "age_older_bp": 1949.0,
-      "age_younger_bp": 1400.0,
-      "label": "276 AD",
-      "n_finds": 1
-    },
-    {
-      "site_id": 5322,
-      "site_name": "London: Guildhall",
-      "lat": 51.51564,
-      "lon": -0.09146,
-      "age_older_bp": 1907.0,
-      "age_younger_bp": 400.0,
-      "label": "796 AD",
-      "n_finds": 4
-    },
-    {
-      "site_id": 4609,
-      "site_name": "Rudston",
-      "lat": 54.08472,
-      "lon": -0.33666667,
+      "site_id": 4242,
+      "site_name": "Alcester: Roman Pit",
+      "lat": 52.211113,
+      "lon": -1.8711112,
       "age_older_bp": 1907.0,
       "age_younger_bp": 1540.0,
       "label": "226 AD",
-      "n_finds": 6
+      "n_finds": 3
     },
     {
-      "site_id": 5331,
-      "site_name": "Inveresk Gate",
-      "lat": 55.93795,
-      "lon": -3.057593,
+      "site_id": 4270,
+      "site_name": "Barton Court Farm",
+      "lat": 51.67389,
+      "lon": -1.2422222,
       "age_older_bp": 1907.0,
       "age_younger_bp": 1540.0,
       "label": "226 AD",
-      "n_finds": 18
+      "n_finds": 2
+    },
+    {
+      "site_id": 4271,
+      "site_name": "Bearsden",
+      "lat": 55.91,
+      "lon": -4.337222,
+      "age_older_bp": 1907.0,
+      "age_younger_bp": 1540.0,
+      "label": "226 AD",
+      "n_finds": 2
     },
     {
       "site_id": 4300,
@@ -386,33 +376,13 @@
       "n_finds": 2
     },
     {
-      "site_id": 5042,
-      "site_name": "High Catton",
-      "lat": 53.97361,
-      "lon": -0.90833336,
+      "site_id": 4609,
+      "site_name": "Rudston",
+      "lat": 54.08472,
+      "lon": -0.33666667,
       "age_older_bp": 1907.0,
       "age_younger_bp": 1540.0,
       "label": "226 AD",
-      "n_finds": 2
-    },
-    {
-      "site_id": 5032,
-      "site_name": "Hayton",
-      "lat": 53.90185,
-      "lon": -0.754073,
-      "age_older_bp": 1907.0,
-      "age_younger_bp": 1540.0,
-      "label": "226 AD",
-      "n_finds": 2
-    },
-    {
-      "site_id": 4511,
-      "site_name": "London: Copthall Ave (Upper Walbrook)",
-      "lat": 51.515644,
-      "lon": -0.0870879,
-      "age_older_bp": 1907.0,
-      "age_younger_bp": 400.0,
-      "label": "796 AD",
       "n_finds": 6
     },
     {
@@ -436,26 +406,6 @@
       "n_finds": 3
     },
     {
-      "site_id": 5027,
-      "site_name": "Kirkham",
-      "lat": 53.782,
-      "lon": -2.87,
-      "age_older_bp": 1907.0,
-      "age_younger_bp": 1540.0,
-      "label": "226 AD",
-      "n_finds": 8
-    },
-    {
-      "site_id": 4271,
-      "site_name": "Bearsden",
-      "lat": 55.91,
-      "lon": -4.337222,
-      "age_older_bp": 1907.0,
-      "age_younger_bp": 1540.0,
-      "label": "226 AD",
-      "n_finds": 2
-    },
-    {
       "site_id": 4737,
       "site_name": "York: Bedern 1",
       "lat": 53.961548,
@@ -464,26 +414,6 @@
       "age_younger_bp": 1540.0,
       "label": "226 AD",
       "n_finds": 3
-    },
-    {
-      "site_id": 4738,
-      "site_name": "York: Bedern 2",
-      "lat": 53.961548,
-      "lon": -1.0791045,
-      "age_older_bp": 1907.0,
-      "age_younger_bp": 1250.0,
-      "label": "372 AD",
-      "n_finds": 3
-    },
-    {
-      "site_id": 4501,
-      "site_name": "Lincoln: Brayford Pool",
-      "lat": 53.231945,
-      "lon": -0.5388889,
-      "age_older_bp": 1907.0,
-      "age_younger_bp": 884.0,
-      "label": "554 AD",
-      "n_finds": 36
     },
     {
       "site_id": 4745,
@@ -516,16 +446,6 @@
       "n_finds": 6
     },
     {
-      "site_id": 5474,
-      "site_name": "Heybridge: Elms Farm",
-      "lat": 51.760944,
-      "lon": 0.6362915,
-      "age_older_bp": 1907.0,
-      "age_younger_bp": 1540.0,
-      "label": "226 AD",
-      "n_finds": 6
-    },
-    {
       "site_id": 4771,
       "site_name": "Ribchester",
       "lat": 53.81089,
@@ -534,106 +454,6 @@
       "age_younger_bp": 1540.0,
       "label": "226 AD",
       "n_finds": 69
-    },
-    {
-      "site_id": 4994,
-      "site_name": "Leven - Brandesburton",
-      "lat": 53.897778,
-      "lon": -0.29527777,
-      "age_older_bp": 1907.0,
-      "age_younger_bp": 1540.0,
-      "label": "226 AD",
-      "n_finds": 4
-    },
-    {
-      "site_id": 5420,
-      "site_name": "Winchester: The Brooks (Roman)",
-      "lat": 51.062855,
-      "lon": -1.311879,
-      "age_older_bp": 1907.0,
-      "age_younger_bp": 1540.0,
-      "label": "226 AD",
-      "n_finds": 6
-    },
-    {
-      "site_id": 5425,
-      "site_name": "Swine",
-      "lat": 53.822838,
-      "lon": -0.28409,
-      "age_older_bp": 1907.0,
-      "age_younger_bp": 1540.0,
-      "label": "226 AD",
-      "n_finds": 2
-    },
-    {
-      "site_id": 4270,
-      "site_name": "Barton Court Farm",
-      "lat": 51.67389,
-      "lon": -1.2422222,
-      "age_older_bp": 1907.0,
-      "age_younger_bp": 1540.0,
-      "label": "226 AD",
-      "n_finds": 2
-    },
-    {
-      "site_id": 5419,
-      "site_name": "Carlisle: Castle Millennium Project",
-      "lat": 54.896458,
-      "lon": -2.940776,
-      "age_older_bp": 1907.0,
-      "age_younger_bp": 400.0,
-      "label": "796 AD",
-      "n_finds": 18
-    },
-    {
-      "site_id": 4973,
-      "site_name": "Papcastle",
-      "lat": 54.670555,
-      "lon": -3.3830554,
-      "age_older_bp": 1907.0,
-      "age_younger_bp": 1540.0,
-      "label": "226 AD",
-      "n_finds": 3
-    },
-    {
-      "site_id": 4932,
-      "site_name": "York: Spurriergate",
-      "lat": 53.958244,
-      "lon": -1.0824722,
-      "age_older_bp": 1907.0,
-      "age_younger_bp": 1540.0,
-      "label": "226 AD",
-      "n_finds": 15
-    },
-    {
-      "site_id": 5391,
-      "site_name": "Wild Goose Cottage",
-      "lat": 53.378784,
-      "lon": -0.94467795,
-      "age_older_bp": 1907.0,
-      "age_younger_bp": 1540.0,
-      "label": "226 AD",
-      "n_finds": 2
-    },
-    {
-      "site_id": 5483,
-      "site_name": "Walton Cardiff",
-      "lat": 51.987457,
-      "lon": -2.13446,
-      "age_older_bp": 1907.0,
-      "age_younger_bp": 1540.0,
-      "label": "226 AD",
-      "n_finds": 3
-    },
-    {
-      "site_id": 5423,
-      "site_name": "Barmby on the Marsh",
-      "lat": 53.7449,
-      "lon": -0.934921,
-      "age_older_bp": 1907.0,
-      "age_younger_bp": 1540.0,
-      "label": "226 AD",
-      "n_finds": 3
     },
     {
       "site_id": 4923,
@@ -666,14 +486,64 @@
       "n_finds": 4
     },
     {
-      "site_id": 4318,
-      "site_name": "Carlisle: Blackfriars Street",
-      "lat": 54.8833,
-      "lon": -2.9333,
+      "site_id": 4932,
+      "site_name": "York: Spurriergate",
+      "lat": 53.958244,
+      "lon": -1.0824722,
       "age_older_bp": 1907.0,
-      "age_younger_bp": 400.0,
-      "label": "796 AD",
+      "age_younger_bp": 1540.0,
+      "label": "226 AD",
+      "n_finds": 15
+    },
+    {
+      "site_id": 4973,
+      "site_name": "Papcastle",
+      "lat": 54.670555,
+      "lon": -3.3830554,
+      "age_older_bp": 1907.0,
+      "age_younger_bp": 1540.0,
+      "label": "226 AD",
       "n_finds": 3
+    },
+    {
+      "site_id": 4994,
+      "site_name": "Leven - Brandesburton",
+      "lat": 53.897778,
+      "lon": -0.29527777,
+      "age_older_bp": 1907.0,
+      "age_younger_bp": 1540.0,
+      "label": "226 AD",
+      "n_finds": 4
+    },
+    {
+      "site_id": 5027,
+      "site_name": "Kirkham",
+      "lat": 53.782,
+      "lon": -2.87,
+      "age_older_bp": 1907.0,
+      "age_younger_bp": 1540.0,
+      "label": "226 AD",
+      "n_finds": 8
+    },
+    {
+      "site_id": 5032,
+      "site_name": "Hayton",
+      "lat": 53.90185,
+      "lon": -0.754073,
+      "age_older_bp": 1907.0,
+      "age_younger_bp": 1540.0,
+      "label": "226 AD",
+      "n_finds": 2
+    },
+    {
+      "site_id": 5042,
+      "site_name": "High Catton",
+      "lat": 53.97361,
+      "lon": -0.90833336,
+      "age_older_bp": 1907.0,
+      "age_younger_bp": 1540.0,
+      "label": "226 AD",
+      "n_finds": 2
     },
     {
       "site_id": 5328,
@@ -686,10 +556,70 @@
       "n_finds": 6
     },
     {
-      "site_id": 4242,
-      "site_name": "Alcester: Roman Pit",
-      "lat": 52.211113,
-      "lon": -1.8711112,
+      "site_id": 5331,
+      "site_name": "Inveresk Gate",
+      "lat": 55.93795,
+      "lon": -3.057593,
+      "age_older_bp": 1907.0,
+      "age_younger_bp": 1540.0,
+      "label": "226 AD",
+      "n_finds": 18
+    },
+    {
+      "site_id": 5391,
+      "site_name": "Wild Goose Cottage",
+      "lat": 53.378784,
+      "lon": -0.94467795,
+      "age_older_bp": 1907.0,
+      "age_younger_bp": 1540.0,
+      "label": "226 AD",
+      "n_finds": 2
+    },
+    {
+      "site_id": 5420,
+      "site_name": "Winchester: The Brooks (Roman)",
+      "lat": 51.062855,
+      "lon": -1.311879,
+      "age_older_bp": 1907.0,
+      "age_younger_bp": 1540.0,
+      "label": "226 AD",
+      "n_finds": 6
+    },
+    {
+      "site_id": 5423,
+      "site_name": "Barmby on the Marsh",
+      "lat": 53.7449,
+      "lon": -0.934921,
+      "age_older_bp": 1907.0,
+      "age_younger_bp": 1540.0,
+      "label": "226 AD",
+      "n_finds": 3
+    },
+    {
+      "site_id": 5425,
+      "site_name": "Swine",
+      "lat": 53.822838,
+      "lon": -0.28409,
+      "age_older_bp": 1907.0,
+      "age_younger_bp": 1540.0,
+      "label": "226 AD",
+      "n_finds": 2
+    },
+    {
+      "site_id": 5474,
+      "site_name": "Heybridge: Elms Farm",
+      "lat": 51.760944,
+      "lon": 0.6362915,
+      "age_older_bp": 1907.0,
+      "age_younger_bp": 1540.0,
+      "label": "226 AD",
+      "n_finds": 6
+    },
+    {
+      "site_id": 5483,
+      "site_name": "Walton Cardiff",
+      "lat": 51.987457,
+      "lon": -2.13446,
       "age_older_bp": 1907.0,
       "age_younger_bp": 1540.0,
       "label": "226 AD",
@@ -706,6 +636,86 @@
       "n_finds": 2
     },
     {
+      "site_id": 4519,
+      "site_name": "Lundbacken, Tillinge",
+      "lat": 59.65365,
+      "lon": 16.954866,
+      "age_older_bp": 1949.0,
+      "age_younger_bp": 1400.0,
+      "label": "276 AD",
+      "n_finds": 1
+    },
+    {
+      "site_id": 4738,
+      "site_name": "York: Bedern 2",
+      "lat": 53.961548,
+      "lon": -1.0791045,
+      "age_older_bp": 1907.0,
+      "age_younger_bp": 1250.0,
+      "label": "372 AD",
+      "n_finds": 3
+    },
+    {
+      "site_id": 4501,
+      "site_name": "Lincoln: Brayford Pool",
+      "lat": 53.231945,
+      "lon": -0.5388889,
+      "age_older_bp": 1907.0,
+      "age_younger_bp": 884.0,
+      "label": "554 AD",
+      "n_finds": 36
+    },
+    {
+      "site_id": 4342,
+      "site_name": "Conisbrough",
+      "lat": 53.48373,
+      "lon": -1.2298,
+      "age_older_bp": 1540.0,
+      "age_younger_bp": 1250.0,
+      "label": "555 AD",
+      "n_finds": 4
+    },
+    {
+      "site_id": 5435,
+      "site_name": "Northfleet: Saxon Mill",
+      "lat": 51.437202,
+      "lon": 0.315003,
+      "age_older_bp": 1540.0,
+      "age_younger_bp": 884.0,
+      "label": "738 AD",
+      "n_finds": 4
+    },
+    {
+      "site_id": 5609,
+      "site_name": "Winchester: Lower Brook Street",
+      "lat": 51.06387,
+      "lon": -1.30995,
+      "age_older_bp": 1540.0,
+      "age_younger_bp": 884.0,
+      "label": "738 AD",
+      "n_finds": 7
+    },
+    {
+      "site_id": 4318,
+      "site_name": "Carlisle: Blackfriars Street",
+      "lat": 54.8833,
+      "lon": -2.9333,
+      "age_older_bp": 1907.0,
+      "age_younger_bp": 400.0,
+      "label": "796 AD",
+      "n_finds": 3
+    },
+    {
+      "site_id": 4511,
+      "site_name": "London: Copthall Ave (Upper Walbrook)",
+      "lat": 51.515644,
+      "lon": -0.0870879,
+      "age_older_bp": 1907.0,
+      "age_younger_bp": 400.0,
+      "label": "796 AD",
+      "n_finds": 6
+    },
+    {
       "site_id": 5321,
       "site_name": "London: Poultry",
       "lat": 51.51349,
@@ -716,14 +726,104 @@
       "n_finds": 7
     },
     {
-      "site_id": 5268,
-      "site_name": "Bishops Cleeve",
-      "lat": 51.947327,
-      "lon": -2.0661516,
-      "age_older_bp": 1550.0,
+      "site_id": 5322,
+      "site_name": "London: Guildhall",
+      "lat": 51.51564,
+      "lon": -0.09146,
+      "age_older_bp": 1907.0,
       "age_younger_bp": 400.0,
-      "label": "975 AD",
+      "label": "796 AD",
       "n_finds": 4
+    },
+    {
+      "site_id": 5419,
+      "site_name": "Carlisle: Castle Millennium Project",
+      "lat": 54.896458,
+      "lon": -2.940776,
+      "age_older_bp": 1907.0,
+      "age_younger_bp": 400.0,
+      "label": "796 AD",
+      "n_finds": 18
+    },
+    {
+      "site_id": 5638,
+      "site_name": "Ribe: Posthustorvet",
+      "lat": 55.32917,
+      "lon": 8.76756,
+      "age_older_bp": 1260.0,
+      "age_younger_bp": 850.0,
+      "label": "895 AD",
+      "n_finds": 2
+    },
+    {
+      "site_id": 4370,
+      "site_name": "Dublin: Christ Church Place",
+      "lat": 53.342842,
+      "lon": -6.271637,
+      "age_older_bp": 1150.0,
+      "age_younger_bp": 850.0,
+      "label": "950 AD",
+      "n_finds": 2
+    },
+    {
+      "site_id": 4742,
+      "site_name": "York: 5-7 Coppergate",
+      "lat": 53.957882,
+      "lon": -1.0805846,
+      "age_older_bp": 1150.0,
+      "age_younger_bp": 850.0,
+      "label": "950 AD",
+      "n_finds": 2
+    },
+    {
+      "site_id": 4743,
+      "site_name": "York: 16-22 Coppergate",
+      "lat": 53.9579,
+      "lon": -1.0804005,
+      "age_older_bp": 1150.0,
+      "age_younger_bp": 850.0,
+      "label": "950 AD",
+      "n_finds": 2
+    },
+    {
+      "site_id": 4922,
+      "site_name": "Kaupang",
+      "lat": 59.133335,
+      "lon": 10.233334,
+      "age_older_bp": 1150.0,
+      "age_younger_bp": 850.0,
+      "label": "950 AD",
+      "n_finds": 3
+    },
+    {
+      "site_id": 4926,
+      "site_name": "York: Parliament Street (Littlewoods Store)",
+      "lat": 53.9589,
+      "lon": -1.087477,
+      "age_older_bp": 1150.0,
+      "age_younger_bp": 850.0,
+      "label": "950 AD",
+      "n_finds": 8
+    },
+    {
+      "site_id": 4927,
+      "site_name": "York: Micklegate Queens Hotel",
+      "lat": 53.95714,
+      "lon": -1.0885987,
+      "age_older_bp": 1150.0,
+      "age_younger_bp": 850.0,
+      "label": "950 AD",
+      "n_finds": 28
+    },
+    {
+      "site_id": 4928,
+      "site_name": "York: Clifford Street",
+      "lat": 53.95732,
+      "lon": -1.0816258,
+      "age_older_bp": 1150.0,
+      "age_younger_bp": 850.0,
+      "label": "950 AD",
+      "n_finds": 2
     },
     {
       "site_id": 4277,
@@ -926,16 +1026,6 @@
       "n_finds": 2
     },
     {
-      "site_id": 4989,
-      "site_name": "Hull: Blanket Row",
-      "lat": 53.741665,
-      "lon": -0.335,
-      "age_older_bp": 1550.0,
-      "age_younger_bp": 351.0,
-      "label": "1000 AD",
-      "n_finds": 14
-    },
-    {
       "site_id": 4997,
       "site_name": "Viborg Sonderso",
       "lat": 56.433334,
@@ -954,16 +1044,6 @@
       "age_younger_bp": 400.0,
       "label": "975 AD",
       "n_finds": 2
-    },
-    {
-      "site_id": 5030,
-      "site_name": "York: Low Petergate (64-68)",
-      "lat": 53.96077,
-      "lon": -1.0809507,
-      "age_older_bp": 1550.0,
-      "age_younger_bp": 51.0,
-      "label": "1150 AD",
-      "n_finds": 17
     },
     {
       "site_id": 5112,
@@ -1056,6 +1136,16 @@
       "n_finds": 3
     },
     {
+      "site_id": 5268,
+      "site_name": "Bishops Cleeve",
+      "lat": 51.947327,
+      "lon": -2.0661516,
+      "age_older_bp": 1550.0,
+      "age_younger_bp": 400.0,
+      "label": "975 AD",
+      "n_finds": 4
+    },
+    {
       "site_id": 5323,
       "site_name": "London: Bull Wharf (Thames Court)",
       "lat": 51.510864,
@@ -1136,124 +1226,24 @@
       "n_finds": 4
     },
     {
-      "site_id": 5435,
-      "site_name": "Northfleet: Saxon Mill",
-      "lat": 51.437202,
-      "lon": 0.315003,
-      "age_older_bp": 1540.0,
-      "age_younger_bp": 884.0,
-      "label": "738 AD",
-      "n_finds": 4
+      "site_id": 4989,
+      "site_name": "Hull: Blanket Row",
+      "lat": 53.741665,
+      "lon": -0.335,
+      "age_older_bp": 1550.0,
+      "age_younger_bp": 351.0,
+      "label": "1000 AD",
+      "n_finds": 14
     },
     {
-      "site_id": 4342,
-      "site_name": "Conisbrough",
-      "lat": 53.48373,
-      "lon": -1.2298,
-      "age_older_bp": 1540.0,
-      "age_younger_bp": 1250.0,
-      "label": "555 AD",
-      "n_finds": 4
-    },
-    {
-      "site_id": 5609,
-      "site_name": "Winchester: Lower Brook Street",
-      "lat": 51.06387,
-      "lon": -1.30995,
-      "age_older_bp": 1540.0,
-      "age_younger_bp": 884.0,
-      "label": "738 AD",
-      "n_finds": 7
-    },
-    {
-      "site_id": 5638,
-      "site_name": "Ribe: Posthustorvet",
-      "lat": 55.32917,
-      "lon": 8.76756,
-      "age_older_bp": 1260.0,
-      "age_younger_bp": 850.0,
-      "label": "895 AD",
-      "n_finds": 2
-    },
-    {
-      "site_id": 4922,
-      "site_name": "Kaupang",
-      "lat": 59.133335,
-      "lon": 10.233334,
-      "age_older_bp": 1150.0,
-      "age_younger_bp": 850.0,
-      "label": "950 AD",
-      "n_finds": 3
-    },
-    {
-      "site_id": 4370,
-      "site_name": "Dublin: Christ Church Place",
-      "lat": 53.342842,
-      "lon": -6.271637,
-      "age_older_bp": 1150.0,
-      "age_younger_bp": 850.0,
-      "label": "950 AD",
-      "n_finds": 2
-    },
-    {
-      "site_id": 4742,
-      "site_name": "York: 5-7 Coppergate",
-      "lat": 53.957882,
-      "lon": -1.0805846,
-      "age_older_bp": 1150.0,
-      "age_younger_bp": 850.0,
-      "label": "950 AD",
-      "n_finds": 2
-    },
-    {
-      "site_id": 4743,
-      "site_name": "York: 16-22 Coppergate",
-      "lat": 53.9579,
-      "lon": -1.0804005,
-      "age_older_bp": 1150.0,
-      "age_younger_bp": 850.0,
-      "label": "950 AD",
-      "n_finds": 2
-    },
-    {
-      "site_id": 4928,
-      "site_name": "York: Clifford Street",
-      "lat": 53.95732,
-      "lon": -1.0816258,
-      "age_older_bp": 1150.0,
-      "age_younger_bp": 850.0,
-      "label": "950 AD",
-      "n_finds": 2
-    },
-    {
-      "site_id": 4927,
-      "site_name": "York: Micklegate Queens Hotel",
-      "lat": 53.95714,
-      "lon": -1.0885987,
-      "age_older_bp": 1150.0,
-      "age_younger_bp": 850.0,
-      "label": "950 AD",
-      "n_finds": 28
-    },
-    {
-      "site_id": 4926,
-      "site_name": "York: Parliament Street (Littlewoods Store)",
-      "lat": 53.9589,
-      "lon": -1.087477,
-      "age_older_bp": 1150.0,
-      "age_younger_bp": 850.0,
-      "label": "950 AD",
-      "n_finds": 8
-    },
-    {
-      "site_id": 5351,
-      "site_name": "Wakefield: Westgate",
-      "lat": 53.681828,
-      "lon": -1.503307,
-      "age_older_bp": 500.0,
-      "age_younger_bp": 0.0,
-      "label": "1700 AD",
-      "n_finds": 1
+      "site_id": 5030,
+      "site_name": "York: Low Petergate (64-68)",
+      "lat": 53.96077,
+      "lon": -1.0809507,
+      "age_older_bp": 1550.0,
+      "age_younger_bp": 51.0,
+      "label": "1150 AD",
+      "n_finds": 17
     },
     {
       "site_id": 5350,
@@ -1266,14 +1256,64 @@
       "n_finds": 2
     },
     {
-      "site_id": 5417,
-      "site_name": "Lutomiersk-Koziowki",
-      "lat": 51.75408,
-      "lon": 19.224445,
+      "site_id": 4290,
+      "site_name": "Boston",
+      "lat": 42.36972,
+      "lon": -71.029724,
+      "age_older_bp": 350.0,
+      "age_younger_bp": 251.0,
+      "label": "1650 AD",
+      "n_finds": 2
+    },
+    {
+      "site_id": 5602,
+      "site_name": "Worcester: The Hive",
+      "lat": 52.19365,
+      "lon": -2.22627,
+      "age_older_bp": 315.0,
+      "age_younger_bp": 285.0,
+      "label": "1650 AD",
+      "n_finds": 2
+    },
+    {
+      "site_id": 5442,
+      "site_name": "Jamestown",
+      "lat": 47.209167,
+      "lon": -76.7775,
+      "age_older_bp": 343.0,
+      "age_younger_bp": 251.0,
+      "label": "1653 AD",
+      "n_finds": 3
+    },
+    {
+      "site_id": 5351,
+      "site_name": "Wakefield: Westgate",
+      "lat": 53.681828,
+      "lon": -1.503307,
+      "age_older_bp": 500.0,
+      "age_younger_bp": 0.0,
+      "label": "1700 AD",
+      "n_finds": 1
+    },
+    {
+      "site_id": 4441,
+      "site_name": "Hereford: Berrington Street Site 4",
+      "lat": 52.05515,
+      "lon": -2.71941,
+      "age_older_bp": 250.0,
+      "age_younger_bp": 230.0,
+      "label": "1710 AD",
+      "n_finds": 2
+    },
+    {
+      "site_id": 4839,
+      "site_name": "Marseille",
+      "lat": 43.295277,
+      "lon": 5.3758335,
       "age_older_bp": 400.0,
       "age_younger_bp": 0.0,
       "label": "1750 AD",
-      "n_finds": 4
+      "n_finds": 13
     },
     {
       "site_id": 5060,
@@ -1296,54 +1336,14 @@
       "n_finds": 1
     },
     {
-      "site_id": 4839,
-      "site_name": "Marseille",
-      "lat": 43.295277,
-      "lon": 5.3758335,
+      "site_id": 5417,
+      "site_name": "Lutomiersk-Koziowki",
+      "lat": 51.75408,
+      "lon": 19.224445,
       "age_older_bp": 400.0,
       "age_younger_bp": 0.0,
       "label": "1750 AD",
-      "n_finds": 13
-    },
-    {
-      "site_id": 4290,
-      "site_name": "Boston",
-      "lat": 42.36972,
-      "lon": -71.029724,
-      "age_older_bp": 350.0,
-      "age_younger_bp": 251.0,
-      "label": "1650 AD",
-      "n_finds": 2
-    },
-    {
-      "site_id": 5442,
-      "site_name": "Jamestown",
-      "lat": 47.209167,
-      "lon": -76.7775,
-      "age_older_bp": 343.0,
-      "age_younger_bp": 251.0,
-      "label": "1653 AD",
-      "n_finds": 3
-    },
-    {
-      "site_id": 5602,
-      "site_name": "Worcester: The Hive",
-      "lat": 52.19365,
-      "lon": -2.22627,
-      "age_older_bp": 315.0,
-      "age_younger_bp": 285.0,
-      "label": "1650 AD",
-      "n_finds": 2
-    },
-    {
-      "site_id": 4441,
-      "site_name": "Hereford: Berrington Street Site 4",
-      "lat": 52.05515,
-      "lon": -2.71941,
-      "age_older_bp": 250.0,
-      "age_younger_bp": 230.0,
-      "label": "1710 AD",
-      "n_finds": 2
+      "n_finds": 4
     },
     {
       "site_id": 5252,

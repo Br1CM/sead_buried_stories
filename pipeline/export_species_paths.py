@@ -60,7 +60,9 @@ join sead_utility.physical_sample_dating psd on psd.physical_sample_id = ae.phys
 where ab.taxon_id = :taxon_id and psd.latitude_dd is not null
   and psd.age_older is not null and psd.age_younger is not null
 group by psd.site_id, psd.site_name, psd.latitude_dd, psd.longitude_dd
-order by age_older desc
+-- Order by the midpoint, the same value each stop's label shows: ordering by the oldest
+-- bound put sites with very wide date ranges (e.g. 10000-0 BP) far too early.
+order by (max(psd.age_older) + min(psd.age_younger)) / 2 desc, psd.site_id
 """
 
 def main():

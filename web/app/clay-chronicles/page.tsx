@@ -17,7 +17,7 @@ export default function ClayChroniclesHubPage() {
         Every sherd is a <span className="text-accent-text">recipe.</span>
       </h1>
       <p className="mt-4 max-w-xl text-ink-60">
-        What a potter mixed into their clay — sand, crushed shell, chopped straw — says as
+        What a potter mixed into their clay says as
         much about their era as the shape of the pot itself.
       </p>
 

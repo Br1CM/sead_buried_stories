@@ -47,12 +47,11 @@ export default function Home() {
   return (
     <div className="mx-auto flex w-full max-w-6xl flex-1 flex-col justify-center px-6 py-16">
       <h1 className="max-w-2xl text-4xl font-semibold tracking-tight sm:text-5xl">
-        Thousands of years of dirt, bones, and pollen —
+        Thousands of years of dirt, trees and life 
         <span className="text-accent-text"> told as stories.</span>
       </h1>
       <p className="mt-4 max-w-xl text-ink-60">
-        Every path below is built from real excavation data. No archaeology background
-        required — just pick a thread and pull.
+        Every path below is built from real excavation data. Pick a thread, pull it and find out what Archaeology has to offer.
       </p>
 
       <div className="mt-12 grid grid-cols-1 gap-5 sm:grid-cols-3">
