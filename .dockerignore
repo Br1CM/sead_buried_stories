@@ -1,0 +1,12 @@
+.git
+.next
+node_modules
+web/.next
+web/node_modules
+pipeline
+web/.env*
+pipeline/.env*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store

@@ -21,8 +21,15 @@ import type {
 
 const DATA_DIR = path.join(process.cwd(), "public", "data");
 
+function dataPath(relativePath: string): string | null {
+  const resolved = path.resolve(DATA_DIR, relativePath);
+  const dataRoot = path.resolve(DATA_DIR);
+  return resolved === dataRoot || resolved.startsWith(`${dataRoot}${path.sep}`) ? resolved : null;
+}
+
 function readJson<T>(relativePath: string): T | null {
-  const filePath = path.join(DATA_DIR, relativePath);
+  const filePath = dataPath(relativePath);
+  if (!filePath) return null;
   if (!fs.existsSync(filePath)) return null;
   return JSON.parse(fs.readFileSync(filePath, "utf-8")) as T;
 }

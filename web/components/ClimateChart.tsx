@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useMemo, useRef, useState } from "react";
 import type { ClimatePoint } from "@/lib/types";
 
 const WIDTH = 900;
@@ -10,10 +10,6 @@ const PAD = { top: 20, right: 20, bottom: 36, left: 44 };
 export function ClimateChart({ series }: { series: ClimatePoint[] }) {
   const svgRef = useRef<SVGSVGElement | null>(null);
   const [hoverIndex, setHoverIndex] = useState<number | null>(null);
-
-  // Switching series (e.g. picking a different species) can leave a stale
-  // hoverIndex pointing past the end of a shorter series.
-  useEffect(() => setHoverIndex(null), [series]);
 
   const innerW = WIDTH - PAD.left - PAD.right;
   const innerH = HEIGHT - PAD.top - PAD.bottom;
@@ -52,7 +48,7 @@ export function ClimateChart({ series }: { series: ClimatePoint[] }) {
     setHoverIndex(Math.max(0, Math.min(series.length - 1, idx)));
   }
 
-  const active = hoverIndex !== null ? series[hoverIndex] : null;
+  const active = hoverIndex !== null && hoverIndex < series.length ? series[hoverIndex] : null;
 
   return (
     <div className="relative">

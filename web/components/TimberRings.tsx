@@ -17,16 +17,18 @@ export function TimberRings({ years }: { years: TimberRingYear[] }) {
   useEffect(() => {
     if (!playing) return;
     intervalRef.current = setInterval(() => {
-      setActiveIndex((i) => (i >= years.length - 1 ? 0 : i + 1));
+      setActiveIndex((i) => {
+        if (i >= years.length - 2) {
+          setPlaying(false);
+          return Math.max(years.length - 1, 0);
+        }
+        return i + 1;
+      });
     }, 900);
     return () => {
       if (intervalRef.current) clearInterval(intervalRef.current);
     };
   }, [playing, years.length]);
-
-  useEffect(() => {
-    if (activeIndex >= years.length - 1) setPlaying(false);
-  }, [activeIndex, years.length]);
 
   const revealed = years.slice(0, activeIndex + 1);
   const active = years[activeIndex];
