@@ -14,9 +14,9 @@ from config import WEB_DATA_DIR
 from dating import ad_label
 from db import get_engine, query
 from place_photos import get_cached_site_photo, load_photo_cache, save_photo_cache
-from provenance_geo import get_origin_shape
+from provenance_geo import get_origin_shape, shape_contains
 
-YEAR_BUCKET = 5  # cluster felling years within this many years of each other
+YEAR_WINDOW = 5  # cluster felling years within this many years of each other
 
 SAMPLES_SQL = """
 with fy as (
@@ -75,6 +75,69 @@ def haversine_km(lat1, lon1, lat2, lon2):
     return 2 * r * math.asin(math.sqrt(a))
 
 
+def felling_windows(group):
+    """Every maximal set of 2+ sites whose timbers were felled within YEAR_WINDOW years of each
+    other. A sliding window rather than fixed year buckets, so a pair felled in 1784 and 1786
+    isn't split across a bucket boundary. Returns one sub-frame of `group` per window."""
+    windows = []
+    for start in sorted(group["best_year"].unique()):
+        window = group[(group["best_year"] >= start) & (group["best_year"] <= start + YEAR_WINDOW)]
+        sites = frozenset(window["site_id"])
+        if len(sites) >= 2:
+            windows.append((sites, window))
+    maximal = []
+    for sites, window in windows:
+        if any(sites < other for other, _ in windows) or any(sites == kept for kept, _ in maximal):
+            continue
+        maximal.append((sites, window))
+    return [window for _, window in maximal]
+
+
+def build_cluster(provenance, shape, centroid, group):
+    """One felling window as a cluster, or None if it breaks the travelled-timber rule."""
+    sites = []
+    for site_id, sg in group.groupby("site_id"):
+        first = sg.sort_values("best_year").iloc[0]
+        species_local = first["species"] if isinstance(first["species"], str) else None
+        sites.append(
+            {
+                "site_id": int(site_id),
+                "site_name": first["site_name"],
+                "lat": float(first["latitude_dd"]),
+                "lon": float(first["longitude_dd"]),
+                "felling_year": int(first["best_year"]),
+                "label": ad_label(first["best_year"]),
+                "species_local": species_local,
+                "species_en": SPECIES_LABELS.get(species_local),
+                "distance_km": round(
+                    haversine_km(
+                        centroid[0], centroid[1], float(first["latitude_dd"]), float(first["longitude_dd"])
+                    )
+                ),
+            }
+        )
+    # Sisters that never left their home region tell no "travelled timber" story --
+    # keep a cluster only if at least one building lies outside the provenance area.
+    if all(shape_contains(shape, s["lat"], s["lon"]) for s in sites):
+        return None
+    sites.sort(key=lambda s: s["distance_km"], reverse=True)
+    max_distance = sites[0]["distance_km"]
+
+    # The window's midpoint stands in for "around <year>" in the UI and keys the cluster.
+    year_mid = round((group["best_year"].min() + group["best_year"].max()) / 2)
+    return {
+        "provenance": provenance,
+        "origin_lat": centroid[0],
+        "origin_lon": centroid[1],
+        "origin_shape_kind": shape["kind"],
+        "year_bucket": int(year_mid),
+        "label": ad_label(year_mid),
+        "n_sites": len(sites),
+        "max_distance_km": max_distance,
+        "sites": sites,
+    }
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--skip-images", action="store_true")
@@ -82,7 +145,6 @@ def main():
 
     engine = get_engine()
     df = query(engine, SAMPLES_SQL)
-    df["year_bucket"] = (df["best_year"] / YEAR_BUCKET).round() * YEAR_BUCKET
     print(f"{len(df)} non-local-provenance dated timbers")
 
     photo_cache = load_photo_cache()
@@ -91,53 +153,17 @@ def main():
 
     clusters = []
     shapes_used = {}
-    for (provenance, year_bucket), group in df.groupby(["provenance", "year_bucket"]):
-        site_ids = group["site_id"].unique()
-        if len(site_ids) < 2:
-            continue
+    for provenance, prov_group in df.groupby("provenance"):
         shape = get_origin_shape(provenance)
         if shape is None:
             continue
         centroid = shape["centroid"]
-        shapes_used[provenance] = shape
 
-        sites = []
-        for site_id, sg in group.groupby("site_id"):
-            first = sg.iloc[0]
-            species_local = first["species"] if isinstance(first["species"], str) else None
-            sites.append(
-                {
-                    "site_id": int(site_id),
-                    "site_name": first["site_name"],
-                    "lat": float(first["latitude_dd"]),
-                    "lon": float(first["longitude_dd"]),
-                    "felling_year": int(first["best_year"]),
-                    "label": ad_label(first["best_year"]),
-                    "species_local": species_local,
-                    "species_en": SPECIES_LABELS.get(species_local),
-                    "distance_km": round(
-                        haversine_km(
-                            centroid[0], centroid[1], float(first["latitude_dd"]), float(first["longitude_dd"])
-                        )
-                    ),
-                }
-            )
-        sites.sort(key=lambda s: s["distance_km"], reverse=True)
-        max_distance = sites[0]["distance_km"]
-
-        clusters.append(
-            {
-                "provenance": provenance,
-                "origin_lat": centroid[0],
-                "origin_lon": centroid[1],
-                "origin_shape_kind": shape["kind"],
-                "year_bucket": int(year_bucket),
-                "label": ad_label(year_bucket),
-                "n_sites": len(sites),
-                "max_distance_km": max_distance,
-                "sites": sites,
-            }
-        )
+        for group in felling_windows(prov_group):
+            cluster = build_cluster(provenance, shape, centroid, group)
+            if cluster is not None:
+                shapes_used[provenance] = shape
+                clusters.append(cluster)
 
     clusters.sort(key=lambda c: c["max_distance_km"], reverse=True)
 

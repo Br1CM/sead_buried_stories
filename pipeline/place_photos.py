@@ -56,7 +56,10 @@ def candidate_titles(site_name: str) -> list[str]:
     candidates = []
 
     def add(name: str | None):
-        if name and name.strip():
+        # Skip fragments with no real word in them -- a property designation like
+        # "Tosterup 32:2" otherwise yields the candidate "2", whose Wikipedia article
+        # (about the number) comes with an unrelated photo.
+        if name and re.search(r"[^\W\d_]{3,}", name):
             candidates.append(name.strip())
 
     add(site_name)
