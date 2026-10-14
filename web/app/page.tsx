@@ -38,7 +38,7 @@ export default function Home() {
     {
       href: "/timber",
       title: "Timber Tales",
-      tagline: "Every beam was once a living tree — four stories told through its rings.",
+      tagline: "Every beam was once a living tree: four stories told through its rings.",
       image: timberSite?.photo ?? null,
       imageAlt: timberSite?.site_name ?? "A historic timber-framed building",
     },

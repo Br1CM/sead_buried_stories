@@ -52,8 +52,8 @@ export function TimberSpotlightCard({ samples }: { samples: TimberPreciseSample[
 
           <p className="mt-4 text-ink-80">
             A {s.species_en?.toLowerCase() ?? s.species_local ?? "tree"} felled at{" "}
-            <span className="font-medium text-foreground">{s.site_name}</span>. Its bark was still
-            attached when it was studied — the last ring it ever grew, still intact. That&rsquo;s
+            <span className="font-medium text-foreground">{s.site_name}</span>. Its bark, the last ring it ever grew, was still
+            attached when it was studied, still intact. That&rsquo;s
             what lets dendrochronologists name not just the year this tree came down, but the
             month.
           </p>
