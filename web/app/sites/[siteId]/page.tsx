@@ -47,7 +47,17 @@ export default async function SiteDetailPage({
           <LocatorMap lat={site.lat} lon={site.lon} label={site.site_name} />
         </div>
         <div>
-          <h1 className="text-3xl font-semibold tracking-tight">{site.site_name}</h1>
+          <div className="flex flex-wrap items-baseline gap-x-4 gap-y-2">
+            <h1 className="text-3xl font-semibold tracking-tight">{site.site_name}</h1>
+            <a
+              href={`https://browser.sead.se/site/${site.site_id}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="whitespace-nowrap rounded-full border border-accent/60 px-3 py-1 text-sm text-accent-text transition-colors hover:bg-accent/10"
+            >
+              Explore this site in SEAD &#8599;
+            </a>
+          </div>
           <p className="mt-3 max-w-xl text-ink-70">
             {site.n_layers} distinct dated layers, {site.n_taxa} species identified in
             total, spanning {site.oldest_label} to {site.youngest_label}. Tap a layer to
