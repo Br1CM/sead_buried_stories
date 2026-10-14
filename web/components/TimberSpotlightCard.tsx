@@ -62,12 +62,22 @@ export function TimberSpotlightCard({ samples }: { samples: TimberPreciseSample[
             <LocatorMap lat={s.lat} lon={s.lon} label={s.site_name} />
           </div>
 
-          <button
-            onClick={() => setIndex((i) => pickNext(i, samples.length))}
-            className="mt-5 rounded-full bg-accent px-5 py-2 text-sm font-medium text-black transition-transform hover:scale-105"
-          >
-            Show me another
-          </button>
+          <div className="mt-5 flex flex-wrap items-center gap-3">
+            <button
+              onClick={() => setIndex((i) => pickNext(i, samples.length))}
+              className="rounded-full bg-accent px-5 py-2 text-sm font-medium text-black transition-transform hover:scale-105"
+            >
+              Show me another
+            </button>
+            <a
+              href={`https://browser.sead.se/site/${s.site_id}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="rounded-full border border-accent/60 px-5 py-2 text-sm text-accent-text transition-colors hover:bg-accent/10"
+            >
+              Explore this site in SEAD &#8599;
+            </a>
+          </div>
         </div>
       </div>
     </div>

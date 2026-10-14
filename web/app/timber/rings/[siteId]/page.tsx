@@ -42,7 +42,17 @@ export default async function TimberRingsDetailPage({
           <LocatorMap lat={building.lat} lon={building.lon} label={building.site_name} />
         </div>
         <div>
-          <h1 className="text-3xl font-semibold tracking-tight">{building.site_name}</h1>
+          <div className="flex flex-wrap items-baseline gap-x-4 gap-y-2">
+            <h1 className="text-3xl font-semibold tracking-tight">{building.site_name}</h1>
+            <a
+              href={`https://browser.sead.se/site/${building.site_id}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="whitespace-nowrap rounded-full border border-accent/60 px-3 py-1 text-sm text-accent-text transition-colors hover:bg-accent/10"
+            >
+              Explore this site in SEAD &#8599;
+            </a>
+          </div>
           <p className="mt-3 max-w-xl text-ink-70">
             {building.n_samples} individually dated timbers across {building.n_years}
             distinct felling years, spanning {building.earliest_label} to{" "}
