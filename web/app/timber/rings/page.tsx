@@ -1,5 +1,6 @@
 import { getTimberRingsIndex } from "@/lib/data";
 import { TimberRingsPicker } from "@/components/TimberRingsPicker";
+import { DatingNote } from "@/components/DatingNote";
 
 export const metadata = { title: "Rings of a Building | Buried Stories" };
 
@@ -14,6 +15,7 @@ export default function TimberRingsPage() {
         was cut. Pick a building and grow its rings outward, one dated timber at a time, to
         watch its construction and repair history unfold.
       </p>
+      <DatingNote kind="dendro" />
       <div className="mt-8">
         <TimberRingsPicker buildings={buildings} />
       </div>

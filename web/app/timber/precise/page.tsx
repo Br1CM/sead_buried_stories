@@ -1,5 +1,6 @@
 import { getTimberPreciseSamples } from "@/lib/data";
 import { TimberSpotlightCard } from "@/components/TimberSpotlightCard";
+import { DatingNote } from "@/components/DatingNote";
 
 export const metadata = { title: "The Exact Month a Tree Fell | Buried Stories" };
 
@@ -14,6 +15,7 @@ export default function TimberPrecisePage() {
         felled tree still has its bark attached, the outermost ring is unmistakably its very
         last, making it precise enough to name the month, not just the year.
       </p>
+      <DatingNote kind="dendro" />
       <div className="mt-10">
         <TimberSpotlightCard samples={samples} />
       </div>

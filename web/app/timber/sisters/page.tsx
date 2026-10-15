@@ -1,5 +1,6 @@
 import { getSisterClusters, getProvenanceShapes } from "@/lib/data";
 import { SisterBuildingsExplorer } from "@/components/SisterBuildingsExplorer";
+import { DatingNote } from "@/components/DatingNote";
 
 export const metadata = { title: "Sister Buildings | Buried Stories" };
 
@@ -16,6 +17,7 @@ export default function SisterBuildingsPage() {
         come from the same felling, maybe even the same shipment. These are the connections that survive
         by accident, in the wood itself.
       </p>
+      <DatingNote kind="dendro" />
       <div className="mt-8">
         <SisterBuildingsExplorer clusters={clusters} shapes={shapes} />
       </div>

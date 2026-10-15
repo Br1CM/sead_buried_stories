@@ -1,6 +1,7 @@
 import { getClimateSeries, getClimateSpeciesIndex, getClimateSpeciesSeries } from "@/lib/data";
 import { ClimateSpeciesFilter } from "@/components/ClimateSpeciesFilter";
 import type { ClimatePoint } from "@/lib/types";
+import { DatingNote } from "@/components/DatingNote";
 
 export const metadata = { title: "The Ancient Thermometer | Buried Stories" };
 
@@ -21,6 +22,7 @@ export default function ClimatePage() {
         to read a moment in time, or pick a single species below to see the record built
         just from the layers it turned up in.
       </p>
+      <DatingNote kind="bp" />
       <div className="mt-8">
         <ClimateSpeciesFilter
           allSeries={series}

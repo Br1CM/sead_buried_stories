@@ -4,6 +4,7 @@ import { getSiteDetail, getSitesIndex } from "@/lib/data";
 import { SiteDig } from "@/components/SiteDig";
 import { LocatorMap } from "@/components/LocatorMap";
 import { AttributionBadge } from "@/components/AttributionBadge";
+import { DatingNote } from "@/components/DatingNote";
 
 export function generateStaticParams() {
   return getSitesIndex().map((s) => ({ siteId: String(s.site_id) }));
@@ -63,6 +64,7 @@ export default async function SiteDetailPage({
             total, spanning {site.oldest_label} to {site.youngest_label}. Tap a layer to
             see what was living there.
           </p>
+          <DatingNote kind="bp" />
         </div>
       </div>
 

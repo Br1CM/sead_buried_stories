@@ -1,5 +1,6 @@
 import { getAllCeramicsPeriods } from "@/lib/data";
 import { CeramicsExplorer } from "@/components/CeramicsExplorer";
+import { DatingNote } from "@/components/DatingNote";
 
 export const metadata = { title: "Ceramics Through Time | Buried Stories" };
 
@@ -21,6 +22,7 @@ export default function CeramicsPage() {
       >
         Click here to explore ceramics in the SEAD Browser &#8599;
       </a>
+      <DatingNote kind="bp" />
       <div className="mt-8">
         <CeramicsExplorer periods={periods} />
       </div>

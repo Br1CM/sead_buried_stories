@@ -4,6 +4,7 @@ import { getTimberRingsDetail, getTimberRingsIndex } from "@/lib/data";
 import { TimberRings } from "@/components/TimberRings";
 import { LocatorMap } from "@/components/LocatorMap";
 import { AttributionBadge } from "@/components/AttributionBadge";
+import { DatingNote } from "@/components/DatingNote";
 
 export function generateStaticParams() {
   return getTimberRingsIndex().map((b) => ({ siteId: String(b.site_id) }));
@@ -58,6 +59,7 @@ export default async function TimberRingsDetailPage({
             distinct felling years, spanning {building.earliest_label} to{" "}
             {building.latest_label}. Press play, or click any ring, to explore.
           </p>
+          <DatingNote kind="dendro" />
         </div>
       </div>
 

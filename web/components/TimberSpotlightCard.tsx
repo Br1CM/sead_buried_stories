@@ -13,6 +13,14 @@ function pickNext(current: number, total: number) {
   return next;
 }
 
+// "A pine", "An oak" -- and SEAD's "Undefined" placeholder means the species is unknown,
+// so it reads as a plain "A tree" rather than "An undefined".
+function treePhrase(s: TimberPreciseSample) {
+  const local = s.species_local?.toLowerCase() === "undefined" ? null : s.species_local;
+  const noun = s.species_en?.toLowerCase() ?? local ?? "tree";
+  return `${/^[aeiou]/i.test(noun) ? "An" : "A"} ${noun}`;
+}
+
 export function TimberSpotlightCard({ samples }: { samples: TimberPreciseSample[] }) {
   const [index, setIndex] = useState(0);
   const s = samples[index];
@@ -51,7 +59,7 @@ export function TimberSpotlightCard({ samples }: { samples: TimberPreciseSample[
           <div className="text-sm text-ink-40">{s.label}</div>
 
           <p className="mt-4 text-ink-80">
-            A {s.species_en?.toLowerCase() ?? s.species_local ?? "tree"} felled at{" "}
+            {treePhrase(s)} felled at{" "}
             <span className="font-medium text-foreground">{s.site_name}</span>. Its bark, the last ring it ever grew, was still
             attached when it was studied, still intact. That&rsquo;s
             what lets dendrochronologists name not just the year this tree came down, but the
