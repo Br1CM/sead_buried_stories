@@ -76,6 +76,17 @@ export default function RootLayout({
               Strategic Environmental Archaeology Database (SEAD)
             </a>
           </span>
+          <span>
+            Idea and development by{" "}
+            <a
+              href="https://www.linkedin.com/in/bruno-castellano-mengibar/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-medium text-ink-60 underline hover:text-ink-70"
+            >
+              Bruno Castellano
+            </a>
+          </span>
         </footer>
       </body>
     </html>
