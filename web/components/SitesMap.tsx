@@ -5,7 +5,7 @@ import { useEffect, useRef, useState } from "react";
 import { useRouter } from "next/navigation";
 import Map, { Marker, MapRef } from "react-map-gl/maplibre";
 import type { LngLatBoundsLike } from "maplibre-gl";
-import { osmRasterStyle } from "@/lib/basemap";
+import { maplibreLib, osmRasterStyle } from "@/lib/basemap";
 import type { SiteIndexEntry } from "@/lib/types";
 
 export function SitesMap({ sites }: { sites: SiteIndexEntry[] }) {
@@ -31,7 +31,8 @@ export function SitesMap({ sites }: { sites: SiteIndexEntry[] }) {
     <div className="relative h-[520px] w-full overflow-hidden rounded-2xl border border-ink-10">
       <Map
         ref={mapRef}
-        mapStyle={osmRasterStyle}
+        mapLib={maplibreLib}
+      mapStyle={osmRasterStyle}
         initialViewState={{ longitude: 0, latitude: 52, zoom: 4 }}
         style={{ width: "100%", height: "100%" }}
       >

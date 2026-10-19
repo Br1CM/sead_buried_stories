@@ -20,8 +20,8 @@ export function SpeciesCountryHighlights({ species }: { species: SpeciesIndexEnt
         The most well-traveled species
       </h2>
       <p className="mt-1 text-sm text-ink-50">
-        These turned up in the most different countries &mdash; likely stowaways of trade
-        and travel rather than homebodies.
+        These turned up in the most different countries (likely stowaways of trade
+        and travel).
       </p>
       <div className="mt-4 flex gap-3 overflow-x-auto pb-2">
         {top10.map((s, i) => (

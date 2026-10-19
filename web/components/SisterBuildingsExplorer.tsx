@@ -58,13 +58,23 @@ export function SisterBuildingsExplorer({
 
           <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
             {active.sites.map((s) => (
-              <div
+              <a
                 key={s.site_id}
-                className="overflow-hidden rounded-2xl border border-ink-10 bg-ink-3"
+                href={`https://browser.sead.se/site/${s.site_id}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label={`${s.site_name} — open in the SEAD browser`}
+                className="group block overflow-hidden rounded-2xl border border-ink-10 bg-ink-3 transition-colors hover:border-accent/60"
               >
-                <div className="relative aspect-[4/3] w-full bg-ink-5">
+                <div className="relative aspect-[4/3] w-full overflow-hidden bg-ink-5">
                   {s.photo ? (
-                    <Image src={s.photo.url} alt={s.site_name} fill unoptimized className="object-cover" />
+                    <Image
+                      src={s.photo.url}
+                      alt={s.site_name}
+                      fill
+                      unoptimized
+                      className="object-cover transition-transform duration-300 group-hover:scale-105"
+                    />
                   ) : (
                     <div className="flex h-full w-full items-center justify-center text-ink-20">
                       No photo
@@ -83,8 +93,11 @@ export function SisterBuildingsExplorer({
                       <AttributionBadge image={s.photo} />
                     </div>
                   )}
+                  <div className="mt-2 text-xs text-accent-text opacity-70 transition-opacity group-hover:opacity-100">
+                    Explore this site in SEAD &#8599;
+                  </div>
                 </div>
-              </div>
+              </a>
             ))}
           </div>
         </>

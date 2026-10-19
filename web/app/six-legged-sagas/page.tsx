@@ -11,7 +11,7 @@ const stories = [
   {
     href: "/climate",
     title: "The Ancient Thermometer",
-    tagline: "Dead beetles as a climate record — temperature through the ages.",
+    tagline: "Temperature through the ages using dead beetles as a climate record.",
   },
   {
     href: "/sites",
@@ -29,7 +29,7 @@ export default function SixLeggedSagasHubPage() {
       </h1>
       <p className="mt-4 max-w-xl text-ink-60">
         Beetles outlast almost everything else in the ground, which makes them one of
-        archaeology&rsquo;s best-kept records of the past — of climate, of place, of who lived
+        archaeology&rsquo;s best-kept records of the past: of climate, of place, of who lived
         where and when.
       </p>
 

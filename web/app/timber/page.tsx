@@ -16,7 +16,7 @@ const stories = [
   {
     href: "/timber/precise",
     title: "The Exact Month a Tree Fell",
-    tagline: "Bark still attached, centuries later — precise to the month.",
+    tagline: "Bark still attached, centuries later gives precision to the month.",
   },
   {
     href: "/timber/sisters",
@@ -32,8 +32,7 @@ export default function TimberHubPage() {
         Every beam was once a <span className="text-accent-text">living tree.</span>
       </h1>
       <p className="mt-4 max-w-xl text-ink-60">
-        Dendrochronology dates wood to the calendar year &mdash; sometimes the season
-        &mdash; by reading its growth rings. Four ways into that record, built from real
+        Dendrochronology dates wood to the calendar year, or even season, by reading its growth rings. Four ways into that record, built from real
         historic Swedish churches, castles, and manors.
       </p>
 

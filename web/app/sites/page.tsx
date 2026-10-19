@@ -1,5 +1,6 @@
 import { getSitesIndex } from "@/lib/data";
 import { SitesMap } from "@/components/SitesMap";
+import { DatingNote } from "@/components/DatingNote";
 
 export const metadata = { title: "Dig One Spot | Buried Stories" };
 
@@ -14,6 +15,7 @@ export default function SitesPage() {
         slice of time, with everything found buried in it. Hover a dot to see what&rsquo;s
         there, click to start digging.
       </p>
+      <DatingNote kind="bp" />
       <div className="mt-8">
         <SitesMap sites={sites} />
       </div>

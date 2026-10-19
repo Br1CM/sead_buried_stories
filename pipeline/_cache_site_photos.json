@@ -413,13 +413,6 @@
     "source": "Wikimedia Commons"
   },
   "Burge": null,
-  "Tosterup 32:2": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Czapek60.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
-    "depicts": "2",
-    "license": "Public domain",
-    "creator": "Boing boom tschak",
-    "source": "Wikimedia Commons"
-  },
   "Qvarnarp": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Kvarnarp_mansion_Eksj%C3%B6_Sweden.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
     "depicts": "Kvarnarps gård",
@@ -673,6 +666,29 @@
     "depicts": "Jönköpings regemente",
     "license": "CC BY-SA 3.0",
     "creator": "Leonid 2",
+    "source": "Wikimedia Commons"
+  },
+  "Skabersjö slott": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Swedish_castle_Skabersj%C3%B6.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Skabersjö slott",
+    "license": "CC BY-SA 3.0",
+    "creator": "Jorchr",
+    "source": "Wikimedia Commons"
+  },
+  "Sköldsborg": null,
+  "Kvarteret Hattmakaren": null,
+  "Hejde kyrka": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Igrexa_de_Hejde.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Hejde kyrka",
+    "license": "CC BY-SA 4.0",
+    "creator": "Bene Riobó",
+    "source": "Wikimedia Commons"
+  },
+  "Tosterup 32:2": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Tosterups_slott.jpg?utm_source=sv.wikipedia.org&utm_campaign=api&utm_content=original",
+    "depicts": "Tosterups slott",
+    "license": "CC BY-SA 3.0",
+    "creator": "User Jorchr on sv.wikipedia",
     "source": "Wikimedia Commons"
   }
 }

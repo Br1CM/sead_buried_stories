@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { getSpeciesDetail, getSpeciesIndex } from "@/lib/data";
 import { SpeciesStory } from "@/components/SpeciesStory";
 import { AttributionBadge } from "@/components/AttributionBadge";
+import { DatingNote } from "@/components/DatingNote";
 
 export function generateStaticParams() {
   return getSpeciesIndex().map((s) => ({ taxonId: String(s.taxon_id) }));
@@ -48,6 +49,7 @@ export default async function SpeciesDetailPage({
           <div className="mt-2">
             <AttributionBadge image={species.image} />
           </div>
+          <DatingNote kind="bp" />
         </div>
       </div>
 

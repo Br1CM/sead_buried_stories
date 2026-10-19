@@ -4,12 +4,12 @@ export const metadata = { title: "All Stories | Buried Stories" };
 
 const stories = [
   { href: "/species", title: "Species Path", tagline: "Pick a creature. Watch where it turns up, oldest site to newest." },
-  { href: "/climate", title: "The Ancient Thermometer", tagline: "Dead beetles as a climate record — temperature through the ages." },
+  { href: "/climate", title: "The Ancient Thermometer", tagline: "Temperature through the ages using dead beetles as a climate record." },
   { href: "/sites", title: "Dig One Spot", tagline: "Descend through one site's layers, one era of finds at a time." },
   { href: "/ceramics", title: "Ceramics Through Time", tagline: "How potters' recipes for clay and temper changed, era by era." },
   { href: "/timber/rings", title: "Rings of a Building", tagline: "Grow a historic building's timbers outward, ring by dated ring." },
   { href: "/timber/species-map", title: "What Sweden Was Built From", tagline: "Scrub through the centuries and watch oak give way to pine." },
-  { href: "/timber/precise", title: "The Exact Month a Tree Fell", tagline: "Bark still attached, centuries later — precise to the month." },
+  { href: "/timber/precise", title: "The Exact Month a Tree Fell", tagline: "Bark still attached, centuries later gives precision to the month." },
   { href: "/timber/sisters", title: "Sister Buildings", tagline: "Buildings hundreds of kilometers apart, built from the same felling." },
 ];
 

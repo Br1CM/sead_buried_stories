@@ -13,6 +13,14 @@ function pickNext(current: number, total: number) {
   return next;
 }
 
+// "A pine", "An oak" -- and SEAD's "Undefined" placeholder means the species is unknown,
+// so it reads as a plain "A tree" rather than "An undefined".
+function treePhrase(s: TimberPreciseSample) {
+  const local = s.species_local?.toLowerCase() === "undefined" ? null : s.species_local;
+  const noun = s.species_en?.toLowerCase() ?? local ?? "tree";
+  return `${/^[aeiou]/i.test(noun) ? "An" : "A"} ${noun}`;
+}
+
 export function TimberSpotlightCard({ samples }: { samples: TimberPreciseSample[] }) {
   const [index, setIndex] = useState(0);
   const s = samples[index];
@@ -51,9 +59,9 @@ export function TimberSpotlightCard({ samples }: { samples: TimberPreciseSample[
           <div className="text-sm text-ink-40">{s.label}</div>
 
           <p className="mt-4 text-ink-80">
-            A {s.species_en?.toLowerCase() ?? s.species_local ?? "tree"} felled at{" "}
-            <span className="font-medium text-foreground">{s.site_name}</span>. Its bark was still
-            attached when it was studied — the last ring it ever grew, still intact. That&rsquo;s
+            {treePhrase(s)} felled at{" "}
+            <span className="font-medium text-foreground">{s.site_name}</span>. Its bark, the last ring it ever grew, was still
+            attached when it was studied, still intact. That&rsquo;s
             what lets dendrochronologists name not just the year this tree came down, but the
             month.
           </p>
@@ -62,12 +70,22 @@ export function TimberSpotlightCard({ samples }: { samples: TimberPreciseSample[
             <LocatorMap lat={s.lat} lon={s.lon} label={s.site_name} />
           </div>
 
-          <button
-            onClick={() => setIndex((i) => pickNext(i, samples.length))}
-            className="mt-5 rounded-full bg-accent px-5 py-2 text-sm font-medium text-black transition-transform hover:scale-105"
-          >
-            Show me another
-          </button>
+          <div className="mt-5 flex flex-wrap items-center gap-3">
+            <button
+              onClick={() => setIndex((i) => pickNext(i, samples.length))}
+              className="rounded-full bg-accent px-5 py-2 text-sm font-medium text-black transition-transform hover:scale-105"
+            >
+              Show me another
+            </button>
+            <a
+              href={`https://browser.sead.se/site/${s.site_id}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="rounded-full border border-accent/60 px-5 py-2 text-sm text-accent-text transition-colors hover:bg-accent/10"
+            >
+              Explore this site in SEAD &#8599;
+            </a>
+          </div>
         </div>
       </div>
     </div>
