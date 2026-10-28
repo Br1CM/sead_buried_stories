@@ -13,7 +13,7 @@ interface MapTraceProps {
   activeIndex: number;
 }
 
-const SEAD_SITE_URL = "https://browser.sead.se/site/";
+const SEAD_SITE_URL = "https://staging.sead.se/site/";
 // Feathered edge: the hull is drawn several times, each buffered a little further out and
 // very faint, so the overlaps build a soft gradient from a denser core to a blurry rim.
 const FEATHER_STEPS = [1, 1.3, 1.65, 2, 2.4, 2.85, 3.3, 3.8];

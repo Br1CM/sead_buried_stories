@@ -78,7 +78,7 @@ export function TimberSpotlightCard({ samples }: { samples: TimberPreciseSample[
               Show me another
             </button>
             <a
-              href={`https://browser.sead.se/site/${s.site_id}`}
+              href={`https://staging.sead.se/site/${s.site_id}`}
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-full border border-accent/60 px-5 py-2 text-sm text-accent-text transition-colors hover:bg-accent/10"
