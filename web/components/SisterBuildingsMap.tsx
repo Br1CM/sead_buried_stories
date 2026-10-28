@@ -12,7 +12,7 @@ function shapeBounds(geometry: ProvenanceShape["geometry"]): [number, number][] 
   return rings.flat() as [number, number][];
 }
 
-const SEAD_SITE_URL = "https://browser.sead.se/site/";
+const SEAD_SITE_URL = "https://staging.sead.se/site/";
 
 export function SisterBuildingsMap({
   cluster,

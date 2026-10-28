@@ -13,7 +13,7 @@ const SWEDEN_BOUNDS: LngLatBoundsLike = [
   [24.5, 69.5],
 ];
 
-const SEAD_SITE_URL = "https://browser.sead.se/site/";
+const SEAD_SITE_URL = "https://staging.sead.se/site/";
 
 export function TimberSpeciesMap({ points }: { points: TimberSpeciesPoint[] }) {
   const mapRef = useRef<MapRef | null>(null);

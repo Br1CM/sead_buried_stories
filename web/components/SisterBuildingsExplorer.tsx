@@ -60,7 +60,7 @@ export function SisterBuildingsExplorer({
             {active.sites.map((s) => (
               <a
                 key={s.site_id}
-                href={`https://browser.sead.se/site/${s.site_id}`}
+                href={`https://staging.sead.se/site/${s.site_id}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label={`${s.site_name} — open in the SEAD browser`}

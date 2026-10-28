@@ -7,7 +7,7 @@ import type { LngLatBoundsLike } from "maplibre-gl";
 import { maplibreLib, osmRasterStyle } from "@/lib/basemap";
 import type { CeramicsSite } from "@/lib/types";
 
-const SEAD_SITE_URL = "https://browser.sead.se/site/";
+const SEAD_SITE_URL = "https://staging.sead.se/site/";
 
 export function CeramicsMap({ sites }: { sites: CeramicsSite[] }) {
   const mapRef = useRef<MapRef | null>(null);
